@@ -1,0 +1,372 @@
+{
+    "bookInfo": {
+        "bookId": "8214346204220103",
+        "bookName": "寒月夜",
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "2018年华语言情大赛优秀作品。续集《夜寒深深醉思量》新文已开。为你欢喜，穿越万世轮回我来度你，此情绵绵难自忘，欢迎来围观。\n哥舒寒，重瞳美艳的无敌战神，他强势、桀骜、腹黑、离经叛道，是神兽重明及凶兽梼杌的双重转生，有着矛盾而纠结的迷人魅惑。\n明月夜，爱憎分明的傲娇军医，她勇敢、聪明、善良、我行我素，作为明堂堂主与神兽凤凰转世的多重身份，自有一番非凡的经历。\n这一双艳丽的大妖孽，他们的相遇是命中注定，他们的相爱相杀也惊天动地！\n他们爱恨交缠，却始终不忘苦苦追寻一颗真心。\n当所有的激烈归于宁静，他们在眼泪与磨难之中，也学会了爱与被爱的真谛。\n爱若慈悲，欢喜常在。",
+        "lastVipChapterId": "31372595673036508",
+        "lastVipChapterName": "番外6.言而",
+        "lastVipChapterTime": 1537228271000,
+        "lastChapterId": "23650964927939418",
+        "lastChapterName": "74.人质",
+        "lastChapterTime": 1559450454000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1361459,
+        "totalChapterCount": 456,
+        "collectCount": 43442,
+        "tag": [
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20310,
+                "tagName": "相爱相杀"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 40166,
+                "tagName": "霸道"
+            },
+            {
+                "tagId": 30159,
+                "tagName": "医生"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-08-08上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "136"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "4.3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1613009842727,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 20249776
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 13971,
+        "fans": 49044,
+        "redBean": 180540
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "authorGuid": "854004409518",
+        "intro": "",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+        "fans": 76044,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "17155104204051104",
+                "bookName": "夜寒深深醉思量"
+            },
+            {
+                "bookId": "13613178303956704",
+                "bookName": "爱有微光"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28712375603075472",
+                "roleName": "哥舒寒",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "392"
+                },
+                "roleType": 4,
+                "popularCnt": 3917948,
+                "createTime": 1527003537000
+            },
+            {
+                "roleId": "28712394396013014",
+                "roleName": "明月夜",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "12"
+                },
+                "roleType": 5,
+                "popularCnt": 115853,
+                "createTime": 1527003608000
+            },
+            {
+                "roleId": "28730562089084763",
+                "roleName": "苗逸仙",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.7"
+                },
+                "roleType": 6,
+                "popularCnt": 26568,
+                "createTime": 1527071288000
+            },
+            {
+                "roleId": "28730460359298475",
+                "roleName": "夜斩汐",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.5"
+                },
+                "roleType": 6,
+                "popularCnt": 25397,
+                "createTime": 1527070908000
+            },
+            {
+                "roleId": "28730495783320448",
+                "roleName": "温亭羽",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.1"
+                },
+                "roleType": 6,
+                "popularCnt": 21209,
+                "createTime": 1527071039000
+            },
+            {
+                "roleId": "28730534974645800",
+                "roleName": "流千树",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "4200"
+                },
+                "roleType": 6,
+                "popularCnt": 4200,
+                "createTime": 1527071186000
+            },
+            {
+                "roleId": "28712407014062062",
+                "roleName": "赤霄",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "1842"
+                },
+                "roleType": 6,
+                "popularCnt": 1842,
+                "createTime": 1527003655000
+            },
+            {
+                "roleId": "28730679925541362",
+                "roleName": "裴绰约",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "375"
+                },
+                "roleType": 7,
+                "popularCnt": 375,
+                "createTime": 1527071725000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4723,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "487956352363331584",
+                "type": 0,
+                "title": "",
+                "content": "宝宝们，寒月夜续集《寒夜深深醉思量》新文已开，此情绵绵难自忘，为你欢喜，我愿穿越万世轮回来度你，至美至宠爱情传奇，欢迎入坑。爱你们，么么哒😘",
+                "createTime": 1591764037000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 4,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "379231353612533887",
+                "type": 0,
+                "title": "",
+                "content": "新文开坑《爱有微光》，喜欢不喜欢，来撩一下就知道辣。么么哒~",
+                "createTime": 1565845417000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 22,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "357798867271483450",
+                "type": 0,
+                "title": "",
+                "content": "最近，重新修改老文，优化语言，已经过了大多半，然后会把苗逸仙的番外补上。喜欢的小可爱可以关注下。对了，我在抖音上的名字是红袖作家-胖虎22爷，每天都在放一些老书和新书的小剧场，希望用新鲜的方式和小可爱们互动，希望你们喜欢，么么哒。",
+                "createTime": 1560734778000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 14,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 60,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

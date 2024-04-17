@@ -1,0 +1,294 @@
+{
+    "bookInfo": {
+        "bookId": "16454840705844504",
+        "bookName": "江太太每天被迫营业",
+        "authorId": "5396312704023001",
+        "authorName": "红尘斩",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "娱乐圈最不被看好的绯闻——顶流江景白和桀骜不驯的私生女叶与绵在一起了！\n粉丝集体哀悼，轰轰烈烈唱衰一年，这对国民CP终于BE了！\n恋人成为死对头，大家等着看针锋相对的戏码，其实地下恋情刚刚开始。\n晚上，两个传说中的死头亲昵依偎在客厅的沙发上。\n叶与绵耿耿于怀，“那个主持人居然问我会不会和你复合……”\n“乖，不理他。”江景白亲亲她额头，“才刚谈上恋爱，提什么分手复合！”",
+        "lastVipChapterId": "50234514915966866",
+        "lastVipChapterName": "第一百零九章 大结局",
+        "lastVipChapterTime": 1607603510000,
+        "lastChapterId": "46170640533134754",
+        "lastChapterName": "第一百零三章 糖纸",
+        "lastChapterTime": 1592194979000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 126450,
+        "totalChapterCount": 108,
+        "collectCount": 3420,
+        "tag": [
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-03-19上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "13"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3420"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1585913949201,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 29817982
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 3,
+        "fans": 352,
+        "redBean": 6914
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5396312704023001",
+        "authorName": "红尘斩",
+        "authorGuid": "802017694040",
+        "intro": "十年饮冰，难凉热血。",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 14017,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23203322909185304",
+                "bookName": "伪装甜妹"
+            },
+            {
+                "bookId": "21942288508637804",
+                "bookName": "钓系美人在恋综成了万人迷"
+            },
+            {
+                "bookId": "20369376201854404",
+                "bookName": "满级影后重返娱乐圈"
+            },
+            {
+                "bookId": "15617981804117404",
+                "bookName": "我老婆甜到扛不住"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "44457014348712003",
+                "roleName": "叶与绵",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2658"
+                },
+                "roleType": 5,
+                "popularCnt": 2658,
+                "createTime": 1585656884000
+            },
+            {
+                "roleId": "44457000658515541",
+                "roleName": "江景白",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1565"
+                },
+                "roleType": 4,
+                "popularCnt": 1565,
+                "createTime": 1585656834000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 190,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "459371903682019328",
+                "type": 0,
+                "title": "",
+                "content": "什么时候更新啊？",
+                "createTime": 1584948973000,
+                "userId": "3397013506",
+                "nickName": "住在云朵上",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3397012456_1592557515048/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "470489475559129088",
+                "type": 0,
+                "title": "",
+                "content": "这本书我好喜欢啊啊\n大大加油(ง •̀_•́)ง\n快点更新更新更新更新哦～～",
+                "createTime": 1587599609000,
+                "userId": "120156227143",
+                "nickName": "卡奇尔",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120156229329_1584771901314/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7741_%E4%BA%8C%E6%9C%88%E6%B5%81%E9%87%91.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "469458856527986688",
+                "type": 0,
+                "title": "",
+                "content": "加油（*＾ワ＾*）",
+                "createTime": 1587353890000,
+                "userId": "120159044516",
+                "nickName": "是念一鸭",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120159046393_1586919822274/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9502_%E8%AF%BB%E4%B9%A6%E6%97%A5%E6%8C%82%E4%BB%B6.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

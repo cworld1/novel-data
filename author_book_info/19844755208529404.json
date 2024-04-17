@@ -1,0 +1,328 @@
+{
+    "bookInfo": {
+        "bookId": "19844755208529404",
+        "bookName": "老祖宗她说生存游戏弱爆了",
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "categoryId": 30050,
+        "categoryName": "游戏竞技",
+        "subCategoryId": 30053,
+        "subCategoryName": "游戏异界",
+        "description": "“恭喜您成功登录生存游戏，在这里，让我们一起打开新世界的大门！”\n　　一句附耳呢喃，让商以柔瞬间惊醒。\n　　24世纪爆火的全息游戏--【噩梦】突然只能登录不能退出，无数人真的进入了这个名副其实的“噩梦游戏”。\n　　黑暗的海底古城，错综复杂的隧道机关，49位陌生玩家……\n　　系统的提示音泛着诡异，在这里不分性别，没有金钱地位，现实与游戏彻底混乱，只有全身心依靠于自己的博弈才有可能存活下去。\n　　随机移动的密室、美人鱼的神秘歌声、随时可能涌进的海水、七个队伍间进四退三的生死PK……\n　　一切的一切都在告诉商以柔，她也进入了噩梦游戏中。\n　　【系统提示】：恭喜玩家商以柔成功破解副本世界观！\n　　【副本提示】：恭喜玩家商以柔成功速通副本！\n　　……\n　　【系统】：“宿主你为何总能通关？！”\n　　商以柔：“真当我两百多年是睡过去的么？”\n(别问了别问了，男主是季朝)",
+        "lastVipChapterId": "58377123026933942",
+        "lastVipChapterName": "大结局 噩梦游戏，祝各位游戏愉快！",
+        "lastVipChapterTime": 1637565642000,
+        "lastChapterId": "54178425929708063",
+        "lastChapterName": "第九十九章 X死亡的前三天(46)",
+        "lastChapterTime": 1621872817000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 667705,
+        "totalChapterCount": 652,
+        "collectCount": 22241,
+        "tag": [
+            {
+                "tagId": 20353,
+                "tagName": "游戏异界"
+            },
+            {
+                "tagId": 20308,
+                "tagName": "异能"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 30380,
+                "tagName": "超A"
+            },
+            {
+                "tagId": 40179,
+                "tagName": "毒舌"
+            },
+            {
+                "tagId": 10012,
+                "tagName": "游戏"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-04-20上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "67"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "2.2"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1619354197318,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 37466209
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 132,
+        "fans": 2452,
+        "redBean": 106732
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "authorGuid": "926127275",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-12/490d04e039c0da536db5aae664d700aey0iNa67Gm1tv6h3.jpg",
+        "fans": 13788,
+        "total": 6,
+        "items": [
+            {
+                "bookId": "23264163801941304",
+                "bookName": "疯了吧，你管这叫游戏主播"
+            },
+            {
+                "bookId": "22126363601642004",
+                "bookName": "老祖宗她在生存游戏里当GM"
+            },
+            {
+                "bookId": "21313828008580104",
+                "bookName": "只为她偏爱"
+            },
+            {
+                "bookId": "19377043408913604",
+                "bookName": "廖医生的白玫瑰"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "53547051241673196",
+                "roleName": "商以柔",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "4.8"
+                },
+                "roleType": 5,
+                "popularCnt": 48188,
+                "createTime": 1619519910000
+            },
+            {
+                "roleId": "53885878795739321",
+                "roleName": "季朝",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "4.8"
+                },
+                "roleType": 4,
+                "popularCnt": 47577,
+                "createTime": 1620782141000
+            },
+            {
+                "roleId": "53547069763730491",
+                "roleName": "温行止",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.4"
+                },
+                "roleType": 4,
+                "popularCnt": 14080,
+                "createTime": 1619519979000
+            },
+            {
+                "roleId": "57542870307416409",
+                "roleName": "祝就",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "2276"
+                },
+                "roleType": 6,
+                "popularCnt": 2276,
+                "createTime": 1634405496000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2765,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "607232573017620480",
+                "type": 0,
+                "title": "",
+                "content": "『吐槽大会第一期』\n别人家女主vs见字家女主\n①\n别人家女主：出手几百万\n见字家女主：出场几百岁\n②\n别人家女主夸男主：哇大佬你好帅\n见字家女主夸男主：嚯，爷们儿挺行啊\n③\n别人家女主：精通十几国语言\n见字家女主：精通全国几百种方言\n④\n别人家女主：兰博基尼，保时捷，卡宴……\n见字家女主：五菱宏光\n(我严重怀疑柔姐之后会不会挑战特斯拉)\n⑤\n别人家女主：飙车打脸\n见字家女主：开挖掘机铲树\n⑥\n别人家女主：“你知不知道你让我损失了几十个亿！”\n见字家女主：“你知不知道你让我丢了买雪糕找的六块钱！”\n⑦\n别人家女主：二十岁结婚生子\n见字家女主：不好意思啊，257岁了，等我拿个小本本记一下\n⑧\n别人家女主：锦鲤团宠加系统\n见字家女主：一人之力抗住六个倒霉队友之我就是最大的bug\n⑨\n别人家女主的马甲：世界第一杀手，第一服装设计师，赛车手，小提琴家，专利无数等等等等\n见字家女主的马甲：警校学生，蓝翔毕业，道路杀手女司机，挖掘机好手，带妹上分小达人\n未完待续",
+                "createTime": 1620201704000,
+                "userId": "854000777810",
+                "nickName": "zzxw",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854000779311_1598502943757/100",
+                "replyCount": 25,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 377,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "607291784527216640",
+                "type": 0,
+                "title": "",
+                "content": "吐槽大会第四期\n①别人家女主：一不小心给拉进了生存游戏\n见字家女主：我自个登录\n②别人家女主：进入游戏先观察观察\n见字家女主：我先吃根棒棒糖\n③别人家女主：看看别人有什么厉害的地方\n见字家女主：看看人家的身高还有花衬衫\n④别人家女主：吃瓜群众在线嗑瓜子\n见字家女主：吃瓜群众在线叼棒棒糖\n⑤别人家女主：吃棒棒糖得放嘴里慢慢吃\n见字家女主：吃棒棒糖就要咬碎，吃棒棒糖要什么灵魂\n⑥别人家女主：要是这个时候有把剑（or其他）就好了，然而啥也没有\n见字家女主：要是那里站着一个白纱裙女人，一定很美，下一秒，真立了一个在那\n⑦别人家女主：看见别人吐血：“不好，有危险”\n见字家女主：看见别人吐血：浑身红毛，晚年不详，陈东诚不欺我\n⑧别人家女主：“由于您破坏游戏空间，您将被定为全员攻击对象”\n见字家女主：“由于您导致游戏时间被迫缩短，喜提称号「拉仇恨小能手」”\n⑨别人家地图：高德地图\n见字家地图：缺德地图\n⑩别人家奖励：一人一样，都很有用\n见字家奖励：一辆五菱宏光拆了大家分分，要想用，再分你一些工具，自己找别人组去\n【cp党】\n别人家男女主见面：男主开车对女主说“上来”\n见字家男女主碰面：男主在头上开直升飞机看底下的五菱宏光，女主在下面开五菱宏光看天上的直升飞机",
+                "createTime": 1620215821000,
+                "userId": "1096107071",
+                "nickName": "一朝情丝向梦归",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1096107149_1657344705916/100",
+                "replyCount": 21,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 201,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "635518355041746944",
+                "type": 0,
+                "title": "",
+                "content": "今天会努力补上昨天的更新，这个月的订阅打赏会全捐给河南。\n我大概估计了一下，平常一个月也就是一百九十多订阅，我凑整捐了五百。\n还是学生，捐不了太多，就略尽绵薄之力吧。\n在灾区的朋友，加油，都会过去的。",
+                "createTime": 1626945560000,
+                "userId": "926127275",
+                "nickName": "见字就好",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-12/490d04e039c0da536db5aae664d700aey0iNa67Gm1tv6h3.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 27,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 9,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "11201025903652901",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

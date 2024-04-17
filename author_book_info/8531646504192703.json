@@ -1,0 +1,301 @@
+{
+    "bookInfo": {
+        "bookId": "8531646504192703",
+        "bookName": "吾欲成凰",
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "原名《重生最强女帝》\r\n前世，她灵根被挖，一心正道，却被判为邪魔妖道！\r\n重回少年之时，她力挽狂澜，逆天改命，前世欺她辱她之人，都将百倍奉还！\r\n自修血脉，重铸极品灵根！斩尽无赖族人，荣归第一望门！\r\n世间规矩不能束她分毫，这一世，她要杀出自己的正道！\r\n他是众人敬仰的神帝，高冷孤傲，却天天跟在她身后。",
+        "lastVipChapterId": "40541213476497206",
+        "lastVipChapterName": "第01249 番外篇（4）",
+        "lastVipChapterTime": 1571069393000,
+        "lastChapterId": "23982913557789164",
+        "lastChapterName": "第0123章：考核结果（2）",
+        "lastChapterTime": 1509384915000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2829556,
+        "totalChapterCount": 2772,
+        "collectCount": 213214,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20066,
+                "tagName": "热血"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30106,
+                "tagName": "王爷"
+            },
+            {
+                "tagId": 30139,
+                "tagName": "女帝"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-09-30上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "283"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "21"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1547107572297,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20540647
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 566,
+        "fans": 32293,
+        "redBean": 203724
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "authorGuid": "240701592",
+        "intro": "阅文集团白金作家，古言女强天后，代表作《绝世神医：腹黑大小姐》《吾欲成凰》等。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7848102/0",
+        "fans": 89310,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "14315014604556304",
+                "bookName": "凤鸾九霄"
+            },
+            {
+                "bookId": "5783093804970003",
+                "bookName": "绝世炼丹师：纨绔九小姐"
+            },
+            {
+                "bookId": "22116362000978402",
+                "bookName": "绝世神医：腹黑大小姐"
+            },
+            {
+                "bookId": "22162847000180402",
+                "bookName": "绝世神偷：废柴七小姐"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27865544661192359",
+                "roleName": "叶卿棠",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "9.3"
+                },
+                "roleType": 5,
+                "popularCnt": 92943,
+                "createTime": 1523848844000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 63596,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "278416296666923058",
+                "type": 0,
+                "title": "",
+                "content": "作者已经消失24个小时了，报警吧！",
+                "createTime": 1541816191000,
+                "userId": "381187841",
+                "nickName": "昵称只能修改一次吗",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/381183957_1519665348528/100",
+                "replyCount": 38,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2113,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 6,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8942_4800_%E7%86%8A%E7%8C%AB%E5%B1%81%E8%82%A1384.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "326489670135513133",
+                "type": 0,
+                "title": "",
+                "content": "真是服了，我宁愿看到一帮黑粉，也不想看到那群真不知道怎么想的粉丝，看了这么久的文了，你们都以为作者跟新本书很容易，是不是不用想是不是还是说以为作者是不用上班的那种？还是说你想要坐着，就算水文也非得更新？作者的书都是用心写的，有句话懂不懂？别告诉我你不懂。有思路的时候，一日十更没思路的时候，十天一更。再者，作者在现实生活中是有正常生活的好吗？难道心情每天都是好的吗？如果哪天出了什么事情，看到一帮粉丝在那边骂自己耍大牌，明明自己都努力在写了，还要还要这样骂。呵呵，反正。很多话我都懒得说了，毕竟跟。。。说话会让别人以为我。。。就像之前有则的新闻一样。总之我又不是专门以稿费为生的作者我可不用去讨好你们。你这种人自动定义成黑粉再见。",
+                "createTime": 1553268891000,
+                "userId": "854003103481",
+                "nickName": "永生相随",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854003109997_1553935427491/100",
+                "replyCount": 84,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1244,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "384208533459304461",
+                "type": 0,
+                "title": "",
+                "content": "哈哈，有没有人眼熟我?😂😂😂",
+                "createTime": 1567029579000,
+                "userId": "120096426945",
+                "nickName": "璞玉20001029",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120096427705_1569341517030/100",
+                "replyCount": 50,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 225,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

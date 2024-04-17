@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "16793488904152804",
+        "bookName": "带着空间重生八零了",
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30027,
+        "subCategoryName": "都市异能",
+        "description": "新书《老祖宗她是真的狂》求收藏。\n前世，唐瑜有点儿惨，诸如壮年早死……停！\n重生了，前世的破事儿还记着干嘛，都死过一回了，换个活法才最紧要叭。啥，愁活不出个人样继续凄惨?在改革开放的年代，谁比她的‘先知’够开挂，凄惨，不存在的！\n唐瑜奉行的是缺啥谋啥，谋不到许多许多爱，那就谋许多许多钱，先定个小目标，整个首富当当。\n只是，前世那个对她时常劝诫和耳提面命的小哥哥却说：谋不到爱？当我死的？\n陆向阳一时的恻忍才收留了唐瑜这小可怜虫当妹妹一样娇养着，宠她，护她，顺她，爱她。\n但有一天，小可怜说：“哥，我这里有个赚万元当首富的项目，要不要干？”\n干就干，不就陪妹妹过家家玩儿嘛？\n但小可怜把他带到了垃圾堆，抬抬手赚了万元，时不时又神秘的拿出些极品好东西出来买卖，从此大佬人生开了挂。\n又有一天，他的小可怜说：“哥，咱扯个证养包子吧？”\n陆向阳：纳尼？",
+        "lastVipChapterId": "51438017483086186",
+        "lastVipChapterName": "曲终",
+        "lastVipChapterTime": 1611663357000,
+        "lastChapterId": "46581069218561874",
+        "lastChapterName": "第96章 梁上君子来光顾了",
+        "lastChapterTime": 1593569742000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1148432,
+        "totalChapterCount": 1098,
+        "collectCount": 3134,
+        "tag": [
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20027,
+                "tagName": "空间"
+            },
+            {
+                "tagId": 30403,
+                "tagName": "秀外慧中"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 20084,
+                "tagName": "年代文"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-04-28上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "115"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3134"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1589452021940,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 30918082
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1,
+        "fans": 657,
+        "redBean": 1408
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "authorGuid": "801000085520",
+        "intro": "阅文集团大神作家，只想做个安静有坑品的好作者！",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+        "fans": 4657,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "24604915301478504",
+                "bookName": "大小姐她总是不求上进"
+            },
+            {
+                "bookId": "13977366803438804",
+                "bookName": "九零长女有点苏"
+            },
+            {
+                "bookId": "10027934804677503",
+                "bookName": "旺福小娘子"
+            },
+            {
+                "bookId": "4066980404814601",
+                "bookName": "长女"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 74,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "602793336222318592",
+                "type": 0,
+                "title": "",
+                "content": "书还不错，但是女主的性格我不喜欢。也不说她弱，就是太明事理了。有时候感觉说话有点圣母了，但是她又找到了借口，让我觉得出这是明事理，不是圣母。可能是我看的女强文太多了，都是动手的，女主太佛性，动口不动手。当然她也没有武力值，还有就是女主太依靠空间了。什么东西都从空间里面拿出来，还不打个遮掩。菜用空间里种的，连煮汤放的水都是用空间里的水。水果那些东西拿出来也不改个名字，这种穿越空间文我一直想的问题，女主在的时候有空间水用，要是以后女主死了，那后辈的饭馆要怎么用水？自来水煮不出那个味道。总之就是女主太明事理了，还有就是你要开饭馆，总得有个买菜的地方，你天天从空间里面拿东西出来又没个遮掩，有心人一查就能查得到，你家没有买菜哪来的菜？",
+                "createTime": 1619143307000,
+                "userId": "2162277212",
+                "nickName": "静待疏归",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2162278355_1632759877523/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9432_%E8%99%90%E6%81%8B%E6%83%85%E6%B7%B1.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "584053240908480512",
+                "type": 0,
+                "title": "",
+                "content": "本来有空间有期待的  但旁白老气横秋   有点接受不了...... 失望了",
+                "createTime": 1614675320000,
+                "userId": "120113525490",
+                "nickName": "哦哦么么哒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120113526437_1572004384899/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 23,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "487714445565427714",
+                "type": 0,
+                "title": "",
+                "content": "？？？？？？",
+                "createTime": 1591706361000,
+                "userId": "120150734229",
+                "nickName": "唐宇程",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120150732340_1591400511572/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

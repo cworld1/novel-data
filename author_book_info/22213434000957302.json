@@ -1,0 +1,275 @@
+{
+    "bookInfo": {
+        "bookId": "22213434000957302",
+        "bookName": "我家王妃超厉害",
+        "authorId": "3004708900182401",
+        "authorName": "灵小哥",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "推荐小哥新书\n都说将军府五小姐，瘸子又废物，茹毛饮血，残忍毒辣。——他曰放屁！\n都夸上华大陆尊上，神秘又高贵，强悍无匹，惊才绝艳。——她说扯淡！\n不是冤家不聚头，一聚宠到没尽头~在高手遍地走，妖兽多如狗的地方，当天才穿越成废物，冷血瘸子杠上暴力邪王，强强互宠，谁与争锋？！\n金麟岂是池中物，一朝飞凤耀九天！【宠文+1V1+绝对身心纯+萌宠+傲娇男主】加量不加价~",
+        "lastVipChapterId": "7926814215569539",
+        "lastVipChapterName": "第1594章：终章",
+        "lastVipChapterTime": 1449571289000,
+        "lastChapterId": "107989084283013396",
+        "lastChapterName": "第137章：赫连城被吃掉了",
+        "lastChapterTime": 1426215357000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1629169,
+        "totalChapterCount": 1583,
+        "collectCount": 1752,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20089,
+                "tagName": "欢喜冤家"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30374,
+                "tagName": "妃子"
+            },
+            {
+                "tagId": 40178,
+                "tagName": "傲娇"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2014-12-16上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "163"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1752"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1591839711827,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 510186
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 196,
+        "redBean": 382
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004708900182401",
+        "authorName": "灵小哥",
+        "authorGuid": "1485054494",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7791531/0",
+        "fans": 57719,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "17536776207350304",
+                "bookName": "夫人她马甲又轰动全城了"
+            },
+            {
+                "bookId": "12092093704617603",
+                "bookName": "和大佬隐婚后我爆红娱乐圈"
+            },
+            {
+                "bookId": "6633058603958003",
+                "bookName": "厉太太又暴露身份了"
+            },
+            {
+                "bookId": "2807665901639502",
+                "bookName": "今天大佬和我结婚了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 51,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "564382630628556800",
+                "type": 0,
+                "title": "",
+                "content": "谁是男主啊",
+                "createTime": 1609985481000,
+                "userId": "120183379525",
+                "nickName": "嘿嘿嘿822573917",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "606990553384681472",
+                "type": 0,
+                "title": "",
+                "content": "虐吗？？？",
+                "createTime": 1620144002000,
+                "userId": "120136874938",
+                "nickName": "活成爽文女主",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120136871882_1711750744607/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "581111870237245440",
+                "type": 0,
+                "title": "",
+                "content": "章节不全呀 在哪能看全部的呀",
+                "createTime": 1613974043000,
+                "userId": "854011462465",
+                "nickName": "pre159",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854011461537_1691596578982/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

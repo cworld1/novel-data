@@ -1,0 +1,329 @@
+{
+    "bookInfo": {
+        "bookId": "16792364604322104",
+        "bookName": "嫡长女她又美又飒",
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "出版名《将门盛华：吾命为凰》，当当、淘宝均有售哦。\n\n前世，镇国公府，一朝倾塌灰飞烟灭。\n此生，嫡长女白卿言重生一世，绝不让白家再步前世后尘。\n\n白家男儿已死，大都城再无白家立锥之地？\n大魏国富商萧容衍道：百年将门镇国公府白家，从不出废物，女儿家也不例外。\n\n后来……\n白家大姑娘，是一代战神，成就不败神话。\n白家二姑娘，是朝堂新贵忠勇侯府手段了得的当家主母。\n白家三姑娘，是天下第二富商，翻手为云覆手为雨的商界翘楚。\n\n·\n白卿言感念萧容衍上辈子曾帮她数次，暗中送了几次消息。\n雪夜，被堵城外。\n萧容衍：白姑娘三番四次救萧某于水火，是否心悦萧某？\n白卿言：萧公子误会。\n萧容衍：萧某三番四次救白姑娘于水火，白姑娘可否心悦萧某？\n白卿言：……",
+        "lastVipChapterId": "59744631889836791",
+        "lastVipChapterName": "大结局（三）",
+        "lastVipChapterTime": 1642641868000,
+        "lastChapterId": "47950999302144385",
+        "lastChapterName": "第四十一章：狂妄竖子",
+        "lastChapterTime": 1608625377000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3240978,
+        "totalChapterCount": 1597,
+        "collectCount": 1178527,
+        "tag": [
+            {
+                "tagId": 20040,
+                "tagName": "宅斗"
+            },
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30380,
+                "tagName": "超A"
+            },
+            {
+                "tagId": 30138,
+                "tagName": "嫡女"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-07-21上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "324"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "118"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1626409863209,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 30913590
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2737,
+        "fans": 92645,
+        "redBean": 1621702
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 21,
+            "bookId": 16792364604322104,
+            "name": "完结榜",
+            "url": "/rank?tagId=-1000&rankId=Finish_Gold",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP21"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "authorGuid": "803012914363",
+        "intro": "阅文集团白金作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+        "fans": 290717,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "22191858701403204",
+                "bookName": "大邺女帝"
+            },
+            {
+                "bookId": "21950364501844104",
+                "bookName": "一座山的距离"
+            },
+            {
+                "bookId": "14450034905560004",
+                "bookName": "跟大佬恋爱你怂了吗"
+            },
+            {
+                "bookId": "9199042603510603",
+                "bookName": "傅先生，偏偏喜欢你"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "49808466088802402",
+                "roleName": "白卿言",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "77"
+                },
+                "roleType": 5,
+                "popularCnt": 766067,
+                "createTime": 1605592596000
+            },
+            {
+                "roleId": "49808477245650559",
+                "roleName": "萧容衍",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "25"
+                },
+                "roleType": 4,
+                "popularCnt": 252862,
+                "createTime": 1605592637000
+            },
+            {
+                "roleId": "52018192134421408",
+                "roleName": "白卿瑜",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "16"
+                },
+                "roleType": 6,
+                "popularCnt": 159922,
+                "createTime": 1613824467000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 97386,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "532968547563995136",
+                "type": 0,
+                "title": "",
+                "content": "        之前在封面看到好几回，光看名字觉得可能是常见的轻松甜宠文，直接跳过，某天无意中点开，深深被震撼吸引。\n        满门男子皆丧重生，看着是无比熟悉的套路，可点开一看，浓郁的古风气息铺来。作者笔触细腻，场景描绘古色古香，但最出彩的还是人物的语言。年纪大了不喜欢虐文，可作者笔下的家国情怀，愣是让我眼睛通红的一口气追完。白家世代忠良，男子皆亡女子撑起门户。惊艳才绝的白家十七子永留南疆，镇国公携五子十七孙走的时候，心中想的是海晏河清、万民太平。他以为自己遇到了明主，倾尽全力，他想自己娶了皇家公主，便不设防范，可是。。。看到十岁的十七郎身首异处，四夫人悲痛撞棺，白家走了23人，可尸身回来的只有4人。。。大长公主这个角色确实矛盾，有时我甚至在想，如果白威霆没有娶她，以他的智慧，一定会知道隐藏锋芒。可他娶了公主，便放心地把身后交于皇家。他改“荣寿”为“长寿”，真心对发妻，却不知发妻对他有所保留，年少爱慕抵不过皇家责任，难道出嫁从夫就不适用于皇家公主吗？暗卫一事，如果她不说，暗中派人保护，白家人会知晓那是她的暗卫？怕被策反还是什么？当真是糊涂！白家男儿皆深情，五子夫妻描述不多，但变故当前，五位夫人无一人离去，若非夫妻和睦，想也不会如此，不记得是哪位夫人捧着亡夫曾亲手做的发簪泣不成声。印象最深的是岐山与婉君，一个是担家族之重任的世子，一个是撑门楣之稳固的长媳。二位人如其名，世子岐山如山岳般守护全家，婉君在岐山面前是温婉娇俏的贤妻，在大难前是稳定大局的君子。看到大姑娘梦到爹爹想带她与娘亲弟弟游山玩水，看到她想到爹对娘说的“娘子，为夫错了”，不禁泪崩。再说白大姑娘，重生归来，她心中的仇恨何止千万，“长姐”二字，责任太重。曾经鲜衣怒马的小白帅，后来满心盘算只为保全家人，不禁感叹这世道的不公。当真是忠诚良善之士无好下场吗？或许权谋，只能谋那些耿直的忠义之人，小人见风使舵，可比权谋还要会谋权！皇位惑人心，林家皇位最初也是众人推举，或许是开国时林家人有勇有谋才为皇，可是后世守成者心胸狭隘，只想夺权，却忘了这权源自于民。无数的白骨，堆积了他们林氏一族的天生贵胄。无数的忠臣，缔造了大晋的繁华盛世。可是因为猜忌，谁人敢为皇室效命？他们亲手葬送了自己的江山。\n       本文中的姐妹妯娌真是一股清流，无论嫡出庶出，大家都是一条心，没有互相盘算刁难。众人一心，何愁家庭不睦？五子五媳，十七子七女，如此庞大的家庭，竟无一个品性不端之人，当真是神仙人家了。很喜欢这种氛围，同族血亲为什么总要互相争斗？庶子庶女也没有心生怨怼，四夫人欲自尽陪十七，庶出的五六姑娘求四夫人不要丢下他们，四夫人与其他几位也不曾刻薄庶出。若非真心相待，嫡庶之间怎会如此和睦？亲如一母的脉脉温情悄悄渗透在字里行间，尽显五位夫人的品行胸襟。五位夫人出嫁时都是十里红妆，当时必定人人都是一段佳话，可是亡夫丧子又何其悲痛。孤儿寡母竟还有人不让他们安生，白家声望太高，哪怕只剩女子，只要是白家人，都让宵小心生忌惮。\n      头一次写长评，看文时发现短评不多，或许大家都沉浸于书中的情绪。这情感太沉重，也不知何种语言能描述出心中的震撼。希望作者大大快快更新，既想看白大姑娘手刃仇敌为父兄报仇，又希望男主快快上线为她覆了负了白家的林氏皇权，这样白大姑娘就不用那么苦了。说到底，几位姑娘再厉害，也都是女儿家，本该被人捧在手心的高门贵女。不过想娶大姑娘三姑娘四姑娘的公子们，怕是要做好入赘的准备了😄\n",
+                "createTime": 1602495780000,
+                "userId": "120186370396",
+                "nickName": "修文演武染世无双",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120186371832_1600275194649/100",
+                "replyCount": 123,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1536,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 10,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 23,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "511319581709762560",
+                "type": 0,
+                "title": "",
+                "content": "第一次追古言书追了这么久，之前看过作者大大的傅先生偏偏喜欢你，跟大佬恋爱你怂了吗？喜欢作者大大对男女主性格的细腻刻画，唯美的文笔。\n比如：黑色的轿车就停在路灯之下，橘色的光线交错在袅袅细雨中，晕出一圈圈朦胧的光晕，落在男人宽阔的背脊肩膀上，勾勒出男人轮廓分明的刚毅五官。\n至于这本书以下是我读书时的感想，仅个人个观点，观看书评需慎重，不要影响其他人的阅读感受。\n　　这本古言不同于作者大大以往的风格，首先，感觉这本书的历史背景很厚重，虽然大大只说了晋国，但是让我想到了五代十国时期，许多国家都给开国功臣封公封侯，这些人组成了国家的权贵，也在乱世中守护国家的疆土。但是，也同时因为功高盖主，让帝王感到威胁，从而暗中做出削弱这些权贵的事情。\n\n　　白家前世很惨，白卿言重生后首先就是复仇。\n\n　　社会我卿姐，人狠话不多。\n\n　　以下书评会有剧透，慎看！！！\n\n　　喜欢作者大大的文笔尤其是男女主对手戏！\n\n　　首先回到前面话题，卿姐有又冷又飒！\n\n　　二个姑娘被侯府家欺负，卿姐直接当街对侯爷对峙，真是感觉大快人心！\n\n　　当然，我还是最喜欢  秦朗借着酒劲儿才敢正面直视白卿言，不知是不是喝了酒的缘故这场对手戏。\n某男过分幽邃的眸子含笑，浅浅对卿姐颔首，尽显温厚稳重。卿姐攥着手炉的手下意识收紧，心跳没由来重重跳了几跳，呼吸略有些不畅快。　\n\n　　作者大大文笔太优美了，这段看的让人如痴如醉。很有画面感，感觉男女主之间的情感，就在画面里，不知不觉的暗涌。\n\n　　情绪在肆意流淌，好喜欢这种看书的感觉。\n\n　　作者大大文笔很细腻，每一个人物的动作都能表现人物额心情。\n\n　　最后，卿姐的手炉特写很多，很好奇卿姐的手炉是什么用样的。\n\n　　作者大大历史好像很好，很多语言，都能看到又历史的出处。\n\n　　喜欢这种历史厚重的书，每个人物，在历史的长河里，虽然不过一粒尘埃，终归尘归尘，土归土，但是各自与命运权力斗争的漩涡抗争。\n     很期待作者大大之后的故事，权力游戏人物命运男女主爱情之路，都是我很期待的！\n\n　　最后！作者大大快更新吧！我会随时拿出我的小皮鞭！“快！码字！更新！”",
+                "createTime": 1597334264000,
+                "userId": "3465959523",
+                "nickName": "叶均庭",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3465959953_1605802070081/100",
+                "replyCount": 200,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1178,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 10,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "516422406391332864",
+                "type": 0,
+                "title": "",
+                "content": "肤浅的我…不想说什么，我觉得很棒，并且求更新，麻烦多更一点，嘤嘤嘤，我不够看鸭。\n是那种很引人入胜的情节，笔墨谈不上浓烈，但是一字一句却都有说不上来的韵味。可能这就是古言的魅力之处，当然也缺不了作者的文笔以及文化底蕴。\n作品前期勾勒出女主前世的爱恨交织，虽然很俗套的复仇文，却也因为一些巧妙的不同之处显得在一众作品中清新脱俗。也许是因为女强的设定，但他不仅是女主一人强，而是府中的一干女眷巾帼不让须眉，皆是爽直英飒。一干女流之辈当起一位高权重之府，甚至欲将之推向鼎盛，女主雄心壮志，一众妇孺上下齐心，当世顶天立地的七尺男儿也莫过于此。这个设定莫名的戳我，作者的文笔也是唯美细腻，回味悠长。\n并且，整个剧情也并不无脑，不一昧地簇拥女主，顺从女主，也并不是一帆风顺。祖母是大长公主心系皇家，心系大周的天下是不是她皇姓，是否是她本家的皇土，她是皇家人，所以根本不可能让女主有反心，也不能滋长她的反心，所以才会有那样的打算。        \n    感情线也是暗中涌动，虽不甚明朗，却看得人暗自激动，郎有情，卿有意。才子佳人，天作之合。\n   有文笔，有逻辑，有涓涓细流的爱情。\n 总之就是太喜欢啦，希望快快更新！！！！跪求！！！",
+                "createTime": 1598550873000,
+                "userId": "3534170091",
+                "nickName": "Mangena.",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3534172276_1550239567807/100",
+                "replyCount": 22,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 611,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

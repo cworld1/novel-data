@@ -1,0 +1,251 @@
+{
+    "bookInfo": {
+        "bookId": "16479896004500704",
+        "bookName": "反派大佬从良了",
+        "authorId": "15766551205035301",
+        "authorName": "逐暖南国",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30030,
+        "subCategoryName": "民国情缘",
+        "description": "一朝醒来，文殊穿到书中世界。\n一个时局动荡，八方风雨的时代。\n反派天生反骨，谋权求势不择手段。\n她装柔弱，演深情，只为给自己谋一条生路。 \n(男主真坏人没三观，爱而不得，女主外表柔弱乖巧，内心天天想搞死男主！）",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "51502386577377965",
+        "lastChapterName": "第五十六章 大结局",
+        "lastChapterTime": 1612329164000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 128328,
+        "totalChapterCount": 56,
+        "collectCount": 299,
+        "tag": [
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20076,
+                "tagName": "民国"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-03-23上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "13"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "299"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1588555571686,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 29904021
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 6,
+        "fans": 12,
+        "redBean": 487
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "15766551205035301",
+        "authorName": "逐暖南国",
+        "authorGuid": "854014938765",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-12-25/5fe5e06223ffd.jpeg",
+        "fans": 2490,
+        "total": 4,
+        "items": [
+            {
+                "bookId": "24117834809874304",
+                "bookName": "炮灰原配选择干掉男主"
+            },
+            {
+                "bookId": "20578885008896904",
+                "bookName": "霍爷捡了个真郡主"
+            },
+            {
+                "bookId": "18617497508087304",
+                "bookName": "八零年的糯米糖"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 51,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "566392350167990272",
+                "type": 0,
+                "title": "",
+                "content": "大大，你怎么又消失了呢\n呜呜X﹏X",
+                "createTime": 1610464636000,
+                "userId": "2660760155",
+                "nickName": "陌兮倾城色",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "475626828967575552",
+                "type": 0,
+                "title": "",
+                "content": "大大，好好看呀\n会有男二吗？追妻火葬场了呀",
+                "createTime": 1588824449000,
+                "userId": "2660760155",
+                "nickName": "陌兮倾城色",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "473218144916406272",
+                "type": 0,
+                "title": "",
+                "content": "您有更新安排吗？",
+                "createTime": 1588250174000,
+                "userId": "2660760155",
+                "nickName": "陌兮倾城色",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

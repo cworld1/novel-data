@@ -1,0 +1,294 @@
+{
+    "bookInfo": {
+        "bookId": "17976991001324904",
+        "bookName": "罪恶不赦",
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30037,
+        "subCategoryName": "推理侦探",
+        "description": "《罪恶》系列之二。 没有了兽性的兽， 会变得温顺驯服。 失去了人性的人， 会陷入疯狂的深渊。 恶念如同病毒， 无迹可寻，又无处不在。 蚕食灵魂，泯灭人性， 一步步诱人犯下滔天罪行。 【本文案情严谨正剧向，感情线轻松向，摸良心保证，请放心食用！】 ————————————————— \n新书古言推理《提刑大人使不得》双开中，感兴趣的可以去瞄一下哟～！",
+        "lastVipChapterId": "57819847379620201",
+        "lastVipChapterName": "完本感言",
+        "lastVipChapterTime": 1635474710000,
+        "lastChapterId": "49299706274615685",
+        "lastChapterName": "第四十五章 父母有恩论",
+        "lastChapterTime": 1604145638000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1009269,
+        "totalChapterCount": 365,
+        "collectCount": 4822,
+        "tag": [
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30393,
+                "tagName": "双商爆表"
+            },
+            {
+                "tagId": 30361,
+                "tagName": "警察"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-09-15上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "101"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "4822"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1604906014235,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 33642454
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 8,
+        "fans": 109,
+        "redBean": 8511
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "authorGuid": "119090065089",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+        "fans": 2146,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "25752078901523704",
+                "bookName": "罪恶之眼"
+            },
+            {
+                "bookId": "20670443701149104",
+                "bookName": "提刑大人使不得"
+            },
+            {
+                "bookId": "13404537303880004",
+                "bookName": "罪恶无形"
+            },
+            {
+                "bookId": "8743142704568903",
+                "bookName": "凶案侦缉"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "48377262995120815",
+                "roleName": "颜雪",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1126"
+                },
+                "roleType": 5,
+                "popularCnt": 1126,
+                "createTime": 1600260948000
+            },
+            {
+                "roleId": "48377164898744947",
+                "roleName": "康戈",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "578"
+                },
+                "roleType": 4,
+                "popularCnt": 578,
+                "createTime": 1600260583000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 53,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "536080971355717632",
+                "type": 0,
+                "title": "",
+                "content": "迟到的恭喜，祝新书大卖！！就是更新缓慢，屯了好久但是很快就看完了？？？",
+                "createTime": 1603237840000,
+                "userId": "474432250",
+                "nickName": "手可摘四月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/474432710_1500207803980/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "543183558542426112",
+                "type": 0,
+                "title": "",
+                "content": "换新的封面了，差点没认出来，很有现代感诶！！",
+                "createTime": 1604931229000,
+                "userId": "474432250",
+                "nickName": "手可摘四月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/474432710_1500207803980/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "782760638501093376",
+                "type": 0,
+                "title": "",
+                "content": "app推荐的，但是很不错呀",
+                "createTime": 1662050856000,
+                "userId": "854051364437",
+                "nickName": "书友20220901235909117",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854051360207_1662050715320/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

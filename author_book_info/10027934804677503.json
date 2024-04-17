@@ -1,0 +1,267 @@
+{
+    "bookInfo": {
+        "bookId": "10027934804677503",
+        "bookName": "旺福小娘子",
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30019,
+        "subCategoryName": "经商种田",
+        "description": "新文《九零长女有点苏》已发~\r\n五福重生之前，根本不知道有重生一说.重生之后，才知道老天爷一定是看她上辈子太顺遂，所以送她来这最讲道德廉耻秉行女戒的古地受苦受难，叹可怜！堂堂的琢玉高手一朝魂穿到身世不堪的农女身上，被人欺被人辱，包子娘还劝她百忍成金？放屁！她能忍，她的另一重身份绝不能忍，打秋风，扫出去；辱我娘，废了你……五福有云，欺我辱我，百倍还之。可这一个是怎么回事？不欺她只想睡她？还竟敢……骑到她身上来？真是爷可忍，五福忍不得，骑回去，生死百年，两不相欠！",
+        "lastVipChapterId": "36895054704775203",
+        "lastVipChapterName": "终章",
+        "lastVipChapterTime": 1558961326000,
+        "lastChapterId": "28244984378849245",
+        "lastChapterName": "第九十三章 教训渣人",
+        "lastChapterTime": 1525262367000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2181564,
+        "totalChapterCount": 2090,
+        "collectCount": 3042,
+        "tag": [
+            {
+                "tagId": 20309,
+                "tagName": "赌石"
+            },
+            {
+                "tagId": 30106,
+                "tagName": "王爷"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-04-02上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "218"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3042"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 21487921
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1,
+        "fans": 648,
+        "redBean": 854
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "authorGuid": "801000085520",
+        "intro": "阅文集团大神作家，只想做个安静有坑品的好作者！",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+        "fans": 4657,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "24604915301478504",
+                "bookName": "大小姐她总是不求上进"
+            },
+            {
+                "bookId": "16793488904152804",
+                "bookName": "带着空间重生八零了"
+            },
+            {
+                "bookId": "13977366803438804",
+                "bookName": "九零长女有点苏"
+            },
+            {
+                "bookId": "4066980404814601",
+                "bookName": "长女"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 678,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "326717633485602897",
+                "type": 0,
+                "title": "公告",
+                "content": "「公告」后台服务器崩了，还传不了文，正在赶修，ok了我就上传",
+                "createTime": 1553334016000,
+                "userId": "801000085520",
+                "nickName": "燕小陌",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5285699503215401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "344430317261750328",
+                "type": 0,
+                "title": "旧文已结，新书将袭",
+                "content": "「旧文已结，新书将袭」新书筹备中，会有一拨活动福利返，欢迎加入燕陌书友群，群聊号码：544256853。届时活动福利多多，欢迎来撩，入群提交vip订阅图哦",
+                "createTime": 1557547177000,
+                "userId": "801000085520",
+                "nickName": "燕小陌",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5285699503215401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "349460094246977545",
+                "type": 0,
+                "title": "",
+                "content": "《不思忆，自难忘情》\n\n\n“清梦，当年那一刀差点要了你的命，也差点要了我的命。我发誓只要你活着，你就得是我的，哪怕你忘记了我，哪怕你爱上了别人，我也在所不惜。”慕枫紧紧抱着清梦，强吻着，在她耳边低喃着：“我是慕枫，是你的夫君啊”",
+                "createTime": 1558744140000,
+                "userId": "854010014948",
+                "nickName": "思考一下",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854010016596_1558846134463/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

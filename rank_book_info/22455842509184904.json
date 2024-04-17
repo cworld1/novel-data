@@ -1,0 +1,350 @@
+{
+    "bookInfo": {
+        "bookId": "22455842509184904",
+        "bookName": "长安好",
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "京城那位胆小娇弱的第一美人不幸落到了人贩子手中。\r\n京中众人摇头叹息：这波要完。\r\n千里之外，废物美人睁开眼睛，反手就把人贩子给卖了——\r\n……\r\n换了芯儿的少女挥霍着贩卖人贩子得来的银钱回到都城，才发现昔日的小弟如今都成了大佬，且一个个的都把“她”当作女儿养——\r\n一，二，三，四……\r\n所以，如今她竟有四个男妈妈?！\r\n……\r\n本文又名《美强惨女主重生后》《废物美人她为何突然倒拔垂杨柳》",
+        "lastVipChapterId": "78343344559801168",
+        "lastVipChapterName": "510 亲自选定的家人",
+        "lastVipChapterTime": 1711988001000,
+        "lastChapterId": "67250855904082710",
+        "lastChapterName": "大家好，今晚做笔交易吧",
+        "lastChapterTime": 1670660507000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 2001262,
+        "totalChapterCount": 517,
+        "collectCount": 5025,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20449,
+                "tagName": "权臣"
+            },
+            {
+                "tagId": 20050,
+                "tagName": "女扮男装"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30380,
+                "tagName": "超A"
+            },
+            {
+                "tagId": 30107,
+                "tagName": "将军"
+            },
+            {
+                "tagId": 30458,
+                "tagName": "美强惨"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-11-06上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "200"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "5025"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1667816018533,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 43034407
+    },
+    "ticketInfo": {
+        "monthTicket": 6,
+        "gift": 34,
+        "fans": 1225,
+        "redBean": 39736
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 4,
+            "bookId": 22455842509184904,
+            "name": "月票榜",
+            "url": "/rank?tagId=-1000&rankId=conditionMonthTicket_hx_tag",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP4"
+        },
+        {
+            "rankNum": 4,
+            "bookId": 22455842509184904,
+            "name": "半年榜",
+            "url": "/rank?tagId=-1000&rankId=NewBook_Ability",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP4"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "authorGuid": "800162189445",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+        "fans": 14925,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "18766731108345204",
+                "bookName": "吉时已到"
+            },
+            {
+                "bookId": "11520050703600603",
+                "bookName": "如意事"
+            },
+            {
+                "bookId": "7317963003730403",
+                "bookName": "喜上眉头"
+            },
+            {
+                "bookId": "3150632801957202",
+                "bookName": "金夫"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "66558120092475171",
+                "roleName": "常岁宁",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.1"
+                },
+                "roleType": 5,
+                "popularCnt": 10815,
+                "createTime": 1667989919000
+            },
+            {
+                "roleId": "70367436511620785",
+                "roleName": "崔璟",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "4521"
+                },
+                "roleType": 4,
+                "popularCnt": 4521,
+                "createTime": 1682180728000
+            },
+            {
+                "roleId": "72500843001653555",
+                "roleName": "褚太傅",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "1243"
+                },
+                "roleType": 1,
+                "popularCnt": 1243,
+                "createTime": 1690128287000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 894,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "821396575417925632",
+                "type": 0,
+                "title": "",
+                "content": "姐姐怎能这般戏弄妹妹，明知道妹妹看文心切，还总是拿新开的文撩拨妹妹，事后又早早不完结，弄得妹妹好生心烦姐姐若是觉得妹妹催文催紧了，那妹妹便联合其他姐妹一起催姐姐，这样姐姐就不会单单训斥妹妹一人了！洛冰河等了沈清秋5年，薛洋等了晓星尘8年，蓝忘机等了魏无羡13年，夜华等了白浅300年，孙悟空等了唐僧500年，宇文拓等了宁珂500年，花城等了谢怜800年，风晴雪等了百里屠苏900年，龙葵等了龙阳1000年，白娘子等了许仙1000年，易小川等了玉漱2000年，苏九儿等了封夕3000年，夕瑶等了飞蓬几千年，紫萱等了长卿三生三世。而我一直在等你更新，某天某月某日一女虚弱的躺在床上，脸上是掩盖不住的苍白。嘴角却微微带笑。她伸出的手微微颤抖，眼角的泪光微闪。嘶哑的声音喃喃道：“别忘了更新。”太太您年纪轻轻,就有经天纬地之才,定国安邦之智,古人云, 卧龙凤雏得一而安天下,而今,天佑我大中华,沧海桑田5000年,中华神州平地一声雷,飞沙走石,大舞迷天,朦胧中,只见顶天立地一金甲天神立于天地间,这人英雄 手持双斧,二目如电,一斧下去,混沌初开,二斧下去,女娲造人,三斧下去,小生倾倒.得此大英雄,实耐之幸也,民之福也,怎不叫人喜极而泣.......所以您什么时候更新？“本手、妙手、俗手”是围棋的三个术语。本手是指合乎棋理的正规下法；妙手是指出人意料的精妙下法；俗手是指貌似合理，但从全局看通常会受损的下法。但即便是如此精通棋术的我，看到姐姐时，我就好像迷失了方向，感觉我的棋盘发生了天翻地覆的变化，变得难以捉摸，无从下手。这一手棋...该怎么下，该如何下呢。当我用了一个通宵的时间来想是什么原因的时候，我看着我自己这身经百战的双手，又想起姐姐那迷人的微笑，才终于想明白为什么了。在遇见的姐姐那天，我便有了那怦然心动的感觉。原来“本手、妙手、俗手”这三个以外还有一种。就是，我想看到你勤奋更新的双手。您好，我是这个账号孩子的妈妈，孩子前天刚查出重度抑郁。孩子看了您的文很开心，医生说可以缓解抑郁，那麻烦您一天更个几千章不过分吧。我想问一下大家，前男友在恋爱期间找我借钱，前后加起来有大概3w（够立案）但是没有借条也没有字据，微信也早已互删没有任何关于借的字眼，只有支付宝上还有转账记录，派出所刚让我把转账记录发给他看一下的时候，我点支付宝点歪了，不小心点开了红袖读书看到了这篇小说，所以想顺便请问一下还特么没更",
+                "createTime": 1671262381000,
+                "userId": "120278631072",
+                "nickName": "薛着谦手",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120278633210_1670067283994/100",
+                "replyCount": 9,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 46,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "河南"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "815314205921640448",
+                "type": 0,
+                "title": "",
+                "content": "谢谢大家的红豆，月票，及留言～每一条留言都有看，感谢支持！",
+                "createTime": 1669812231000,
+                "userId": "800162189445",
+                "nickName": "非10",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "3635630704914401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "安徽"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "811165456811032576",
+                "type": 0,
+                "title": "",
+                "content": "几章啊？怎么看完了？实在不应该看了这一眼，从此万般挂念",
+                "createTime": 1668823092000,
+                "userId": "803011920788",
+                "nickName": "chyin08",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803011922347_1621355502794/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6413_2031_%E5%8F%91%E8%B4%A2%E7%AC%A6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "江苏"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

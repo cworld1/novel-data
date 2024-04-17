@@ -1,0 +1,309 @@
+{
+    "bookInfo": {
+        "bookId": "23267345801735004",
+        "bookName": "顾少夫人是个娇气包",
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【先婚后恋+偏日常+恋爱线为主】\n乔予羡第一次见到顾砚璟的时候，在心里评价了他四个字：冰山美人。\r\n几秒之后，又评价了四个字：冷面煞神。\r\n而她当时的脑袋里就有一个想法：想和这个男人结婚。\r\n然后...一个月后，那个心狠手辣的顾少被逼婚了。\r\n...\r\n后来有人问顾砚璟：乔予羡是个什么样的人？\r\n顾砚璟想了想道：“小话痨，娇气包，胆子太大...像是个妖精。”",
+        "lastVipChapterId": "78292537999159396",
+        "lastVipChapterName": "第629章 她的结果",
+        "lastVipChapterTime": 1711730025000,
+        "lastChapterId": "67675889223130019",
+        "lastChapterName": "第51章 看热闹看到自己身上",
+        "lastChapterTime": 1672158972000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 1403953,
+        "totalChapterCount": 628,
+        "collectCount": 2306,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30379,
+                "tagName": "可盐可甜"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-11-07上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "140"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2306"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1667787677532,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 43999598
+    },
+    "ticketInfo": {
+        "monthTicket": 3,
+        "gift": 2,
+        "fans": 781,
+        "redBean": 8333
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 16,
+            "bookId": 23267345801735004,
+            "name": "月票榜",
+            "url": "/rank?tagId=-1000&rankId=conditionMonthTicket_hx_tag",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP16"
+        },
+        {
+            "rankNum": 26,
+            "bookId": 23267345801735004,
+            "name": "热销榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_HotSale",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP26"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "authorGuid": "854016480385",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-10-08/2fe41eddd7e8735b88584579360eb14c7WG8FrPqE99g0t7.jpg",
+        "fans": 4437,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "28400287402125904",
+                "bookName": "向神尊丢出一只小狐狸！"
+            },
+            {
+                "bookId": "21373949608100304",
+                "bookName": "大佬的影后夫人她又美又飒"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "66625021321657734",
+                "roleName": "乔予羡",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2852"
+                },
+                "roleType": 5,
+                "popularCnt": 2852,
+                "createTime": 1668239145000
+            },
+            {
+                "roleId": "66625010584231274",
+                "roleName": "顾砚璟",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "2108"
+                },
+                "roleType": 4,
+                "popularCnt": 2108,
+                "createTime": 1668239106000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 132,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "946174805827911680",
+                "type": 0,
+                "title": "",
+                "content": "断更原因写微博了\n花朝满月HZMY\n大家看见了不用回复，什么都不用和我说。\n谢谢大家",
+                "createTime": 1701011829000,
+                "userId": "120125912393",
+                "nickName": "YNY清尘",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120125915288_1602753595279/100",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "河北"
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "834099426976595968",
+                "type": 0,
+                "title": "",
+                "content": "我真的看不过去了，为什么这本书这么好看居然没多少人评论呢！作为一名看遍马甲文的书友，不得不说作者的上本书很好看，有自己特色，男主又不是那种霸道总裁的那种，然后想找找作者写的其他文，这本书刚开始就把我迷住了，知道在千篇一律中找到这种文多难得吗我真的被吸引到了。今天已经又刷完一遍了作者的上一本书，真的很不错啊！\n加油啊，大大我很期待这一本的",
+                "createTime": 1674290977000,
+                "userId": "2011835028",
+                "nickName": "我爱大家",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2011837471_1689000902442/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "浙江"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "849458811294842880",
+                "type": 0,
+                "title": "",
+                "content": "不喜欢追文，但从你的完结书来的。很喜欢，更完踢踢我",
+                "createTime": 1677952939000,
+                "userId": "649972109",
+                "nickName": "小昱的神",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/649970216_1680134676757/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "黑龙江"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

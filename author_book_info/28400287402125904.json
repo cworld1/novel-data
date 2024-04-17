@@ -1,0 +1,146 @@
+{
+    "bookInfo": {
+        "bookId": "28400287402125904",
+        "bookName": "向神尊丢出一只小狐狸！",
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30038,
+        "subCategoryName": "恐怖惊悚",
+        "description": "【胆小勿入】\n【现代背景+恐怖+养成系+单元故事】\n【无法无天暴躁小狐狸（苏曦（兮））vs天生地养情绪稳定的神（羲尧）】\n“阎罗胡同44号是什么地方？”\n“那里啊，是异事阁，专管天下异事的。”\n\n异事阁简介：让冤魂得以解脱安宁，人间秩序得以正常维系。\n\n苏曦简介：表面是清澈大学生，实则是异事阁老大。\n表面：成熟，高冷，情绪稳定，办事稳妥，实则：闷声暴躁，幼稚，“无法无天”。\n\n羲尧简介：表面是异事阁阁主，实则是天生地养的神尊。\n神尊的日常：教小狐狸，养小狐狸，宠小狐狸。\n...\n“阁主！老大又违反阁规被带走了！”\n忙得找不着北的神尊扔下手头事情，瞬间消失在原地去捞人。\n...\n“那小狐狸的举止神态和神尊简直是一样啊。“\n“当然啊，那是神尊亲手养大的。”\n***\n羲尧：“曦兮，异事阁成立的初衷是什么？”\n苏曦：“让逝者能够安息，让生者对世间还抱有期望......”\n\n\n",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "76670896374349198",
+        "lastChapterName": "第4章 十月朝（四）",
+        "lastChapterTime": 1709197505000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 12213,
+        "totalChapterCount": 5,
+        "collectCount": 11,
+        "tag": [
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20079,
+                "tagName": "双洁"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2024-01-02上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "1.2"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "11"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1705410358415,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 48717337
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 0,
+        "redBean": 0
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "authorGuid": "854016480385",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-10-08/2fe41eddd7e8735b88584579360eb14c7WG8FrPqE99g0t7.jpg",
+        "fans": 4438,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "23267345801735004",
+                "bookName": "顾少夫人是个娇气包"
+            },
+            {
+                "bookId": "21373949608100304",
+                "bookName": "大佬的影后夫人她又美又飒"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

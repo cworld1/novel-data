@@ -1,0 +1,255 @@
+{
+    "bookInfo": {
+        "bookId": "21950364501844104",
+        "bookName": "一座山的距离",
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "categoryId": 20076,
+        "categoryName": "短篇",
+        "subCategoryId": 20096,
+        "subCategoryName": "短篇小说",
+        "description": "离家后，与家的距离，是一座山，三个峰的距离。",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "58922630312861153",
+        "lastChapterName": "一座山的距离",
+        "lastChapterTime": 1640073765000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 259,
+        "totalChapterCount": 1,
+        "collectCount": 163,
+        "tag": [
+            {
+                "tagId": 10016,
+                "tagName": "男频"
+            },
+            {
+                "tagId": 60222,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-12-21上架\n版权：起点中文网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "",
+            "count": "259"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "163"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1640761522958,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 1,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 41930064
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 24,
+        "redBean": 425
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "男生完结书 会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "authorGuid": "803012914363",
+        "intro": "阅文集团白金作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+        "fans": 290722,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "22191858701403204",
+                "bookName": "大邺女帝"
+            },
+            {
+                "bookId": "16792364604322104",
+                "bookName": "嫡长女她又美又飒"
+            },
+            {
+                "bookId": "14450034905560004",
+                "bookName": "跟大佬恋爱你怂了吗"
+            },
+            {
+                "bookId": "9199042603510603",
+                "bookName": "傅先生，偏偏喜欢你"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 15,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 2,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "939848284448358400",
+                "type": 0,
+                "title": "",
+                "content": "冫:灬、丶∴∴、、∴、㇏㇏∴丶🦎、1一",
+                "createTime": 1699503469000,
+                "userId": "803033804514",
+                "nickName": "pipibaobei",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803033805431_1583865618380/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "云南"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "694151694908522496",
+                "type": 3,
+                "title": "",
+                "content": "看哭了",
+                "createTime": 1640924837087,
+                "userId": "120003507543",
+                "nickName": "示耳yy",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120003500716_1556143981789/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "58922630312861153",
+                "chapterName": "一座山的距离",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9480_9582_%E4%BC%AF%E4%B9%90%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "5",
+                "paragraphContent": "几座山，两个省，徒步几小时，倒换数次大巴公交，是挡不住父亲思念的距离。\n",
+                "disableRead": 0,
+                "expLevel": 27,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "700009897252683776",
+                "type": 2,
+                "title": "",
+                "content": "千千要换风格了吗？一直很喜欢千千的文，写言情有恋爱的感觉 ，写家国有热血沸腾的感觉，写的这个温情小文，看的都有点想哭了，加油！我要去看嫡长女啦",
+                "createTime": 1642321541365,
+                "userId": "120178113578",
+                "nickName": "小哲你要好好的",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120178118165_1644843321356/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "58922630312861153",
+                "chapterName": "一座山的距离",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,308 @@
+{
+    "bookInfo": {
+        "bookId": "17755279506421504",
+        "bookName": "致命偏宠",
+        "authorId": "5709390904247301",
+        "authorName": "漫西",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【已签出版】\n黎家团宠的小千金黎俏，被退婚了。\n黎家人揭竿而起，全城讨伐，誓要对方好看。\n*\n后来，黎俏偶遇退婚男的大哥。\n有人说：他是南洋最神秘的男人，姓商，名郁，字少衍；\n也有人说：他傲睨万物，且偏执成性，是南洋地下霸主，不可招惹。\n绵绵细雨中，黎俏望着杀伐野性的男人，浅浅一笑：“你好，我是黎俏。”\n做不成夫妻，那就做你长嫂。\n*\n几个月后，街头相遇，退婚男对黎俏冷嘲热讽：“你跟踪我？对我还没死心？”\n身后一道凌厉的口吻夹着冽风传来，“对你大嫂客气点！”\n自此，南洋这座城，风风雨雨中只剩最后一则传言——\n偏执成性的南洋霸主，有一个心尖小祖宗，她姓黎，名俏，字祖宗！",
+        "lastVipChapterId": "57770430291222925",
+        "lastVipChapterName": "第1321章：补充番外（龙凤胎）",
+        "lastVipChapterTime": 1636506823000,
+        "lastChapterId": "48512826121633275",
+        "lastChapterName": "第82章：我们仨是一个工地的工友",
+        "lastChapterTime": 1600830144000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2419390,
+        "totalChapterCount": 1321,
+        "collectCount": 1017667,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-08-17上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "242"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "102"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1625566347513,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 33199770
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 3716,
+        "fans": 103348,
+        "redBean": 1646359
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 4,
+            "bookId": 17755279506421504,
+            "name": "完结榜",
+            "url": "/rank?tagId=-1000&rankId=Finish_Gold",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP4"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5709390904247301",
+        "authorName": "漫西",
+        "authorGuid": "802019976043",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-24/3212eeb0ae3ff453b5c5b35685255cf8608a182100p65u8.jpg",
+        "fans": 238562,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "22313302009382504",
+                "bookName": "致命热恋"
+            },
+            {
+                "bookId": "13899265303683904",
+                "bookName": "暖婚甜入骨"
+            },
+            {
+                "bookId": "8855924504665403",
+                "bookName": "婚路情深"
+            },
+            {
+                "bookId": "5709390903846401",
+                "bookName": "陆爷心尖上的人儿"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "47724148239606902",
+                "roleName": "商郁",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "138"
+                },
+                "roleType": 4,
+                "popularCnt": 1384397,
+                "createTime": 1597827906000
+            },
+            {
+                "roleId": "47724133458883898",
+                "roleName": "黎俏",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "101"
+                },
+                "roleType": 5,
+                "popularCnt": 1007791,
+                "createTime": 1597827851000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 68681,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "512567611855405056",
+                "type": 0,
+                "title": "",
+                "content": "致命偏宠》  \n\t\t\t\t\t\t\t\t\t\t\t\t\t年复一年，日复一日，老子终于等到我西新书了【狂笑.jpg】看完简介，感觉真的贼鸡眼对自己胃口啊!老夫脸上会再次在12：00的时候溢出姨母笑，再次在不大的床上踢响整块床垫。哈哈哈哈哈哈哈哈哈哈哈。西！这本书没完结你居然还好意思发出来，我不看，等到完结你们亲们再踢我一下下qwq。\n\t\t\t\t\t\t\t\t\t\t\t\t\t黎俏VS商少衍，淦！这一对听起来就很酷啊！有没有？当团宠遇上偏执，当散散漫漫遇上杀伐果断，会不会意外的和可乐配姜茶一样意外的好喝？不过原谅老夫cp名还木有想好，主要是怕已经被遗忘在键盘深处十七和四哥奔赴万里来打我qwq。但是我相信衍哥会帮我打回去的，光是那个在886 章出现的短暂一幕，我到现在都忘不了，“他是檐上三寸雪，亦是人间惊鸿客。”是《暖婚甜入骨》里唯一一个气场能和四哥媲美甚至过于他的男人，太好奇这种人以后是不是妻管严了。\n\t\t\t\t\t\t\t\t\t\t\t\t\t暖婚的世界完美收官，\n\t\t\t\t\t\t\t\t\t\t\t\t\t致命的世界刚刚开始！\n我们一起祝西西新书大卖，争取让黎俏小仙女和商少衍这个魔鬼超过砚时柒and秦肆【🌚🌚🌚】\n秦肆：王大龙家，去了。｛石化.jpg｝",
+                "createTime": 1597631818000,
+                "userId": "1465309957",
+                "nickName": "玉玉症患者",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1465302520_1608301789234/100",
+                "replyCount": 44,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 613,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 10,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/2081_%E4%B8%80%E5%8F%AA%E8%A5%BF%E7%93%9C.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "624758502405177344",
+                "type": 0,
+                "title": "",
+                "content": "🙏🙏距离🙏🙏\n⚠️小说是艺术，请务必区分二次元三次元，现实中遇到任何偏执的人不管男女不管是谁请务必首先保护好自己\n这是人格缺陷精神疾病，没有小说里的浪漫，也不会就靠你爱他就能治愈，请务必保护好自己，及时止损，注意寻找正确帮助\n⚠️目前商郁的情况就是极度严重的偏执和狂躁，这和人设是一致的，他的病一直没有好，积压这么久终于爆发了，甚至到了一种不可控的程度\n所以才会伤害到黎俏\n⚠️他们的感情很多时候缺乏有效沟通，缺少有效的磨合和包容\n黎俏在意的太多了，所以就会有忽视，这很正常，处理不好或许就是压死骆驼的稻草之一\n或许她会觉得她的心思他可以明白，但事实显然不是他或者她可以控制的\n何况黎俏一次次的行为也确实差点事儿，一次次答应又一次次自己行动，不管什么理由，事后的沟通也不到位\n而商郁的过度紧张也只会让他觉得他不受重视，然后愈发在意和靠近，然后一次次刺激他紧绷的神经，不断成为发病的源头，绷到极致的爆发就是失控。就像现在\n他们就像两只刺猬，靠太近了会刺伤对方，靠太远了又会寒冷和孤独。\n所以造成了现在的压抑。\n⚠️亲密关系中的距离和沟通非常重要，非常非常重要。他们需要在一段关系里学会包容，学会留出合理的距离，既不会刺伤又不会孤独\n⚠️接下来只希望能好好治病好好沟通，商郁的病确实需要治了，毕竟这已经严重影响了正常的生活\n⚠️这是双方的问题，不存在单方面的哪一个不对劲，一个巴掌拍不响\n⚠️已经快两百万了，应该看得出来这不是无脑甜宠，所以请不要担心其他问题，跟剧情走就好。当然这个情况也远达不到虐的状态，顶多就是摩擦\n这就是生活，这就是艺术\n这就是这本书好的原因\n🙏🙏我瞎说的，但愿人没事🙏🙏\n",
+                "createTime": 1624380211000,
+                "userId": "1019303427",
+                "nickName": "土妹儿阿希有点甜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1019305930_1618475529027/100",
+                "replyCount": 10,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 292,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7596_1%E9%93%B6%20%E5%89%AF%E6%9C%AC.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "663209876784349184",
+                "type": 0,
+                "title": "",
+                "content": "【阅读指南：CP及部分人物关系】\n（未注明的皆因时间久远，记忆衰退）\n1.商郁♡黎俏→商胤，商曜，商绮\n 字：少衍              文瓒，文瑄，雲琋\n2.贺琛♡伊沫→贺言伊，贺言茉，贺言谨\n贺琛：赌场老大。伊沫：边境七子老二\n3.宗湛♡席萝→宗席澜\n宗湛：军区首长。席萝：炎盟M\n4.封毅♡玛格丽（四个）\n封毅：英帝贵族。玛格丽：英帝公主\n5.苏墨时♡吴敏敏（龙凤胎）\n苏墨时：国际医生。吴敏敏：缅国公主\n6.商陆♡梵媚\n商陆：商郁弟弟。梵媚：梵家小姐\n7.云厉♡夏思妤（一子）\n云厉：佣兵团老大。夏思妤：寰夏千金\n8.白炎♡柏婵→柏琅\n白炎：炎盟老大。柏婵：南昕助理\n9.霍茗♡唐弋婷→唐如果\n霍茗：总裁。唐弋婷：女总裁\n10.黎三♡南昕→黎恩宥\n黎三：兵工厂老大。南昕：兵工厂管理层\n11.黎二♡莫言\n黎二：艺术商。莫言：学生\n12.黎君♡宗悦\n黎君：南洋秘书长。宗悦：公司白领\n13.顾辰♡落雨→顾英俊\n顾辰：待定。落雨：商郁四大助手之一\n14.秦柏聿♡砚时柒→秦慕时，秦慕柒\n秦柏聿：总裁。砚时柒：名模\n15.秦慕时♡商绮\n秦慕时：刑侦特聘画师。商绮：法医\n16.商胤♡贺言茉\n商胤：商氏掌权者。贺言茉：待定\n[到大结局还是单身的]\n靳戎，宋寥，邢子楠，沈清野\n【阅读指南：个人感受】\n整理这些我把番外零零碎碎看了十几遍，越看越不舍得。这本书于我而言，不仅仅是一本很喜欢的小说，也是一位见证过我人生一大光辉时刻的挚友。文中每个人物都很饱满，虽然写这种人设的着实有点多了，但是漫西大大的文笔格局都是一等一的高手。单纯从个人情感上，我觉得漫西大大可以再补一点番外，感觉有点快了。但理智告诉我，这就是他们最好的结局。结拜五子除了靳戎都有了家庭，边境七子也都有了最好的归宿。商郁商陆商胤抱的美人归，席萝夏思妤伊沫对爱情改观。\n书中也有遗憾，比如商纵海，比如胤白，比如贺言伊。但正如漫西大大所用的那句“生命不该有遗憾，可若没有遗憾，生命又该何其乏味。”希望在下一世的你们 ，无拘无束，自由烂漫。\n我在这本书历经一年，从初三到高一。不曾经历商郁的坚毅，黎俏的洒脱，茉茉的热忱，我终未成为我的所愿。\n写了俩小时，祝大家晚安。\n世事千帆过，前方终会是温柔和月光。\n未来由心生，往后全部是温暖与希望。\n愿你乘风踏浪，披荆斩棘，初心不改。\n愿你饮酒煮茶，余生欢（非我原创，禁止盗用）",
+                "createTime": 1633547733000,
+                "userId": "120142580974",
+                "nickName": "霁月奈奈子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120142588988_1608046666788/100",
+                "replyCount": 23,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 116,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

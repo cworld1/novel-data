@@ -1,0 +1,331 @@
+{
+    "bookInfo": {
+        "bookId": "18990003708945404",
+        "bookName": "楚河记事",
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "楚河从星际战场来到落后的山海星，突然发现……这些世界的天命主角不太对劲啊！\r\n世界1：科技强国，打碎原女主剽窃梦。[√]\r\n世界2：我是大文豪，到底谁用了金手指。[√]\r\n世界3：当片警靠着狗鼻子在机场办案。[√]\r\n世界4：末世天灾，灵泉空间的妙用。[√]\r\n世界5：年代文，嫁人还是考清华。[进行中]\r\n快穿小世界，无cp。\r\n后续世界若干，钢铁直女打脸天命主角，每个故事节奏快慢不定。",
+        "lastVipChapterId": "58072061432014895",
+        "lastVipChapterName": "新书《国师》已经发布",
+        "lastVipChapterTime": 1636376888000,
+        "lastChapterId": "52249221109617434",
+        "lastChapterName": "我，老耿，跟着楚河写话本！",
+        "lastChapterTime": 1614774639000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1101648,
+        "totalChapterCount": 295,
+        "collectCount": 3853,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20029,
+                "tagName": "直播"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20022,
+                "tagName": "穿书"
+            },
+            {
+                "tagId": 30399,
+                "tagName": "糙汉"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30452,
+                "tagName": "钢铁直女"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-01-18上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "110"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3853"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1616723752447,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 35556941
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 33,
+        "fans": 568,
+        "redBean": 16369
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "authorGuid": "800112729270",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-06-30/89c4b0df90822ab9503db8b90b013e8aeQn8voUc4SX11U5.jpg",
+        "fans": 6987,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23668280201484904",
+                "bookName": "宋檀记事"
+            },
+            {
+                "bookId": "22537847201444604",
+                "bookName": "妻子的复仇：一女二卖"
+            },
+            {
+                "bookId": "22537839101439204",
+                "bookName": "了不起的魔法"
+            },
+            {
+                "bookId": "22537832801434204",
+                "bookName": "我的美人鱼不可能那么凶残！"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "51311942207780048",
+                "roleName": "楚河",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "9177"
+                },
+                "roleType": 1,
+                "popularCnt": 9177,
+                "createTime": 1611193481000
+            },
+            {
+                "roleId": "52913425336478877",
+                "roleName": "长庚",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1056"
+                },
+                "roleType": 6,
+                "popularCnt": 1056,
+                "createTime": 1617159470000
+            },
+            {
+                "roleId": "52913440486303997",
+                "roleName": "小黄毛",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "440"
+                },
+                "roleType": 6,
+                "popularCnt": 440,
+                "createTime": 1617159526000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 390,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "582685088127451136",
+                "type": 0,
+                "title": "",
+                "content": "是无cp吗？",
+                "createTime": 1614349127000,
+                "userId": "2663419991",
+                "nickName": "戏茶",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2663412989_1650266107686/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "575300434906972160",
+                "type": 0,
+                "title": "",
+                "content": "啊啊啊，不够看赶快上架爆更，月票都没法投啊😱😱",
+                "createTime": 1612588489000,
+                "userId": "129807523424",
+                "nickName": "时遇倾城色538744253",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129807520722_1563895583568/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7741_%E4%BA%8C%E6%9C%88%E6%B5%81%E9%87%91.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "727284497468620800",
+                "type": 0,
+                "title": "",
+                "content": "长庚和楚河我感觉是家人，守护者与被守护者，但却实没有男女朋友之间的关系，另外，我看完了很好看，再见👋👋👋👋👋",
+                "createTime": 1648824313000,
+                "userId": "120143529663",
+                "nickName": "辛吾",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120143528382_1580233365085/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1996_9021_%E9%94%A6%E9%B2%A4%E5%A4%87%E4%BB%BD%203.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "15185695604581804",
+        "bookName": "我在八零当福包",
+        "authorId": "6692295503726301",
+        "authorName": "沸腾的咖啡",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "　　推荐咖啡预收藏新文《锦鲤女王重生在八零》。凤族的宝（小）贝（祸）疙（害）瘩，萧凤，涅槃失败了，渣渣都不剩。\n　　再睁眼，重生到了八十年代，穿成了个苦巴巴的农家女。\n　　前有大伯一家虎视眈眈，嫁个俊男人还是个瘫子，转身一群小包子张嘴要吃饭。\n　　萧凤觉得自己好惨一凤凰！\n　　好在她有异能空间傍身，福运爆表。虐渣渣，养男人，宠包子，发家致富风生水起。\n　　说她学历低没文化，可养出小二叔成了航天家。小三叔一鸣惊人更可怕，各种奖项手里拿。还有颜值爆表小姑子，妥妥人生大赢家。\n　　姜楚：媳妇儿，他们都说我娶了摇钱树！\n　　萧凤：呸！本仙女是金凤凰！",
+        "lastVipChapterId": "42808459351535139",
+        "lastVipChapterName": "第385章 大结局（欢迎回家，我的爱人）",
+        "lastVipChapterTime": 1580633841000,
+        "lastChapterId": "41395773724139941",
+        "lastChapterName": "第83章 英雄救美（十四）",
+        "lastChapterTime": 1574255629000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 394130,
+        "totalChapterCount": 385,
+        "collectCount": 3175,
+        "tag": [
+            {
+                "tagId": 20027,
+                "tagName": "空间"
+            },
+            {
+                "tagId": 20330,
+                "tagName": "致富"
+            },
+            {
+                "tagId": 30404,
+                "tagName": "锦鲤"
+            },
+            {
+                "tagId": 30419,
+                "tagName": "福气包"
+            },
+            {
+                "tagId": 50297,
+                "tagName": "团宠"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-10-24上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "39"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3175"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1572671061939,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 26711916
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 796,
+        "redBean": 1017
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "6692295503726301",
+        "authorName": "沸腾的咖啡",
+        "authorGuid": "2078387972",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2018-03-08/5aa0a6187825b.jpeg",
+        "fans": 2261,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "24533758901917904",
+                "bookName": "八零大院小可怜是玄学大佬"
+            },
+            {
+                "bookId": "16007605304653304",
+                "bookName": "锦鲤女王重生在八零"
+            },
+            {
+                "bookId": "13716065305471804",
+                "bookName": "重生豪门小俏媳"
+            },
+            {
+                "bookId": "12033180904558103",
+                "bookName": "你是爱情最好的样子"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 44,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "505724360536096768",
+                "type": 0,
+                "title": "",
+                "content": "他家老爹也太窝囊了吧？不为自己的女儿考虑，他不只有一个女儿吗？",
+                "createTime": 1596000260000,
+                "userId": "854020219421",
+                "nickName": "红袖书友15935200684085116",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854020217423_1593787257920/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "429459171168026624",
+                "type": 0,
+                "title": "",
+                "content": "没见过脾气这么好的凤凰，看的起🔥。",
+                "createTime": 1577817222000,
+                "userId": "129611571771",
+                "nickName": "迅猛龙61",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129611575337_1576773577793/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 17,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7741_%E4%BA%8C%E6%9C%88%E6%B5%81%E9%87%91.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "470628587922391040",
+                "type": 0,
+                "title": "",
+                "content": "确实很好看呀，哈哈哈哈哈",
+                "createTime": 1587632776000,
+                "userId": "120036231599",
+                "nickName": "你到底是什么怪物呀",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

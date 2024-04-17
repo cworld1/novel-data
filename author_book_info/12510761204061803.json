@@ -1,0 +1,354 @@
+{
+    "bookInfo": {
+        "bookId": "12510761204061803",
+        "bookName": "我和总统结婚了",
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "新书《玄门小娇娇白天扮乖，晚上禁撩！》已发布！她被骗婚了！一个高深莫测的冰山男人，对她只有一个要求：合作愉快。\n本以为只是过个场子，岂料婚后她一见到老公就脚软，“祁先生，您……太凶了，我想离婚。”\n“我什么时候凶过你？”\n“昨天……”\n祁御尧皱眉，这女人身软腿细手无力，所以他答应要帮她做体能训练，“你连八百米都跑不完，还想当什么记者。”\n她说的不是跑步这件事好不好！\n直到神秘老公的身份曝光，沈倾儿直接哔了狗。\n她嫁给了世上最危险的男人，不离婚等着被昭告天下啊！\n【非重生+非狗仔记者+非一夜情，励志+正能量+三观正，1v1+甜宠文+黑客，大厂女孩养成记】",
+        "lastVipChapterId": "40207583384701245",
+        "lastVipChapterName": "第84章 全文大结局",
+        "lastVipChapterTime": 1570414388000,
+        "lastChapterId": "39912677767582316",
+        "lastChapterName": "新书《重逢后我们成了模范夫妇》已经发布",
+        "lastChapterTime": 1568736439000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1130084,
+        "totalChapterCount": 1085,
+        "collectCount": 504012,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20091,
+                "tagName": "日久生情"
+            },
+            {
+                "tagId": 20318,
+                "tagName": "婚恋"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-12-20上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "113"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "50"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 23733499
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 337,
+        "fans": 41614,
+        "redBean": 105044
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "authorGuid": "854003854674",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+        "fans": 64586,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22502891709842604",
+                "bookName": "玄门小娇娇白天扮乖，晚上禁撩！"
+            },
+            {
+                "bookId": "20480201308148404",
+                "bookName": "御赐小狂妃"
+            },
+            {
+                "bookId": "19207271601733104",
+                "bookName": "他太太貌美志残"
+            },
+            {
+                "bookId": "15642430604362904",
+                "bookName": "谁又在窥觊我的美貌"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "34020788462406337",
+                "roleName": "祁御尧",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "4"
+                },
+                "roleType": 4,
+                "popularCnt": 40229,
+                "createTime": 1546778914000
+            },
+            {
+                "roleId": "34020816131858500",
+                "roleName": "沈倾儿",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "3.3"
+                },
+                "roleType": 5,
+                "popularCnt": 33015,
+                "createTime": 1546779016000
+            },
+            {
+                "roleId": "38424171499598204",
+                "roleName": "欧昀",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "6403"
+                },
+                "roleType": 6,
+                "popularCnt": 6403,
+                "createTime": 1563182793000
+            },
+            {
+                "roleId": "37512706157692024",
+                "roleName": "檀忆",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "3299"
+                },
+                "roleType": 2,
+                "popularCnt": 3299,
+                "createTime": 1559787320000
+            },
+            {
+                "roleId": "37512662416421777",
+                "roleName": "靳言东",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "1954"
+                },
+                "roleType": 1,
+                "popularCnt": 1954,
+                "createTime": 1559787157000
+            },
+            {
+                "roleId": "37512722534965263",
+                "roleName": "韩子恒",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "1790"
+                },
+                "roleType": 2,
+                "popularCnt": 1790,
+                "createTime": 1559787381000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 15766,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "342251713815838739",
+                "type": 0,
+                "title": "更新时间：凌晨12点05分。",
+                "content": "「更新时间：凌晨12点05分。」更新时间：每天凌晨12点05分，已经是一天里最早的时间了。\n关于更新，无推日4更打底，有推时6更打底。",
+                "createTime": 1557027128000,
+                "userId": "854003854674",
+                "nickName": "玉司司",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+                "replyCount": 93,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 304,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "7878024704613501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "349376350718787636",
+                "type": 0,
+                "title": "",
+                "content": "祁先生和倾儿的故事真的深深的打动了我，我明明只是个萌新粉丝却用短短四天看到这里（因为白天要工作）祁先生和倾儿的一点一滴我都铭记在心，我连我自己都没想到，我竟然看一部小说如此投入感情，我哭过 大笑过，情绪被他们的故事牵连着，甚至，我每天在休息时都会想到这篇小说，想起里面甜甜的情节，我竟哑然失笑，我已经不把祁先生和倾儿的故事当做一本小说了，在我眼中，这就是一个真实的事情。他们的故事让我明白可许多，所以，这部小说，不论她收不收费，我一定会追到底。\n剧情中也是出现过写小说作者的不易，在此，请您注意休息，辛苦了！\n                              ——爱您的读者",
+                "createTime": 1558735676000,
+                "userId": "428035702",
+                "nickName": "皌皖",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/428036601_1583480949164/100",
+                "replyCount": 17,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 281,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "361295135922847820",
+                "type": 0,
+                "title": "",
+                "content": "我是昨天开始看的，今天终于追完了，我有以下几点说法\n首先，大家都觉得女主作，我认为并不然，女主生活在什么家庭里？家暴？而且姐姐死了，她会活在姐姐的阴影下，她是害怕失去，自卑，换作你们你们不也如此，她的坚强并不是与生俱来的？所以当她提出离婚时，我认为这是正常反正，毕竟当你面对一个比你优秀上千倍的人，你会发现你会自卑，抬不起头，所以请别说女主作，己所不欲勿施于人。\n其次，对你男二的感情路线，他对女主首先是感兴趣或是利用，但后来也有过些许心动的但后来随着檀忆出现在小说情节中，大家会发现，他首先是愧疚，当然也可以说不是愧疚，但肯定没有喜欢，但随着后来他们的床事出现，男二对她也有了柔情，甚至有喜欢，但这时候她已经领证了",
+                "createTime": 1561567238000,
+                "userId": "3497625786",
+                "nickName": "眼睛里有馨馨嘛",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3497626600_1576221642923/100",
+                "replyCount": 17,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 181,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,267 @@
+{
+    "bookInfo": {
+        "bookId": "10818106903288903",
+        "bookName": "我娶你，终生为期",
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "categoryId": 30050,
+        "categoryName": "游戏竞技",
+        "subCategoryId": 30052,
+        "subCategoryName": "网游情缘",
+        "description": "某大神夫君：娘子，我跟任务谁更重要。\r\n某大神娘子：任务。\r\n某大神夫君捂着受伤的心口求呼呼：我的心受伤了，需要娘子爱的抱抱才能治好。\r\n某大神娘子：［一脚踢飞］\r\n确过眼神，追妻路漫漫……\r\n某大神内流满面：自己选的娘子，跪着都要宠啊！",
+        "lastVipChapterId": "36818576874874283",
+        "lastVipChapterName": "第570章来世，各自安好（大结局）",
+        "lastVipChapterTime": 1558375746000,
+        "lastChapterId": "34428119693399285",
+        "lastChapterName": "第160章不久将会到来",
+        "lastChapterTime": 1548404185000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 595379,
+        "totalChapterCount": 565,
+        "collectCount": 172,
+        "tag": [
+            {
+                "tagId": 20296,
+                "tagName": "电竞"
+            },
+            {
+                "tagId": 10013,
+                "tagName": "竞技"
+            },
+            {
+                "tagId": 20352,
+                "tagName": "网游情缘"
+            },
+            {
+                "tagId": 30120,
+                "tagName": "大神"
+            },
+            {
+                "tagId": 10012,
+                "tagName": "游戏"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-06-06上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "60"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "172"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1558576457819,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 22247032
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 21,
+        "redBean": 41
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "authorGuid": "1459375229",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-02-26/6037d1590c59b.jpeg",
+        "fans": 1511,
+        "total": 9,
+        "items": [
+            {
+                "bookId": "21933370001278504",
+                "bookName": "白天冷冰冰的顶流晚上哭着哄我"
+            },
+            {
+                "bookId": "16084955505156104",
+                "bookName": "大神今天恋爱了吗"
+            },
+            {
+                "bookId": "14090528105719204",
+                "bookName": "后来，无人像你"
+            },
+            {
+                "bookId": "9225878303230403",
+                "bookName": "左心房有了你的陪伴"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 69,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 3,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "317837855470714880",
+                "type": 3,
+                "title": "",
+                "content": "看来我们的女主重生前发生了什么不得了的事呢！",
+                "createTime": 1550419400912,
+                "userId": "819582263",
+                "nickName": "九荃",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/819581151_1563106505042/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "33487191654301196",
+                "chapterName": "第42章想认亲，找别人",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "18",
+                "paragraphContent": "因为重生而先知的缘故，秦艽在股市赚了一笔钱，拿着那笔钱请了一批专业的管理人才，帮她管理秦氏。",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "656054858624991232",
+                "type": 3,
+                "title": "",
+                "content": "好虐啊这对",
+                "createTime": 1631841843497,
+                "userId": "3515216913",
+                "nickName": "颜夫人a",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3515214951_1685021930157/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "35760953294688268",
+                "chapterName": "第397章",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "39",
+                "paragraphContent": "也知道他是故意让自己饿出胃病，为了体会跟钱常出一样的痛苦，跟他一样的死法。",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "381872793660358656",
+                "type": 3,
+                "title": "",
+                "content": "应该是秋静",
+                "createTime": 1566471745162,
+                "userId": "1398427609",
+                "nickName": "甜甜的养猪女孩",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1398422069_1564040713447/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "34531419280476661",
+                "chapterName": "第190章秋芜的堂妹是谁",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "12",
+                "paragraphContent": "不过，这个秋芜的堂妹是谁？",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

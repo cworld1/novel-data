@@ -1,0 +1,441 @@
+{
+    "bookInfo": {
+        "bookId": "13121988804875403",
+        "bookName": "农家小福女",
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30019,
+        "subCategoryName": "经商种田",
+        "description": "周家的四哥赌输了钱，母亲病重，赌场的人还想让满宝偿债。\n村里人都说周家的宝贝疙瘩好日子到头了，老娘也握着满宝的小手哭唧唧。\n满宝却手握系统，带着兄弟嫂子们开荒，种地，种药材，开铺子……\n日子越过越好，嫂子们却开始忧心满宝的婚事。\n满宝抿嘴一笑：“我早就想好了，就选被我从小揍到大的竹马白善宝。”\n坑品有保证，已完结的作品有《林氏荣华》《重生娘子在种田》等六本书。",
+        "lastVipChapterId": "67733596672157050",
+        "lastVipChapterName": "《农家小福女》独家新番外上线潇湘书院啦",
+        "lastVipChapterTime": 1672369077000,
+        "lastChapterId": "36051764422960479",
+        "lastChapterName": "第六十章 智力超群",
+        "lastChapterTime": 1623645442000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 7357879,
+        "totalChapterCount": 3539,
+        "collectCount": 84305,
+        "tag": [
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 20035,
+                "tagName": "种田"
+            },
+            {
+                "tagId": 20330,
+                "tagName": "致富"
+            },
+            {
+                "tagId": 20464,
+                "tagName": "开荒"
+            },
+            {
+                "tagId": 70429,
+                "tagName": "温馨"
+            },
+            {
+                "tagId": 30419,
+                "tagName": "福气包"
+            },
+            {
+                "tagId": 30403,
+                "tagName": "秀外慧中"
+            },
+            {
+                "tagId": 30389,
+                "tagName": "自强"
+            },
+            {
+                "tagId": 30415,
+                "tagName": "旺夫"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-03-02上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "736"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "8.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1586399502634,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 24230535
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 164,
+        "fans": 5207,
+        "redBean": 313911
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 28,
+            "bookId": 13121988804875403,
+            "name": "完结榜",
+            "url": "/rank?tagId=-1000&rankId=Finish_Gold",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP28"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "authorGuid": "1795374923",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a2437210/0",
+        "fans": 9101,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23743059609775504",
+                "bookName": "正良缘"
+            },
+            {
+                "bookId": "22157767309773504",
+                "bookName": "魏晋干饭人"
+            },
+            {
+                "bookId": "21950873308320704",
+                "bookName": "年成"
+            },
+            {
+                "bookId": "17034953304870404",
+                "bookName": "从现代飞升以后"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "37257765225236597",
+                "roleName": "满宝",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "13"
+                },
+                "roleType": 5,
+                "popularCnt": 126160,
+                "createTime": 1558837591000
+            },
+            {
+                "roleId": "37257775696435598",
+                "roleName": "白善",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "3.9"
+                },
+                "roleType": 4,
+                "popularCnt": 39450,
+                "createTime": 1558837630000
+            },
+            {
+                "roleId": "43689319277771016",
+                "roleName": "科科",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.5"
+                },
+                "roleType": 2,
+                "popularCnt": 15106,
+                "createTime": 1582796998000
+            },
+            {
+                "roleId": "42531510196601222",
+                "roleName": "庄先生",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.5"
+                },
+                "roleType": 6,
+                "popularCnt": 15103,
+                "createTime": 1578483822000
+            },
+            {
+                "roleId": "42531484946893496",
+                "roleName": "白二郎",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "9753"
+                },
+                "roleType": 6,
+                "popularCnt": 9753,
+                "createTime": 1578483728000
+            },
+            {
+                "roleId": "42531582388975710",
+                "roleName": "老周头",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "7622"
+                },
+                "roleType": 2,
+                "popularCnt": 7622,
+                "createTime": 1578484091000
+            },
+            {
+                "roleId": "42531541335126609",
+                "roleName": "殷或",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "7544"
+                },
+                "roleType": 6,
+                "popularCnt": 7544,
+                "createTime": 1578483938000
+            },
+            {
+                "roleId": "46607465013809408",
+                "roleName": "杨和书",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "3875"
+                },
+                "roleType": 6,
+                "popularCnt": 3875,
+                "createTime": 1593667938000
+            },
+            {
+                "roleId": "42531600927791009",
+                "roleName": "钱氏",
+                "bookRank": 9,
+                "bookRankStr": "09",
+                "popular": {
+                    "unit": "",
+                    "count": "2793"
+                },
+                "roleType": 2,
+                "popularCnt": 2793,
+                "createTime": 1578484160000
+            },
+            {
+                "roleId": "46607490531962185",
+                "roleName": "唐鹤",
+                "bookRank": 10,
+                "bookRankStr": "10",
+                "popular": {
+                    "unit": "",
+                    "count": "2552"
+                },
+                "roleType": 6,
+                "popularCnt": 2552,
+                "createTime": 1593668032000
+            },
+            {
+                "roleId": "42554463038710869",
+                "roleName": "大吉",
+                "bookRank": 11,
+                "bookRankStr": "11",
+                "popular": {
+                    "unit": "",
+                    "count": "2527"
+                },
+                "roleType": 2,
+                "popularCnt": 2527,
+                "createTime": 1578569328000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 6890,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "437678885551996928",
+                "type": 0,
+                "title": "",
+                "content": "作者大大你好，我第一次写书评，你的所有小说我都看过了。第一本是《农家小地主》，我看了三遍，第一次看的时候还没写完，我个人认为结尾有点突然，幸好有翻外，李江配那样的老婆有点亏了。第二本是《林氏荣华》，特别喜欢这本吹爆啊！特别心疼清婉她太辛苦了，当时特别怕有感情戏，感觉会毁了清婉，毁了这本书，幸好没有，虽然和易寒挺有Cp感的，但我还是喜欢作者大大的安排的结局。第三本书是《玉石良缘》，我的感觉是不会看第二遍。第四本书是《童养媳之桃李满天下》，这本书特别好看啊！宝璐真的是特别的好啊，尽自己所能做自己能做到的事，她拯救了多少女孩子，改变了很多人的命运，穷则独善其身，达则兼济天下，她做到了！天降惊喜，林氏荣华竟然有第二部！《林家有女异世归》，我的最爱，最爱呀！看了四遍都，作者大大，虽然你说了不能更新的原因，但是好可惜好可惜呀！明明这么好，这么精彩，为什么不可以更新呢？虽然不知道哪里犯了忌讳，但是如果要删掉哪个角色才能改的话，那还不如不更呢。里面的每一个角色我都喜欢，谁都不能少！《农家小福女》看了三遍，虽然不该这么说，作者大大请快点更啊，不要断在这么精彩的地方阿！作者大大你一定要好起来不要生病啊，希望大大可以开新书。祝大大文思泉涌，雄奇峭拔，妙笔生辉，匠心独运，行云流水，百尺竿头，笔锋雄浑，沉着洗炼\n文笔不好大大别介意啊爱你爱你(୨୧•͈ᴗ•͈)◞︎ᶫᵒᵛᵉ   ♡\n",
+                "createTime": 1579776954000,
+                "userId": "120141892726",
+                "nickName": "走路太浪会闪腰",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120141894320_1579632203275/100",
+                "replyCount": 11,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 94,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "460907116006408192",
+                "type": 0,
+                "title": "",
+                "content": "满宝和白善，这是我想要的爱情啊ヽ(爱´∀‘爱)ノ",
+                "createTime": 1585314996000,
+                "userId": "120109687453",
+                "nickName": "溯洄公子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120109685460_1588389361495/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "422707847021854720",
+                "type": 0,
+                "title": "",
+                "content": "超级喜欢这样的书，没有狗血，没有礼品，淡淡的，慢慢进步，特别好，就是太少了，我 已经养了好久，结果还是一下子就看完了\n\n催更催更呀\n",
+                "createTime": 1576207581000,
+                "userId": "120079725403",
+                "nickName": "Yourselves",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120079729845_1566879044132/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 51,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7534_%E7%98%A6%E6%88%90%E9%97%AA%E7%94%B5.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

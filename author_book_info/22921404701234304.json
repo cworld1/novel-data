@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "22921404701234304",
+        "bookName": "闪婚后，首富老公抱着我不撒手",
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "【占有欲爆棚暴躁霸总VS清冷美飒电视台女主持，1v1，玄学】\n苏家大小姐出嫁了，极尽奢华的婚礼上却没有新郎的身影。\n*\n传闻容家太子爷，性格冷戾，手段狠毒，脾气暴躁，薄情高傲，又因身患隐疾，会三不五时昏迷，很可能活不过三十岁。\n重生后的苏漾却头也不回的嫁进了容家。\n新婚当夜，昏迷半月有余的容家太子爷竟真的醒了过来。\n看着男人周身稀薄到几乎看不见的紫色气运，苏漾不禁感叹：自己真是任重而道远啊......\n\n婚后，有记者问：“请问容总在未来公司或者生活上有什么大致规划吗？”\n男人眉头轻挑，若有所思：“先定个小目标，生个孩子吧。”\n粉丝A：“又是吃狗粮吃到撑的一天。”\n粉丝B：“举报，这里有人屠狗，屠我这只单身狗。”\n粉丝C：“@苏漾，你管管你男人，让他做个人吧！”\n此后，帝都再次有传言传出，惹谁都不能惹苏家那个私生女，她是容家太子爷放在心尖上，不容任何人染指的朱砂痣和白月光。",
+        "lastVipChapterId": "64008844669418674",
+        "lastVipChapterName": "199：番外（四）",
+        "lastVipChapterTime": 1658495829000,
+        "lastChapterId": "62204205712075237",
+        "lastChapterName": "047：二人世界，懂？",
+        "lastChapterTime": 1651960818000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 430400,
+        "totalChapterCount": 199,
+        "collectCount": 2129,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 20100,
+                "tagName": "闪婚"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20062,
+                "tagName": "玄学"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-04-07上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "43"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2129"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1652663891979,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 43609808
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 16,
+        "fans": 547,
+        "redBean": 3366
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "authorGuid": "854000517740",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+        "fans": 44736,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25639927501415304",
+                "bookName": "炙婚久骄"
+            },
+            {
+                "bookId": "24920432001880504",
+                "bookName": "恃婚生骄"
+            },
+            {
+                "bookId": "20831154108229704",
+                "bookName": "夫人是个小撩精"
+            },
+            {
+                "bookId": "18567467608553804",
+                "bookName": "有婚可乘"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "61871289912504707",
+                "roleName": "容湛",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "677"
+                },
+                "roleType": 4,
+                "popularCnt": 677,
+                "createTime": 1650530116000
+            },
+            {
+                "roleId": "61871317695574067",
+                "roleName": "苏漾",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "596"
+                },
+                "roleType": 5,
+                "popularCnt": 596,
+                "createTime": 1650530220000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 53,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "736242828765822976",
+                "type": 0,
+                "title": "关于更新时间",
+                "content": "「关于更新时间」宝贝们，新书现在每天稳定更新，更新时间在早晨六点左右，免费期间两千到四千之间，偶尔也会六千，若上架后，就是四千到六千，喜欢的宝子们留下一个脚印，点个收藏哟，此文重生+玄学+甜宠+双强的设定哦！❤️",
+                "createTime": 1650960145000,
+                "userId": "854000517740",
+                "nickName": "槿郗",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "10487557603400401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "741948448026263553",
+                "type": 0,
+                "title": "",
+                "content": "今天几更呀",
+                "createTime": 1652320471000,
+                "userId": "803031770614",
+                "nickName": "紫琪16",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "732842574934704128",
+                "type": 0,
+                "title": "",
+                "content": "暴躁的容爺我好愛呀～～",
+                "createTime": 1650149462000,
+                "userId": "854021814305",
+                "nickName": "慵懶的雅吖",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854021819826_1637161737091/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

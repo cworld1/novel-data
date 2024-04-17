@@ -1,0 +1,314 @@
+{
+    "bookInfo": {
+        "bookId": "19207271601733104",
+        "bookName": "他太太貌美志残",
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "（新书《御赐小狂妃》已发布）三爷娶了个貌美如花的妻子，逢人就夸老婆温柔贤惠，勤奋顾家，厨技一流。\n然而，倪小姐每天只想做一件事：混吃混喝当咸鱼，最终目的是离婚！\n三爷自然不乐意，三天打钱，两天送吃的，简直把她当成祖宗来伺候！\n倪小姐离婚无望，不得不离家搞事业，一不小心黑红出圈，二人隐婚也不慎曝光。\n网友们连夜列举出倪小姐十大黑料，跪求大佬快离婚。\n三爷笑：“她是我的命，你们劝我不要她，就是劝我不要命。”\n–\n外人都传，倪小姐是情场高手，阅男无数。\n倪小姐却很苦恼，她到底还有多少个流落在外的哥哥！",
+        "lastVipChapterId": "54339351794386333",
+        "lastVipChapterName": "第285章 大结局",
+        "lastVipChapterTime": 1622522335000,
+        "lastChapterId": "52945746693433478",
+        "lastChapterName": "第100章 到我房间躲一躲",
+        "lastChapterTime": 1617282331000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 301436,
+        "totalChapterCount": 284,
+        "collectCount": 8237,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 20043,
+                "tagName": "美食"
+            },
+            {
+                "tagId": 20056,
+                "tagName": "吐槽"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 30401,
+                "tagName": "醋王"
+            },
+            {
+                "tagId": 30417,
+                "tagName": "作精"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-02-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "30"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "8237"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1615639726891,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 36055915
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 5,
+        "fans": 1133,
+        "redBean": 4674
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "authorGuid": "854003854674",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+        "fans": 64586,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22502891709842604",
+                "bookName": "玄门小娇娇白天扮乖，晚上禁撩！"
+            },
+            {
+                "bookId": "20480201308148404",
+                "bookName": "御赐小狂妃"
+            },
+            {
+                "bookId": "15642430604362904",
+                "bookName": "谁又在窥觊我的美貌"
+            },
+            {
+                "bookId": "14861190604720204",
+                "bookName": "重逢后我们成了模范夫妇"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "51834433183385601",
+                "roleName": "倪妥妥",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1599"
+                },
+                "roleType": 5,
+                "popularCnt": 1599,
+                "createTime": 1613139911000
+            },
+            {
+                "roleId": "51834460949677356",
+                "roleName": "池禹擎",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1475"
+                },
+                "roleType": 4,
+                "popularCnt": 1475,
+                "createTime": 1613140014000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 174,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "626288671808684032",
+                "type": 0,
+                "title": "",
+                "content": "很好看，就是结局太仓促了还有没有番外有点小遗憾，还是想说真的很好看，很值得一看！，",
+                "createTime": 1624745032000,
+                "userId": "120092180134",
+                "nickName": "JR呀",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120092180138_1608689840719/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "645846223701606400",
+                "type": 0,
+                "title": "",
+                "content": "作者大大，你写的这本小说还挺有意思的。但是，结局是不是太草率了，你能不能重新改交代一下结局，最后那个乃钧和女主之间的秘密到底是个啥呀，女主为什么一下子好了，还有就是女主背上的那个像二维码的纹身怎么解释",
+                "createTime": 1629407915000,
+                "userId": "120226740573",
+                "nickName": "木子李896765601",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 3,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "616782628254711808",
+                "type": 0,
+                "title": "",
+                "content": "结尾太紧凑。",
+                "createTime": 1622478614000,
+                "userId": "315957588",
+                "nickName": "315957588",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/315958661_1499072858533/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

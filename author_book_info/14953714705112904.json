@@ -1,0 +1,367 @@
+{
+    "bookInfo": {
+        "bookId": "14953714705112904",
+        "bookName": "天作不合",
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "人都说那位不可说的乔小姐是个不祥之人，所过之处，寸草不生，活物难寻。\n城中幼童最怕三样东西：吃人的大虫、吓人的恶鬼以及克人的乔小姐。\n在将最后一个族亲克进大牢之后，方家终于将她赶了出去。\n赶走当日，便举族相告、奔走欢庆。\n***\n三月春的一天，那位人尽皆知的“扫把星”乔小姐住进了金陵城外的玄真观。\n自此，城中鸡飞狗跳不断……\n放个书友建的群号，欢迎大家进群玩耍：215715120",
+        "lastVipChapterId": "56284090705878553",
+        "lastVipChapterName": "完结感言",
+        "lastVipChapterTime": 1629782989000,
+        "lastChapterId": "41603983286437139",
+        "lastChapterName": "上架前的一些话",
+        "lastChapterTime": 1575276320000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2788280,
+        "totalChapterCount": 873,
+        "collectCount": 5056,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20040,
+                "tagName": "宅斗"
+            },
+            {
+                "tagId": 30136,
+                "tagName": "贵女"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-10-08上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "279"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "5056"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1571710462730,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 26460912
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 6,
+        "fans": 726,
+        "redBean": 13945
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "authorGuid": "800155142877",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 4367,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "23745323301951404",
+                "bookName": "大理寺小饭堂"
+            },
+            {
+                "bookId": "20076235401040204",
+                "bookName": "独占金枝"
+            },
+            {
+                "bookId": "8623124404548303",
+                "bookName": "天赐一品"
+            },
+            {
+                "bookId": "22376687000523202",
+                "bookName": "女配修仙记"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "41693602594139618",
+                "roleName": "乔苒",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "3438"
+                },
+                "roleType": 5,
+                "popularCnt": 3438,
+                "createTime": 1575362373000
+            },
+            {
+                "roleId": "41693623532105609",
+                "roleName": "张解",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1058"
+                },
+                "roleType": 1,
+                "popularCnt": 1058,
+                "createTime": 1575362451000
+            },
+            {
+                "roleId": "42720984021049259",
+                "roleName": "裴卿卿",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "494"
+                },
+                "roleType": 2,
+                "popularCnt": 494,
+                "createTime": 1579189667000
+            },
+            {
+                "roleId": "41693614673737559",
+                "roleName": "红豆",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "394"
+                },
+                "roleType": 7,
+                "popularCnt": 394,
+                "createTime": 1575362418000
+            },
+            {
+                "roleId": "41693650375640309",
+                "roleName": "唐中元",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "195"
+                },
+                "roleType": 2,
+                "popularCnt": 195,
+                "createTime": 1575362551000
+            },
+            {
+                "roleId": "41978649909900152",
+                "roleName": "封仵作",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "147"
+                },
+                "roleType": 2,
+                "popularCnt": 147,
+                "createTime": 1576424257000
+            },
+            {
+                "roleId": "41693636702213191",
+                "roleName": "黎兆",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "141"
+                },
+                "roleType": 1,
+                "popularCnt": 141,
+                "createTime": 1575362500000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1083,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "399471972624564224",
+                "type": 0,
+                "title": "",
+                "content": "来追大大新作",
+                "createTime": 1570667716000,
+                "userId": "854011790425",
+                "nickName": "冬宝_",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854011796615_1588496627419/100",
+                "replyCount": 19,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "476178756319576066",
+                "type": 0,
+                "title": "",
+                "content": "小可爱们，我是作者君，来和大家打个招呼！\n有什么想问打或者想说的或者建议都可以给我留言，不定期上线～",
+                "createTime": 1588956039000,
+                "userId": "800155142877",
+                "nickName": "漫漫步归",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "3635399804845801",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "516437799604387840",
+                "type": 0,
+                "title": "",
+                "content": "去看了天踢一品，怎么看都觉得大天师和张天师是亲戚啊😲😲",
+                "createTime": 1598554543000,
+                "userId": "120092619123",
+                "nickName": "A       云雪",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120092610706_1565628901921/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

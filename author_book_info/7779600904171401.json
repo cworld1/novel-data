@@ -1,0 +1,334 @@
+{
+    "bookInfo": {
+        "bookId": "7779600904171401",
+        "bookName": "快穿直播：攻略反派大BOSS",
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "categoryId": 30042,
+        "categoryName": "科幻空间",
+        "subCategoryId": 30044,
+        "subCategoryName": "时空穿梭",
+        "description": "（baby们～我终于又双叒开新坑了《去TM的虐文女主》无敌大爽文！专业打脸虐文里的渣男贱女！欢迎来看，入坑不亏哟～）\n作为时空直播站第一批主播，卫绾绝对是NO.1。\r\n为公司出尽犬马功劳，换来的却只是背叛。\r\n解约公司、巨额赔偿、山穷水尽、走投无路……\r\n经历大难面前的人性考验，卫绾终于决定只靠自己杀出一条血路。\r\n开工会，接任务，招新人，自己来做OW！\r\n可这任务都是什么鬼？\r\n说好了SSS级，怎么变成了超SSSSSS？！\r\n丧尸位面变成被人解剖的丧尸兽，还要慷慨地拯救全人类？\r\n乡村位面变成浑身疾病的大胖子，还要变瘦变美发家致富？\r\n……\r\n还有更多更奇葩的任务……\r\n人家主播都是拒接的，到了卫绾这里却没有她完不成的目标。\r\n时空直播站，她再次位极巅峰之上。\r\n只是……那位反派BOSS大人，你敢不敢不要每个位面都强行乱入？\r\n以为变了张脸，老娘就认不出了？!",
+        "lastVipChapterId": "41508489235237910",
+        "lastVipChapterName": "大结局",
+        "lastVipChapterTime": 1617354108000,
+        "lastChapterId": "38208704803257287",
+        "lastChapterName": "新文打滚求包养~~",
+        "lastChapterTime": 1562407598000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1235552,
+        "totalChapterCount": 606,
+        "collectCount": 4909,
+        "tag": [
+            {
+                "tagId": 20029,
+                "tagName": "直播"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20034,
+                "tagName": "家长里短"
+            },
+            {
+                "tagId": 20086,
+                "tagName": "末世"
+            },
+            {
+                "tagId": 10004,
+                "tagName": "快穿"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20339,
+                "tagName": "位面"
+            },
+            {
+                "tagId": 20340,
+                "tagName": "攻略"
+            },
+            {
+                "tagId": 30387,
+                "tagName": "反派"
+            },
+            {
+                "tagId": 70429,
+                "tagName": "温馨"
+            },
+            {
+                "tagId": 10011,
+                "tagName": "科幻"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-05-10上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "124"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "4909"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1561541860416,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 19756110
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 7,
+        "fans": 633,
+        "redBean": 1797
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "authorGuid": "803035205101",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-09-11/5f5b02f1cb183.jpeg",
+        "fans": 37172,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "21121674001268404",
+                "bookName": "墨爷天天都想吃软饭"
+            },
+            {
+                "bookId": "17679014807876804",
+                "bookName": "觉醒吧虐文女主"
+            },
+            {
+                "bookId": "16334069504962704",
+                "bookName": "大佬争着要宠我"
+            },
+            {
+                "bookId": "14148238405002404",
+                "bookName": "我家影后，超凶萌！"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28705218841457006",
+                "roleName": "卫绾",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "582"
+                },
+                "roleType": 5,
+                "popularCnt": 582,
+                "createTime": 1526976877000
+            },
+            {
+                "roleId": "28705251852304220",
+                "roleName": "凤兮",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "340"
+                },
+                "roleType": 4,
+                "popularCnt": 340,
+                "createTime": 1526976998000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 699,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "439951538551652352",
+                "type": 0,
+                "title": "",
+                "content": "其实这本书刚开始是可以看出心意的，但是后来就有点粗制滥造许是什么原因吧，不管怎么说希望作者大大以后可以更好",
+                "createTime": 1580318797000,
+                "userId": "2441420672",
+                "nickName": "哆哆唻财",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2441425689_1580544838336/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 14,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "380838087057604707",
+                "type": 0,
+                "title": "",
+                "content": "这书有男主吗？",
+                "createTime": 1566226832000,
+                "userId": "1173603545",
+                "nickName": "书签2023",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1173602376_1566200099252/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "228278729439248484",
+                "type": 0,
+                "title": "不更新了吗",
+                "content": "「不更新了吗」唉怎么不更新了啊",
+                "createTime": 1529861844000,
+                "userId": "119190387327",
+                "nickName": "hg19960119",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/E3931D05C8D70F969DC44A5E9461C0E0282D3FA0BCAC6DF0FDC7AE555D11F342/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5982_%E8%94%B7%E8%96%87%E7%9A%87%E5%86%A0.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,311 @@
+{
+    "bookInfo": {
+        "bookId": "13353987403199804",
+        "bookName": "论一个完美老公的自我修养",
+        "authorId": "4833554403476201",
+        "authorName": "兜兜有铜钱",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "新书《全能大佬又被拆马甲了》，欢迎来撩~~\r\n传闻霍御年高冷孤傲，寡冷薄情，却在某天突然领证结婚了，从此，霍爷画风突变。\r\n天天准点下班，买菜洗手做汤羹。\r\n众人绝倒，说好的分分钟入手千万的大佬，你怎么可以浪费时间呢。\r\n霍某人：嗯，我下厨我乐意，我赚钱给老婆花。\r\n夏千时得意脸：嗯，我老公会做饭，关键还超会赚钱给我花。\r\n夏千时：霍御年，谢谢你的陪伴，让我成为了更好的我。\r\n霍御年：傻瓜，明明是你治愈了我。\r\n【男主重生】",
+        "lastVipChapterId": "40566640219751005",
+        "lastVipChapterName": "第970章 此生绝不相负（大结局）",
+        "lastVipChapterTime": 1579596613000,
+        "lastChapterId": "36723912041501395",
+        "lastChapterName": "第84章 表舅舅先生来了？",
+        "lastChapterTime": 1563533855000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1010705,
+        "totalChapterCount": 970,
+        "collectCount": 10841,
+        "tag": [
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20318,
+                "tagName": "婚恋"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20041,
+                "tagName": "职场商战"
+            },
+            {
+                "tagId": 20069,
+                "tagName": "相亲"
+            },
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 30401,
+                "tagName": "醋王"
+            },
+            {
+                "tagId": 30354,
+                "tagName": "首富"
+            },
+            {
+                "tagId": 30379,
+                "tagName": "可盐可甜"
+            },
+            {
+                "tagId": 20079,
+                "tagName": "双洁"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 40168,
+                "tagName": "闷骚"
+            },
+            {
+                "tagId": 30383,
+                "tagName": "高冷"
+            },
+            {
+                "tagId": 30388,
+                "tagName": "呆萌"
+            },
+            {
+                "tagId": 30391,
+                "tagName": "善良"
+            },
+            {
+                "tagId": 30393,
+                "tagName": "双商爆表"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-04-05上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "101"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.1"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1564466141362,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 25015990
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 6,
+        "fans": 2141,
+        "redBean": 2924
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "4833554403476201",
+        "authorName": "兜兜有铜钱",
+        "authorGuid": "1758203017",
+        "intro": "",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2016-10-09/57f9ca950ff31.png",
+        "fans": 106928,
+        "total": 4,
+        "items": [
+            {
+                "bookId": "20852618501723904",
+                "bookName": "救命！冰冷冷的死对头是孩他爸"
+            },
+            {
+                "bookId": "15903587405066104",
+                "bookName": "全能大佬又被拆马甲了"
+            },
+            {
+                "bookId": "5594085003680903",
+                "bookName": "全世界最好的喜欢"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 707,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "511008660416364544",
+                "type": 0,
+                "title": "",
+                "content": "我承认我是纯粹因为全能大佬又被拆马甲了才来看的（不喜勿喷）",
+                "createTime": 1597260135000,
+                "userId": "120169311354",
+                "nickName": "浅夜微酌",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120169310858_1628791998152/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 31,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "381399922496307267",
+                "type": 0,
+                "title": "",
+                "content": "好看，大大加油",
+                "createTime": 1566360019000,
+                "userId": "3542282226",
+                "nickName": "想做你的某某",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3542289609_1609492872418/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 15,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "369216183964074019",
+                "type": 0,
+                "title": "",
+                "content": "大大加油哦⊙∀⊙！",
+                "createTime": 1563455039000,
+                "userId": "1340185969",
+                "nickName": "枯寂g",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1340182645_1562815979617/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 18,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,275 @@
+{
+    "bookInfo": {
+        "bookId": "16257516605079004",
+        "bookName": "你惊扰了时光",
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【新文：魂归后宿敌总想跟我谈恋爱，已开】\n【CP：风骚邪魅沈小姐VS高傲冷艳时大厨！】\n若不是因为楼上那家人的水管爆了，陈艾青绝对不会想到，她费劲功夫想要找的人，居然远在天边，近在眼前。\n“小哥，我拜托你了，帮帮忙吧，就四个小时。”\n“其实做我的模特一点都不难的。”\n“站着，坐着，躺着，随你高兴，让我画四个小时就好。”\n……\n五年以后，被关在门外的容以，委屈巴巴的拍着门板。\n“神仙妹妹，我求求你了，可怜可怜我吧，就一生一世。”\n“其实当我的老婆很简单的。”\n“调皮，捣蛋，作死，随你开心，被我爱一生一世就好。”\n……\n一辈子，总有那么一个人，惊扰了时光，从此念念不忘",
+        "lastVipChapterId": "48555131968920748",
+        "lastVipChapterName": "魂归后宿敌总想跟我谈恋爱",
+        "lastVipChapterTime": 1601442908000,
+        "lastChapterId": "44643537262191902",
+        "lastChapterName": "第98章 为了还价脸都不要了",
+        "lastChapterTime": 1586362550000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 728499,
+        "totalChapterCount": 716,
+        "collectCount": 65996,
+        "tag": [
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20049,
+                "tagName": "双向暗恋"
+            },
+            {
+                "tagId": 20310,
+                "tagName": "相爱相杀"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30411,
+                "tagName": "颜控"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-02-26上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "73"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "6.6"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1582780409955,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 29104494
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 801,
+        "fans": 16814,
+        "redBean": 81389
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "authorGuid": "120002683845",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+        "fans": 83859,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "23140429909042704",
+                "bookName": "夫人她每天都想摸鱼摆烂"
+            },
+            {
+                "bookId": "21638836501986804",
+                "bookName": "他与她逆光而行"
+            },
+            {
+                "bookId": "20182811201393604",
+                "bookName": "夫人被我越宠越凶"
+            },
+            {
+                "bookId": "18022368401796304",
+                "bookName": "魂归后宿敌总想跟我谈恋爱"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4694,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "456849418407378944",
+                "type": 0,
+                "title": "",
+                "content": "实不相瞒，我喜欢骚容",
+                "createTime": 1584347565000,
+                "userId": "2135492455",
+                "nickName": "比小朋友大六岁",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2135499721_1606666527733/100",
+                "replyCount": 8,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 201,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "450010240956563456",
+                "type": 0,
+                "title": "",
+                "content": "神仙妹妹，爱了爱了……明人不说暗话，我喜欢女主",
+                "createTime": 1582716979000,
+                "userId": "854009359983",
+                "nickName": "lyc3366",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854009350217_1652579263835/100",
+                "replyCount": 3,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 214,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "449961379873488898",
+                "type": 0,
+                "title": "",
+                "content": "打卡！！！",
+                "createTime": 1582705329000,
+                "userId": "800218471755",
+                "nickName": "赵妖净",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/800218476375_1565244947589/100",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 97,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1049_%E9%80%A2%E8%80%83%E5%BF%85%E8%BF%87.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

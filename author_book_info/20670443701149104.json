@@ -1,0 +1,294 @@
+{
+    "bookInfo": {
+        "bookId": "20670443701149104",
+        "bookName": "提刑大人使不得",
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "为保住家产，“遗腹子”慕流云女扮男装二十载，\n只想当一个平平无奇的司理参军，\n招招猫，逗逗狗，破破冤案，顺手再解救几个无知少女。\n可是一不小心，怎么小辫子就落到了“活阎王”手里。\n慕流云：“提刑大人，查案就查案，分寸还是要有的，莫要惹上断袖分桃的名声……”\n某人：“你确定有袖可断，有桃可分？”\n慕流云：(╯‵□′)╯︵┻━┻\n————————————————————————\n架空，小白，勿考据，考据就是你对。\n普通群：114962225\nV 群：200144356",
+        "lastVipChapterId": "66417537893594119",
+        "lastVipChapterName": "完本感言",
+        "lastVipChapterTime": 1667713209000,
+        "lastChapterId": "57146961564239395",
+        "lastChapterName": "明天上架",
+        "lastChapterTime": 1632974418000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1288159,
+        "totalChapterCount": 636,
+        "collectCount": 1470,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20050,
+                "tagName": "女扮男装"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-08-02上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "129"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1470"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1627867438498,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 39570987
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 12,
+        "fans": 358,
+        "redBean": 6706
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "authorGuid": "119090065089",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+        "fans": 2146,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "25752078901523704",
+                "bookName": "罪恶之眼"
+            },
+            {
+                "bookId": "17976991001324904",
+                "bookName": "罪恶不赦"
+            },
+            {
+                "bookId": "13404537303880004",
+                "bookName": "罪恶无形"
+            },
+            {
+                "bookId": "8743142704568903",
+                "bookName": "凶案侦缉"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "55786534582329512",
+                "roleName": "慕流云",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "658"
+                },
+                "roleType": 5,
+                "popularCnt": 658,
+                "createTime": 1627862636000
+            },
+            {
+                "roleId": "55786537803557722",
+                "roleName": "袁牧",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "633"
+                },
+                "roleType": 4,
+                "popularCnt": 633,
+                "createTime": 1627862648000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 168,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "671501322004004864",
+                "type": 0,
+                "title": "",
+                "content": "恭喜大大开新文，祝新文红红火火！",
+                "createTime": 1635524567000,
+                "userId": "474432250",
+                "nickName": "手可摘四月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/474432710_1500207803980/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "978328434219417600",
+                "type": 0,
+                "title": "",
+                "content": "好多🫠🫠🫠🫠🫠🫠🫠",
+                "createTime": 1708677851000,
+                "userId": "3103171665",
+                "nickName": "户衣白",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3103178666_1690821112191/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3023_%E4%B9%9D%E5%B0%BE%E7%8B%90.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "广西壮族自治区"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "920781591214358528",
+                "type": 0,
+                "title": "",
+                "content": "题目诙谐，内容引人入胜，让人欲罢不能",
+                "createTime": 1694957615000,
+                "userId": "900039078768",
+                "nickName": "阿哦哈哈",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/900039072045_1694735135193/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "上海"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

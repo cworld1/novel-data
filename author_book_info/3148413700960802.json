@@ -1,0 +1,359 @@
+{
+    "bookInfo": {
+        "bookId": "3148413700960802",
+        "bookName": "恃运而娇",
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "　　身为亡国妖姬的女儿，姜宓有两个长处，一是她运气特别好，二是她聪明。\r\n　　凭着这两点，在这个征战不休的五代十国时期，姜宓不但在闺秀中混得如鱼得水，便是那个藏身在她家国中的第一公子，所谓智计无双的天才，居然也暗恋上了她……\r\n　　@@\r\n　　姜宓心里苦哇，明明崔子轩那厮品行不端性情恶劣，可这一点居然只有她一个人知道！",
+        "lastVipChapterId": "30241005984587771",
+        "lastVipChapterName": "第二百五十八章 大结局",
+        "lastVipChapterTime": 1533043693000,
+        "lastChapterId": "9206081775534527",
+        "lastChapterName": "第五十三章 赵可可",
+        "lastChapterTime": 1454254772000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 806871,
+        "totalChapterCount": 276,
+        "collectCount": 2742,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2015-12-23上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "81"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2742"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 803551
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 439,
+        "redBean": 2192
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "authorGuid": "800004290624",
+        "intro": "中医师，起点女生网签约作者。零七年到起点，至今已著书近十部。胸无大志，所好的，不过就是看文写文而已。 ",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2016-09-12/5942c9fd1b7a78789688068714dc28bd.jpg",
+        "fans": 2345,
+        "total": 16,
+        "items": [
+            {
+                "bookId": "25114226000168302",
+                "bookName": "骄娇无双"
+            },
+            {
+                "bookId": "22312481000716402",
+                "bookName": "误长生——花戎原著"
+            },
+            {
+                "bookId": "22362350000475502",
+                "bookName": "美人温雅"
+            },
+            {
+                "bookId": "22392230000941202",
+                "bookName": "凤月无边"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28728616477164414",
+                "roleName": "姜宓",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "589"
+                },
+                "roleType": 5,
+                "popularCnt": 589,
+                "createTime": 1527064036000
+            },
+            {
+                "roleId": "28728620503696278",
+                "roleName": "崔子轩",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "166"
+                },
+                "roleType": 4,
+                "popularCnt": 166,
+                "createTime": 1527064051000
+            },
+            {
+                "roleId": "28728651625446022",
+                "roleName": "柴荣",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "25"
+                },
+                "roleType": 6,
+                "popularCnt": 25,
+                "createTime": 1527064167000
+            },
+            {
+                "roleId": "28728624798663619",
+                "roleName": "李武",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "16"
+                },
+                "roleType": 6,
+                "popularCnt": 16,
+                "createTime": 1527064067000
+            },
+            {
+                "roleId": "28728656205612269",
+                "roleName": "范于秀",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "12"
+                },
+                "roleType": 7,
+                "popularCnt": 12,
+                "createTime": 1527064184000
+            },
+            {
+                "roleId": "28728641978532949",
+                "roleName": "王屹",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "10"
+                },
+                "roleType": 6,
+                "popularCnt": 10,
+                "createTime": 1527064131000
+            },
+            {
+                "roleId": "28728646525172309",
+                "roleName": "崔老夫人",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "10"
+                },
+                "roleType": 7,
+                "popularCnt": 10,
+                "createTime": 1527064148000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 803,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "262863379713032234",
+                "type": 0,
+                "title": "",
+                "content": "她的书独特风格，很喜欢。",
+                "createTime": 1538104463000,
+                "userId": "854008214677",
+                "nickName": "哈哈哈啦啦啦呵呵呵",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854008210290_1536850607130/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "341606743979262057",
+                "type": 0,
+                "title": "",
+                "content": "真的寫的很好，有內容有劇情",
+                "createTime": 1556876975000,
+                "userId": "3516514978",
+                "nickName": "想當鹹魚的貴婦",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3516516398_1685108076522/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "341229883663384581",
+                "type": 0,
+                "title": "",
+                "content": "男主背负太多  一生追求是自己所想还是只是家族期望   最终都成空   不如与女主归隐田园   穷途末路时也是女主救下了他   那么我想问了  之前活的这么累是为了啥",
+                "createTime": 1556781955000,
+                "userId": "803034920957",
+                "nickName": "crystal.g",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/F73D21C5F0FB1105A571162AACB1E9F1D0FE7C82750960FC7999453623B42AA2/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 27,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

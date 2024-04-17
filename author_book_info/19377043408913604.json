@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "19377043408913604",
+        "bookName": "廖医生的白玫瑰",
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30023,
+        "subCategoryName": "娱乐明星",
+        "description": "　　“苏小姐，我身体不舒服。”\n\n　　苏难看着面前身穿白色无尘服的男人，他低垂着眼修长的手扶了扶金框眼镜。\n\n　　 “哪里不舒服？”\n\n　　 “我见不到你时会觉得很心慌，只想抱紧你，占有你，永远把你留在我的身边。”\n\n　　“廖医生，病名为爱。”\n\n　　 *\n\n　　 某著名苏姓女星是出了名的一三五七打架，二四六放火。 立誓不到星期八不休息，凭一己之力拉高整个市医院的GDP，就连医院都给她送锦旗。\n\n　　 突然某一天，长草的微博一举黄V变红V，系统直接瘫痪。在程序员的连夜加班中，苏姓女星空降热搜。\n\n　　 #苏难英年早婚#\n\n　　 苏难V：要在夏天谈一场轰轰烈烈的恋爱，在冬天的暖炉边依偎，在来年的春天嫁给他，最后在若干年的秋天，和宝宝讲述那个夏天的浪漫。\n\n　　 *\n\n　　 “知道爸爸为什么喜欢送妈妈向日葵么？”\n\n　　 “嗯？”\n\n　　“因为向日葵的花语，是四下无他人，入目皆是你。”\n\n　　 黑月光美飒影后X白玫瑰清冷医生\n\n　　 爱你，不止朝暮，是朝朝暮暮。",
+        "lastVipChapterId": "54658638857876009",
+        "lastVipChapterName": "白玫瑰人设图来啦！",
+        "lastVipChapterTime": 1623660898000,
+        "lastChapterId": "53197178910770765",
+        "lastChapterName": "第一百三十章 直接说我耍大牌就行了",
+        "lastChapterTime": 1618466589000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 231004,
+        "totalChapterCount": 227,
+        "collectCount": 55305,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30380,
+                "tagName": "超A"
+            },
+            {
+                "tagId": 30121,
+                "tagName": "明星"
+            },
+            {
+                "tagId": 30159,
+                "tagName": "医生"
+            },
+            {
+                "tagId": 30434,
+                "tagName": "顶流"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-02-21上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "23"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "5.5"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1614047491853,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 36474415
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 139,
+        "fans": 4480,
+        "redBean": 46114
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "authorGuid": "926127275",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-12/490d04e039c0da536db5aae664d700aey0iNa67Gm1tv6h3.jpg",
+        "fans": 13788,
+        "total": 6,
+        "items": [
+            {
+                "bookId": "23264163801941304",
+                "bookName": "疯了吧，你管这叫游戏主播"
+            },
+            {
+                "bookId": "22126363601642004",
+                "bookName": "老祖宗她在生存游戏里当GM"
+            },
+            {
+                "bookId": "21313828008580104",
+                "bookName": "只为她偏爱"
+            },
+            {
+                "bookId": "19844755208529404",
+                "bookName": "老祖宗她说生存游戏弱爆了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "52225957033388056",
+                "roleName": "苏难",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "102"
+                },
+                "roleType": 5,
+                "popularCnt": 1021598,
+                "createTime": 1614598451000
+            },
+            {
+                "roleId": "52225861856232897",
+                "roleName": "廖时也",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "3.1"
+                },
+                "roleType": 4,
+                "popularCnt": 31397,
+                "createTime": 1614598096000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1560,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "591032507345141760",
+                "type": 0,
+                "title": "",
+                "content": "“我为信仰而来”\n见字永远是见字就好，完事有我，我永远在，我们都为信仰而来",
+                "createTime": 1616339307000,
+                "userId": "854000777810",
+                "nickName": "zzxw",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854000779311_1598502943757/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 57,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "597110884443160576",
+                "type": 0,
+                "title": "",
+                "content": "文笔很不错，只是某些剧情在反转解释前没有做到铺垫，像是很多细节没有写出来，导致前后文看起来有点不符合逻辑。",
+                "createTime": 1617788505000,
+                "userId": "120170364001",
+                "nickName": "矜姀",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120170360540_1613639576264/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 13,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/4798_%E7%89%B9%E9%82%80%E4%BE%A6%E6%8E%A2.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "637020195268984832",
+                "type": 0,
+                "title": "",
+                "content": "呜呜呜好久没看过这么暖的救赎文了，作者大大加油！！",
+                "createTime": 1627303626000,
+                "userId": "120144941977",
+                "nickName": "时par的女人绝不认输",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120144947293_1624550452981/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

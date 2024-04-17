@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "27801520907672704",
+        "bookName": "病娇小师弟今天又在钓我",
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "categoryId": 30008,
+        "categoryName": "仙侠奇缘",
+        "subCategoryId": 30010,
+        "subCategoryName": "古典仙侠",
+        "description": "师父招招手，将师弟招到九岁的阿玳面前：阿玳，这是师弟。\r\n师弟气得脸鼓鼓：她九岁，我都700岁了！为什么我是师弟？\r\n师父摆了7个果子，教他们数到7，又加了两个，数到九，问：9是不是比7多？\r\n阿玳和师弟看着果子，默默点头。\r\n师公：……\r\n儿砸，但凡你有个幼儿园文凭也不至于被你娘这样骗……\r\n*\r\n若干年后，师弟看着9个果子和700个果子，一言难尽：师姐，我是师兄！\r\n阿玳捏捏他的脸：好的，师弟。\r\n师弟：……\r\n*\r\n又过了若干年，他们冲出血海，穿越尸林，回首，昔日师门早已灰飞烟灭，只有他们，牢牢记着师父的教诲：活下去，无论如何都要好好活下去。\r\n一身是血的师弟：师姐，为什么不扔下我自己逃？\r\n阿玳脑海里浮现出幼时在师父怀里偷偷叫娘的画面：因为爱。\r\n师弟：……\r\n阿玳转身：咦，师弟，你脸怎么红了？",
+        "lastVipChapterId": "78367159885036438",
+        "lastVipChapterName": "第71章 来救我？",
+        "lastVipChapterTime": 1711993014000,
+        "lastChapterId": "78051108810975083",
+        "lastChapterName": "第61章 考状元",
+        "lastChapterTime": 1710874264000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 118389,
+        "totalChapterCount": 70,
+        "collectCount": 122,
+        "tag": [
+            {
+                "tagId": 20089,
+                "tagName": "欢喜冤家"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 40167,
+                "tagName": "病娇"
+            },
+            {
+                "tagId": 10009,
+                "tagName": "仙侠"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2023-10-24上架\n版权：潇湘书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "12"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "122"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1699432680225,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 48264372
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 17,
+        "redBean": 964
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "authorGuid": "803010821665",
+        "intro": "阅文集团白金作家，作品《写给鼹鼠先生的情书》荣获第二届网络原创文学现实主义题材征文大赛优胜奖。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+        "fans": 200947,
+        "total": 17,
+        "items": [
+            {
+                "bookId": "19188324408052104",
+                "bookName": "我寄人间"
+            },
+            {
+                "bookId": "15616007105547604",
+                "bookName": "亲爱的请入剧"
+            },
+            {
+                "bookId": "13017347103192803",
+                "bookName": "我的黑月光女友"
+            },
+            {
+                "bookId": "13007251603734603",
+                "bookName": "旧曾谙"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 6,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "950907107082633216",
+                "type": 0,
+                "title": "情节要转折了",
+                "content": "「情节要转折了」情节要转折，好好想一下，明天再更",
+                "createTime": 1702140098000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "湖南"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "978440521532571648",
+                "type": 0,
+                "title": "对于更新的歉意",
+                "content": "「对于更新的歉意」本书更新很不正常，对此，吉祥真的表示歉意……不敢保证什么，怕做不到，只能说，一定会写完的，喜欢这本书的读者可以等等再看，真的很抱歉",
+                "createTime": 1708704575000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "未知属地"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "973733961556492288",
+                "type": 0,
+                "title": "又要请假……",
+                "content": "「又要请假……」对不起，又要请假两天，祝大家新年快乐！",
+                "createTime": 1707582444000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "湖南"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

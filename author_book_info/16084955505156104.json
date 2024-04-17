@@ -1,0 +1,154 @@
+{
+    "bookInfo": {
+        "bookId": "16084955505156104",
+        "bookName": "大神今天恋爱了吗",
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "夜卿莫的人生守则有三条：\r\n第一条：有前任的男人不要。\r\n第二条：不守身如玉的男人不要。\r\n第三条：没有疑问，谨遵前面两条。\r\n君止的人生格言是：不恋爱、不成家，得过且过。\r\n可，这些格言在遇到夜卿莫后，统统被他丢进粉碎机。\r\n老婆孩子热炕头的日子实在美滋滋！去他喵的得过且过，他要赚钱养老婆孩纸。",
+        "lastVipChapterId": "45869206591734005",
+        "lastVipChapterName": "第152章元宝篇【大结局】",
+        "lastVipChapterTime": 1590978031000,
+        "lastChapterId": "44296707663965423",
+        "lastChapterName": "第59章 打脸白莲花",
+        "lastChapterTime": 1585580199000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 355426,
+        "totalChapterCount": 152,
+        "collectCount": 23,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20091,
+                "tagName": "日久生情"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-02-06上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "36"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "23"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1580978014975,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 28051686
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 6,
+        "redBean": 2
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "authorGuid": "1459375229",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-02-26/6037d1590c59b.jpeg",
+        "fans": 1511,
+        "total": 9,
+        "items": [
+            {
+                "bookId": "21933370001278504",
+                "bookName": "白天冷冰冰的顶流晚上哭着哄我"
+            },
+            {
+                "bookId": "14090528105719204",
+                "bookName": "后来，无人像你"
+            },
+            {
+                "bookId": "10818106903288903",
+                "bookName": "我娶你，终生为期"
+            },
+            {
+                "bookId": "9225878303230403",
+                "bookName": "左心房有了你的陪伴"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

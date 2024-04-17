@@ -1,0 +1,332 @@
+{
+    "bookInfo": {
+        "bookId": "22213269000945402",
+        "bookName": "重生娘子在种田",
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "穆扬灵重生在猎户之家，本以为一生可以平淡幸福，谁知一场兵祸让他们几近家破，父亲被划为军户，他们一家随行屯田，可惜他们连五谷的幼苗都分不清，看着欲哭无泪的母亲和幼弟，穆扬灵挺足胸膛，道：“没关系，我有的是力气”还有一些来自千年后的农业理论知识。\n新书《魏晋干饭人》已开坑，敬请关注。\nPS:请放心跳坑，作者已完本有《终归田居》《林氏荣华》和《农家小福女》\n",
+        "lastVipChapterId": "10225541945624465",
+        "lastVipChapterName": "番外 齐浩然（8）",
+        "lastVipChapterTime": 1708490543000,
+        "lastChapterId": "107987516616591633",
+        "lastChapterName": "请假条",
+        "lastChapterTime": 1421144077000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3133120,
+        "totalChapterCount": 1465,
+        "collectCount": 3027,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 20035,
+                "tagName": "种田"
+            },
+            {
+                "tagId": 20063,
+                "tagName": "金手指"
+            },
+            {
+                "tagId": 20034,
+                "tagName": "家长里短"
+            },
+            {
+                "tagId": 20330,
+                "tagName": "致富"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2014-12-15上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "313"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3027"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 510041
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 7,
+        "fans": 588,
+        "redBean": 2482
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "authorGuid": "1795374923",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a2437210/0",
+        "fans": 9101,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23743059609775504",
+                "bookName": "正良缘"
+            },
+            {
+                "bookId": "22157767309773504",
+                "bookName": "魏晋干饭人"
+            },
+            {
+                "bookId": "21950873308320704",
+                "bookName": "年成"
+            },
+            {
+                "bookId": "17034953304870404",
+                "bookName": "从现代飞升以后"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "37258769953001785",
+                "roleName": "穆扬灵",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "721"
+                },
+                "roleType": 5,
+                "popularCnt": 721,
+                "createTime": 1558841334000
+            },
+            {
+                "roleId": "37258777228878411",
+                "roleName": "齐浩然",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "359"
+                },
+                "roleType": 4,
+                "popularCnt": 359,
+                "createTime": 1558841361000
+            },
+            {
+                "roleId": "37258823662949937",
+                "roleName": "范子衿",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "244"
+                },
+                "roleType": 6,
+                "popularCnt": 244,
+                "createTime": 1558841534000
+            },
+            {
+                "roleId": "37258812924543275",
+                "roleName": "齐修远",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "151"
+                },
+                "roleType": 6,
+                "popularCnt": 151,
+                "createTime": 1558841494000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1082,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "341934718490640400",
+                "type": 0,
+                "title": "",
+                "content": "这本书很好看",
+                "createTime": 1556951067000,
+                "userId": "120029292996",
+                "nickName": "琳珏",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120029293082_1557019176727/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "376291963462287448",
+                "type": 0,
+                "title": "",
+                "content": "这本书超好看",
+                "createTime": 1565143174000,
+                "userId": "120007547903",
+                "nickName": "红袖书友15367524724353506",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007549703_1553397092643/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7798_8767_%E7%88%B1%E5%BF%83%E7%88%86%E5%87%BB384.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "547471426463203328",
+                "type": 0,
+                "title": "",
+                "content": "女主才9岁就敢放着一个人去山上打猎。就不怕遇到野兽吗？家人怎么当的？还有女主他娘没公主命就别弄公主病了。都嫁给庄稼汉了。娃都生了两个了，还非要吃细米。野鸡肉还嫌不好吃？非要吃好的。让9岁的女儿上山打猎养你，你哪来的脸？",
+                "createTime": 1605953536000,
+                "userId": "2162277212",
+                "nickName": "静待疏归",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2162278355_1632759877523/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9432_%E8%99%90%E6%81%8B%E6%83%85%E6%B7%B1.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

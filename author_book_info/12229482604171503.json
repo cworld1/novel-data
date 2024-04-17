@@ -1,0 +1,290 @@
+{
+    "bookInfo": {
+        "bookId": "12229482604171503",
+        "bookName": "花月笙笙冷",
+        "authorId": "11744782703748501",
+        "authorName": "少华章",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30016,
+        "subCategoryName": "古代情缘",
+        "description": "新文、悬疑小说《追你所踪》正在热更中。花筱笙，艳绝天下，天下第一美男。王族公主、贵妇眼里的宠儿.\r\n他是江湖中人人摒弃的黑暗组织、‘暗影阁’的少阁主，却背负着身世之谜。\r\n一次弑君夺权的杀戮中，他，救下了一个小丫头。从此一代美男沦为这个乳臭未干的小丫头的跟屁虫，任由她踩踏、蹂躏着。\r\n倒也心甘情愿的自得其乐，也真真的让众美人暗自心伤妒恨。\r\n  一心一意爱着那个小笨蛋，是他给她最温柔的情话。当她手里的一把尖刀插在他的胸口时，他才恍惚，难道他终究是爱错了？\r\n冷欣月：“这是你应得的，我还给你。”\r\n花筱笙：“够了么？”\r\n冷欣月：“远远不够，我诅咒你死后，下十八层地狱、过油锅，堕刀山、永生永世不得超生。”\r\n花筱笙：“…\r\n\r\n\r\n 花落血染梅，暗月墨泼雪。\r\n\r\n主角：花筱笙  冷欣月  ",
+        "lastVipChapterId": "39622399473777963",
+        "lastVipChapterName": "1180花月本无声，入夜方有香",
+        "lastVipChapterTime": 1569805820000,
+        "lastChapterId": "33788194512121646",
+        "lastChapterName": "070这人世间还有谁能让他如此忌惮",
+        "lastChapterTime": 1545912434000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1277251,
+        "totalChapterCount": 1163,
+        "collectCount": 157,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20310,
+                "tagName": "相爱相杀"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-11-16上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "128"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "157"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 23531495
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 32,
+        "fans": 27,
+        "redBean": 2909
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "11744782703748501",
+        "authorName": "少华章",
+        "authorGuid": "2271746232",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-04-10/60719dc9326fc.jpeg",
+        "fans": 128,
+        "total": 9,
+        "items": [
+            {
+                "bookId": "21845019201436004",
+                "bookName": "农家悍姐"
+            },
+            {
+                "bookId": "18907787508196904",
+                "bookName": "我穿成了八个大佬崽崽的娘亲"
+            },
+            {
+                "bookId": "17364934305950304",
+                "bookName": "我与神兽追凶的日子"
+            },
+            {
+                "bookId": "16583023905527304",
+                "bookName": "重生之公子是个泼辣货"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "33602189957189791",
+                "roleName": "花筱笙",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1082"
+                },
+                "roleType": 4,
+                "popularCnt": 1082,
+                "createTime": 1545219512000
+            },
+            {
+                "roleId": "33602252493241663",
+                "roleName": "冷欣月",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "487"
+                },
+                "roleType": 5,
+                "popularCnt": 487,
+                "createTime": 1545219745000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 31,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "289897224379564124",
+                "type": 0,
+                "title": "《花月笙笙冷》正式上线，宝宝们多多关注哦！",
+                "content": "「花月笙笙冷正式上线，宝宝们多多关注哦！」从12号开始每天上午两章准时更新，急急备稿，争取上架时每天四章更新不间断。喜欢的小伙伴们，看你们的收藏多多多多……的多起来哈哈~~~给我力量吧~~~一定不会让你们失望的，么哒……么哒……么哒……",
+                "createTime": 1544576636000,
+                "userId": "2271746232",
+                "nickName": "少华章",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-04-10/60719dc9326fc.jpeg",
+                "replyCount": 1,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "11744782703748501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "295850107876737061",
+                "type": 0,
+                "title": "《花月笙笙冷》上架通知：",
+                "content": "「花月笙笙冷上架通知：」上架后，每天更新四章，上午两章，晚上两章。如果收藏够多，支持够火，那么作者大大就不定时的加更……加更……\n 文更的够不够勤，就看各位宝贝的支持了……都燥起来吧……比心……比心……",
+                "createTime": 1545966227000,
+                "userId": "2271746232",
+                "nickName": "少华章",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-04-10/60719dc9326fc.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "11744782703748501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "302969626709721204",
+                "type": 0,
+                "title": "",
+                "content": "看到一百五十一章后面，没给我笑蒙圈了。有点意思～～～哈哈哈～～～",
+                "createTime": 1547700620000,
+                "userId": "2861714935",
+                "nickName": "会呼吸的仙人掌",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2861718257_1553727598463/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

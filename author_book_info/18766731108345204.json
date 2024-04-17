@@ -1,0 +1,302 @@
+{
+    "bookInfo": {
+        "bookId": "18766731108345204",
+        "bookName": "吉时已到",
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30016,
+        "subCategoryName": "古代情缘",
+        "description": "——新书《长安好》正在连载中——\r\n\r\n于北地建功无数，威名赫赫，一把年纪不愿娶妻的定北侯萧牧，面对奉旨前来替自己说亲的官媒画师，心道：这厮必是朝廷派来的奸细无疑——\r\n于是，千般防备，万般疏远，浑身上下写满了拒绝二字。\r\n不料时运不济，行差踏错，鬼迷心窍，乃至人设逐渐翻车……最后竟还是踩进了这奸细的陷阱里！",
+        "lastVipChapterId": "66502977141136116",
+        "lastVipChapterName": "新书《长安好》已发布～",
+        "lastVipChapterTime": 1667805150000,
+        "lastChapterId": "58574279742556220",
+        "lastChapterName": "12.1号上架啦",
+        "lastChapterTime": 1638273605000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 868063,
+        "totalChapterCount": 283,
+        "collectCount": 3706,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30409,
+                "tagName": "黑莲花"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-11-07上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "87"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3706"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1636281865925,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 35184026
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 24,
+        "fans": 780,
+        "redBean": 21796
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "authorGuid": "800162189445",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+        "fans": 14931,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22455842509184904",
+                "bookName": "长安好"
+            },
+            {
+                "bookId": "11520050703600603",
+                "bookName": "如意事"
+            },
+            {
+                "bookId": "7317963003730403",
+                "bookName": "喜上眉头"
+            },
+            {
+                "bookId": "3150632801957202",
+                "bookName": "金夫"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "58040436514066124",
+                "roleName": "吉衡玉",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "4361"
+                },
+                "roleType": 5,
+                "popularCnt": 4361,
+                "createTime": 1636259075000
+            },
+            {
+                "roleId": "58504668372248354",
+                "roleName": "萧牧",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "4164"
+                },
+                "roleType": 4,
+                "popularCnt": 4164,
+                "createTime": 1637988473000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 970,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "675010385870520320",
+                "type": 0,
+                "title": "",
+                "content": "好久不见啦宝贝们，新书需要大家支持",
+                "createTime": 1636361193000,
+                "userId": "800162189445",
+                "nickName": "非10",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "3635630704914401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "782858071453138944",
+                "type": 0,
+                "title": "",
+                "content": "作者对女权的处理也算是反「大女主小说」套路了。 而真实世界之中的女权提升本就是要像衡玉这样一步一脚印提升女子意识影响社会； 现实中杀伐果断的军阀二代女就算是成为统治者也不会想改善女权，登位也只会继续重用身边有助于稳固的男性权臣。",
+                "createTime": 1662074085000,
+                "userId": "854043440988",
+                "nickName": "momokiroro",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854043449526_1655614099151/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "675493689707003904",
+                "type": 0,
+                "title": "",
+                "content": "才2万字，我的理智告诉我，再忍忍，但是我的情感告诉我，这是非10大大的新书，非10！！！！！！！！！！！！！！！！新书！！！！！！！！！！！！！！！！",
+                "createTime": 1636476422000,
+                "userId": "120162561918",
+                "nickName": "菇凉feng",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120162562214_1604406003671/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3406_%E5%86%B7%E9%9D%A2%E9%9C%B8%E6%80%BB.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 23,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

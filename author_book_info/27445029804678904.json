@@ -1,0 +1,162 @@
+{
+    "bookInfo": {
+        "bookId": "27445029804678904",
+        "bookName": "豪门弃妇被迫走红了",
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "渣男心机妹妹阴谋陷害，被迫打胎，联手将沈知音赶出沈家，五年后，归来逆袭娱乐圈顶流，攻略禁欲造型师king，成为善良后妈？却发现这小团子格外亲近？",
+        "lastVipChapterId": "78409797300445075",
+        "lastVipChapterName": "第163章 确认一件事情",
+        "lastVipChapterTime": 1712142768000,
+        "lastChapterId": "74609853238141477",
+        "lastChapterName": "第40章 被诬陷",
+        "lastChapterTime": 1698647351000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 333483,
+        "totalChapterCount": 163,
+        "collectCount": 1169,
+        "tag": [
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 20036,
+                "tagName": "隐婚"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 30421,
+                "tagName": "女主萌娃"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2023-09-13上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "33"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1169"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1695110451983,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 47978363
+    },
+    "ticketInfo": {
+        "monthTicket": 1,
+        "gift": 100,
+        "fans": 1137,
+        "redBean": 27
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "authorGuid": "802016793278",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 79503,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "24125475801715104",
+                "bookName": "穿成权臣的首富娇妻"
+            },
+            {
+                "bookId": "20111401108932404",
+                "bookName": "落跑娇妻是大佬"
+            },
+            {
+                "bookId": "17905671206857004",
+                "bookName": "小胖娘也有暴富梦"
+            },
+            {
+                "bookId": "4126701703902901",
+                "bookName": "冷情王爷媚颜妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

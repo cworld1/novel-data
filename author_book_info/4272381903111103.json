@@ -1,0 +1,302 @@
+{
+    "bookInfo": {
+        "bookId": "4272381903111103",
+        "bookName": "重生之桃李满天下",
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "黎宝璐痴笨三年，一朝清醒过来，家却已不家，祖父与父母皆死于海难之中。为了生存，祖母将她送给顾家当小媳妇，她都已经做好了面朝黄土背朝天，凄凄惨惨戚戚的心理准备，可到了人家家里却是被捧在手心里的怎么办？\n新书《魏晋干饭人》已开坑，敬请关注。 \n请放心跳坑，已完结作品有《重生娘子在种田》《农家小福女》《林氏荣华》和《终归田居》。\n",
+        "lastVipChapterId": "19498383581047066",
+        "lastVipChapterName": "番外 甜死人的日常",
+        "lastVipChapterTime": 1507009827000,
+        "lastChapterId": "12581872690616847",
+        "lastChapterName": "第六十四章 暗杀",
+        "lastChapterTime": 1466912728000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2250400,
+        "totalChapterCount": 725,
+        "collectCount": 3909,
+        "tag": [
+            {
+                "tagId": 20088,
+                "tagName": "青梅竹马"
+            },
+            {
+                "tagId": 20035,
+                "tagName": "种田"
+            },
+            {
+                "tagId": 20040,
+                "tagName": "宅斗"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 50206,
+                "tagName": "痴傻"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-05-10上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "225"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3909"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 13474450
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 5,
+        "fans": 817,
+        "redBean": 3925
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "authorGuid": "1795374923",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a2437210/0",
+        "fans": 9101,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23743059609775504",
+                "bookName": "正良缘"
+            },
+            {
+                "bookId": "22157767309773504",
+                "bookName": "魏晋干饭人"
+            },
+            {
+                "bookId": "21950873308320704",
+                "bookName": "年成"
+            },
+            {
+                "bookId": "17034953304870404",
+                "bookName": "从现代飞升以后"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30799646217529921",
+                "roleName": "顾景云",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1188"
+                },
+                "roleType": 4,
+                "popularCnt": 1188,
+                "createTime": 1534779223000
+            },
+            {
+                "roleId": "37258486239752661",
+                "roleName": "黎宝璐",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1157"
+                },
+                "roleType": 5,
+                "popularCnt": 1157,
+                "createTime": 1558840277000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2002,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "303635220299579484",
+                "type": 0,
+                "title": "",
+                "content": "真的很好看！是唯一一本我会耐着性子看这么多章节还很认真的小说！",
+                "createTime": 1547826144000,
+                "userId": "760491907",
+                "nickName": "三个格子啊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/760499496_1546076884884/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "361203339444289576",
+                "type": 0,
+                "title": "",
+                "content": "好看。大家可以看看",
+                "createTime": 1561545225000,
+                "userId": "251174309",
+                "nickName": "双鱼座幻想型",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/251174291_1572081475250/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "449313721911672832",
+                "type": 0,
+                "title": "",
+                "content": "主角应该是顾景云吧 女主是搭头",
+                "createTime": 1582550915000,
+                "userId": "120088613661",
+                "nickName": "玖琳",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120088619885_1561711065727/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3609_9083_5%E6%9C%88%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

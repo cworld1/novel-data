@@ -1,0 +1,308 @@
+{
+    "bookInfo": {
+        "bookId": "13613178303956704",
+        "bookName": "爱有微光",
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "categoryId": 30083,
+        "categoryName": "短篇",
+        "subCategoryId": 30089,
+        "subCategoryName": "短篇小说",
+        "description": "用偶像剧的语言，讲述现实中的动人故事。\r\n人称“大喵爷”的短发长腿萝莉喵喵，帝都传媒大学的刁蛮女学霸，在魔头亲妈“设计”下，误打误撞来到社区服务中心，成了一名苦哈哈的实习生，开始了不可思议的经历。\r\n在这里，她遭遇了一群有趣而充满爱心的人，还和罹患爱无能障碍症的网络作家，雅痞帅哥向一鹄，展开了一段甜甜哒的奇妙恋情。\r\n率直钢铁男华光燊，与因喉疾暂停工作的美女主播左右，从一见面就成了冤家路窄，机缘巧合一路相杀到服务中心帮忙，女王范儿与小狼狗的“一对一”姐弟恋，爱情现场也相当激烈与齁甜。\r\n当然，还有退休的心理学家大爷爷，和特别热情的居委会主任燕女神，他们的加入，让这样一群本来八竿子打不着的人，组成了史上最奇葩，也最有爱的“爱有微光喵喵团”。紧接着，各种匪夷所思的爱心故事，也接踵而来。 \r\n声明：非穿越、非悬疑、非总裁文，也不是心灵鸡汤励志文，故事素材全部取材于现实，亲爱哒们，我有真心，你会感动吗？",
+        "lastVipChapterId": "42408529696896589",
+        "lastVipChapterName": "136.欢喜大团圆（结尾）",
+        "lastVipChapterTime": 1578043124000,
+        "lastChapterId": "39907407843179011",
+        "lastChapterName": "35.好喝的鱼汤",
+        "lastChapterTime": 1568791593000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 382697,
+        "totalChapterCount": 136,
+        "collectCount": 18158,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20095,
+                "tagName": "一见钟情"
+            },
+            {
+                "tagId": 10275,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-08-10上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "38"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.8"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1573282197471,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 25222634
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2129,
+        "fans": 11256,
+        "redBean": 52316
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "authorGuid": "854004409518",
+        "intro": "",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+        "fans": 76044,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "17155104204051104",
+                "bookName": "夜寒深深醉思量"
+            },
+            {
+                "bookId": "8214346204220103",
+                "bookName": "寒月夜"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "39330388659409811",
+                "roleName": "向一鹄",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "269"
+                },
+                "roleType": 4,
+                "popularCnt": 2693018,
+                "createTime": 1566558716000
+            },
+            {
+                "roleId": "39330479376963627",
+                "roleName": "华光燊",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "27"
+                },
+                "roleType": 4,
+                "popularCnt": 268927,
+                "createTime": 1566559054000
+            },
+            {
+                "roleId": "39330307059557047",
+                "roleName": "喵喵",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.1"
+                },
+                "roleType": 5,
+                "popularCnt": 11257,
+                "createTime": 1566558413000
+            },
+            {
+                "roleId": "39330435105537490",
+                "roleName": "左右",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "4876"
+                },
+                "roleType": 5,
+                "popularCnt": 4876,
+                "createTime": 1566558890000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 792,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "403149367164534784",
+                "type": 0,
+                "title": "",
+                "content": "我是今天手误点错进来的，可能这就是缘分吧，我和喵喵有一定程度的相像，每一个故事都让我很感动也沉思，我也有抑郁症明天觉得很累活着好累好麻烦，但是不想让真正在乎我的人担心难过，假装自己很高兴很积极，有时候我都分不清哪个是真正的我，当我开始看第一章的时候就有一种感觉继续看下去，我看到每一个故事都会哭，感同身受，我也和悠然一样有一个对我很好的男朋友他是我的光，当我看到悠然为了南山做的事情，我觉得如果是我可能会比悠然更接受不了更偏激，当我看到大爷爷的话每一句都让我再思考，让我很有感触，我很喜欢爱有微光喵喵团，我和希望现实里也有一个，希望他们吧爱撒向世界让世界不再灰暗充满光，谢谢作者，谢谢你希望您能够多写这种充满希望阳光和爱的小说，谢谢你\n                                                 您的读者",
+                "createTime": 1571544476000,
+                "userId": "2194283967",
+                "nickName": "炎炎超可爱",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2194282222_1570796152560/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 16,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "377618268627795993",
+                "type": 0,
+                "title": "",
+                "content": "楔子寫的就很吸引人～愛是人性中內斂的一道道微光，有淺淺的暖，淡淡的香！\n虎爺的文字，總有深深的情，濃濃的意，值得入坑不悔……",
+                "createTime": 1565458053000,
+                "userId": "120063721664",
+                "nickName": "reijing",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120063729969_1563705675672/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 27,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6525_%E8%82%A5%E5%95%BE%E8%8A%B1%E5%9B%AD%E6%8C%82%E4%BB%B6%E6%9C%80%E6%96%B0%E7%89%88.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "378201383784087626",
+                "type": 0,
+                "title": "",
+                "content": "虎虎新文来了💐💐💐，放入书架🌸",
+                "createTime": 1565598502000,
+                "userId": "3369911686",
+                "nickName": "风半染",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3369919178_1558864691164/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 18,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,265 @@
+{
+    "bookInfo": {
+        "bookId": "20144613201324004",
+        "bookName": "美人荣华",
+        "authorId": "18649645701966701",
+        "authorName": "季下如瑶",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30018,
+        "subCategoryName": "宫闱宅斗",
+        "description": "傅荣华死在冬天，距离她的二十岁生辰只有一个月。\n从万千宠爱于一身，到跌落泥地，她只用了三天。\n十五岁进宫开始，得帝王宠爱，三千繁华于一身，宠冠后宫。\n到死才知道，自己不过是一颗棋子，帝王为了挡在前朝后宫的棋子。\n只因为她没有偌大的家世，没有尊贵的身份，是最合适牵制妃嫔的存在，也是最适合立在台前，让前朝苦恼的棋子，\n他需要时，护她周全，给她荣耀，不需要时，便是她身死之日。\n她短短的一生，原来不过是一个笑话，可笑她将真心，都给了那位帝王。\n哪有什么临死悔悟，她只是不甘心，不甘心成为棋子。\n帝王的爱是什么？前世她不知，重生后她懂了，帝王的爱，不过是爱而不得。\n她一心爱他时，他弃如敝履，她不爱之时，他爱到疯狂。\n何其可笑又荒谬，只是，她懂了，也不再爱了，这一世，她要权利，要荣华富贵，唯独不要他。",
+        "lastVipChapterId": "62776738140178807",
+        "lastVipChapterName": "番外篇 终得自由身",
+        "lastVipChapterTime": 1653907195000,
+        "lastChapterId": "58580832101055336",
+        "lastChapterName": "八十八章",
+        "lastChapterTime": 1638272266000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 522088,
+        "totalChapterCount": 518,
+        "collectCount": 2798,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-09-04上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "52"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2798"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1631393061229,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 38257696
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 28,
+        "fans": 967,
+        "redBean": 3956
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "18649645701966701",
+        "authorName": "季下如瑶",
+        "authorGuid": "2160916430",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+        "fans": 5514,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "20008164501343104",
+                "bookName": "暴君的美人"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "59247023018711188",
+                "roleName": "傅荣华",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "50"
+                },
+                "roleType": 5,
+                "popularCnt": 502141,
+                "createTime": 1640753960000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 192,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "704402323711000576",
+                "type": 0,
+                "title": "请假评论",
+                "content": "「请假评论」宝子们，28号今天请一天假，我下班去挂个水，可能没空更新了，放年假的时候我会把欠的都补回来，总共加上今天，是欠了七章，我都记着呢，我初一就放假了，到时候陆续给补回来章节，今天也是爱你们的一天。",
+                "createTime": 1643368777000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "687013147634106368",
+                "type": 0,
+                "title": "求月票啦",
+                "content": "「求月票啦」不知道我红袖有没有读者，我想求个红袖月票，各位伸出你们发财的小手，给我送个月票叭！",
+                "createTime": 1639222875000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 2,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "848988988140027904",
+                "type": 0,
+                "title": "给好友推个文【飞升成了虚拟偶像】",
+                "content": "「给好友推个文飞升成了虚拟偶像」无cp大女主爽文，玄学直播类<br>【玄学+直播+爽文】<br>玄学大佬晏乔被人暗算，穿越到了轩辕国的一部玄器(手机）里，成为了一名虚拟偶像。<br>开局一部手机，后续全靠自己。<br>想实体化？那就直播玄学获得人们的信仰吧！<br>孩子失踪几月未找到？晏乔掐指一算，藏孩子的门牌号都能给你算出来！<br>亲生女儿中邪吃生肉？晏乔隔空掐诀，现场来个火烤魑魅魍魉！<br>粉丝哭诉午夜凶铃不堪其扰？晏乔灵手摆卦，解决陈年二十年的凶杀案！<br>————<br>末法时代，各国异能文化发展得如火如荼，樱都的阴阳师隔岸虎视眈眈，北雪国的魔法师与女巫剑拔弩张，临海的鲛人佛系隐居。<br>唯有轩辕国的玄学文化逐渐没落，还被自己人嫌弃古板。<br>晏乔：古板？莫不是有什么误解，都给我嗨起来！<br>玄学无敌，所向披靡！<br>再加科技，我就是爹地！",
+                "createTime": 1677840925000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

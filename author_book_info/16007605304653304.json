@@ -1,0 +1,142 @@
+{
+    "bookInfo": {
+        "bookId": "16007605304653304",
+        "bookName": "锦鲤女王重生在八零",
+        "authorId": "6692295503726301",
+        "authorName": "沸腾的咖啡",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "　　黎锦出生时，山林大火，整整烧了三天三夜，寸草不生。\n　　开口说第一句话时，村里瘟疫，死伤大半。\n　　从此之后，她成了人人喊打的灾星。\n　　两岁家徒四壁，三岁克死亲母，十八岁更是惨被村民沉塘。\n　　本该一命归西的黎锦，突然出现，看着恨不得将她五马分尸的继母，扯开嘴巴，露出一口大白牙。\n　　“姨娘，我回来了！”",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "43970453895094738",
+        "lastChapterName": "第110章 停更通知。",
+        "lastChapterTime": 1583844635000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 112215,
+        "totalChapterCount": 111,
+        "collectCount": 202,
+        "tag": [
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-01-27上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "11"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "202"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1580367188980,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 27866755
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 6,
+        "redBean": 59
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "6692295503726301",
+        "authorName": "沸腾的咖啡",
+        "authorGuid": "2078387972",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2018-03-08/5aa0a6187825b.jpeg",
+        "fans": 2261,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "24533758901917904",
+                "bookName": "八零大院小可怜是玄学大佬"
+            },
+            {
+                "bookId": "15185695604581804",
+                "bookName": "我在八零当福包"
+            },
+            {
+                "bookId": "13716065305471804",
+                "bookName": "重生豪门小俏媳"
+            },
+            {
+                "bookId": "12033180904558103",
+                "bookName": "你是爱情最好的样子"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,337 @@
+{
+    "bookInfo": {
+        "bookId": "15953225505698104",
+        "bookName": "十万个氪金的理由",
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "categoryId": 30042,
+        "categoryName": "科幻空间",
+        "subCategoryId": 30044,
+        "subCategoryName": "时空穿梭",
+        "description": "灵琼为了赚点外快，入了游戏体验师的坑，累死累活没几个钱，打算干完最后一票就脱坑。\n结果坑没退成，反而入了更大的坑……\n灵琼：想当年我也每天在几百平的大床上醒来，我的100个执事正等着给我穿衣……\n系统：醒醒！你一平米都没有。\n灵琼：呵！凡人就是嫉妒我的美貌，没办法，谁让我这么有钱。\n系统：醒醒！看看你的余额！！你穷得馒头都吃不上。\n灵琼：曾经我也打遍天下无敌手，领略世间无敌的寂寞……\n系统：醒醒！你先从地上起来！\n灵琼：我人见人爱，花见花开……\n系统：醒醒！！你的美男要挂了！\n灵琼：扶我起来，我还能肝！",
+        "lastVipChapterId": "62385391189152356",
+        "lastVipChapterName": "第1775章 我当大佬那些年（全文完）",
+        "lastVipChapterTime": 1652495570000,
+        "lastChapterId": "45989301376757701",
+        "lastChapterName": "第52章 金丝雀的自我修养（17）",
+        "lastChapterTime": 1591406741000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3641183,
+        "totalChapterCount": 1787,
+        "collectCount": 65144,
+        "tag": [
+            {
+                "tagId": 10004,
+                "tagName": "快穿"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 10011,
+                "tagName": "科幻"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-01-21上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "364"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "6.5"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1585563481099,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 27769964
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2248,
+        "fans": 17202,
+        "redBean": 1156049
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "authorGuid": "357746135",
+        "intro": "阅文集团大神作家，文风轻松活泼，剧情天马行空，饱受读者喜爱。",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-03-13/0a28124b0c29ae4c245bc7fef9a5ccefMpqe7J17EBW6wVI.jpg",
+        "fans": 340629,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25001510901180504",
+                "bookName": "欢迎来到我的地狱"
+            },
+            {
+                "bookId": "18973470101456604",
+                "bookName": "快穿：反派女主满级之后"
+            },
+            {
+                "bookId": "11297425304303403",
+                "bookName": "这个大佬画风不对"
+            },
+            {
+                "bookId": "8314915703615503",
+                "bookName": "快穿系统之反派BOSS来袭"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "45454424956971347",
+                "roleName": "灵琼",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "72"
+                },
+                "roleType": 5,
+                "popularCnt": 715814,
+                "createTime": 1589372530000
+            },
+            {
+                "roleId": "45454599708455301",
+                "roleName": "陆闻辞",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "5.8"
+                },
+                "roleType": 4,
+                "popularCnt": 57730,
+                "createTime": 1589373181000
+            },
+            {
+                "roleId": "45454649620673304",
+                "roleName": "闪闪",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.6"
+                },
+                "roleType": 2,
+                "popularCnt": 25743,
+                "createTime": 1589373365000
+            },
+            {
+                "roleId": "45961000780268422",
+                "roleName": "江落木",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "2"
+                },
+                "roleType": 1,
+                "popularCnt": 20372,
+                "createTime": 1591259672000
+            },
+            {
+                "roleId": "45960947093192465",
+                "roleName": "沈寒灯",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "万",
+                    "count": "2"
+                },
+                "roleType": 4,
+                "popularCnt": 19843,
+                "createTime": 1591259471000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 27674,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "477166295067131904",
+                "type": 0,
+                "title": "",
+                "content": "大大的三个主角都很有特点，初遇时笙而惊鸿，再遇明殊而相随，又遇初筝而倾心。她们都是极好的人啊，她们只是一直用冷漠、微笑、恶意来伪装自己罢了。她们都曾幸福过，都曾快乐过，都曾有几个最好的朋友，只是最后，这些美好都被这世间最恶毒的人心毁灭，所以她们都不会对这世界展出自己的心。她们经历过万刧不复，所以更懂珍惜。她们不容易动心，所以在命中注定的那个人出现时，总是那么小心翼翼，不愿袒露\n——她们一直身处黑暗，所以更在意那束光芒。\n——我愿为你披荆斩棘，奉你为王。\n——我也曾把光阴莽撞视死如归，然后因爱你渴望伴你一生。\n灵琼的人生也有曲折，她也会遇到命中注定拥有的人。我期待与你的相遇，光阴荏苒我陪你♥♥♥\n",
+                "createTime": 1589191486000,
+                "userId": "120159782556",
+                "nickName": "夜猫猫呀",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120159785331_1585046089585/100",
+                "replyCount": 86,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2271,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5799_%E5%A5%B6%E6%98%94.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "733433430926360576",
+                "type": 0,
+                "title": "",
+                "content": "女主灵琼/男主顾雪里\n十万个氪金的理由：\n1   养成明星：                        苏渺渺/陆闻辞\n2  金丝雀的自我修养：         叶轻棠/沈寒灯\n3  祖宗迟来的叛逆期：         月落烛/楼星落\n4  您的末日己送达：             许无烟/姜寻楚\n5  同桌拿的剧本不对：          顾栖栖/江落木\n6  陛下今天病也没好：          秦雪歌/君衍意\n7  论献血的一百种方式：      许拂尽/夏弥夜\n8  我的另类同居朋友：          白知羽/盛明岁\n9  逃婚后一我成了反派：       慕小重/洛尘衣\n10 在顶流心里C住出道：       沉杳杳/乔沉亦\n11  落魄千金人设又崩了：       姜秋杪/谢宣城\n12  王妃不好惹：                      夜微霜/晏景休\n13  如何假装自己是NPC：      柳明珰/苏星渚\n14  被禁锢的野玫瑰：              江云瑰/纪非然\n15   咸鱼国师在线营业：         乔繁枝/封灵舒\n16   恋人之上：                         阮念晚/郁以白\n17   这个末世可重启：              简瑶羽/傅明鸩\n18   我给男主当闺女后：          君无忧/容稣言\n19   前男友不想复合怎么办：  林池鱼/秦淮应\n20   在星际收租的日子：          司空樱/司空无\n21    全城都以为我很惨：          温初叶/连烬雪\n22    白月光养成计划：              余夏绮/楚云西\n23    本标题不能概述内容：      桑落酒/景忱年\n24    我在武林卖秘籍：              风明繁/云祁连\n25    海王退休后开始养鱼：      绮里羽/白余霜\n26    关于抱大腿这件事：          秋月白/林深野\n27     魔神他不讲武德：             虞西茶/池疏星\n28     血族战败负债千亿后：     洛回雪/北邙尘\n29     禁止违规出圈：                 东方倾/席微云\n30     我与将军解战袍：             宁青葙/叶满溪\n31      荒星三百六十天：             格西里/明月夜\n32     谢邀，已退婚！：              庄棉棉/慕东陵\n33     洗白失败后我黑化了：      郁萱竹/薄雪绕\n34     13号城市：                         舒湘灵/宗卿云",
+                "createTime": 1650290333000,
+                "userId": "3500183617",
+                "nickName": "甜崽小糯",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3500187375_1635518758469/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 123,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3413_%E5%8D%8A%E8%BD%BD%E5%A2%A8%E9%A6%99.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "477169980769828864",
+                "type": 0,
+                "title": "",
+                "content": "我现在……十分困扰。到底是捧纨绔还是捧这本……算了，还是纨绔，这本书肯定有很多大佬，我争不过(╥ω╥`)  ",
+                "createTime": 1589192365000,
+                "userId": "3377154845",
+                "nickName": "请叫我易夫人吖",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3377151930_1591439951746/100",
+                "replyCount": 30,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 395,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6525_%E8%82%A5%E5%95%BE%E8%8A%B1%E5%9B%AD%E6%8C%82%E4%BB%B6%E6%9C%80%E6%96%B0%E7%89%88.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

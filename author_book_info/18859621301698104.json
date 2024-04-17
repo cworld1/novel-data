@@ -1,0 +1,251 @@
+{
+    "bookInfo": {
+        "bookId": "18859621301698104",
+        "bookName": "我和我的星期猫",
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "categoryId": 30083,
+        "categoryName": "短篇",
+        "subCategoryId": 30086,
+        "subCategoryName": "生活随笔",
+        "description": "忽然想写写，我这痛苦的十二月。\n我的猫都没了。\n都没了。",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "50625953789349984",
+        "lastChapterName": "再见，猫",
+        "lastChapterTime": 1608727836000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 4748,
+        "totalChapterCount": 5,
+        "collectCount": 262,
+        "tag": [
+            {
+                "tagId": 10275,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 0,
+        "enableGift": 0,
+        "copyright": "2020-12-22上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "",
+            "count": "4748"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "262"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1608715582798,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 35339170
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 75,
+        "redBean": 1292
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "authorGuid": "3261263971",
+        "intro": "作品《王者荣耀：陆神有礼了》获2018王者荣耀文学大赛第一赛季亚军",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-23/3b7a1a794c272f879c48c3bcccd828bc8Y5839Y7JR0l4ms.jpg",
+        "fans": 57250,
+        "total": 12,
+        "items": [
+            {
+                "bookId": "26350511901136104",
+                "bookName": "专治贩剑，玄学大佬她杀疯了"
+            },
+            {
+                "bookId": "22792057801881404",
+                "bookName": "团宠三岁半：别耽误我妈考清华"
+            },
+            {
+                "bookId": "21285758901912104",
+                "bookName": "退婚后，夫人的马甲藏不住了"
+            },
+            {
+                "bookId": "20793729208949304",
+                "bookName": "白爷他超怂哒"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 28,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "576331542973120512",
+                "type": 0,
+                "title": "",
+                "content": "看完你的文，我感到了共鸣，我并不养猫，但是我家养狗，但是都被偷了，现在就特别想我们家的煤矿，团子，Tt和斑点，特别恨那些偷狗的",
+                "createTime": 1612834324000,
+                "userId": "854023589008",
+                "nickName": "灰白滴竹子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854023582757_1639297729692/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 22,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3413_%E5%8D%8A%E8%BD%BD%E5%A2%A8%E9%A6%99.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "559098677386543104",
+                "type": 0,
+                "title": "",
+                "content": "看完这篇文，我感觉有点悲伤有点想哭下来，那时候的月月估计整个人都是崩溃的，愿红豆和黄豆在天堂一切安好，愿黄豆下辈子做个快快乐乐没病的猫🙏",
+                "createTime": 1608725689000,
+                "userId": "3228000359",
+                "nickName": "次年雨未停",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3228001830_1608958498897/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 35,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6046_%E6%AD%A3%E7%89%88%E5%8D%AB%E5%A3%AB.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "558754757347442688",
+                "type": 0,
+                "title": "",
+                "content": "别太难过了，相信它们会过的很好的。",
+                "createTime": 1608643692000,
+                "userId": "120188405577",
+                "nickName": "乐乐桃",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120188408757_1630661880486/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 20,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9982_%E5%A4%9C%E6%81%8B%E8%8A%B1%E5%AB%81.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

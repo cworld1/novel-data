@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "12153977304568803",
+        "bookName": "苏医生，你笑起来很好看",
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "本书为北雅医院系列第二部~\r\n实体书上市，更名为《苏医生今天笑了没有》，各大平台有售~\r\n~~~~~~~~~~~~~~\r\n陶然的身份：北雅医院呼吸内科护士、苏主任忠实小迷妹、苏主任后援团团长。\r\n业余生活：日常和神外宁主任迷妹撕逼。\r\n什么？神外宁主任比苏主任帅？拜托！你该去眼科找专家治治眼睛了！不然叫你家宁主任给你看看脑子呗？\r\n口头禅：我苏老师天下第一帅！不接受反驳！\r\n\r\n陶然十八岁爱上苏寒山，改志愿、报护理，用尽洪荒之力来到他身边，只为对他说：苏医生，你好，我是陶然。哪怕，他并不记得六年前有这么一个女孩在他温柔的目光里找到了希望。\r\n\r\n2020年开年，一场肺炎让全国医护加入到逆行者行列，结束了陶然没心没肺加班追爱豆的日子。\r\n苏主任：出发在即，有什么想说的吗？\r\n陶然：我还没谈过恋爱，如果，如果我回不来，苏老师你能当我一天男朋友吗？\r\n\r\n你为这世界遍体鳞伤，我只想守护你眼里的光\r\n【微信公众号：遇见吉祥读书会    微博：吉祥夜-hx     抖音：ningziningzi（宁家姐姐）】",
+        "lastVipChapterId": "49108879149606884",
+        "lastVipChapterName": "第196章 送大家两个小剧场",
+        "lastVipChapterTime": 1602986802000,
+        "lastChapterId": "44993419005106008",
+        "lastChapterName": "第63章 3-1",
+        "lastChapterTime": 1587702480000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 252299,
+        "totalChapterCount": 196,
+        "collectCount": 181620,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 30159,
+                "tagName": "医生"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-02-14上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "25"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "18"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1581674339368,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 23485021
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1393,
+        "fans": 9093,
+        "redBean": 180124
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "authorGuid": "803010821665",
+        "intro": "阅文集团白金作家，作品《写给鼹鼠先生的情书》荣获第二届网络原创文学现实主义题材征文大赛优胜奖。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+        "fans": 200948,
+        "total": 17,
+        "items": [
+            {
+                "bookId": "27801520907672704",
+                "bookName": "病娇小师弟今天又在钓我"
+            },
+            {
+                "bookId": "19188324408052104",
+                "bookName": "我寄人间"
+            },
+            {
+                "bookId": "15616007105547604",
+                "bookName": "亲爱的请入剧"
+            },
+            {
+                "bookId": "13017347103192803",
+                "bookName": "我的黑月光女友"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4059,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "533942907812708352",
+                "type": 0,
+                "title": "完结",
+                "content": "「完结」苏医生完结了。说明一下，这几年我的书都是先签出版再连载，所以都是按照出版社的体量要求来写，基本在25万字左右，不会超过30万，像粟先生和黑月光都已经是超了字数了，现在压着出版出不来，我头疼得还要去删，紧接着《旧曾谙》也是25万字，这些在作者的话里一开始就说过，而且书里基本男女感情都只是线索，不是主旨，主旨是写一个主题，比如鼹鼠的刑侦和缉毒，这本的疫情等，这本苏医生更是出版社定制的重点选题……如果不喜欢看这类文的亲亲，可以暂时告别，未来也许哪天心血来潮会再写男女缠绵悱恻的大长篇言情，到时候我们再见\u0014，么么哒，爱你们～",
+                "createTime": 1602728086000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 9,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 33,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "445690365224419328",
+                "type": 0,
+                "title": "",
+                "content": "挖坑技术哪家强，请到红袖找吉祥，哈哈",
+                "createTime": 1581687040000,
+                "userId": "120002931596",
+                "nickName": "耶格尔2",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120002936112_1679471389506/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 182,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "462148769614594048",
+                "type": 0,
+                "title": "晚更",
+                "content": "「晚更」啊啊啊啊，昨天没更，很抱歉，今天在高铁上，估计要晚上更！！",
+                "createTime": 1585611029000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 19,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 82,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

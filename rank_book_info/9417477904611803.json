@@ -1,0 +1,293 @@
+{
+    "bookInfo": {
+        "bookId": "9417477904611803",
+        "bookName": "久爱成疾",
+        "authorId": "8880285203805401",
+        "authorName": "烟了了",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【已出版】\n出版名《久爱成疾》，当当，天猫上均有销售。\n英俊矜贵，冷漠无情的世家继承人厉沉暮看上了寄养在家中的拖油瓶少女顾清欢。\n从此高冷男人化身为忠犬，带娃，做饭……整个世家圈跌破眼镜，人人艳羡。\n顾清欢佛系微笑：腹黑，精力旺盛，睚眦必报，白天一个人格，晚上一个人格。\n【阅读小贴士：1V1，双洁，宠文，女主美美美。】",
+        "lastVipChapterId": "37688381608829700",
+        "lastVipChapterName": "第1713章 在你心间肆意生长（大结局）",
+        "lastVipChapterTime": 1560442439000,
+        "lastChapterId": "26602737327561465",
+        "lastChapterName": "第100章 我用过的女人，叶三敢要吗？",
+        "lastChapterTime": 1600338452000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2645160,
+        "totalChapterCount": 1712,
+        "collectCount": 411643,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 40164,
+                "tagName": "忠犬"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30383,
+                "tagName": "高冷"
+            },
+            {
+                "tagId": 30384,
+                "tagName": "痴情"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-12-26上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "265"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "41"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 21057576
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 3951,
+        "fans": 44958,
+        "redBean": 288466
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28543909261014611",
+                "roleName": "顾清欢",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "22"
+                },
+                "roleType": 5,
+                "popularCnt": 217216,
+                "createTime": 1526375948000
+            },
+            {
+                "roleId": "28543909261014616",
+                "roleName": "司迦叶",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "9.4"
+                },
+                "roleType": 7,
+                "popularCnt": 93802,
+                "createTime": 1526375949000
+            },
+            {
+                "roleId": "28543909244235767",
+                "roleName": "厉沉暮",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "4.5"
+                },
+                "roleType": 4,
+                "popularCnt": 45373,
+                "createTime": 1526375948000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 34940,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "187135308624625701",
+                "type": 0,
+                "title": "厉公馆签到楼",
+                "content": "「厉公馆签到楼」蹲在坑里的宝宝们来按个爪印，(づ￣3￣)づ╭❤～，签到楼，有人在追文咩？（其实是作者码字孤独寂寞冷，嗷，快来暖我~~）",
+                "createTime": 1520049816000,
+                "userId": "854006227994",
+                "nickName": "烟了了",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2019-08-08/5d4b81d486e95.jpeg",
+                "replyCount": 426,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 479,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8880285203805401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "422558129293819904",
+                "type": 0,
+                "title": "",
+                "content": "这本书我一直看了好多遍，无数次去回顾阅读，无数次泪流满面，每一次都带给我不一样甚至说是更深刻的感触。第一次看的时候，我觉得厉沉暮是真的变态而又丧心病狂，我止不住的去心疼清欢，年少便看破了红尘，清心寡欲，无欲无求，在我们追求甜甜的恋爱，拼命努力读书学习的时候，她便遭受了这么多罪，吃了那么多的苦，却仍然活得坚韧。我也曾一度在看到老谢和纪凛冬的时候感慨这世间为何缘分如此弄人，缘深时情浅，缘浅时情深。但无可否认，在一次又一次的回顾时，我得知，每一个人物都有自己的苦衷，正如厉沉暮出身高贵身居高位却从小就知道父亲害死自己的母亲，不仅如此，他所受的期待过于高，退无可退，因此才有了人格的分裂，性格的无常，不懂表达，也不会低头。由此便不难理解叶瑾然，厉娇，厉晟阳，纪凛冬，谢惊蛰诸人。关于女角色，就我个人而言，我崇拜顾清欢，历经千帆，寡淡如水，依然如初。这世间没有什么永恒，所以初心才尤为可贵。纸短情长，只愿每个人都能看透自己的内心，遵从内心，生活嘛，总要活的有滋有味才好，经历越多，便会更加成熟，希望你一闯江湖，归来仍是少年的模样！",
+                "createTime": 1576171885000,
+                "userId": "120025447530",
+                "nickName": "倾夏儿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120025445844_1609808247231/100",
+                "replyCount": 17,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 231,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "276980753538220073",
+                "type": 0,
+                "title": "",
+                "content": "看清欢的故事，觉得历沉暮很变态！看迦叶的故事，觉得谢少将很渣！\n看温楚的故事，纪凛冬简直就是厉沉暮和谢少将的合体！！！😡😡😡",
+                "createTime": 1541466703000,
+                "userId": "803007903806",
+                "nickName": "北国秋瞳",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803007902971_1535004248341/100",
+                "replyCount": 15,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 431,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

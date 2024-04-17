@@ -1,0 +1,333 @@
+{
+    "bookInfo": {
+        "bookId": "11681184903685203",
+        "bookName": "季先生你老婆在这儿",
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【新文《你惊扰了时光》已发，喜欢的小宝贝可以收藏起来啦！】\r\n都说幸福是要自己去争取的，她争取了，可是也被打脸了。\r\n“季北遥，跟我结婚吧！”\r\n她鬼迷了心窍，在酒精的作用下胡乱跑到他公司楼下，当着众位记者的面指着宛如星辰般灿烂的男人！\r\n回想七年前，似乎也出现过相似的场景——\r\n“季北遥，我喜欢你！”\r\n“对不起，我不喜欢你！”\r\n原以为事情的结局会跟当年一样，岂料——\r\n某男拨开人群，一步一步接近，漆黑幽深的眼眸落在了她身上——\r\n“好，我们结婚！”\r\n“啊？”\r\n所以，他这是答应了？",
+        "lastVipChapterId": "40228964263457329",
+        "lastVipChapterName": "两个我都在说爱你",
+        "lastVipChapterTime": 1569911788000,
+        "lastChapterId": "34894562258271786",
+        "lastChapterName": "第一百七十七章 连面都不见了，还谈什么感情！",
+        "lastChapterTime": 1550765044000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1146723,
+        "totalChapterCount": 1102,
+        "collectCount": 77948,
+        "tag": [
+            {
+                "tagId": 20049,
+                "tagName": "双向暗恋"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30413,
+                "tagName": "女汉子"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-01-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "115"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "7.8"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1546762207532,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 23069343
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 572,
+        "fans": 36219,
+        "redBean": 120929
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "authorGuid": "120002683845",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+        "fans": 83858,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "23140429909042704",
+                "bookName": "夫人她每天都想摸鱼摆烂"
+            },
+            {
+                "bookId": "21638836501986804",
+                "bookName": "他与她逆光而行"
+            },
+            {
+                "bookId": "20182811201393604",
+                "bookName": "夫人被我越宠越凶"
+            },
+            {
+                "bookId": "18022368401796304",
+                "bookName": "魂归后宿敌总想跟我谈恋爱"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "34041807506415796",
+                "roleName": "季北遥",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "97"
+                },
+                "roleType": 4,
+                "popularCnt": 970208,
+                "createTime": 1546857215000
+            },
+            {
+                "roleId": "34041819587709590",
+                "roleName": "许南薰",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.5"
+                },
+                "roleType": 5,
+                "popularCnt": 25286,
+                "createTime": 1546857260000
+            },
+            {
+                "roleId": "34697210391026197",
+                "roleName": "陆泠",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "5156"
+                },
+                "roleType": 4,
+                "popularCnt": 5156,
+                "createTime": 1549298781000
+            },
+            {
+                "roleId": "35020141724236610",
+                "roleName": "温琪",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "1990"
+                },
+                "roleType": 5,
+                "popularCnt": 1990,
+                "createTime": 1550501795000
+            },
+            {
+                "roleId": "35020168034388066",
+                "roleName": "宋柯",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "465"
+                },
+                "roleType": 2,
+                "popularCnt": 465,
+                "createTime": 1550501892000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 6587,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "400606327342170112",
+                "type": 0,
+                "title": "",
+                "content": "统一回复下哈，进群问题的答案，老季的女儿，名字叫乐乐",
+                "createTime": 1570938168000,
+                "userId": "120002683845",
+                "nickName": "小柚子茶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+                "replyCount": 9,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 52,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "7944932004215201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "299599127766106120",
+                "type": 0,
+                "title": "",
+                "content": "【本文没有虐，没有虐，没有虐】\n呃，好吧，有一点点的小虐，小虐怡情，哈哈哈，男主超甜超宠超会撩，就是有一点点傲娇，期间有磕磕绊绊什么的，请各位小仙女多担待，另外新的一年，请各位多多指教了！\n鞠躬，撒花！",
+                "createTime": 1546856901000,
+                "userId": "120002683845",
+                "nickName": "小柚子茶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+                "replyCount": 21,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 268,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "7944932004215201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "362688436672659480",
+                "type": 0,
+                "title": "",
+                "content": "谢谢柚子小姐姐在群里分享缺失章节，么么哒",
+                "createTime": 1561898523000,
+                "userId": "854004280938",
+                "nickName": "我磕的cp天下第一好",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854004284433_1638853455918/100",
+                "replyCount": 25,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 86,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

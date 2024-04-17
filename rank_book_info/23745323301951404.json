@@ -1,0 +1,302 @@
+{
+    "bookInfo": {
+        "bookId": "23745323301951404",
+        "bookName": "大理寺小饭堂",
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "午夜梦回，温明棠看到了那个娇养金屋的金雀美人的结局；\n梦醒之后，换了个芯子的温明棠决定换条接地气的路走走……\n****\n去年年末，京城各部衙门人员变动考评表流出，大理寺公厨以半年换了十二个厨子的佳绩高居榜首。\n自此，大理寺公厨一战成名，成了全京城厨子的噩梦。\n……\n这日，空缺了半月有余的大理寺公厨新来了一个厨娘……\n",
+        "lastVipChapterId": "71840363467303861",
+        "lastVipChapterName": "第四百五十五章 豚油拌饭（一）",
+        "lastVipChapterTime": 1687863218000,
+        "lastChapterId": "64491160504163341",
+        "lastChapterName": "第三十二章 肉松（一）",
+        "lastChapterTime": 1660381195000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 972849,
+        "totalChapterCount": 447,
+        "collectCount": 2142,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20043,
+                "tagName": "美食"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 30373,
+                "tagName": "厨娘"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-07-11上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "97"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2142"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1658197829355,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 44540091
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 7,
+        "fans": 1017,
+        "redBean": 8359
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "authorGuid": "800155142877",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 4367,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "20076235401040204",
+                "bookName": "独占金枝"
+            },
+            {
+                "bookId": "14953714705112904",
+                "bookName": "天作不合"
+            },
+            {
+                "bookId": "8623124404548303",
+                "bookName": "天赐一品"
+            },
+            {
+                "bookId": "22376687000523202",
+                "bookName": "女配修仙记"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "64194797829069084",
+                "roleName": "温明棠",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1773"
+                },
+                "roleType": 5,
+                "popularCnt": 1773,
+                "createTime": 1659185857000
+            },
+            {
+                "roleId": "64194803197782711",
+                "roleName": "林斐",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "785"
+                },
+                "roleType": 4,
+                "popularCnt": 785,
+                "createTime": 1659185877000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 209,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "785493960016658432",
+                "type": 0,
+                "title": "",
+                "content": "看了二十多章了，这本套路跟绿江《国子监小食堂》也太像了",
+                "createTime": 1662702530000,
+                "userId": "854049005238",
+                "nickName": "飞菲肥",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854049002790_1655921523989/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "782760251563835392",
+                "type": 0,
+                "title": "",
+                "content": "嗷嗷嗷是我喜欢的类型唉",
+                "createTime": 1662050763000,
+                "userId": "120163162269",
+                "nickName": "病娇求生者囚徒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120163167988_1672240889211/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3023_%E4%B9%9D%E5%B0%BE%E7%8B%90.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "895482785703002112",
+                "type": 0,
+                "title": "",
+                "content": "看了几次都没更新了，什么情况啊？希望不要断更啊！很喜欢！",
+                "createTime": 1688925910000,
+                "userId": "120007576066",
+                "nickName": "cym777",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007572457_1616753973566/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5531_%E4%B8%87%E7%89%A9%E7%94%9F%E9%95%BF.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "黑龙江"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

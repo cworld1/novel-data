@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "20572215408175704",
+        "bookName": "诱他入眠",
+        "authorId": "19101967308064401",
+        "authorName": "长枳",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【全文免费已完结】\n【姐妹篇《她的花孔雀》】\n宋卿卿第一次见许南归，他在打架，还打输了。\n第二次见许南归，他在打架，然后输了。\n第三次见许南归，他在打架，输了。\n宋卿卿心想，这人看起来不像好人，但却很有毅力，就喜欢挑战赢不了的人。\n在宋卿卿的印象里，许南归就是一个浑身写着“丧”字，打架还特别差的社会青年。\n见到他应该能跑就跑，被他抓住就完了。\n直到某天。\n宋卿卿亲眼目睹许南归一个人打趴下了三个壮汉……\n浑身是伤的许南归转头的那一刻，吓的她直接瘫坐在盲道上放声大哭了起来。\n许南归听着宋卿卿的哭声，抬手捏了捏眉心，而后将扔在地上的校服捡起来，套在身上，整理出一副“好学生”的模样后才走到宋卿卿的面前，蹲下盯着她的脸问：“小屁孩，你家在哪儿？我送你。”\n【撞了南墙也不回头的医生VS痞帅闷骚化学实验家】\n注：有八岁的年龄差，简介为女主小时候遇到男主的故事。\n——谢谢喜欢这本书的各位。",
+        "lastVipChapterId": "58655523880804008",
+        "lastVipChapterName": "完结感言",
+        "lastVipChapterTime": 1640972516000,
+        "lastChapterId": "56327256200937730",
+        "lastChapterName": "第四十六章 一个粘人的妹妹",
+        "lastChapterTime": 1629955272000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 520069,
+        "totalChapterCount": 148,
+        "collectCount": 717,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20091,
+                "tagName": "日久生情"
+            },
+            {
+                "tagId": 20071,
+                "tagName": "校园"
+            },
+            {
+                "tagId": 20332,
+                "tagName": "近水楼台"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30396,
+                "tagName": "反差萌"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-07-21上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "52"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "717"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1629081660233,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 39292985
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 7,
+        "fans": 56,
+        "redBean": 2029
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "19101967308064401",
+        "authorName": "长枳",
+        "authorGuid": "3028023745",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-01/f2ef6bdb57796d20746979117dc8df8b4HbFy5sqi7881m3.jpg",
+        "fans": 655,
+        "total": 4,
+        "items": [
+            {
+                "bookId": "28820453107372004",
+                "bookName": "欢迎来到梦境世界"
+            },
+            {
+                "bookId": "20805366208280104",
+                "bookName": "再度热恋"
+            },
+            {
+                "bookId": "19102013408135704",
+                "bookName": "她的花孔雀"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "55660782889180024",
+                "roleName": "宋卿卿",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1040"
+                },
+                "roleType": 5,
+                "popularCnt": 1040,
+                "createTime": 1627394175000
+            },
+            {
+                "roleId": "55660747875128307",
+                "roleName": "许南归",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1023"
+                },
+                "roleType": 4,
+                "popularCnt": 1023,
+                "createTime": 1627394045000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 30,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "640578026408574976",
+                "type": 0,
+                "title": "",
+                "content": "集美们，因为前面章节总是被屏蔽和删减，所以从第十八章开始改成了校园，希望大家不要介意\n这是一个关于男女主互相成长和救赎的故事。",
+                "createTime": 1628151879000,
+                "userId": "3028023745",
+                "nickName": "长枳",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-01/f2ef6bdb57796d20746979117dc8df8b4HbFy5sqi7881m3.jpg",
+                "replyCount": 1,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5688_8233_Cat.webp",
+                "authorId": "19101967308064401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "665930363956232192",
+                "type": 0,
+                "title": "",
+                "content": "　　避雷：\n　　（1）男主有初恋，但是未表白，也未追求，只是一段短时间的暗恋，但是唯一的女朋友只有女主，是双洁。\r\n　　看到这里，不喜欢男主有过暗恋对象的可以默默弃坑了。\n　　（2）本文从第十八章结束后就被我改成了回忆章，且非常的长，目前我写到第九十六章《雪花飘落》也依旧是回忆，我争取在一百零五章之前结束回忆。\n　　备注：回忆不是灌水，每章的回忆既然写了，那必然有它存在的意义，不喜欢可以跳过，但不能保证剧情是否连贯，毕竟我还没写完回忆。等写完后会在章节标题标注，并通知是否适合跳过回忆章节。但我个人不建议跳过回忆，没有回忆的人生是不完整的，就算是小说人物，他也该有其存在的意义以及完整的人生。\n　　（3）本文正文应该在四十一、二万左右正是完结正文，结局HE。\n　　特别备注：虽然正文是HE，但是在写作过程中，个人感觉有BE的可能性，所以HE正文完结后，我个人会出BE版本放在HE完结章后面，也是承接第十八章结尾，大概会有三个版本的结局，出的时候会也会在标题上特别备注。（不喜欢看可以不定，BE版本只为满足心中所想，喜欢看的朋友可以攒到正是申请完结在看。）\r\n　　（4）关于文章看起来比较拖沓的原因，这件事我在第二十五章作家的话里就已经说过了，这次一起放在这个避雷里面。\r\n　　关于文章我习惯性的写的细一点，就像是一种个人习惯，也算是强迫症吧。毕竟每个人都有其不同的写作风格，这都是日积月累的习惯，没有人会一夕间改变长久积攒下来的习惯，只能慢慢的去改变。\r\n　　如果大家觉得文章拖，可以默默弃文。\r\n　　我这里可以吐槽角色人物，但是不允许自己被吐槽。（微笑）\n　　后话：\n　　There are a thousand Hamlets in a thousand people's eyes.（一千个读者就有一千个哈姆雷特。）\n　　没有一个作者希望自己码到凌晨三四点的文被骂的一文不是，不喜欢可以默默弃坑。\r\n　　只能说我脑中的故事和你脑中的故事不同，没有写出你们都喜欢的文章与故事。\r\n　　看到这里应该有人会骂，谁让你每天码文骂到那么晚了，为什么白天不码。\r\n　　再此声明：\r\n　　（1）非全职作者，白天有事做。\r\n　　（2）写作全凭兴趣爱好。\r\n　　（3）每个作者都有自己码文的小癖好，我就喜欢深夜熄灯的时候，听着音乐，躺在床上，捧着手机码文。当天文的甜虐程度，全凭我听的歌是甜歌还是伤感的歌。\n　　毕竟每当深夜降临的时候，人的灵感才更加的充沛。\r\n　　先写到这里，后续补充会放到评论区。",
+                "createTime": 1634196347000,
+                "userId": "3028023745",
+                "nickName": "长枳",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-01/f2ef6bdb57796d20746979117dc8df8b4HbFy5sqi7881m3.jpg",
+                "replyCount": 2,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5688_8233_Cat.webp",
+                "authorId": "19101967308064401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "663341628416655360",
+                "type": 0,
+                "title": "",
+                "content": "我的天，这是什么绝世好书，爱了爱了",
+                "createTime": 1633579145000,
+                "userId": "2136113305",
+                "nickName": "冬雪如玉",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2136117515_1599402575064/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

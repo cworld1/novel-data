@@ -1,0 +1,303 @@
+{
+    "bookInfo": {
+        "bookId": "19188324408052104",
+        "bookName": "我寄人间",
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "本书又名《与你书》。\r\n——————\r\n往后余生，字字是你。——贺君与\r\n别人的爱情：你是这世界赠予我的情书。\r\n贺律师的爱情：你是这世界赠予我的武林秘籍吧？\r\n某人抱拳上线：不，在下不叫情书，也不是武林秘籍，我叫景书。\r\n贺律师：关于这件事，我们好好来辩辨道理。\r\n景书：能动手绝不逼逼。\r\n贺律师：景姑娘，君子动口不动……\r\n景书：放景武，操家伙，上！\r\n贺律师：……\r\n景武：我是谁？我在哪？我要干什么？\r\n\r\n景姑娘小档案：\r\n人生准则：路见不平一声吼，该出手时就出手。\r\n找男朋友的标准：长得好看。嗯？肤浅？那就看得顺眼的。什么样的人你能看得顺眼？长得好看。\r\n口头禅：这位仁兄，本姑娘看你骨骼清奇，长相俊美，不如来我家户口本上常住如何？嗯？不从？放景武，操家伙，上！\r\n后来的后来，景书路遇俊美小哥哥，随口就来：这位小哥，本姑娘看你骨骼清奇，长相……\r\n贺律师黑脸冷笑：你是不是忘了谁是户主？\r\n景书以为她纳入麾下的是只弱娇小白喵，谁知道特么是只凶狠大黑豹，救命……\r\n\r\n一句话简介：你，是生命赐予我最温暖的留言",
+        "lastVipChapterId": "75701384279803880",
+        "lastVipChapterName": "第357章 慢慢（完）",
+        "lastVipChapterTime": 1702441090000,
+        "lastChapterId": "57044389037843756",
+        "lastChapterName": "第90章 某年某月某日 40",
+        "lastChapterTime": 1632565156000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 497987,
+        "totalChapterCount": 356,
+        "collectCount": 3360,
+        "tag": [
+            {
+                "tagId": 20068,
+                "tagName": "同居"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 30113,
+                "tagName": "律师"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-07-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "50"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3360"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1635485277400,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 36000530
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 169,
+        "fans": 622,
+        "redBean": 76912
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "authorGuid": "803010821665",
+        "intro": "阅文集团白金作家，作品《写给鼹鼠先生的情书》荣获第二届网络原创文学现实主义题材征文大赛优胜奖。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+        "fans": 200948,
+        "total": 17,
+        "items": [
+            {
+                "bookId": "27801520907672704",
+                "bookName": "病娇小师弟今天又在钓我"
+            },
+            {
+                "bookId": "15616007105547604",
+                "bookName": "亲爱的请入剧"
+            },
+            {
+                "bookId": "13017347103192803",
+                "bookName": "我的黑月光女友"
+            },
+            {
+                "bookId": "13007251603734603",
+                "bookName": "旧曾谙"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "55422642253441523",
+                "roleName": "贺君与",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.5"
+                },
+                "roleType": 4,
+                "popularCnt": 25179,
+                "createTime": 1626507031000
+            },
+            {
+                "roleId": "55422647504700169",
+                "roleName": "景书",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.4"
+                },
+                "roleType": 5,
+                "popularCnt": 14075,
+                "createTime": 1626507052000
+            },
+            {
+                "roleId": "55422651111807205",
+                "roleName": "黄大显",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "3527"
+                },
+                "roleType": 6,
+                "popularCnt": 3527,
+                "createTime": 1626507065000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 249,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "633948944610754560",
+                "type": 0,
+                "title": "修改",
+                "content": "「修改」本文需要修改，今天打算先修，停更一天",
+                "createTime": 1626571383000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 3,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "628719679766200320",
+                "type": 0,
+                "title": "先更旧曾谙",
+                "content": "「先更旧曾谙」这本明天会更啊，旧曾谙那边要完结了，先紧着那边",
+                "createTime": 1625324629000,
+                "userId": "803010821665",
+                "nickName": "吉祥夜",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5458984304804301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "627942923929124864",
+                "type": 0,
+                "title": "",
+                "content": "万千故事同君诉，无边光景与你书。\n《与你书》开坑大吉~",
+                "createTime": 1625139436000,
+                "userId": "803032608785",
+                "nickName": "蓝海熙143",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803032602920_1608144478866/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,340 @@
+{
+    "bookInfo": {
+        "bookId": "10086697504841803",
+        "bookName": "王者时光微微甜",
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "categoryId": 30050,
+        "categoryName": "游戏竞技",
+        "subCategoryId": 30052,
+        "subCategoryName": "网游情缘",
+        "description": "【简单、轻松、暖萌】\n我的意中人是个盖世英雄。有一天，他会拿着五杀和MVP，带我从青铜走向荣耀王者。\n楚小夕意气风发：“我要上王者！”\n当夜，她发现大神的游戏名改了\n楚小夕：...\n*\n国服射手小山总做梦都没想到，他被睡在下铺的兄弟骗了...\n国服辅助白琛做梦都没想到，从小守护他的她，原来喜欢他...\n万年男二李怀宇情场失意后，那眸光阴郁的少年找上门来...\n*\n青春热血的电竞，风华正茂你我最好的时光。\n总会遇见一个人，一见钟情、二见倾心，三见不离不弃。\n【小暖群607190263】\n【2群793100184】",
+        "lastVipChapterId": "59301422000739058",
+        "lastVipChapterName": "2022番外",
+        "lastVipChapterTime": 1640957806000,
+        "lastChapterId": "28057968624220703",
+        "lastChapterName": "第127章：沉默灭掉了山总的严重后果",
+        "lastChapterTime": 1525455930000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1932314,
+        "totalChapterCount": 1846,
+        "collectCount": 243513,
+        "tag": [
+            {
+                "tagId": 10013,
+                "tagName": "竞技"
+            },
+            {
+                "tagId": 20081,
+                "tagName": "王者荣耀"
+            },
+            {
+                "tagId": 20095,
+                "tagName": "一见钟情"
+            },
+            {
+                "tagId": 20296,
+                "tagName": "电竞"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 20066,
+                "tagName": "热血"
+            },
+            {
+                "tagId": 30129,
+                "tagName": "校草"
+            },
+            {
+                "tagId": 30120,
+                "tagName": "大神"
+            },
+            {
+                "tagId": 20055,
+                "tagName": "网配"
+            },
+            {
+                "tagId": 10012,
+                "tagName": "游戏"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-03-13上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "193"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "24"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1572257497790,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 21565588
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 857,
+        "fans": 26099,
+        "redBean": 226745
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "authorGuid": "3261263971",
+        "intro": "作品《王者荣耀：陆神有礼了》获2018王者荣耀文学大赛第一赛季亚军",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-23/3b7a1a794c272f879c48c3bcccd828bc8Y5839Y7JR0l4ms.jpg",
+        "fans": 57250,
+        "total": 12,
+        "items": [
+            {
+                "bookId": "26350511901136104",
+                "bookName": "专治贩剑，玄学大佬她杀疯了"
+            },
+            {
+                "bookId": "22792057801881404",
+                "bookName": "团宠三岁半：别耽误我妈考清华"
+            },
+            {
+                "bookId": "21285758901912104",
+                "bookName": "退婚后，夫人的马甲藏不住了"
+            },
+            {
+                "bookId": "20793729208949304",
+                "bookName": "白爷他超怂哒"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28544068694895200",
+                "roleName": "陆左煜King",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "8.1"
+                },
+                "roleType": 4,
+                "popularCnt": 80825,
+                "createTime": 1526376542000
+            },
+            {
+                "roleId": "28544068443238562",
+                "roleName": "楚小夕",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "7"
+                },
+                "roleType": 5,
+                "popularCnt": 69645,
+                "createTime": 1526376542000
+            },
+            {
+                "roleId": "29565242541062267",
+                "roleName": "李怀宇",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "3.4"
+                },
+                "roleType": 6,
+                "popularCnt": 33974,
+                "createTime": 1530180713000
+            },
+            {
+                "roleId": "29565311806801917",
+                "roleName": "纯洁",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.4"
+                },
+                "roleType": 1,
+                "popularCnt": 14017,
+                "createTime": 1530180970000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 72681,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "361645332448411765",
+                "type": 0,
+                "title": "",
+                "content": "从抖音过来的！快集合！然后我要开始读这本书了！",
+                "createTime": 1561651706000,
+                "userId": "1420788467",
+                "nickName": "夜熙加油",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1420784119_1564155990799/100",
+                "replyCount": 18,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 639,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "363371644842147911",
+                "type": 0,
+                "title": "",
+                "content": "真的第一本书，超级好看！希望小夕和大神永远幸福，还有各大CP，小李子可不能死！我还在想他和小莫谁是攻呢！另外就是大大赶快更新呦！我都看了这是第四遍了，我真是爱的深沉。可怜可怜我们吧，一人血书跪求更新！",
+                "createTime": 1562064136000,
+                "userId": "3105243375",
+                "nickName": "喜川奈",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3105248322_1561565128148/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 359,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "443515692860440576",
+                "type": 0,
+                "title": "",
+                "content": "陆神这本书是我很认真看的一本书，是我到红柚的第一本书，清楚记得是2019.2.14开始看的，算是一个青春了吧，从初中到高中，最初，陆神的封面还是庄周呢，弯月头像也是一个外国小哥，名字还叫《王者荣耀，陆神有礼了》，换取码还是(你有礼了)那时候我看了很多小说，但陆神是唯一让我感觉到干净，年少青春的小说，很多时候被弯月戳中泪点，又有一些时候齁甜齁甜的，记得当时弯月因为要考研，很长一段时间都没更新，当时的我还以为那时候已经是一个结局了，最后幸好没有放弃，等到了弯月的回归，现在完结了，虽然不舍，但也感谢作者给我们带来一个美好的结局。\n\n\n\n谢谢在我年少青春的时代遇见陆神！！\n\n\n\n我的意中人，他是个盖世英雄.......\n\n\n\n不青春，不负你\n\n\n\n\n感谢《王者荣耀，陆神有礼了》(王者时光微微甜)在我最好的年纪，遇见了你！\n\n\n感谢楚小兮，陆左煜，杨在山，洛沉，马昆，李怀宇，陆右纯，沉冤，白琛，乌云(还记得吗？)............\n\n\n\n\n\n感谢WD！！\n WD战队无敌！\n\n\n\n",
+                "createTime": 1581168558000,
+                "userId": "3509626546",
+                "nickName": "该死的心动i",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3509622565_1607085470138/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 52,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/2090_2275_beautiful.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

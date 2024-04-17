@@ -1,0 +1,267 @@
+{
+    "bookInfo": {
+        "bookId": "8743142704568903",
+        "bookName": "凶案侦缉",
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30037,
+        "subCategoryName": "推理侦探",
+        "description": "法网恢恢疏而不漏，\r\n但是只要是网，\r\n就难免会有漏网之鱼，\r\n就像阳光照不到的阴暗角落里，\r\n总会有邪恶如细菌般滋生。\r\n正与邪，\r\n此消彼长，\r\n幻化出一幕幕人间悲喜剧。\r\n小莫的V群：200144356\r\n欢迎任意书中主配角名+读者ID+粉丝值来敲门",
+        "lastVipChapterId": "36033541411413527",
+        "lastVipChapterName": "开新书啦！",
+        "lastVipChapterTime": 1554277003000,
+        "lastChapterId": "24455060115077158",
+        "lastChapterName": "第四十七章 先下手为强",
+        "lastChapterTime": 1512043274000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1462541,
+        "totalChapterCount": 399,
+        "collectCount": 2437,
+        "tag": [
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 20436,
+                "tagName": "探险"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30361,
+                "tagName": "警察"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-10-09上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "146"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2437"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20694380
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 3,
+        "fans": 130,
+        "redBean": 600
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "authorGuid": "119090065089",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+        "fans": 2146,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "25752078901523704",
+                "bookName": "罪恶之眼"
+            },
+            {
+                "bookId": "20670443701149104",
+                "bookName": "提刑大人使不得"
+            },
+            {
+                "bookId": "17976991001324904",
+                "bookName": "罪恶不赦"
+            },
+            {
+                "bookId": "13404537303880004",
+                "bookName": "罪恶无形"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 495,
+        "bookCommentCount": 2,
+        "chapterCommentCount": 1,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "334270046773969013",
+                "type": 0,
+                "title": "",
+                "content": "喜欢看这类侦探剧！",
+                "createTime": 1555129158000,
+                "userId": "854008808653",
+                "nickName": "李中金菊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854008801253_1552920512305/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "229017861056888934",
+                "type": 0,
+                "title": "",
+                "content": "66666666",
+                "createTime": 1530041555000,
+                "userId": "114428247",
+                "nickName": "红袖书友15105918730291155",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/114421236_1677930549487/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9480_9582_%E4%BC%AF%E4%B9%90%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "135354159594536960",
+                "type": 3,
+                "title": "",
+                "content": "男女主的爸妈们目标好明确，这么撮合也是没谁了。难不成这回两个人最大的阻碍不是家长，也不一定是时常冒出来搅局的二号角色们，倒是小唐自己了。小时候自尊心的伤害竟有如此严重的后遗症，以至于成年之后依然是一块心病，无法自拔。",
+                "createTime": 1539921175463,
+                "userId": "854008964444",
+                "nickName": "书友20210301415358822716",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/201/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "23488751807538857",
+                "chapterName": "第二章 密室与鼠",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "16",
+                "paragraphContent": "“反对无效！”唐妈妈的回应也是斩钉截铁，“你以为我们当初为什么给你买一个那么大的房子？为的不就是……算了，我也懒得跟你废话，反正杜鹃人和东西都到了你那边，你就得负责照顾好，你要是给我搞什么阳奉阴违那一套，当心我和你爸过去把房子给你卖掉，让你睡马路！人家杜鹃那么好的一个小姑娘，长得漂亮，性格好，学习比你棒，样样比你强，人家都还没有嫌弃你，你倒是先……”",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

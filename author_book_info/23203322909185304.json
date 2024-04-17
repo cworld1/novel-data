@@ -1,0 +1,207 @@
+{
+    "bookInfo": {
+        "bookId": "23203322909185304",
+        "bookName": "伪装甜妹",
+        "authorId": "5396312704023001",
+        "authorName": "红尘斩",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "季糖，《风暴》职业联寒明星选手，FLY战队唯一的女成员，向来怼遍天下无敌手。\n面对黑粉挑衅，季糖淡定喊话：麻烦黑粉砸礼物把弹幕刷醒目点，那么点芝麻小字，懒得看你们骂什么。\n主持人让她评价某选手，季糖阴阳怪气：人菜瘾大，如果游戏官方没有强制要求，他根本没机会上场。\n新一季明星联赛，游戏官方大手笔请来十六位当红明星，分至八强战队，做第一部电竞综艺。\n黑粉搬好小板凳，等着看季糖如何得罪半个娱乐圈。\n粉丝战战兢兢喊话季糖：你克制一点！\n综艺开播第一天，就在大家都以为她又要嘴人的时候，却见季糖满脸紧张的挪到白岫寒身边，软软的叫了声，“寒哥。”\n白岫寒，粉丝过亿的顶流偶像，迷妹无数。\n综艺开播前，粉丝喊话：寒哥千万别去！\n综艺开播后，粉丝提问：季糖到底是什么样的选手？\n白岫寒看着旁边帮他冲咖啡的季糖，莞尔，“很强，也很乖。”",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "62661810586711918",
+        "lastChapterName": "第二十二章 大结局",
+        "lastChapterTime": 1653478411000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 34188,
+        "totalChapterCount": 22,
+        "collectCount": 60,
+        "tag": [
+            {
+                "tagId": 20029,
+                "tagName": "直播"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20296,
+                "tagName": "电竞"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 40175,
+                "tagName": "小野猫"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-05-09上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "3.4"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "60"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1652925479846,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 43931630
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 2,
+        "redBean": 9
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5396312704023001",
+        "authorName": "红尘斩",
+        "authorGuid": "802017694040",
+        "intro": "十年饮冰，难凉热血。",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 14017,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "21942288508637804",
+                "bookName": "钓系美人在恋综成了万人迷"
+            },
+            {
+                "bookId": "20369376201854404",
+                "bookName": "满级影后重返娱乐圈"
+            },
+            {
+                "bookId": "16454840705844504",
+                "bookName": "江太太每天被迫营业"
+            },
+            {
+                "bookId": "15617981804117404",
+                "bookName": "我老婆甜到扛不住"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "746108338852593664",
+                "type": 0,
+                "title": "",
+                "content": "来了，加油💪",
+                "createTime": 1653312266000,
+                "userId": "802019449238",
+                "nickName": "鲁四小姐本尊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/802019448127_1596277887042/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

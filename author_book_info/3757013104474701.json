@@ -1,0 +1,259 @@
+{
+    "bookInfo": {
+        "bookId": "3757013104474701",
+        "bookName": "攻略冥王",
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "categoryId": 30008,
+        "categoryName": "仙侠奇缘",
+        "subCategoryId": 30010,
+        "subCategoryName": "古典仙侠",
+        "description": "【周绯歌VS宋明溍】\r\n一个古灵精怪，一个腹黑如墨。\r\n一个招惹是非，一个收拾善后。\r\n某年某月某日某时，周绯歌小心翼翼的从狗洞里爬出来，一脸的污泥，浑身的柴草，一身大红的嫁衣已经惨不忍睹，只见她拍拍胸口，自言自语道：“唉呀妈呀，终于逃出来了，宋明溍你个混球，你以为你是钻石王老五啊，人人抢着要你，姑奶奶偏就不嫁你！”\r\n“你当我愿意娶你？若不是你自小死缠烂打追着我跑，害得我无人问津，我连孩子都有了！”宋明溍一脸铁黑，板起手竖起五个手指头，去掉四个后，道：“你还有一次逃婚的机会，若再逃不出去，两个选择，一，老老实实的做宋家妇。二以你的智商，也可以一头撞墙投胎去了！”\r\n周绯歌瞬间石化，又被捉住了！擦擦拳，握握手，给自己打气：“丫的，老子一个穿越女第五次跑不掉我就一二百五就跟你姓！”\r\n三日后，某女失踪，某男抓狂，寻妻告示满布天下，一张寻妻告示，不料却引来无数烂桃花，而这一个个的桃花背后，竟然还隐藏着一个天大的秘密……\r\n",
+        "lastVipChapterId": "19314230958146603",
+        "lastVipChapterName": "150：宿命的选择 大结局",
+        "lastVipChapterTime": 1348917482000,
+        "lastChapterId": "19314227763478972",
+        "lastChapterName": "066：洞房花烛意外时（一）",
+        "lastChapterTime": 1344985200000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 385166,
+        "totalChapterCount": 149,
+        "collectCount": 1043,
+        "tag": [
+            {
+                "tagId": 20331,
+                "tagName": "逃婚"
+            },
+            {
+                "tagId": 40183,
+                "tagName": "古灵精怪"
+            },
+            {
+                "tagId": 10009,
+                "tagName": "仙侠"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2015-11-23上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "39"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1043"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 225242
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 516,
+        "redBean": 169
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "authorGuid": "802003517205",
+        "intro": "阅文集团大神作家，遥知不是雪，为有暗香来。我相信坚持就会成功。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043267/0",
+        "fans": 116347,
+        "total": 18,
+        "items": [
+            {
+                "bookId": "29049656903062504",
+                "bookName": "步步生骄"
+            },
+            {
+                "bookId": "25324751901314504",
+                "bookName": "吃瓜贵妃的自我修养"
+            },
+            {
+                "bookId": "21292531108289404",
+                "bookName": "太子入戏之后"
+            },
+            {
+                "bookId": "19541280801382404",
+                "bookName": "嫁皇叔"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 27,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "363794588953083978",
+                "type": 0,
+                "title": "",
+                "content": "看了几章，不知道谁是女主",
+                "createTime": 1562163106000,
+                "userId": "1908538145",
+                "nickName": "草莓蛋糕梵",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1908534553_1576948265973/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "365127905589657640",
+                "type": 0,
+                "title": "",
+                "content": "为什么老大是女主  却介绍老二？？\n而且老二还有女主剧情――穿越？？",
+                "createTime": 1562480489000,
+                "userId": "2076433307",
+                "nickName": "高来金",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2076438854_1660323565243/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "302496402347524141",
+                "type": 0,
+                "title": "",
+                "content": "12345",
+                "createTime": 1547556093000,
+                "userId": "2105045563",
+                "nickName": "砂锅大的拳头",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2105041638_1534516713589/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

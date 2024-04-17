@@ -1,0 +1,275 @@
+{
+    "bookInfo": {
+        "bookId": "22392230000941202",
+        "bookName": "凤月无边",
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "　　\r\n　　身后传来卢文的声音，“我会用竹叶吹《凤求凰》，阿芦愿意一听么？”\r\n　　这声音，低而沉，清而彻，如冰玉相击，如山间流泉，如月出深涧，如风过竹林……它是如此动听，如此优雅，如此多情，又是如此隐晦的明示着……\r\n　　微微蹙了蹙眉，刘疆缓步踱开几步。朝着郭允也不回头，便这么淡淡地问道：“她这是在玩什么把戏？”\r\n　　郭允低声禀道：“卢文说，她为了嫁主公你正努力着呢。主公你竟敢背着她勾三搭四的，因此她非常恼火，非常不高兴，非常气恨，非常想凑热闹。”\r\n　　\r\n\r\n　　",
+        "lastVipChapterId": "96174097412605901",
+        "lastVipChapterName": "第四十六章 番外终结",
+        "lastVipChapterTime": 1392692928000,
+        "lastChapterId": "96173938490279883",
+        "lastChapterName": "第六十四章 激怒",
+        "lastChapterTime": 1362669395000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1165193,
+        "totalChapterCount": 403,
+        "collectCount": 3709,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 30103,
+                "tagName": "帝王"
+            },
+            {
+                "tagId": 30106,
+                "tagName": "王爷"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 40166,
+                "tagName": "霸道"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2013-02-01上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "117"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3709"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 491529
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2,
+        "fans": 319,
+        "redBean": 751
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "authorGuid": "800004290624",
+        "intro": "中医师，起点女生网签约作者。零七年到起点，至今已著书近十部。胸无大志，所好的，不过就是看文写文而已。 ",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2016-09-12/5942c9fd1b7a78789688068714dc28bd.jpg",
+        "fans": 2345,
+        "total": 16,
+        "items": [
+            {
+                "bookId": "3148413700960802",
+                "bookName": "恃运而娇"
+            },
+            {
+                "bookId": "25114226000168302",
+                "bookName": "骄娇无双"
+            },
+            {
+                "bookId": "22312481000716402",
+                "bookName": "误长生——花戎原著"
+            },
+            {
+                "bookId": "22362350000475502",
+                "bookName": "美人温雅"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 445,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "402740830282186752",
+                "type": 0,
+                "title": "",
+                "content": "这本书是唯一一本让我内心触动很大的书。刘疆怕是早料到了这个结果吧，当卢萦以男儿身的身份生活开始。\n他们的爱经过了太多风风雨雨，又有谁能在波涛汹涌的时候心平气和呢？怕是只有卢萦这一女子了。古时，世间女子皆以攀附夫家来生存，夫家一句话，便定了女子那一生。除了一些女子，有掌握权利的娘家，才可避免。即使是现在，有些男人嘴里口口声声说男女平等，实则心里还是对女人有些看不起吧。女人可真是悲催啊。\n卢萦活得像男儿一样坦坦荡荡，在揭开女儿身时，世人皆辱骂不堪。惜才者，少数。卢萦又做错了什么呢？为那一情字，接受世人辱骂，寻常女子早就寻死去了。卢萦愿为这一段爱情付出名誉，如果刘疆弃了她，她也照样可以坦荡离开，不念过往。要有权利，要有财富，要有势力，你就要有心计，那些见不得人的事就算是美名天下的人也做过不少吧？\n“世人笑我太疯癫，我笑他人看不清。”\n身在这局中，谁又是干净的呢？没这点心计，早就死无全尸了。",
+                "createTime": 1571447073000,
+                "userId": "1282667878",
+                "nickName": "香橙yo",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1282667048_1587118186942/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 20,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "236094472025473057",
+                "type": 0,
+                "title": "",
+                "content": "真太好看了",
+                "createTime": 1531718745000,
+                "userId": "119091678158",
+                "nickName": "讓往事飛",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119091676426_1511347327590/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "395364664147640320",
+                "type": 0,
+                "title": "",
+                "content": "女撩男很顺手呢😂",
+                "createTime": 1569688458000,
+                "userId": "120102505024",
+                "nickName": "繁星落黎城",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120102502576_1633044443547/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3990_%E6%8B%9B%E8%B4%A2%E7%8C%AB.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

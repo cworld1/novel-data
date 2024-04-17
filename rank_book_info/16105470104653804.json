@@ -1,0 +1,219 @@
+{
+    "bookInfo": {
+        "bookId": "16105470104653804",
+        "bookName": "嫡女虞后",
+        "authorId": "16041286304140901",
+        "authorName": "钗娘",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30018,
+        "subCategoryName": "宫闱宅斗",
+        "description": "　　虞芷贞原本生活在21世纪，从小是个孤儿，天生患有心脏病，在她21岁那年大学刚刚毕业，不幸突发疾病死了。随后就穿越到了古代一个武将官宦世家的一个刚满1岁的嫡女身上。她体会到了父爱母爱的感觉。\n　　她从小聪明过人温柔善良，在她七岁那年她父亲从外面带回一对母女，之后她母亲被那对母女害死了，然而她并不知道是那对母女干的 。那后母开始教她不学无术，重点培养她妹妹虞析兰。长大以后她妹妹虞析兰什么都会长的也很美。\n而她本人长得倾国倾城，虞析兰都不及她万分之一，十分嫉妒她。\n之后她与4皇子魏毅王一见钟情，不久便成为王妃。虞析兰联合外人陷害嫁祸与她让她失宠，然后勾引魏毅王成为侧王妃。然后陷害她说她害死了她妹妹的孩子，魏毅王将她休了，立她妹妹为王妃，之后他们故意在她面前秀恩爱。\n　 虞析兰为了让魏毅王坐上皇位，不惜向当今皇上下毒，还嫁祸给她的父亲，她向魏毅王求情魏毅王不理。\n　　虞析兰将她关在柴房里每日酷刑，最后被活生生的疼死。临死的时候虞析兰把所有事情告诉她让她死得瞑目。\n　　令她想不到的是她重生了，重生到了她5岁的那年。她努力学习，学习所有能学的，琴棋书画，武术，医学，毒术……这一切只为报复她虞析兰！",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "75117622710041994",
+        "lastChapterName": "一百三十九章疑心翠菊",
+        "lastChapterTime": 1705613716000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 302970,
+        "totalChapterCount": 139,
+        "collectCount": 17,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 30138,
+                "tagName": "嫡女"
+            },
+            {
+                "tagId": 30132,
+                "tagName": "皇后"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-02-08上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "30"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "17"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1603463848713,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 28113766
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 1,
+        "redBean": 94
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "59722800168415100",
+                "roleName": "虞芷贞",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "13"
+                },
+                "roleType": 5,
+                "popularCnt": 13,
+                "createTime": 1642526368000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2,
+        "bookCommentCount": 2,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "445610318618689536",
+                "type": 0,
+                "title": "",
+                "content": "喜欢，可以加聊吗",
+                "createTime": 1581667955000,
+                "userId": "854014752046",
+                "nickName": "红袖书友202002181581960460",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "541019870834458624",
+                "type": 0,
+                "title": "",
+                "content": "不错，可以认识你吗？看我昵称",
+                "createTime": 1604415365000,
+                "userId": "2678378863",
+                "nickName": "小猪604002440",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2678370479_1573052157425/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

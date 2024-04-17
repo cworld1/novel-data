@@ -1,0 +1,294 @@
+{
+    "bookInfo": {
+        "bookId": "18567467608553804",
+        "bookName": "有婚可乘",
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "【新书《夫人是个小撩精》正式开始连载了，有兴趣的小可爱可以戳戳头像查看哦！】\n【甜宠文+影视圈偏执大佬X随性团宠小千金】\n         众所周知，洛城傅家三少清隽矜贵，傲慢且偏执，却不知 ，他处心积虑，步步为营，只为得到那个被他侄子退过婚的南家小女儿南烟。\n\n          南烟也没想到，自己一条腿都已经迈进婚姻的坟墓里了，又被人生生的拽了出来，而那个人正是她前未婚夫的——小叔叔傅璟珩\n\n 她正庆幸自己从火坑中跳出来时，却突遭他强势表白：“要不要嫁给我！”\n\n 她避之不及：“小叔叔，强扭的瓜它不甜。”\n\n “甜不甜扭下来吃了就知道了。”\n\n “要是苦的，扭下来多可惜，你再让它在藤上挂着长长？”\n\n 后来，某人直接把那根藤一块给扯回家了，还振振有词：“换个地方有助于生长。”\n *\n \n 再后来，她前未婚夫迷途知返，前来求和，南烟一边鄙夷一边想着如何拒绝时，那道薄凉中透着凌厉口吻的声线从身后飘来：“你堂婶不吃回头草。”",
+        "lastVipChapterId": "55662331493333791",
+        "lastVipChapterName": "012：她的幸福远不止这些（完）",
+        "lastVipChapterTime": 1633574025000,
+        "lastChapterId": "51279508493807653",
+        "lastChapterName": "123：看样子是不太好哄了",
+        "lastChapterTime": 1611127762000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 918650,
+        "totalChapterCount": 358,
+        "collectCount": 34169,
+        "tag": [
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 20091,
+                "tagName": "日久生情"
+            },
+            {
+                "tagId": 50297,
+                "tagName": "团宠"
+            },
+            {
+                "tagId": 20079,
+                "tagName": "双洁"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-11-19上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "92"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1605786191619,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 34768638
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 38,
+        "fans": 7820,
+        "redBean": 30143
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "authorGuid": "854000517740",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+        "fans": 44736,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25639927501415304",
+                "bookName": "炙婚久骄"
+            },
+            {
+                "bookId": "24920432001880504",
+                "bookName": "恃婚生骄"
+            },
+            {
+                "bookId": "22921404701234304",
+                "bookName": "闪婚后，首富老公抱着我不撒手"
+            },
+            {
+                "bookId": "20831154108229704",
+                "bookName": "夫人是个小撩精"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "49998833803310519",
+                "roleName": "傅璟珩",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.1"
+                },
+                "roleType": 4,
+                "popularCnt": 21084,
+                "createTime": 1606301771000
+            },
+            {
+                "roleId": "49998848835686770",
+                "roleName": "南烟",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.4"
+                },
+                "roleType": 5,
+                "popularCnt": 13610,
+                "createTime": 1606301826000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 701,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "549592257628602368",
+                "type": 0,
+                "title": "",
+                "content": "👏👏👏由于某些原因，三爷改名啦～\n三爷名叫傅璟珩哦～大家别记错了",
+                "createTime": 1606459181000,
+                "userId": "2649837151",
+                "nickName": "励志的大宝贝",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2649832773_1590933570913/100",
+                "replyCount": 3,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 26,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "549596029809459200",
+                "type": 0,
+                "title": "",
+                "content": "感谢大家的支持和喜欢❤️，关于这本书的更新时间，我们还是老规矩！每日凌晨更新，免费期间更新字数在1000～3000字不等，上架后每日更新4000+\n欢迎大家和我一起见证傅三爷的追妻之旅，此文双洁，男女主角智商在线，都是狠角色，喜欢的欢迎留下脚印，点个收藏❤️",
+                "createTime": 1606460081000,
+                "userId": "2649837151",
+                "nickName": "励志的大宝贝",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2649832773_1590933570913/100",
+                "replyCount": 1,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 14,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "632540411210039297",
+                "type": 0,
+                "title": "关于新书",
+                "content": "「关于新书」《有婚可乘》这本书也慢慢进入尾声了，非常感谢新老读者宝宝们的陪伴和支持。\n关于新书，目前已经在筹备当中了，有兴趣的宝宝们可以关注下我的微博：‘槿郗y’，上面会随时更新新书的动态，大概会在下个月和大家正式见面。\n有两本新书，一本总裁，一本校园，总裁的会先发。\n总裁文的关键词：总裁，先婚后爱，甜宠，扮猪吃老虎，1v1，双洁，豪门。\n校园文的关键词：傲娇，甜宠，久别重逢，1v1，轻松，初恋\n❤️❤️❤️\n",
+                "createTime": 1626235562000,
+                "userId": "854000517740",
+                "nickName": "槿郗",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "10487557603400401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

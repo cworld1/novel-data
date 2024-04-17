@@ -1,0 +1,502 @@
+{
+    "bookInfo": {
+        "bookId": "8623124404548303",
+        "bookName": "天赐一品",
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "卫瑶卿一睁眼，就从张家的掌上明珠变成了一位因为未婚夫太过出色而被嫌弃的平凡少女……\r\n放个书友群号：215715120，欢迎大家进群玩耍",
+        "lastVipChapterId": "40527904731794980",
+        "lastVipChapterName": "写在最后的一些话以及新书",
+        "lastVipChapterTime": 1571020558000,
+        "lastChapterId": "23953895148443403",
+        "lastChapterName": "第八十八章 小厮",
+        "lastChapterTime": 1512003636000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2499994,
+        "totalChapterCount": 1086,
+        "collectCount": 6252,
+        "tag": [
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-09-25上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "250"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "6252"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1586018178101,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20611003
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 6,
+        "fans": 837,
+        "redBean": 7256
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635399804845801",
+        "authorName": "漫漫步归",
+        "authorGuid": "800155142877",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 4367,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "23745323301951404",
+                "bookName": "大理寺小饭堂"
+            },
+            {
+                "bookId": "20076235401040204",
+                "bookName": "独占金枝"
+            },
+            {
+                "bookId": "14953714705112904",
+                "bookName": "天作不合"
+            },
+            {
+                "bookId": "22376687000523202",
+                "bookName": "女配修仙记"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27801335453771587",
+                "roleName": "卫瑶卿 ",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2628"
+                },
+                "roleType": 5,
+                "popularCnt": 2628,
+                "createTime": 1523609645000
+            },
+            {
+                "roleId": "27801335436993675",
+                "roleName": "裴宗之 ",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1015"
+                },
+                "roleType": 4,
+                "popularCnt": 1015,
+                "createTime": 1523609645000
+            },
+            {
+                "roleId": "27801335453771588",
+                "roleName": "张解 ",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "289"
+                },
+                "roleType": 6,
+                "popularCnt": 289,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335722207046",
+                "roleName": "庙远先生 ",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "214"
+                },
+                "roleType": 6,
+                "popularCnt": 214,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335722207047",
+                "roleName": "王栩 ",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "131"
+                },
+                "roleType": 6,
+                "popularCnt": 131,
+                "createTime": 1523609647000
+            },
+            {
+                "roleId": "27801335705429132",
+                "roleName": "崔璟 ",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "110"
+                },
+                "roleType": 6,
+                "popularCnt": 110,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335722207045",
+                "roleName": "黄石先生 ",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "96"
+                },
+                "roleType": 6,
+                "popularCnt": 96,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335990642504",
+                "roleName": "林立阳 ",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "26"
+                },
+                "roleType": 6,
+                "popularCnt": 26,
+                "createTime": 1523609647000
+            },
+            {
+                "roleId": "27801335705429134",
+                "roleName": "王老太爷 ",
+                "bookRank": 9,
+                "bookRankStr": "09",
+                "popular": {
+                    "unit": "",
+                    "count": "10"
+                },
+                "roleType": 6,
+                "popularCnt": 10,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335990642505",
+                "roleName": "崔琮 ",
+                "bookRank": 10,
+                "bookRankStr": "10",
+                "popular": {
+                    "unit": "",
+                    "count": "9"
+                },
+                "roleType": 6,
+                "popularCnt": 9,
+                "createTime": 1523609647000
+            },
+            {
+                "roleId": "27801335973864591",
+                "roleName": "何太平 ",
+                "bookRank": 11,
+                "bookRankStr": "11",
+                "popular": {
+                    "unit": "",
+                    "count": "8"
+                },
+                "roleType": 6,
+                "popularCnt": 8,
+                "createTime": 1523609647000
+            },
+            {
+                "roleId": "27801336242300050",
+                "roleName": "枣糕 ",
+                "bookRank": 12,
+                "bookRankStr": "12",
+                "popular": {
+                    "unit": "",
+                    "count": "6"
+                },
+                "roleType": 7,
+                "popularCnt": 6,
+                "createTime": 1523609648000
+            },
+            {
+                "roleId": "27801336259077963",
+                "roleName": "卫瑶玉 ",
+                "bookRank": 13,
+                "bookRankStr": "13",
+                "popular": {
+                    "unit": "",
+                    "count": "4"
+                },
+                "roleType": 7,
+                "popularCnt": 4,
+                "createTime": 1523609649000
+            },
+            {
+                "roleId": "27801335973864592",
+                "roleName": "卫同知 ",
+                "bookRank": 14,
+                "bookRankStr": "14",
+                "popular": {
+                    "unit": "",
+                    "count": "2"
+                },
+                "roleType": 6,
+                "popularCnt": 2,
+                "createTime": 1523609647000
+            },
+            {
+                "roleId": "27801335705429133",
+                "roleName": "陈善 ",
+                "bookRank": 15,
+                "bookRankStr": "15",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 6,
+                "popularCnt": 1,
+                "createTime": 1523609646000
+            },
+            {
+                "roleId": "27801335973864593",
+                "roleName": "安乐公主 ",
+                "bookRank": 16,
+                "bookRankStr": "16",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 7,
+                "popularCnt": 1,
+                "createTime": 1523609648000
+            },
+            {
+                "roleId": "27801336259077962",
+                "roleName": "薛止娴 ",
+                "bookRank": 17,
+                "bookRankStr": "17",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 7,
+                "popularCnt": 1,
+                "createTime": 1523609648000
+            },
+            {
+                "roleId": "27801336510735507",
+                "roleName": "王会仙 ",
+                "bookRank": 18,
+                "bookRankStr": "18",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 7,
+                "popularCnt": 1,
+                "createTime": 1523609649000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 7538,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "374310917489360922",
+                "type": 0,
+                "title": "",
+                "content": "读了100多张了。好想知道谁是男主，是裴，还是崔九",
+                "createTime": 1564669207000,
+                "userId": "120008624463",
+                "nickName": "七千歌",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120008629583_1556195901315/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 14,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "374263766109454385",
+                "type": 0,
+                "title": "",
+                "content": "是很好看，但人物太多了，感觉每一章都会添新人，几天不看就记不住了",
+                "createTime": 1564658992000,
+                "userId": "120008624463",
+                "nickName": "七千歌",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120008629583_1556195901315/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "351368327156793445",
+                "type": 0,
+                "title": "",
+                "content": "不错的一本书，赞",
+                "createTime": 1559206217000,
+                "userId": "854009504251",
+                "nickName": "8172梦",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854009507037_1555067797889/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

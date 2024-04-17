@@ -1,0 +1,805 @@
+{
+    "bookInfo": {
+        "bookId": "3150632801957202",
+        "bookName": "金夫",
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "　　同样是清穿，冯霁雯面临的不是险恶宫斗，也不是伤神的宅斗，而是要嫁给满清第一美男，乾隆第一宠臣，史上留名的大贪官——和珅！\r\n\r\n　　这时的和大人，还只是个一穷二白，在咸安宫求学的清贫美少年。\r\n\r\n　　被祖父以死相逼送上了花轿的冯霁雯狠一咬牙，满脸决然：嫁鸡随鸡嫁狗随狗，夫君，你继续发愤图强，我负责把嘉庆帝架空掉！\r\n\r\n　　……\r\n\r\n　　其实这只是一个你负责貌美如花，我负责赚钱养家的夫妇有爱（蛇精病）日常。",
+        "lastVipChapterId": "32791413139404794",
+        "lastVipChapterName": "番外 江南风光好",
+        "lastVipChapterTime": 1542199160000,
+        "lastChapterId": "9828371036083264",
+        "lastChapterName": "060 破落子弟",
+        "lastChapterTime": 1456711235000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1783309,
+        "totalChapterCount": 677,
+        "collectCount": 2715,
+        "tag": [
+            {
+                "tagId": 20040,
+                "tagName": "宅斗"
+            },
+            {
+                "tagId": 20018,
+                "tagName": "清穿"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30383,
+                "tagName": "高冷"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2015-12-25上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "178"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2715"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 801681
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 537,
+        "redBean": 2414
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "authorGuid": "800162189445",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+        "fans": 14931,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22455842509184904",
+                "bookName": "长安好"
+            },
+            {
+                "bookId": "18766731108345204",
+                "bookName": "吉时已到"
+            },
+            {
+                "bookId": "11520050703600603",
+                "bookName": "如意事"
+            },
+            {
+                "bookId": "7317963003730403",
+                "bookName": "喜上眉头"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30930507962870090",
+                "roleName": "和珅",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "537"
+                },
+                "roleType": 4,
+                "popularCnt": 537,
+                "createTime": 1535266721000
+            },
+            {
+                "roleId": "30930632771832468",
+                "roleName": "冯霁雯",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "463"
+                },
+                "roleType": 5,
+                "popularCnt": 463,
+                "createTime": 1535267186000
+            },
+            {
+                "roleId": "30948544141105375",
+                "roleName": "况太妃",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "147"
+                },
+                "roleType": 2,
+                "popularCnt": 147,
+                "createTime": 1535333912000
+            },
+            {
+                "roleId": "31510839098159706",
+                "roleName": "冯英廉",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "67"
+                },
+                "roleType": 2,
+                "popularCnt": 67,
+                "createTime": 1537428623000
+            },
+            {
+                "roleId": "31510913731146792",
+                "roleName": "韶九",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "50"
+                },
+                "roleType": 2,
+                "popularCnt": 50,
+                "createTime": 1537428901000
+            },
+            {
+                "roleId": "31510872941209971",
+                "roleName": "小醒",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "40"
+                },
+                "roleType": 2,
+                "popularCnt": 40,
+                "createTime": 1537428749000
+            },
+            {
+                "roleId": "31510960709155225",
+                "roleName": "傅恒夫人",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "33"
+                },
+                "roleType": 2,
+                "popularCnt": 33,
+                "createTime": 1537429076000
+            },
+            {
+                "roleId": "31510867584376503",
+                "roleName": "小茶",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "24"
+                },
+                "roleType": 2,
+                "popularCnt": 24,
+                "createTime": 1537428729000
+            },
+            {
+                "roleId": "31510944600985558",
+                "roleName": "紫云",
+                "bookRank": 9,
+                "bookRankStr": "09",
+                "popular": {
+                    "unit": "",
+                    "count": "22"
+                },
+                "roleType": 2,
+                "popularCnt": 22,
+                "createTime": 1537429016000
+            },
+            {
+                "roleId": "31510850390143667",
+                "roleName": "程渊",
+                "bookRank": 10,
+                "bookRankStr": "10",
+                "popular": {
+                    "unit": "",
+                    "count": "16"
+                },
+                "roleType": 2,
+                "popularCnt": 16,
+                "createTime": 1537428665000
+            },
+            {
+                "roleId": "30948437560045981",
+                "roleName": "冯舒志",
+                "bookRank": 11,
+                "bookRankStr": "11",
+                "popular": {
+                    "unit": "",
+                    "count": "10"
+                },
+                "roleType": 2,
+                "popularCnt": 10,
+                "createTime": 1535333514000
+            },
+            {
+                "roleId": "31510863813418062",
+                "roleName": "半夏",
+                "bookRank": 12,
+                "bookRankStr": "12",
+                "popular": {
+                    "unit": "",
+                    "count": "8"
+                },
+                "roleType": 2,
+                "popularCnt": 8,
+                "createTime": 1537428715000
+            },
+            {
+                "roleId": "31510943011220502",
+                "roleName": "伊江阿",
+                "bookRank": 13,
+                "bookRankStr": "13",
+                "popular": {
+                    "unit": "",
+                    "count": "6"
+                },
+                "roleType": 2,
+                "popularCnt": 6,
+                "createTime": 1537429010000
+            },
+            {
+                "roleId": "31510865944264637",
+                "roleName": "小仙",
+                "bookRank": 14,
+                "bookRankStr": "14",
+                "popular": {
+                    "unit": "",
+                    "count": "5"
+                },
+                "roleType": 2,
+                "popularCnt": 5,
+                "createTime": 1537428723000
+            },
+            {
+                "roleId": "31510886348052593",
+                "roleName": "汪黎芸",
+                "bookRank": 15,
+                "bookRankStr": "15",
+                "popular": {
+                    "unit": "",
+                    "count": "5"
+                },
+                "roleType": 2,
+                "popularCnt": 5,
+                "createTime": 1537428799000
+            },
+            {
+                "roleId": "30948399991107994",
+                "roleName": "福康安",
+                "bookRank": 16,
+                "bookRankStr": "16",
+                "popular": {
+                    "unit": "",
+                    "count": "4"
+                },
+                "roleType": 2,
+                "popularCnt": 4,
+                "createTime": 1535333374000
+            },
+            {
+                "roleId": "31510844467378197",
+                "roleName": "和琳",
+                "bookRank": 17,
+                "bookRankStr": "17",
+                "popular": {
+                    "unit": "",
+                    "count": "3"
+                },
+                "roleType": 2,
+                "popularCnt": 3,
+                "createTime": 1537428644000
+            },
+            {
+                "roleId": "31510874551986825",
+                "roleName": "丁子昱",
+                "bookRank": 18,
+                "bookRankStr": "18",
+                "popular": {
+                    "unit": "",
+                    "count": "3"
+                },
+                "roleType": 2,
+                "popularCnt": 3,
+                "createTime": 1537428755000
+            },
+            {
+                "roleId": "31510916952964346",
+                "roleName": "刘全",
+                "bookRank": 19,
+                "bookRankStr": "19",
+                "popular": {
+                    "unit": "",
+                    "count": "3"
+                },
+                "roleType": 2,
+                "popularCnt": 3,
+                "createTime": 1537428913000
+            },
+            {
+                "roleId": "31510890106543690",
+                "roleName": "金亦禹",
+                "bookRank": 20,
+                "bookRankStr": "20",
+                "popular": {
+                    "unit": "",
+                    "count": "2"
+                },
+                "roleType": 2,
+                "popularCnt": 2,
+                "createTime": 1537428814000
+            },
+            {
+                "roleId": "31510900035446298",
+                "roleName": "小野子",
+                "bookRank": 21,
+                "bookRankStr": "21",
+                "popular": {
+                    "unit": "",
+                    "count": "2"
+                },
+                "roleType": 2,
+                "popularCnt": 2,
+                "createTime": 1537428850000
+            },
+            {
+                "roleId": "31510962605398035",
+                "roleName": "袁枚",
+                "bookRank": 22,
+                "bookRankStr": "22",
+                "popular": {
+                    "unit": "",
+                    "count": "2"
+                },
+                "roleType": 2,
+                "popularCnt": 2,
+                "createTime": 1537429083000
+            },
+            {
+                "roleId": "31510860335960021",
+                "roleName": "金溶月",
+                "bookRank": 23,
+                "bookRankStr": "23",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 7,
+                "popularCnt": 1,
+                "createTime": 1537428702000
+            },
+            {
+                "roleId": "31510854950038817",
+                "roleName": "爱新觉罗·永琰",
+                "bookRank": 24,
+                "bookRankStr": "24",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428682000
+            },
+            {
+                "roleId": "31510871598868608",
+                "roleName": "钱应明",
+                "bookRank": 25,
+                "bookRankStr": "25",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428744000
+            },
+            {
+                "roleId": "31510875621739939",
+                "roleName": "嘉贵妃",
+                "bookRank": 26,
+                "bookRankStr": "26",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428760000
+            },
+            {
+                "roleId": "31510878843285222",
+                "roleName": "爱新觉罗·永瑆",
+                "bookRank": 27,
+                "bookRankStr": "27",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428771000
+            },
+            {
+                "roleId": "31510880454078432",
+                "roleName": "爱新觉罗·永璇",
+                "bookRank": 28,
+                "bookRankStr": "28",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428777000
+            },
+            {
+                "roleId": "31510883122598889",
+                "roleName": "乾隆",
+                "bookRank": 29,
+                "bookRankStr": "29",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428788000
+            },
+            {
+                "roleId": "31510889045391930",
+                "roleName": "刘鐶之",
+                "bookRank": 30,
+                "bookRankStr": "30",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428809000
+            },
+            {
+                "roleId": "31510897891746840",
+                "roleName": "芜姨娘",
+                "bookRank": 31,
+                "bookRankStr": "31",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428842000
+            },
+            {
+                "roleId": "31510902199879404",
+                "roleName": "钱沣",
+                "bookRank": 32,
+                "bookRankStr": "32",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428859000
+            },
+            {
+                "roleId": "31510903810639892",
+                "roleName": "王杰",
+                "bookRank": 33,
+                "bookRankStr": "33",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428864000
+            },
+            {
+                "roleId": "31510905421596987",
+                "roleName": "刘墉",
+                "bookRank": 34,
+                "bookRankStr": "34",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428870000
+            },
+            {
+                "roleId": "31510908361911745",
+                "roleName": "阿桂",
+                "bookRank": 35,
+                "bookRankStr": "35",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428881000
+            },
+            {
+                "roleId": "31510922070945041",
+                "roleName": "秦嫫",
+                "bookRank": 36,
+                "bookRankStr": "36",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428932000
+            },
+            {
+                "roleId": "31510923945833668",
+                "roleName": "庆叔",
+                "bookRank": 37,
+                "bookRankStr": "37",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537428939000
+            },
+            {
+                "roleId": "31510946501474913",
+                "roleName": "章佳吉菱",
+                "bookRank": 38,
+                "bookRankStr": "38",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537429023000
+            },
+            {
+                "roleId": "31510948376233227",
+                "roleName": "章佳吉毓",
+                "bookRank": 39,
+                "bookRankStr": "39",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537429030000
+            },
+            {
+                "roleId": "31510951044265420",
+                "roleName": "和静",
+                "bookRank": 40,
+                "bookRankStr": "40",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537429040000
+            },
+            {
+                "roleId": "31510964467858036",
+                "roleName": "靳霖",
+                "bookRank": 41,
+                "bookRankStr": "41",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 2,
+                "popularCnt": 1,
+                "createTime": 1537429090000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1665,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "468862087024672768",
+                "type": 0,
+                "title": "",
+                "content": "家产清单房屋3000间\n\n田地8000顷，\n\n银铺42处，\n\n当铺75处，\n\n赤金60000两，\n\n纯金大金元宝100个， 1000两一个，记十万两，\n\n小银元宝56600个，100两一个，记566万两。\n\n银锭900万个，\n\n洋钱58000元，\n\n制钱150万文，\n\n铜钱，150万文。\n\n吉林人参600余斤；\n\n玉如意1200余柄，\n\n珍珠手串230串，\n\n桂圆那么大的珍珠，10粒，\n\n大红宝石10块，\n\n大蓝宝石40块，\n\n银碗40桌，\n\n珊瑚树11支，每支都一米以上高，\n\n纱缎绸罗，绫罗绸缎，做衣服的料子，一共有14300匹，\n\n毛呢哔叽20000板\n\n狐皮550张\n\n貂皮850张，\n\n其他的皮又各种粗细皮56000张，\n\n铜器和锡器361000件，\n\n名贵瓷器10万件。\n\n镂金八宝炕床24座，\n\n西洋钟460座，\n\n四季好衣服7000件（貂皮男衣713件，貂皮女衣650余件，杂皮男衣860件，杂皮女衣437件，锦夹单纱女衣3118件，锦夹单纱男衣3808件，貂帽54顶，貂蟒\n\n袍37件，貂褂短罩48件，貂靴124双）。\n\n家人606名，妇女600名，奴才373名。\n\n当铺75座，估银3000万。\n\n银号42座，估银40万。\n\n古玩店13座，估银30万。\n\n玉器库2间。估银7000万。\n\n绸缎库4间，估银80万。\n\n瓷器库2间，估银1万。\n\n梨木紫檀家具组合6件。\n\n在清朝的正史上记载的是2000万两白银，但这还没有估算和珅的固定资产，比如说和珅名下的当铺、绸缎庄等。野史说和珅的家产是当时清政府15年的国民总收入。15年什么概念啊！康熙时，清政府一年的国库收入是2900多万两。当时一斤大米或者白面的价格在9～10文左右，一斤肉也在30文左右。按照一两银子按千文来计算的话，应该能购买100多斤的大米。\n\n如果比作我们现在的话，一两银子就是200多块人民币。统计一下就是一共有4.4亿两白银，换成现在大概就是880亿元人民币！\n\n实际的数据很可能比这个更大，和珅也不枉这千古第一贪的“美名”啊。\n声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。\n百度，不知真假",
+                "createTime": 1587211609000,
+                "userId": "129605335821",
+                "nickName": "是kris呀",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129605332051_1589274341279/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 14,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6046_%E6%AD%A3%E7%89%88%E5%8D%AB%E5%A3%AB.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "468829194994909184",
+                "type": 0,
+                "title": "",
+                "content": "乾隆三十三年(1768年)，18岁的和珅娶直隶总督冯英廉之孙女冯氏。",
+                "createTime": 1587203767000,
+                "userId": "129605335821",
+                "nickName": "是kris呀",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129605332051_1589274341279/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6046_%E6%AD%A3%E7%89%88%E5%8D%AB%E5%A3%AB.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "540717109727068160",
+                "type": 0,
+                "title": "",
+                "content": "总是代入王刚老师的脸，好出戏怎么办",
+                "createTime": 1604343181000,
+                "userId": "120136866131",
+                "nickName": "布琉茗",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120136868466_1579024678303/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

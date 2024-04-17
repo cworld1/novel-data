@@ -1,0 +1,329 @@
+{
+    "bookInfo": {
+        "bookId": "12168814504519603",
+        "bookName": "槐夏记事",
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30027,
+        "subCategoryName": "都市异能",
+        "description": "新书《宋檀记事》已发布，谢谢支持！\n本文无cp\n文案：我变绿了，也变强了。\n槐树精变身人类，不仅要学做人，还要带崽子，还要忙着给自己找对象……最重要的是，为什么自己本体那个花坛要拆迁啊啊啊！\n哭唧唧走上赚钱买地的奋斗路。\n\n已有完结文《青诡记事》，《丁薇记事》《孔方世界》《楚河记事》。\n谢谢大家的支持，让我们做言情界的泥石流吧！",
+        "lastVipChapterId": "58087589198398242",
+        "lastVipChapterName": "新书《救命！我真的吃不下了》",
+        "lastVipChapterTime": 1636434735000,
+        "lastChapterId": "33643564463373057",
+        "lastChapterName": "第三章：成绩怎么样啊聪明崽",
+        "lastChapterTime": 1604492605000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1650417,
+        "totalChapterCount": 842,
+        "collectCount": 5763,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20022,
+                "tagName": "穿书"
+            },
+            {
+                "tagId": 20292,
+                "tagName": "无CP"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-11-13上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "165"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "5763"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1587648350425,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 23491545
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 14,
+        "fans": 637,
+        "redBean": 6897
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "authorGuid": "800112729270",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-06-30/89c4b0df90822ab9503db8b90b013e8aeQn8voUc4SX11U5.jpg",
+        "fans": 6987,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23668280201484904",
+                "bookName": "宋檀记事"
+            },
+            {
+                "bookId": "22537847201444604",
+                "bookName": "妻子的复仇：一女二卖"
+            },
+            {
+                "bookId": "22537839101439204",
+                "bookName": "了不起的魔法"
+            },
+            {
+                "bookId": "22537832801434204",
+                "bookName": "我的美人鱼不可能那么凶残！"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "33809409787436463",
+                "roleName": "何槐",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "3142"
+                },
+                "roleType": 1,
+                "popularCnt": 3142,
+                "createTime": 1545991466000
+            },
+            {
+                "roleId": "33809506425743652",
+                "roleName": "何含",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "336"
+                },
+                "roleType": 5,
+                "popularCnt": 336,
+                "createTime": 1545991826000
+            },
+            {
+                "roleId": "33809640640759795",
+                "roleName": "孙景",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "237"
+                },
+                "roleType": 6,
+                "popularCnt": 237,
+                "createTime": 1545992326000
+            },
+            {
+                "roleId": "33809570051614107",
+                "roleName": "何章",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "228"
+                },
+                "roleType": 4,
+                "popularCnt": 228,
+                "createTime": 1545992063000
+            },
+            {
+                "roleId": "39376996046655890",
+                "roleName": "赵良玉",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "217"
+                },
+                "roleType": 6,
+                "popularCnt": 217,
+                "createTime": 1566732341000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1329,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "321286249845620768",
+                "type": 0,
+                "title": "",
+                "content": "太少了，不够看。",
+                "createTime": 1552030537000,
+                "userId": "120005556391",
+                "nickName": "amei6668",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120005550363_1548902922847/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "379990088861614116",
+                "type": 0,
+                "title": "",
+                "content": "大大加油，永远支持你",
+                "createTime": 1566024072000,
+                "userId": "129608830690",
+                "nickName": "阔耐的仓鼠",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129608839720_1563342983705/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 7,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3264_zhongguo.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "479109612952420352",
+                "type": 0,
+                "title": "",
+                "content": "女主有cp，出现的比较后",
+                "createTime": 1589654809000,
+                "userId": "854014174624",
+                "nickName": "红袖书友15732647397711596",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

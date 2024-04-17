@@ -1,0 +1,285 @@
+{
+    "bookInfo": {
+        "bookId": "11123996904236603",
+        "bookName": "偏爱你千娇百媚",
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【新书《该死，我和总统结婚了！》已发布】时玉儿天不怕地不怕，就怕韩爵之解开裤腰带。\r\n初识，她用一根香蕉骗了他，虎口逃生。\r\n再见面，他甩出一份结婚协议，用真家伙指着她的脑袋，“签下这份文件，饶你不死。”\r\n婚后，男人要求她每晚必须按时回家，否则“家法伺候”。\r\n当韩爵之隐婚被曝光时，全网炸了。\r\n“韩先生，请问您是怎么追到韩太太的？”\r\n“枪杆子打下来的。”\r\n时玉儿：我打你二大爷！\r\n【甜宠+搞笑】【女主智商在线】【群号：197071005】",
+        "lastVipChapterId": "34016982060381726",
+        "lastVipChapterName": "第833章 时光未及你甜美（大结局）",
+        "lastVipChapterTime": 1547136360000,
+        "lastChapterId": "30765190661845676",
+        "lastChapterName": "第100章 对不起",
+        "lastChapterTime": 1534845979000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 820733,
+        "totalChapterCount": 789,
+        "collectCount": 11992,
+        "tag": [
+            {
+                "tagId": 20036,
+                "tagName": "隐婚"
+            },
+            {
+                "tagId": 20318,
+                "tagName": "婚恋"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-07-11上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "82"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.2"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 22530658
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 77,
+        "fans": 2795,
+        "redBean": 7985
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "authorGuid": "854003854674",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+        "fans": 64586,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22502891709842604",
+                "bookName": "玄门小娇娇白天扮乖，晚上禁撩！"
+            },
+            {
+                "bookId": "20480201308148404",
+                "bookName": "御赐小狂妃"
+            },
+            {
+                "bookId": "19207271601733104",
+                "bookName": "他太太貌美志残"
+            },
+            {
+                "bookId": "15642430604362904",
+                "bookName": "谁又在窥觊我的美貌"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30722760409703904",
+                "roleName": "时玉儿",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2239"
+                },
+                "roleType": 5,
+                "popularCnt": 2239,
+                "createTime": 1534492801000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1425,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "236051799671504948",
+                "type": 0,
+                "title": "书名正式改成：《不良痞妻，束手就寝》",
+                "content": "「书名正式改成：不良痞妻，束手就寝」原书名：《偏爱你千娇百媚》，现在正式改成《不良痞妻，束手就寝》。",
+                "createTime": 1531712642000,
+                "userId": "854003854674",
+                "nickName": "玉司司",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+                "replyCount": 8,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 23,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "7878024704613501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "282993946525761628",
+                "type": 0,
+                "title": "抱歉，我儿子住院了，晚点再更新",
+                "content": "「抱歉，我儿子住院了，晚点再更新」凌晨三点多，我儿子手脚冰冷全身发抖，连夜送来医院，现在还在等化验结果，等晚点再更新了。",
+                "createTime": 1542927965000,
+                "userId": "854003854674",
+                "nickName": "玉司司",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "7878024704613501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "234602915849961598",
+                "type": 0,
+                "title": "赶紧搶沙发，围观杀马特……",
+                "content": "「赶紧搶沙发，围观杀马特……」从小提子和乔大少那里跟过来的，这书好好看哦！逗趣的时玉儿，厳肃的韓爵之，肯定鬦的天翻地复，只是怎么动到真槍了，有点过啊，看来玉儿得慢慢调教这个傲娇的大爷……",
+                "createTime": 1531372166000,
+                "userId": "119191598043",
+                "nickName": "琦不奇怪",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119191590684_1648569018478/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

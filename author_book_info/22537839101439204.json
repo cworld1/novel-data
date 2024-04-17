@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "22537839101439204",
+        "bookName": "了不起的魔法",
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "categoryId": 30055,
+        "categoryName": "轻小说",
+        "subCategoryId": 30100,
+        "subCategoryName": "同人衍生",
+        "description": "原名《HP霍格沃茨，一段日常》\n如题，哈利波特同人，轻松日常小爽文。\n\n简介：达利生日的那天，在家干活的哈利波特收到了一封陌生来信，对方称呼他为：\n【大难不死的男孩】\nps.穿越女主，cp德拉科。尊重原著，但有私设，亲斯莱特林，调剂之作，不喜勿看。\n\n\n目前主更《宋檀记事》，求支持呀！",
+        "lastVipChapterId": "72097393687981327",
+        "lastVipChapterName": "119.送走诺伯的夜晚［插图］",
+        "lastVipChapterTime": 1688631941000,
+        "lastChapterId": "66190154137665197",
+        "lastChapterName": "67.进入魁地奇球队",
+        "lastChapterTime": 1666623321000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 154859,
+        "totalChapterCount": 122,
+        "collectCount": 206,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20022,
+                "tagName": "穿书"
+            },
+            {
+                "tagId": 20099,
+                "tagName": "衍生"
+            },
+            {
+                "tagId": 30130,
+                "tagName": "学霸"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 10014,
+                "tagName": "轻小说"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-06-27上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "15"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "206"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1662721401341,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 43133639
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 12,
+        "fans": 99,
+        "redBean": 2127
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "authorGuid": "800112729270",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-06-30/89c4b0df90822ab9503db8b90b013e8aeQn8voUc4SX11U5.jpg",
+        "fans": 6987,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23668280201484904",
+                "bookName": "宋檀记事"
+            },
+            {
+                "bookId": "22537847201444604",
+                "bookName": "妻子的复仇：一女二卖"
+            },
+            {
+                "bookId": "22537832801434204",
+                "bookName": "我的美人鱼不可能那么凶残！"
+            },
+            {
+                "bookId": "21953280608166504",
+                "bookName": "兔子丢了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 59,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "774238365166993408",
+                "type": 0,
+                "title": "",
+                "content": "看了个寂寞，好短啊，压根不够看",
+                "createTime": 1660018987000,
+                "userId": "2396453509",
+                "nickName": "风的诗篇",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2396454345_1688876527097/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "811588838173638656",
+                "type": 0,
+                "title": "",
+                "content": "求更新啊！！ 很少碰到这么好看的哈利波特文了",
+                "createTime": 1668924034000,
+                "userId": "120091273570",
+                "nickName": "哟吼吼吼",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120091273800_1608134836401/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "浙江"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "789896726134915072",
+                "type": 0,
+                "title": "",
+                "content": "人呢，失踪了？",
+                "createTime": 1663752231000,
+                "userId": "3379298376",
+                "nickName": "烟灰色天空",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3379292512_1658095428511/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

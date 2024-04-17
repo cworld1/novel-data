@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "14090528105719204",
+        "bookName": "后来，无人像你",
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "categoryId": 30083,
+        "categoryName": "短篇",
+        "subCategoryId": 30089,
+        "subCategoryName": "短篇小说",
+        "description": "季若单恋了安年十年，她将爱他的心深藏心底，不敢表露。\r\n一场阴谋，季若做了安年的女人，也成了他以及众人心中的恶毒女人。\r\n但谁知，她也是无辜的人？",
+        "lastVipChapterId": "44230201169128212",
+        "lastVipChapterName": "第52章下辈子，不要遇见我了（大结局）",
+        "lastVipChapterTime": 1584818407000,
+        "lastChapterId": "38145313779307679",
+        "lastChapterName": "第14章孩子保不了",
+        "lastChapterTime": 1582344506000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 54858,
+        "totalChapterCount": 52,
+        "collectCount": 2482,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 70226,
+                "tagName": "虐文"
+            },
+            {
+                "tagId": 10275,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-06-20上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "5.5"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2482"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1561121489312,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 25618552
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 1253,
+        "redBean": 878
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004703401960401",
+        "authorName": "钟离沐",
+        "authorGuid": "1459375229",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-02-26/6037d1590c59b.jpeg",
+        "fans": 1511,
+        "total": 9,
+        "items": [
+            {
+                "bookId": "21933370001278504",
+                "bookName": "白天冷冰冰的顶流晚上哭着哄我"
+            },
+            {
+                "bookId": "16084955505156104",
+                "bookName": "大神今天恋爱了吗"
+            },
+            {
+                "bookId": "10818106903288903",
+                "bookName": "我娶你，终生为期"
+            },
+            {
+                "bookId": "9225878303230403",
+                "bookName": "左心房有了你的陪伴"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 71,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "484348215697866752",
+                "type": 0,
+                "title": "",
+                "content": "感觉整本书都好压抑，我看到季若对姑姑说她好羡慕她，一生有三个男人爱她，而自己只有姑姑的时候我就觉得季若这一生好惨，或许最后的结局是他最好的归宿吧，希望下辈子遇见一个疼你爱你的男人，也希望你能生在一个温暖的家庭，一生顺风顺水，把这辈子受过的罪换成下辈子的福吧",
+                "createTime": 1590903790000,
+                "userId": "1691384515",
+                "nickName": "安清年",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1691383082_1591883932492/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "467713656969428992",
+                "type": 0,
+                "title": "",
+                "content": "看到结局的那一刻，尤其是女主那让人心疼的话，我竟然觉得季静的结局才是“女主光环结局”。季若太让人心疼了",
+                "createTime": 1586937802000,
+                "userId": "129618960709",
+                "nickName": "翊咘翊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/129618965265_1582703556166/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 47,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "466390751828443136",
+                "type": 0,
+                "title": "",
+                "content": "为什么一定要失去了，才珍惜呢",
+                "createTime": 1586622397000,
+                "userId": "120129645879",
+                "nickName": "燕归川",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120129640790_1581735637442/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 24,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

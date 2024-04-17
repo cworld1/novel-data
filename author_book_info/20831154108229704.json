@@ -1,0 +1,348 @@
+{
+    "bookInfo": {
+        "bookId": "20831154108229704",
+        "bookName": "夫人是个小撩精",
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "【冷面傲娇闷骚总裁VS满嘴情话戏精小白兔】\n    以狠戾而扬名的商圈资本大佬顾寒筠，突然对外高调宣称自己已是已婚人士，一时之间，流言四起。\n\n    大家纷纷开始好奇到底是谁把这朵远近闻名的‘高岭之花’给摘走了。\n\n对此‘摘花人’沈听眠含泪解释：‘我说是花先动的手你们信吗？’\n\n    *\n\n    缺钱缺靠山还带点缺心眼的沈听眠做梦也想不到，有生之年居然还能拥有一个高富帅的冷情老公，从此还走上了人生巅峰，不知红了多少人的眼。\n\n  在某次接受记者采访时，沈听眠被恶意提问：“顾太太，那您为什么会选择嫁给顾寒筠，是因为他有钱吗？”\n\n   沈听眠叹了口气，惋惜地摇了摇头：“那是其次，主要还是因为眼瞎。”\n\n   当天晚上，沈听眠就被顾寒筠壁咚在门板上，语气低沉而又凛然：“听说你眼瞎？我免费给你治治？”\n\n   沈听眠嘴角微抽：说好的只谈钱不谈感情的呢？",
+        "lastVipChapterId": "60234304332476389",
+        "lastVipChapterName": "008：他们之间的爱，还不算太晚",
+        "lastVipChapterTime": 1644717888000,
+        "lastChapterId": "57189816211052625",
+        "lastChapterName": "082：病危（一）",
+        "lastChapterTime": 1634054713000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 579960,
+        "totalChapterCount": 322,
+        "collectCount": 5155,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 20318,
+                "tagName": "婚恋"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 30379,
+                "tagName": "可盐可甜"
+            },
+            {
+                "tagId": 30401,
+                "tagName": "醋王"
+            },
+            {
+                "tagId": 40178,
+                "tagName": "傲娇"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-08-08上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "58"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "5155"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1634899866808,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 40021086
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 33,
+        "fans": 900,
+        "redBean": 13160
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "authorGuid": "854000517740",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+        "fans": 44736,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25639927501415304",
+                "bookName": "炙婚久骄"
+            },
+            {
+                "bookId": "24920432001880504",
+                "bookName": "恃婚生骄"
+            },
+            {
+                "bookId": "22921404701234304",
+                "bookName": "闪婚后，首富老公抱着我不撒手"
+            },
+            {
+                "bookId": "18567467608553804",
+                "bookName": "有婚可乘"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "56034177296334985",
+                "roleName": "沈听眠",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.1"
+                },
+                "roleType": 5,
+                "popularCnt": 11365,
+                "createTime": 1628785177000
+            },
+            {
+                "roleId": "56034130706019824",
+                "roleName": "顾寒筠",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.1"
+                },
+                "roleType": 4,
+                "popularCnt": 10646,
+                "createTime": 1628785003000
+            },
+            {
+                "roleId": "56195615990186246",
+                "roleName": "韩伶夏",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "1007"
+                },
+                "roleType": 7,
+                "popularCnt": 1007,
+                "createTime": 1629386583000
+            },
+            {
+                "roleId": "56979965065265648",
+                "roleName": "裴霂尘",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "588"
+                },
+                "roleType": 6,
+                "popularCnt": 588,
+                "createTime": 1632308511000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 197,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "647465081696944128",
+                "type": 0,
+                "title": "",
+                "content": "韩伶夏的cp是什么类型的呢大大可以悄悄的透露吗",
+                "createTime": 1629793881000,
+                "userId": "2327046709",
+                "nickName": "立山而",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2327043435_1651545878176/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "647022306023112704",
+                "type": 0,
+                "title": "",
+                "content": "给韩伶夏一个成熟稳重的男人吧",
+                "createTime": 1629688315000,
+                "userId": "2162606360",
+                "nickName": "靠近男人会不幸",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2162603717_1629688250899/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "645509851887370241",
+                "type": 0,
+                "title": "",
+                "content": "韩伶夏又花落谁家呢哈哈哈哈哈一把子期待",
+                "createTime": 1629327718000,
+                "userId": "2327046709",
+                "nickName": "立山而",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2327043435_1651545878176/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

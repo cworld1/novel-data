@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "5433279103031701",
+        "bookName": "彪悍田园",
+        "authorId": "5395290804981701",
+        "authorName": "轻妩媚",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30019,
+        "subCategoryName": "经商种田",
+        "description": "本书已完结——当十八般武艺，样样精通的铁杆汉子，爱上贪婪耍滑坑蒙拐骗无一不精的农家小女子，该怎么破？\r\n……\r\n小剧情一：\r\n“爷，姑娘被王爷给气跑了。”随从低声对着某世子说道。\r\n“追！这个狗屁世子，谁爱当谁当去！”某世子一把扯掉自己腰间持着的象征着自己世子身份的玉牌。\r\n‘哗啦’一声，当着王爷的面，砸了个粉碎。\r\n小剧情二：\r\n“看什么看，日落之前这块地上还有一根草，饿着！”蛮横不讲理的某贝踹了某世子一脚，怒吼。\r\n“好，好，你别生气，我这就动手。”某世子抡起锄头，埋头苦干。\r\n众随从：爷，您的节操呢？\r\n某世子：都碎在宝贝儿的石榴裙下了。",
+        "lastVipChapterId": "22236868442728649",
+        "lastVipChapterName": "913 大结局17-有了这个小祖宗",
+        "lastVipChapterTime": 1504140336000,
+        "lastChapterId": "15546926697634316",
+        "lastChapterName": "068 父王一点儿也不了解他",
+        "lastChapterTime": 1477958400000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1943277,
+        "totalChapterCount": 894,
+        "collectCount": 2644,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 30133,
+                "tagName": "王妃"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 30384,
+                "tagName": "痴情"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-08-30上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "194"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2644"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 14081957
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1,
+        "fans": 3008,
+        "redBean": 900
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5395290804981701",
+        "authorName": "轻妩媚",
+        "authorGuid": "802019285197",
+        "intro": "只要用心去写，就是最好的！",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2019-10-14/5da46187450ba.jpeg",
+        "fans": 21392,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "20406712808675204",
+                "bookName": "锦鲤弃妇：随身空间养萌娃"
+            },
+            {
+                "bookId": "14278251704410404",
+                "bookName": "空间锦鲤之农门药香"
+            },
+            {
+                "bookId": "11297053804255503",
+                "bookName": "田园空间之辣妃有喜"
+            },
+            {
+                "bookId": "8845106203750103",
+                "bookName": "穿越之圣手医妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 190,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "356368016100884578",
+                "type": 0,
+                "title": "",
+                "content": "还不错，就是感觉女主对恶人太仁慈了，不干脆",
+                "createTime": 1560396496000,
+                "userId": "120018400571",
+                "nickName": "师师12345",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120018403998_1559926570968/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "288589972842283056",
+                "type": 0,
+                "title": "",
+                "content": "好看，推荐",
+                "createTime": 1544245464000,
+                "userId": "120007121665",
+                "nickName": "话啊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007128346_1547664216147/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "316164901645254759",
+                "type": 0,
+                "title": "",
+                "content": "开会，推荐",
+                "createTime": 1550815119000,
+                "userId": "120007121665",
+                "nickName": "话啊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007128346_1547664216147/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

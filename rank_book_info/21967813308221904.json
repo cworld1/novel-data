@@ -1,0 +1,267 @@
+{
+    "bookInfo": {
+        "bookId": "21967813308221904",
+        "bookName": "国师，陛下又不乖",
+        "authorId": "15426837804172401",
+        "authorName": "徐老八",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "不正经版：作为夏国最受宠的小公主，君馥笙一直都是无法无天的存在，偏偏她就是有嚣张跋扈的资本。\n直到有天，她遇到了克星。\n盯着眼前这个美得不像人的女人，君馥笙不屑开口：“你这个狐狸精！不要妄想能够嫁入王宫！”\n狐狸精本精红唇轻启：“滚。”\n小公主：QAQ\n作为妖族的少主，洛祈被迫下山报恩，看到眼前只到她腰部，还大放厥词的小鬼笑了：“你就是我要教的学生？”\n小丫头人不大，脾气倒是不小：“就是你要当本公主的老师？”\n上下打量她：“浓妆艳抹，哪里来的狐狸精。”\n妖族少主摸着下巴思索着，这小鬼眼睛还挺毒辣的，居然可以看透她的真身。\n既然如此，要给新学生留下个深刻的印象才行。\n于是当天，汉宫里传遍了小公主的哀嚎声。\n“洛祈！！！本公主跟你没完！！！“\n正经版：\n大地神州，烽火四起，群雄逐鹿，民不聊生。\n君馥笙作为夏国最受宠的小公主，立志要为百姓做出一番事业。\n可是战歌四起，危机四伏，阴谋诡计层出不穷。\n她不得不在王权争斗中走上最高之位。\n两个少女，用自己纤细的肩膀撑起了震惊后世的大夏盛世。\n“洛祈，孤许你，只要孤是大夏的皇帝一天，你便永远是大夏最尊贵的国师！“\n“若是陛下不嫌弃，洛祈愿永远伴你左右。”\n乱世之中，得一知己，了无遗憾！\n\n\n",
+        "lastVipChapterId": "61681376122346660",
+        "lastVipChapterName": "第一百四十三章懵懂",
+        "lastVipChapterTime": 1649829232000,
+        "lastChapterId": "60558241906009544",
+        "lastChapterName": "第七十四章天命庙【上架前】",
+        "lastChapterTime": 1646038212000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 218198,
+        "totalChapterCount": 142,
+        "collectCount": 681,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30139,
+                "tagName": "女帝"
+            },
+            {
+                "tagId": 30371,
+                "tagName": "国师"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-12-17上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "22"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "681"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1640083523570,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 41947992
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 441,
+        "fans": 249,
+        "redBean": 15180
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "15426837804172401",
+        "authorName": "徐老八",
+        "authorGuid": "120005962412",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-03-20/5e745d1e1b455.jpeg",
+        "fans": 10585,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "17695732207213304",
+                "bookName": "快穿之渣女真香现场"
+            },
+            {
+                "bookId": "16969153604916904",
+                "bookName": "捡了个女朋友回家"
+            },
+            {
+                "bookId": "16479403005461704",
+                "bookName": "大神快控制住你的魔法"
+            },
+            {
+                "bookId": "16464159404609304",
+                "bookName": "重生之柏拉图式恋爱"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 365,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "728260765160701952",
+                "type": 0,
+                "title": "请假条！",
+                "content": "「请假条！」不好意思大家哈，最近事情太多了，暂时停止更新一段时间，过一阵子不忙了，老八就回来了！\n笔芯，么么哒～",
+                "createTime": 1649057073000,
+                "userId": "120005962412",
+                "nickName": "徐老八",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-03-20/5e745d1e1b455.jpeg",
+                "replyCount": 9,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "15426837804172401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "693962048878608384",
+                "type": 0,
+                "title": "",
+                "content": "老八，我是新粉康康我！",
+                "createTime": 1640879622000,
+                "userId": "743937331",
+                "nickName": "是小墨吖",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/743939886_1644521444913/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "712092954969440256",
+                "type": 0,
+                "title": "",
+                "content": "呀呼，新粉来了，接好老呦",
+                "createTime": 1645202367000,
+                "userId": "3416145239",
+                "nickName": "柠檬心〆微酸246491561",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3416146313_1656260582523/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

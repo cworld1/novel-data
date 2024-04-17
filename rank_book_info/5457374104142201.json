@@ -1,0 +1,664 @@
+{
+    "bookInfo": {
+        "bookId": "5457374104142201",
+        "bookName": "铁雪云烟",
+        "authorId": "5457374103001701",
+        "authorName": "庞钠文",
+        "categoryId": 30008,
+        "categoryName": "仙侠奇缘",
+        "subCategoryId": 30010,
+        "subCategoryName": "古典仙侠",
+        "description": "首届全球华语新锐小说大赛终极决赛入围作品*她在雪地中救他，已是第三世相逢。为拯救浩劫，二人穿越至前两世。第一世，在蓝甲部族长到七岁的她被带回铁仓部族，被看成没出息的挂名少族长。她目睹过铁仓人对蓝甲人的残暴欺压与杀戮，却听父亲说母亲是被蓝甲人害死的。同年她认识了八岁的他。长大后她练成神功，在妖入侵之际带兵作战屡立奇功，在一些人眼里她却是恶魔。后来他为何决定以自己的命换她的命？穿越回第三世后，拯救大计遭大变故，看到的活路会不会正是绝路？一生光阴，三世悲欢，铁雪塔成了永恒见证。*本文开始写于2009年*入围2018华语言情大赛总榜的作品于2019年1月24日至2月14日打榜，本文在影视赛区，感谢支持",
+        "lastVipChapterId": "78377209772961110",
+        "lastVipChapterName": "（六千六百七十）直达",
+        "lastVipChapterTime": 1712022222000,
+        "lastChapterId": "19047511877337853",
+        "lastChapterName": "（九百八十二）发觉",
+        "lastChapterTime": 1502867001000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 6764452,
+        "totalChapterCount": 6670,
+        "collectCount": 3755,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 10009,
+                "tagName": "仙侠"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2011-11-15上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "676"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3755"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 14090732
+    },
+    "ticketInfo": {
+        "monthTicket": 5,
+        "gift": 24486,
+        "fans": 7991,
+        "redBean": 58291
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 8,
+            "bookId": 5457374104142201,
+            "name": "月票榜",
+            "url": "/rank?tagId=-1000&rankId=conditionMonthTicket_hx_tag",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP8"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30366553243346446",
+                "roleName": "铁红焰",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "116"
+                },
+                "roleType": 5,
+                "popularCnt": 1156923,
+                "createTime": 1533165826000
+            },
+            {
+                "roleId": "30366704394671427",
+                "roleName": "武寻胜",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "100"
+                },
+                "roleType": 4,
+                "popularCnt": 998897,
+                "createTime": 1533166389000
+            },
+            {
+                "roleId": "30366767731543002",
+                "roleName": "乐愉",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "20"
+                },
+                "roleType": 7,
+                "popularCnt": 198348,
+                "createTime": 1533166625000
+            },
+            {
+                "roleId": "30367637209623250",
+                "roleName": "天风阳",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "13"
+                },
+                "roleType": 7,
+                "popularCnt": 133464,
+                "createTime": 1533169864000
+            },
+            {
+                "roleId": "30367256293041931",
+                "roleName": "铁今绝",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "4083"
+                },
+                "roleType": 6,
+                "popularCnt": 4083,
+                "createTime": 1533168445000
+            },
+            {
+                "roleId": "30367669407369796",
+                "roleName": "萧吟生",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "1909"
+                },
+                "roleType": 6,
+                "popularCnt": 1909,
+                "createTime": 1533169985000
+            },
+            {
+                "roleId": "30366733101835839",
+                "roleName": "云可悠",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "1523"
+                },
+                "roleType": 7,
+                "popularCnt": 1523,
+                "createTime": 1533166496000
+            },
+            {
+                "roleId": "30362288630057971",
+                "roleName": "尹如尘",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "979"
+                },
+                "roleType": 5,
+                "popularCnt": 979,
+                "createTime": 1533149939000
+            },
+            {
+                "roleId": "30366617673591363",
+                "roleName": "颜漠鹰",
+                "bookRank": 9,
+                "bookRankStr": "09",
+                "popular": {
+                    "unit": "",
+                    "count": "956"
+                },
+                "roleType": 4,
+                "popularCnt": 956,
+                "createTime": 1533166066000
+            },
+            {
+                "roleId": "30369849633266808",
+                "roleName": "化弥真",
+                "bookRank": 10,
+                "bookRankStr": "10",
+                "popular": {
+                    "unit": "",
+                    "count": "812"
+                },
+                "roleType": 7,
+                "popularCnt": 812,
+                "createTime": 1533178106000
+            },
+            {
+                "roleId": "30367281796192713",
+                "roleName": "田沙",
+                "bookRank": 11,
+                "bookRankStr": "11",
+                "popular": {
+                    "unit": "",
+                    "count": "509"
+                },
+                "roleType": 7,
+                "popularCnt": 509,
+                "createTime": 1533168540000
+            },
+            {
+                "roleId": "30367849545689364",
+                "roleName": "净曦方士陈问原",
+                "bookRank": 12,
+                "bookRankStr": "12",
+                "popular": {
+                    "unit": "",
+                    "count": "430"
+                },
+                "roleType": 6,
+                "popularCnt": 430,
+                "createTime": 1533170655000
+            },
+            {
+                "roleId": "30369464975990722",
+                "roleName": "丁尚",
+                "bookRank": 13,
+                "bookRankStr": "13",
+                "popular": {
+                    "unit": "",
+                    "count": "363"
+                },
+                "roleType": 7,
+                "popularCnt": 363,
+                "createTime": 1533176674000
+            },
+            {
+                "roleId": "30368893734989370",
+                "roleName": "闪春景",
+                "bookRank": 14,
+                "bookRankStr": "14",
+                "popular": {
+                    "unit": "",
+                    "count": "290"
+                },
+                "roleType": 6,
+                "popularCnt": 290,
+                "createTime": 1533174545000
+            },
+            {
+                "roleId": "30367825110776947",
+                "roleName": "闪夏景",
+                "bookRank": 15,
+                "bookRankStr": "15",
+                "popular": {
+                    "unit": "",
+                    "count": "266"
+                },
+                "roleType": 7,
+                "popularCnt": 266,
+                "createTime": 1533170564000
+            },
+            {
+                "roleId": "30367305139531706",
+                "roleName": "简柔",
+                "bookRank": 16,
+                "bookRankStr": "16",
+                "popular": {
+                    "unit": "",
+                    "count": "247"
+                },
+                "roleType": 7,
+                "popularCnt": 247,
+                "createTime": 1533168627000
+            },
+            {
+                "roleId": "30368990124582152",
+                "roleName": "霓愿",
+                "bookRank": 17,
+                "bookRankStr": "17",
+                "popular": {
+                    "unit": "",
+                    "count": "239"
+                },
+                "roleType": 7,
+                "popularCnt": 239,
+                "createTime": 1533174904000
+            },
+            {
+                "roleId": "30368927302133704",
+                "roleName": "费存异",
+                "bookRank": 18,
+                "bookRankStr": "18",
+                "popular": {
+                    "unit": "",
+                    "count": "228"
+                },
+                "roleType": 6,
+                "popularCnt": 228,
+                "createTime": 1533174670000
+            },
+            {
+                "roleId": "30367526070122480",
+                "roleName": "容与",
+                "bookRank": 19,
+                "bookRankStr": "19",
+                "popular": {
+                    "unit": "",
+                    "count": "214"
+                },
+                "roleType": 7,
+                "popularCnt": 214,
+                "createTime": 1533169450000
+            },
+            {
+                "roleId": "30368929726887368",
+                "roleName": "千锐",
+                "bookRank": 20,
+                "bookRankStr": "20",
+                "popular": {
+                    "unit": "",
+                    "count": "212"
+                },
+                "roleType": 7,
+                "popularCnt": 212,
+                "createTime": 1533174679000
+            },
+            {
+                "roleId": "30369473558967803",
+                "roleName": "丁森",
+                "bookRank": 21,
+                "bookRankStr": "21",
+                "popular": {
+                    "unit": "",
+                    "count": "184"
+                },
+                "roleType": 6,
+                "popularCnt": 184,
+                "createTime": 1533176706000
+            },
+            {
+                "roleId": "30367243411775713",
+                "roleName": "昭霖",
+                "bookRank": 22,
+                "bookRankStr": "22",
+                "popular": {
+                    "unit": "",
+                    "count": "172"
+                },
+                "roleType": 6,
+                "popularCnt": 172,
+                "createTime": 1533168397000
+            },
+            {
+                "roleId": "30369125944391359",
+                "roleName": "闻远川",
+                "bookRank": 23,
+                "bookRankStr": "23",
+                "popular": {
+                    "unit": "",
+                    "count": "156"
+                },
+                "roleType": 7,
+                "popularCnt": 156,
+                "createTime": 1533175410000
+            },
+            {
+                "roleId": "30369891516058686",
+                "roleName": "邵轻",
+                "bookRank": 24,
+                "bookRankStr": "24",
+                "popular": {
+                    "unit": "",
+                    "count": "151"
+                },
+                "roleType": 6,
+                "popularCnt": 151,
+                "createTime": 1533178262000
+            },
+            {
+                "roleId": "30369393319446526",
+                "roleName": "连雨芳",
+                "bookRank": 25,
+                "bookRankStr": "25",
+                "popular": {
+                    "unit": "",
+                    "count": "151"
+                },
+                "roleType": 7,
+                "popularCnt": 151,
+                "createTime": 1533176406000
+            },
+            {
+                "roleId": "30369368082696175",
+                "roleName": "简良",
+                "bookRank": 26,
+                "bookRankStr": "26",
+                "popular": {
+                    "unit": "",
+                    "count": "146"
+                },
+                "roleType": 6,
+                "popularCnt": 146,
+                "createTime": 1533176312000
+            },
+            {
+                "roleId": "30369353031412963",
+                "roleName": "田温",
+                "bookRank": 27,
+                "bookRankStr": "27",
+                "popular": {
+                    "unit": "",
+                    "count": "140"
+                },
+                "roleType": 6,
+                "popularCnt": 140,
+                "createTime": 1533176257000
+            },
+            {
+                "roleId": "30369873552504226",
+                "roleName": "付绸",
+                "bookRank": 28,
+                "bookRankStr": "28",
+                "popular": {
+                    "unit": "",
+                    "count": "131"
+                },
+                "roleType": 6,
+                "popularCnt": 131,
+                "createTime": 1533178195000
+            },
+            {
+                "roleId": "30369007029483605",
+                "roleName": "陈朗",
+                "bookRank": 29,
+                "bookRankStr": "29",
+                "popular": {
+                    "unit": "",
+                    "count": "127"
+                },
+                "roleType": 7,
+                "popularCnt": 127,
+                "createTime": 1533174967000
+            },
+            {
+                "roleId": "30369730471509857",
+                "roleName": "何太初",
+                "bookRank": 30,
+                "bookRankStr": "30",
+                "popular": {
+                    "unit": "",
+                    "count": "126"
+                },
+                "roleType": 6,
+                "popularCnt": 126,
+                "createTime": 1533177662000
+            },
+            {
+                "roleId": "30368909591188245",
+                "roleName": "方飘兰",
+                "bookRank": 31,
+                "bookRankStr": "31",
+                "popular": {
+                    "unit": "",
+                    "count": "126"
+                },
+                "roleType": 7,
+                "popularCnt": 126,
+                "createTime": 1533174604000
+            },
+            {
+                "roleId": "30369349835253617",
+                "roleName": "秦顶",
+                "bookRank": 32,
+                "bookRankStr": "32",
+                "popular": {
+                    "unit": "",
+                    "count": "115"
+                },
+                "roleType": 6,
+                "popularCnt": 115,
+                "createTime": 1533176244000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 127,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "313600462622425159",
+                "type": 0,
+                "title": "",
+                "content": "多谢各位朋友！衷心祝福朋友们生活愉快！",
+                "createTime": 1550197599000,
+                "userId": "803015448288",
+                "nickName": "庞钠文",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-08/5960ce57f1dae.jpeg",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 16,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5457374103001701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 28,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "184992460039192695",
+                "type": 0,
+                "title": "",
+                "content": "衷心感谢朋友们❤那些我看到了☆一直都非常感谢❤祝福大家吉祥如意☆一切都好❤",
+                "createTime": 1519551676000,
+                "userId": "803015448288",
+                "nickName": "庞钠文",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-08/5960ce57f1dae.jpeg",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5457374103001701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 28,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "306005344335757340",
+                "type": 0,
+                "title": "",
+                "content": "入围2018华语言情大赛总榜的作品于2019年1月24日至2月14日在红袖添香打榜，《铁雪云烟》在影视赛区，朋友们如方便的话可以给本文送一颗免费爱心，非常感谢！\n　　*步骤：\n　　（1）打开红袖读书app并登录\n　　（2）点“影视赛区”\n　　（3）点《铁雪云烟》右侧的“打榜”\n　　（4）点“礼物”\n　　（5）点下面标着“免费送”三个字的爱心图案\n　　（6）点下方的“打榜”，完毕*\n　　这样就送出免费爱心啦，打榜期间每位用户每天都有一颗免费爱心可以送。\n　　再次感谢朋友们！祝大家顺心如意！",
+                "createTime": 1548384088000,
+                "userId": "803015448288",
+                "nickName": "庞钠文",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-08/5960ce57f1dae.jpeg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5457374103001701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 28,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

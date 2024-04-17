@@ -1,0 +1,391 @@
+{
+    "bookInfo": {
+        "bookId": "7036260604114001",
+        "bookName": "惊世医妃",
+        "authorId": "5391779703971401",
+        "authorName": "绿依",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30016,
+        "subCategoryName": "古代情缘",
+        "description": "【大结局】她，雪凡心，二十一世纪赫赫有名的医学天才，却穿越到镇国公呆呆傻傻的废材小姐身上。\r\n\r\n当丑颜褪去，她的绝色容姿，她的万丈光芒，凤惊天下。\r\n\r\n他，夜九觞，神秘莫测的九皇叔，够冷酷够霸道够腹黑，某个无聊日，发现了一个有趣的小东西，从此开始他天上地下的漫漫追妻之路。\r\n\r\n世人都瞎了吗？难道没看见这只贪吃的小狐狸才是真正的明珠？\r\n\r\n管他世人瞎不瞎，总之这只贪吃的小狐狸必定是他的囊中之物，先养肥点，以后的肉才好吃。",
+        "lastVipChapterId": "46779939894569024",
+        "lastVipChapterName": "第3892章：番外篇—离兮恋（完）",
+        "lastVipChapterTime": 1594348100000,
+        "lastChapterId": "21241024416588293",
+        "lastChapterName": "第104章：一个事实",
+        "lastChapterTime": 1499170582000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 4310698,
+        "totalChapterCount": 3892,
+        "collectCount": 753210,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 30132,
+                "tagName": "皇后"
+            },
+            {
+                "tagId": 30374,
+                "tagName": "妃子"
+            },
+            {
+                "tagId": 30103,
+                "tagName": "帝王"
+            },
+            {
+                "tagId": 30106,
+                "tagName": "王爷"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30156,
+                "tagName": "神医"
+            },
+            {
+                "tagId": 40166,
+                "tagName": "霸道"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-03-24上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "431"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "75"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1562144402954,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 16484946
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1160,
+        "fans": 55461,
+        "redBean": 380373
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5391779703971401",
+        "authorName": "绿依",
+        "authorGuid": "802010381972",
+        "intro": "阅文集团大神作家，山木有兮木有枝，心悦君兮君可知",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a400309418/0",
+        "fans": 66481,
+        "total": 10,
+        "items": [
+            {
+                "bookId": "21509014001551904",
+                "bookName": "帝妃她富敌三界"
+            },
+            {
+                "bookId": "19089792601557704",
+                "bookName": "王妃虐渣超酷的"
+            },
+            {
+                "bookId": "16583791305954704",
+                "bookName": "炮灰帝凤有点邪"
+            },
+            {
+                "bookId": "5128511403469001",
+                "bookName": "逆天逃妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28543644583647146",
+                "roleName": "雪凡心",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "15"
+                },
+                "roleType": 1,
+                "popularCnt": 147046,
+                "createTime": 1526374962000
+            },
+            {
+                "roleId": "28543644566868290",
+                "roleName": "夜九觞",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "14"
+                },
+                "roleType": 1,
+                "popularCnt": 137554,
+                "createTime": 1526374962000
+            },
+            {
+                "roleId": "28861384937084576",
+                "roleName": "竹七叶",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.5"
+                },
+                "roleType": 1,
+                "popularCnt": 14654,
+                "createTime": 1527558640000
+            },
+            {
+                "roleId": "28861375272738788",
+                "roleName": "银生筱",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "6501"
+                },
+                "roleType": 1,
+                "popularCnt": 6501,
+                "createTime": 1527558604000
+            },
+            {
+                "roleId": "28861395106687178",
+                "roleName": "水墨凝",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "5705"
+                },
+                "roleType": 2,
+                "popularCnt": 5705,
+                "createTime": 1527558678000
+            },
+            {
+                "roleId": "28543644583647147",
+                "roleName": "冥天司",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "5505"
+                },
+                "roleType": 1,
+                "popularCnt": 5505,
+                "createTime": 1526374963000
+            },
+            {
+                "roleId": "28861407201947002",
+                "roleName": "叶菲红",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "5456"
+                },
+                "roleType": 2,
+                "popularCnt": 5456,
+                "createTime": 1527558722000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 38635,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "360382718351048727",
+                "type": 0,
+                "title": "",
+                "content": "看了几章，对于我们这种看小说看了好多年的人来说，文章太缺乏新意了，又过于白话。其中人物角色也不够鲜明，逻辑你们自己体会。身为极为疼爱女主的爷爷，竟然扭头就把差点害死女主的女配给忘掉，还给成全女配和男配的爱，也是绝了。处事作风完全匹配不上他应有的身份……\n其他也不多说了，经常看穿越重生的不建议看，刚开始接触小说的，还可以看看。",
+                "createTime": 1561349266000,
+                "userId": "2501265438",
+                "nickName": "渺渺薇大人",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2501267465_1580608661692/100",
+                "replyCount": 111,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 507,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "364175510189899800",
+                "type": 0,
+                "title": "",
+                "content": "很好奇为什么古言的文男主都叫九皇叔😓~\n为什么不是八皇叔七皇叔什么的→_→",
+                "createTime": 1562252701000,
+                "userId": "120083579839",
+                "nickName": "我昵称十个字不信你数",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120083577977_1562246680079/100",
+                "replyCount": 47,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 307,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "334327670466740338",
+                "type": 0,
+                "title": "",
+                "content": "作者大大求您更新吧！！！",
+                "createTime": 1555144230000,
+                "userId": "120029877996",
+                "nickName": "夜韵儿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120029879186_1552041161889/100",
+                "replyCount": 29,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 165,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,325 @@
+{
+    "bookInfo": {
+        "bookId": "3990258303881503",
+        "bookName": "孔方世界",
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30040,
+        "subCategoryName": "灵气复苏",
+        "description": "新书求支持\n简介：慢穿小世界，带着随身空间去末世，去星际，去修仙……\n最后回来陪爸爸开面馆。\n周霜霜本来觉得这就是自己的人生，没想到，有一天末世会降临到自己的世界。\n老规矩，无CP，无极品，无撕逼。\n警告：开放式结局。",
+        "lastVipChapterId": "58087605036103558",
+        "lastVipChapterName": "新书《救命！我真的吃不下了》",
+        "lastVipChapterTime": 1636434792000,
+        "lastChapterId": "25185943579684224",
+        "lastChapterName": "末日衰变69",
+        "lastChapterTime": 1563800701000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1203462,
+        "totalChapterCount": 602,
+        "collectCount": 10620,
+        "tag": [
+            {
+                "tagId": 20292,
+                "tagName": "无CP"
+            },
+            {
+                "tagId": 30391,
+                "tagName": "善良"
+            },
+            {
+                "tagId": 10010,
+                "tagName": "诡秘"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-10-31上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "120"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.1"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1636727401236,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 13357824
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 9,
+        "fans": 995,
+        "redBean": 3509
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "authorGuid": "800112729270",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-06-30/89c4b0df90822ab9503db8b90b013e8aeQn8voUc4SX11U5.jpg",
+        "fans": 6987,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23668280201484904",
+                "bookName": "宋檀记事"
+            },
+            {
+                "bookId": "22537847201444604",
+                "bookName": "妻子的复仇：一女二卖"
+            },
+            {
+                "bookId": "22537839101439204",
+                "bookName": "了不起的魔法"
+            },
+            {
+                "bookId": "22537832801434204",
+                "bookName": "我的美人鱼不可能那么凶残！"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27799778528125683",
+                "roleName": "陆绵绵",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "357"
+                },
+                "roleType": 7,
+                "popularCnt": 357,
+                "createTime": 1523603845000
+            },
+            {
+                "roleId": "28543530767019416",
+                "roleName": "林仑",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "268"
+                },
+                "roleType": 6,
+                "popularCnt": 268,
+                "createTime": 1526374538000
+            },
+            {
+                "roleId": "27799778511347790",
+                "roleName": "陈伯伦",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "230"
+                },
+                "roleType": 6,
+                "popularCnt": 230,
+                "createTime": 1523603845000
+            },
+            {
+                "roleId": "27799778511347789",
+                "roleName": "陈雪薇",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "54"
+                },
+                "roleType": 7,
+                "popularCnt": 54,
+                "createTime": 1523603845000
+            },
+            {
+                "roleId": "28885338206304336",
+                "roleName": "丁玲",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "48"
+                },
+                "roleType": 7,
+                "popularCnt": 48,
+                "createTime": 1527647871000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 13545,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "426678014651203584",
+                "type": 0,
+                "title": "",
+                "content": "这书的结局就是没有结局，烂了！别怪我没提醒你们啊！",
+                "createTime": 1577154142000,
+                "userId": "120021563803",
+                "nickName": "真香警告定律",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120021564735_1578872488210/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 31,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "425223984804724736",
+                "type": 0,
+                "title": "",
+                "content": "这大结局好敷衍啊俏丽！！",
+                "createTime": 1576807475000,
+                "userId": "120009003408",
+                "nickName": "超喜欢吃烤肉的",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120009003421_1570878250845/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 12,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "279240992274776186",
+                "type": 0,
+                "title": "",
+                "content": "emmmm这就结局了？！",
+                "createTime": 1542032662000,
+                "userId": "117700012537",
+                "nickName": "亮啦",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/117700018328_1547559952133/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 16,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3264_zhongguo.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

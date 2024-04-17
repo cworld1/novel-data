@@ -1,0 +1,323 @@
+{
+    "bookInfo": {
+        "bookId": "3675832204934203",
+        "bookName": "天医凤九",
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "推荐我的新文《仙风药令》\n几句话简介：陌上人如玉，公子世无双~\n公子他体弱又腹黑~\n女主她肆意又张扬~\n\n完结文：《药门仙医》\n天医凤九出版实体书名为《至尊女医》天猫有售签名版\n她，现代隐门门主，集各家所长的变态鬼才，精医毒，擅暗杀，世人眼中的变态妖物，一次意外身亡，却重生在一个被毁容的少女身上。\n 一朝风云骤起，群雄争霸！且看她如何一袭红衣走天下，剑挑群雄震苍穹！名扬四海惊天地！",
+        "lastVipChapterId": "33582326276413334",
+        "lastVipChapterName": "第77章 一直在心上",
+        "lastVipChapterTime": 1545146309000,
+        "lastChapterId": "10309642532161497",
+        "lastChapterName": "第84章 桃花坞！",
+        "lastChapterTime": 1458453553000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 5353314,
+        "totalChapterCount": 5270,
+        "collectCount": 339283,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20091,
+                "tagName": "日久生情"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30103,
+                "tagName": "帝王"
+            },
+            {
+                "tagId": 30156,
+                "tagName": "神医"
+            },
+            {
+                "tagId": 30161,
+                "tagName": "毒医"
+            },
+            {
+                "tagId": 30158,
+                "tagName": "杀手"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-03-01上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "535"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "34"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1546939825619,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 11758803
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 285,
+        "fans": 28618,
+        "redBean": 143769
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "authorGuid": "1518932830",
+        "intro": "阅文集团大神作家，作者文笔老练，文风恢弘大气，将人引入一个她所编织的世界之中，巧妙的勾起无数读者心弦和热捧。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a6002330/0",
+        "fans": 38654,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "19526496601137104",
+                "bookName": "仙风药令"
+            },
+            {
+                "bookId": "13129774004140803",
+                "bookName": "药门仙医"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27865542245273221",
+                "roleName": "凤九",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "12"
+                },
+                "roleType": 5,
+                "popularCnt": 124370,
+                "createTime": 1523848834000
+            },
+            {
+                "roleId": "27865542262050862",
+                "roleName": "轩辕墨泽",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.6"
+                },
+                "roleType": 4,
+                "popularCnt": 26333,
+                "createTime": 1523848834000
+            },
+            {
+                "roleId": "28709108199347239",
+                "roleName": "杜凡",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "1"
+                },
+                "roleType": 1,
+                "popularCnt": 10142,
+                "createTime": 1526991362000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 45513,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "553741374764220416",
+                "type": 0,
+                "title": "",
+                "content": "玄幻小说就是这个套路......\n剧情掌握在读者心中😂😂😂",
+                "createTime": 1607448408000,
+                "userId": "120163162269",
+                "nickName": "病娇求生者囚徒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120163167988_1672240889211/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 182,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3023_%E4%B9%9D%E5%B0%BE%E7%8B%90.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "312743059391578152",
+                "type": 0,
+                "title": "",
+                "content": "对有漫画版叫《鬼医凤九》",
+                "createTime": 1549992416000,
+                "userId": "120039912385",
+                "nickName": "墨染成画l",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120039919952_1587219025110/100",
+                "replyCount": 46,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 591,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9480_9582_%E4%BC%AF%E4%B9%90%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "364927891533791234",
+                "type": 0,
+                "title": "",
+                "content": "这本书好像至尊瞳术绝世打小姐和仙帝独宠绝世丹医祸天下的结合版一样，只是剧情有很多不一样的，写的更好，但是要是多描写女主就好了像魅医倾城一样，多描写慕颜一样。学魔神狂后有创意和现代结合着也好，整体来说还是可以的，就是大大写的有点啰嗦了。",
+                "createTime": 1562431798000,
+                "userId": "854011447358",
+                "nickName": "瑶鹿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854011446665_1562230404555/100",
+                "replyCount": 41,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 390,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

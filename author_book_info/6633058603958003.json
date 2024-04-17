@@ -1,0 +1,318 @@
+{
+    "bookInfo": {
+        "bookId": "6633058603958003",
+        "bookName": "厉太太又暴露身份了",
+        "authorId": "3004708900182401",
+        "authorName": "灵小哥",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "推荐新书《夫人她马甲又轰动全城了》婚前，池恩恩以为嫁给厉北爵，可以在霖市横着走。\n婚后，她终于知道，横着走的是螃蟹，嫁了人的是厉太太！\n人前，他是冷酷无情、年轻多金的帝国总裁。\n但只有池恩恩才知道，人后这个男人有多霸道、喜怒无常！\n终于有一天，忍无可忍的厉太太爆发了。\n“厉北爵，你到底想要我怎么样？”\n“我要你爱上我！”\n所有人都知道，总裁大人是个占有欲超强的偏执狂！\n恨不得24小时把老婆带在身边，一秒看不到她，会偏执发作……",
+        "lastVipChapterId": "34765856036602956",
+        "lastVipChapterName": "第3496章：【灿若星辰】番外",
+        "lastVipChapterTime": 1549554507000,
+        "lastChapterId": "18388101528040107",
+        "lastChapterName": "第78章：替他挡了一下",
+        "lastChapterTime": 1488601986000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3724246,
+        "totalChapterCount": 3616,
+        "collectCount": 35634,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20054,
+                "tagName": "宝宝"
+            },
+            {
+                "tagId": 20320,
+                "tagName": "巧娶"
+            },
+            {
+                "tagId": 20321,
+                "tagName": "合约恋爱"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30385,
+                "tagName": "偏执"
+            },
+            {
+                "tagId": 30384,
+                "tagName": "痴情"
+            },
+            {
+                "tagId": 30366,
+                "tagName": "首席"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-02-07上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "372"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.6"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1591839550451,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 15210672
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 5,
+        "fans": 5786,
+        "redBean": 6771
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004708900182401",
+        "authorName": "灵小哥",
+        "authorGuid": "1485054494",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7791531/0",
+        "fans": 57719,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "17536776207350304",
+                "bookName": "夫人她马甲又轰动全城了"
+            },
+            {
+                "bookId": "12092093704617603",
+                "bookName": "和大佬隐婚后我爆红娱乐圈"
+            },
+            {
+                "bookId": "2807665901639502",
+                "bookName": "今天大佬和我结婚了"
+            },
+            {
+                "bookId": "22213434000957302",
+                "bookName": "我家王妃超厉害"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28543618008534452",
+                "roleName": "厉北爵",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2030"
+                },
+                "roleType": 1,
+                "popularCnt": 2030,
+                "createTime": 1526374863000
+            },
+            {
+                "roleId": "28543617991755592",
+                "roleName": "池恩恩",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1608"
+                },
+                "roleType": 1,
+                "popularCnt": 1608,
+                "createTime": 1526374863000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2372,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "381747839405129817",
+                "type": 0,
+                "title": "",
+                "content": "差评差评差评差评……\n      动不动就少两三章，看的不舒服……ヾ(＠⌒ー⌒＠)ノ(￣^￣)ゞ",
+                "createTime": 1566443701000,
+                "userId": "1310474937",
+                "nickName": "云箜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1310478868_1601202906697/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 73,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "375416695982129162",
+                "type": 0,
+                "title": "",
+                "content": "好看，很喜欢，唯一不足的就是有时候会少一两章的，",
+                "createTime": 1564932730000,
+                "userId": "120096477614",
+                "nickName": "苡笑迩過",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120096472956_1652832229563/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 41,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "328274235392983079",
+                "type": 0,
+                "title": "",
+                "content": "加油，写得挺好的",
+                "createTime": 1553695085000,
+                "userId": "120035492797",
+                "nickName": "6星空h",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120035494762_1552808910429/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 21,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

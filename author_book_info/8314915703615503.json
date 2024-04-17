@@ -1,0 +1,330 @@
+{
+    "bookInfo": {
+        "bookId": "8314915703615503",
+        "bookName": "快穿系统之反派BOSS来袭",
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "categoryId": 30042,
+        "categoryName": "科幻空间",
+        "subCategoryId": 30044,
+        "subCategoryName": "时空穿梭",
+        "description": "当终极反派BOSS成了个不按常理出牌的蛇精病，穿越重生的主角们，攻略准备好了吗？\r\n这个副本很难刷！\r\n重生主角：我不要重生，让我死！\r\n穿越主角：我不要穿越，让我回去！\r\n穿书主角：这特么是地狱模式的吗？反派都能上天了！说好的垫脚石呢？导演，我怀疑我拿了假剧本！\r\n黑化主角：老子不干了！ヽ(#`Д´)ノ\r\n明殊：下一个。\r\n#副本模式：普通、困难、地狱、明殊#\r\n#宿主一言不合就自尽开屠杀#",
+        "lastVipChapterId": "31190536011973020",
+        "lastVipChapterName": "第1666章 全文剧终（完）",
+        "lastVipChapterTime": 1709118444000,
+        "lastChapterId": "23319853035241220",
+        "lastChapterName": "第82章 神医倾城（29）",
+        "lastChapterTime": 1506960052000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3456223,
+        "totalChapterCount": 1666,
+        "collectCount": 607913,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 20033,
+                "tagName": "升级"
+            },
+            {
+                "tagId": 10004,
+                "tagName": "快穿"
+            },
+            {
+                "tagId": 30151,
+                "tagName": "精灵"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30387,
+                "tagName": "反派"
+            },
+            {
+                "tagId": 40184,
+                "tagName": "吃货"
+            },
+            {
+                "tagId": 30395,
+                "tagName": "学渣"
+            },
+            {
+                "tagId": 30396,
+                "tagName": "反差萌"
+            },
+            {
+                "tagId": 10011,
+                "tagName": "科幻"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-08-20上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "346"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "61"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20360082
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 507,
+        "fans": 32104,
+        "redBean": 356607
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "authorGuid": "357746135",
+        "intro": "阅文集团大神作家，文风轻松活泼，剧情天马行空，饱受读者喜爱。",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-03-13/0a28124b0c29ae4c245bc7fef9a5ccefMpqe7J17EBW6wVI.jpg",
+        "fans": 340642,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25001510901180504",
+                "bookName": "欢迎来到我的地狱"
+            },
+            {
+                "bookId": "18973470101456604",
+                "bookName": "快穿：反派女主满级之后"
+            },
+            {
+                "bookId": "15953225505698104",
+                "bookName": "十万个氪金的理由"
+            },
+            {
+                "bookId": "11297425304303403",
+                "bookName": "这个大佬画风不对"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27865547077111491",
+                "roleName": "明殊",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "25"
+                },
+                "roleType": 5,
+                "popularCnt": 247527,
+                "createTime": 1523848852000
+            },
+            {
+                "roleId": "28605418561583071",
+                "roleName": "祁御",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "6.4"
+                },
+                "roleType": 4,
+                "popularCnt": 64393,
+                "createTime": 1526605088000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 148953,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "363479152059482226",
+                "type": 0,
+                "title": "",
+                "content": "第一次看快穿就是大大的文。时笙这个女主，拽炸天，但她有自己的思想，不圣母，不绿茶，她坚持着底线，最后和凤辞修成正果，也算此生一大幸事。\n明殊我也很喜欢，她爱笑，就是笑里藏着凄凉。她很孤独，但固执的不让别人靠近她，祁御用了很久才和她在一起，我看到祁御为了明殊放弃修为的时候，我觉得，明殊小姐姐遇到了此生挚爱。\n最爱的还是初筝，面瘫，闷骚（不知道形容的对不对），大佬姿态，但是又很像一个小女生。她会偷偷买奶茶，喜欢粉嫩嫩的东西，会蹲在地上，会在一个人的时候瘫着，会想偷偷摸摸的摸好人卡头，遇到危险，内心刷屏，面上冷漠。真的可爱到爆了。其实这个真的宠啊，好人卡犯规了好嘛，可爱到爆炸，特别是锦鲤这里，乖到不行。但是小姐姐真的很好，每次看到小姐姐我总想刷屏“我要给你生猴子！”虽然会被好人卡揍。\n最爱小姐姐的回答，哽人，又没错。“别乱说，我没有，不是我。”“没证据就是污蔑。”真的很爱。附赠一句：“好人卡你别想在上面，女孩子怎么能在下面！”\n笙歌万里，殊途同归，筝途不息。\n希望下一个起点，我们如期而至。\n最后，作者大大要注意休息啊！",
+                "createTime": 1562089042000,
+                "userId": "119192841684",
+                "nickName": "玉烟霖",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119192846246_1561922181112/100",
+                "replyCount": 80,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2908,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "286140923480571949",
+                "type": 0,
+                "title": "",
+                "content": "明殊的爱，谁都要不起。\n她总是一脸温柔，唯独对他多了丝宠溺；她总是怼天怼地气他崩人设，却忍不住身体本能对他好。明殊总是用她独有的温柔在每个世界为他铺垫一条光辉的路，她为他付出很多，可惜他不知道，他只知道她不喜欢他。（我并不是不喜欢男主，而是心疼我叔）\n祁御，你何其有幸，能被明殊温柔相待。",
+                "createTime": 1543660434000,
+                "userId": "120007972154",
+                "nickName": "初筝我金主",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007978475_1543677340458/100",
+                "replyCount": 61,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1829,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3990_%E6%8B%9B%E8%B4%A2%E7%8C%AB.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "366357571734405202",
+                "type": 0,
+                "title": "",
+                "content": "这里的宝贝系统可以和王者号对调一下。\n王者号给我叔买吃的。\n和谐号给筝爷出方案暗戳戳搞人。\n完美。",
+                "createTime": 1562774301000,
+                "userId": "120076103038",
+                "nickName": "Lao偷走你的满目星河",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120076107805_1559399449989/100",
+                "replyCount": 28,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 961,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

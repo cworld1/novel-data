@@ -1,0 +1,298 @@
+{
+    "bookInfo": {
+        "bookId": "21373949608100304",
+        "bookName": "大佬的影后夫人她又美又飒",
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【正文已完结】\n唐芷兮是宋家的私生女？\r\n从小在乡下长大，没有上过学？\r\n宋家还对外声称绝不会认她？\r\n...\r\n直到唐芷兮的身份被扒，宋家马上筹备认亲宴。\r\n而唐芷兮却直接拒绝道：“你们宋家也配？”\r\n…\r\n帝京那位三爷竟然喜欢上了一个连学都没上过的野丫头。\r\n听说还捧在手心里宠。\r\n让整个帝京震惊之时，叶三爷却颇为骄傲地说了一句话：“我夫人可不简单。”\r\n\r\n...\r\n叶寒之从来不相信一见钟情，直到遇见了唐芷兮...\r\n北方有佳人，倾国又倾城…\r\n**\r\n唐芷兮很喜欢穿裙子，后来...叶寒之的衬衫袖扣全都是她裙子的颜色。",
+        "lastVipChapterId": "67393699805457486",
+        "lastVipChapterName": "番外六十八 但愿......",
+        "lastVipChapterTime": 1671109505000,
+        "lastChapterId": "58792606469439343",
+        "lastChapterName": "第74章 南承",
+        "lastChapterTime": 1639110332000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1454532,
+        "totalChapterCount": 628,
+        "collectCount": 29584,
+        "tag": [
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20095,
+                "tagName": "一见钟情"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 30372,
+                "tagName": "影后"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20425,
+                "tagName": "世家"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-10-10上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "145"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1636945552446,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 41104564
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 111,
+        "fans": 3656,
+        "redBean": 17055
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "16281827004590501",
+        "authorName": "花朝满月",
+        "authorGuid": "854016480385",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-10-08/2fe41eddd7e8735b88584579360eb14c7WG8FrPqE99g0t7.jpg",
+        "fans": 4438,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "28400287402125904",
+                "bookName": "向神尊丢出一只小狐狸！"
+            },
+            {
+                "bookId": "23267345801735004",
+                "bookName": "顾少夫人是个娇气包"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "57958364638325086",
+                "roleName": "唐芷兮",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "12"
+                },
+                "roleType": 5,
+                "popularCnt": 118317,
+                "createTime": 1635953333000
+            },
+            {
+                "roleId": "57958371768645615",
+                "roleName": "叶寒之",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "5.2"
+                },
+                "roleType": 4,
+                "popularCnt": 51540,
+                "createTime": 1635953360000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1407,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "845141609707995136",
+                "type": 0,
+                "title": "",
+                "content": "哇，又到了写书评的时候了，先说一声虽然很喜欢溪姐（女主），但我最满意的角色人物就是叶寒之（男主）了，啊啊啊啊真的寒之太好太好了，太符合我心目中的男主了，他很爱女主又尊重，把女主当命一样，尤其是溪姐怀孕那边，我真的都要被寒之感动哭了，这是什么绝世好男人，姐妹不要害怕虐，真的全程虐狗，太甜了啊啊啊，溪姐也很强很美，掉马甲时刻，我最爱看了哈哈哈，说到印象最深的就是，寒之说的，大概意思是，他什么都不想管了，只想楚轻歌可以平安，我当时就被狠狠触动了，呜呜呜作者完全把我心目中的好男主描写出来了，而且男主会鉴婊，不手软，真的哈哈哈哈哈要被笑死，真的很喜欢楚轻歌和叶寒之的人设！让我为男主磕磕撞大墙，为女主打开我心房。哈哈哈说真的的，还挺不舍，但我相信他们在另一个世界会过得很好的，我爱你们",
+                "createTime": 1676923638000,
+                "userId": "854063798913",
+                "nickName": "无聊生活",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854063790380_1676996617729/100",
+                "replyCount": 7,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "越南"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "719845742759510016",
+                "type": 0,
+                "title": "",
+                "content": "昨天晚上大家没有看到更新的章节。我更了…\n但是…被屏蔽了\n从很早之前，我就是有话想和大家说，但是因为这个作家助手我用得它不是很灵活。除了在作话，我没有其他和大家沟通的渠道。\n主要是我想说的话，等写作话的时候会忘。我就在想要不要搞个围脖\n昨天晚上我通知不到大家，确实有点急。\n所以还是打算把我用来偶尔八卦的围脖放出来。\n大家有兴趣可以去看看，我以后有事也可能在上边通知。\n名字：花朝满月 HZMY",
+                "createTime": 1647050775000,
+                "userId": "854016480385",
+                "nickName": "花朝满月",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-10-08/2fe41eddd7e8735b88584579360eb14c7WG8FrPqE99g0t7.jpg",
+                "replyCount": 1,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "16281827004590501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "743461840985653248",
+                "type": 0,
+                "title": "",
+                "content": "男主真的绝了 谁惹他不舒服 就找自己的母亲去给那个人介绍对象 哈哈哈",
+                "createTime": 1652681292000,
+                "userId": "2089401539",
+                "nickName": "初雪一样靠近你",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2089406952_1652775740794/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 49,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

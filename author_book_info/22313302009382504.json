@@ -1,0 +1,279 @@
+{
+    "bookInfo": {
+        "bookId": "22313302009382504",
+        "bookName": "致命热恋",
+        "authorId": "5709390904247301",
+        "authorName": "漫西",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "安桐遭逢家庭剧变，罹患情感障碍，且时常出现严重的情感剥离现象。\n容慎，名满香江且富可敌国的神秘家族继承人。\n一场乌龙，安桐错把容慎当成心理治疗师，自此开启了为期数月的疏导治疗。\n不久后，两人一拍即合，协议结婚了。\n*\n婚后某天，属下汇报：“容爷，夫人又在直播写代码了。”\n男人缓缓抬眸，语调慵懒：“别忘了给她刷礼物。”\n属下默默递出一张纸，“容爷，夫人写的这几行代码，和我们高价聘请的幕后工程师写的一模一样……”\n容慎看着代码陷入了良久的沉默：“……”\n*\n某天午后，夫妻俩吃完街边串串香偶然路过某顶尖科技大楼。\n几名职员捧着文件鱼贯而出，对着容慎毕恭毕敬地颔首：“执行长，可算是遇到您了。这几份文件需要您尽快签署，不能再耽误了。”\n安桐面无表情地看向了身边的男人：“？”\n\n#我贪图免费治疗嫁了个心理医生结果他是个商界执行长？#\n#我以为我娶了个缺钱的情感患者结果她是个高级工程师？#\n【伪·心理治疗师VS真·心理疾病患者】",
+        "lastVipChapterId": "64051603350541673",
+        "lastVipChapterName": "第272章：大结局",
+        "lastVipChapterTime": 1658715201000,
+        "lastChapterId": "61272245053916230",
+        "lastChapterName": "第34章：成全",
+        "lastChapterTime": 1648335626000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 555386,
+        "totalChapterCount": 272,
+        "collectCount": 19643,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20064,
+                "tagName": "契约婚姻"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20446,
+                "tagName": "治愈"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70429,
+                "tagName": "温馨"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-01-26上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "56"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "2"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1645158751408,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 42856845
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 178,
+        "fans": 3571,
+        "redBean": 79369
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5709390904247301",
+        "authorName": "漫西",
+        "authorGuid": "802019976043",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-24/3212eeb0ae3ff453b5c5b35685255cf8608a182100p65u8.jpg",
+        "fans": 238568,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "17755279506421504",
+                "bookName": "致命偏宠"
+            },
+            {
+                "bookId": "13899265303683904",
+                "bookName": "暖婚甜入骨"
+            },
+            {
+                "bookId": "8855924504665403",
+                "bookName": "婚路情深"
+            },
+            {
+                "bookId": "5709390903846401",
+                "bookName": "陆爷心尖上的人儿"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2047,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "714777529495519232",
+                "type": 0,
+                "title": "",
+                "content": "前一部致命偏宠从头到尾已经刷了好几遍了，作者新书！支持！",
+                "createTime": 1645842419000,
+                "userId": "854027267621",
+                "nickName": "红红红1011",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854027264954_1648484519397/100",
+                "replyCount": 8,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 102,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "716605183873908736",
+                "type": 0,
+                "title": "",
+                "content": "【这是一场致命热恋】\n他是名满香江端方沉稳的商界执行长，是富可敌国的神秘家族继承人，是误打误撞却独属于她一人的心理治疗师，容慎。\n她是略显颓废活力不足的花季少女，是满身才华却悄悄藏匿的高级工程师，也是那个人唯一的情感患者，安桐。\n相遇是意外，相识是乌龙，但相处和相爱是有心是真情。\n身为执行长的容慎，温润端方的外表，常年严谨端庄的白衬衫黑西裤，骨子里的涵养和淡薄的气度，都是一个雅致君子的形象。但这样的人，怎么会如外表那般温润，早早地见识了世间看过了人心，温润儒雅只是伪装，那副皮囊下的冷漠和上位者的不容置喙，才是他的真面目。\n但就是这样一个面热心冷的人，偏偏对那个略显颓废的少女上了心。\n安桐明明是花季少女，本该充满朝气，可遭逢家庭剧变，罹患情感障碍，让精致漂亮的人儿满是木讷，死气沉沉。明明有极高的工作效率，却屈居一个杂志社做兼职校对；明明可以写出神秘的高端代码，却在直播间做一个随缘小主播；明明是花季少女，却背负了三年沉重的愧疚与负罪感。但这一切都会有转机，希望来自那个将会重新带她走进这个世界的容慎。\n乌龙过后，他成为她的专属治疗师，寥寥数语就将她背负的沉重拨开一角，给她埋下一个希望的种子，他的包容体贴、耐心尊重，都让久病气质消沉的安桐再现一丝生机与活力。\n他是那样美好，宛如神祗一般伟岸，让人信仰。\n对安桐来说，这是一场致命热恋，人间不值得。但你值得。\n漫西也值得",
+                "createTime": 1646278166000,
+                "userId": "1019303427",
+                "nickName": "土妹儿阿希有点甜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1019305930_1618475529027/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 72,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7596_1%E9%93%B6%20%E5%89%AF%E6%9C%AC.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "714580928323715072",
+                "type": 0,
+                "title": "",
+                "content": "每天刷一遍，每天都来刷一遍，喵对漫西如初恋♥️果然不负朕喜欢✌️\n\n",
+                "createTime": 1645795546000,
+                "userId": "3472466170",
+                "nickName": "喵Miao",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3472462547_1555217529335/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 33,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5688_8233_Cat.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

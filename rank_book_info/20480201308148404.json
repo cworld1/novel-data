@@ -1,0 +1,318 @@
+{
+    "bookInfo": {
+        "bookId": "20480201308148404",
+        "bookName": "御赐小狂妃",
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "（新书《玄门小娇娇白天扮乖，晚上禁撩！》已发）凯旋之日，圣上赐了穆王爷一道空白婚旨：京中所有未出阁女子，穆王爷可任选一位，娶为王妃。\n于是整个京城都炸了——\n“穆王爷才华横溢，定会娶大才女当王妃！”\n“穆王爷乃不败神话，定会娶武门之后当王妃！”\n“咦？我怎么听说穆王爷有心上人了？”\n君如甯掀桌：穆王你大爷，有心上人了还写姑奶奶的名字做什么？！\n婚后，君如甯每天只想抱住自己的小金库逃离京城。\n谁知那位不近女色的穆王爷步步逼紧，“王妃莫要乱跑，当心伤了胎气。”\n君如甯笑：“王爷指的胎气，是本王妃未放出来的屁么？”\n穆王爷笑：“皇上给我们的孩儿赐了名，你再怀不上，当心掉脑袋。”\n君如甯：“…………”\n[架空+甜宠+逗比，考究党慎入。]",
+        "lastVipChapterId": "60637963478340506",
+        "lastVipChapterName": "第316章 番外篇",
+        "lastVipChapterTime": 1646045655000,
+        "lastChapterId": "56050719748762300",
+        "lastChapterName": "第50章 快点给王爷生个小少爷",
+        "lastChapterTime": 1628846803000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 597026,
+        "totalChapterCount": 316,
+        "collectCount": 3569,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 20330,
+                "tagName": "致富"
+            },
+            {
+                "tagId": 30414,
+                "tagName": "财迷"
+            },
+            {
+                "tagId": 20079,
+                "tagName": "双洁"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30437,
+                "tagName": "宠妻"
+            },
+            {
+                "tagId": 30393,
+                "tagName": "双商爆表"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-06-28上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "60"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3569"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1624877513283,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 39037990
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2,
+        "fans": 1021,
+        "redBean": 7139
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7878024704613501",
+        "authorName": "玉司司",
+        "authorGuid": "854003854674",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+        "fans": 64586,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22502891709842604",
+                "bookName": "玄门小娇娇白天扮乖，晚上禁撩！"
+            },
+            {
+                "bookId": "19207271601733104",
+                "bookName": "他太太貌美志残"
+            },
+            {
+                "bookId": "15642430604362904",
+                "bookName": "谁又在窥觊我的美貌"
+            },
+            {
+                "bookId": "14861190604720204",
+                "bookName": "重逢后我们成了模范夫妇"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "56140051310425203",
+                "roleName": "君如甯",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1017"
+                },
+                "roleType": 5,
+                "popularCnt": 1017,
+                "createTime": 1629179588000
+            },
+            {
+                "roleId": "56140069983457927",
+                "roleName": "穆霆尧",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "921"
+                },
+                "roleType": 4,
+                "popularCnt": 921,
+                "createTime": 1629179658000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 119,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "651438336526974976",
+                "type": 0,
+                "title": "一段碎碎念的话",
+                "content": "「一段碎碎念的话」更新时间：不出意外的话，应该是凌晨过后更新，有突发情况更新会晚点。\n有人喜欢，有人不喜欢，作者不可能写得出全世界都喜欢的剧情。\n希望那些不喜欢文文读者手下留情，不喜欢可以移除书架，不要扔个差评再走。\n你体面，作者也体面。\n攻击作者、恶意差评，永久禁言。",
+                "createTime": 1630741179000,
+                "userId": "854003854674",
+                "nickName": "玉司司",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+                "replyCount": 1,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "7878024704613501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "639155084613189632",
+                "type": 0,
+                "title": "",
+                "content": "为什么我看上的书都是连载还都是更了没几张的",
+                "createTime": 1627812623000,
+                "userId": "120199906579",
+                "nickName": "榛子斓",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120199906941_1625577314331/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 12,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "693229202690015232",
+                "type": 0,
+                "title": "刚刚迷迷糊糊想睡着了，差点把新章节发到书评里",
+                "content": "「刚刚迷迷糊糊想睡着了，差点把新章节发到书评里」刚刚迷迷糊糊想睡着了，差点把新章节发到书评里，我快哭了。。",
+                "createTime": 1640704898000,
+                "userId": "854003854674",
+                "nickName": "玉司司",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-01/608d6e8d43bfa.jpeg",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "7878024704613501",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

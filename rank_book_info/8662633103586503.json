@@ -1,0 +1,342 @@
+{
+    "bookInfo": {
+        "bookId": "8662633103586503",
+        "bookName": "清穿皇妃要娇养",
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "　　穿来清朝，温馨基本上就绝望了！\r\n\r\n　　在这个清穿多如狗，主子遍地走，前有李氏恶虎拦路，后有年氏步步紧逼，还有福晋四处放火，想要安安逸逸的过日子，简直是难如登天。\r\n\r\n　  论想要杀出重围，安稳度日，怎么破？在线等，挺急的。\r\n\r\n　　四四一本正经表示：“……来撩我啊，撩到就是你的，爷让你安稳一辈子！”\r\n\r\n　　温馨泪奔：“四爷，求不约！”\r\n\r\n　　撩了你，更绝望啊。\r\n　　",
+        "lastVipChapterId": "36896432844436148",
+        "lastVipChapterName": "046：大结局",
+        "lastVipChapterTime": 1557827489000,
+        "lastChapterId": "24338274876751573",
+        "lastChapterName": "052：危机",
+        "lastChapterTime": 1515041997000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2839826,
+        "totalChapterCount": 1685,
+        "collectCount": 816295,
+        "tag": [
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 20018,
+                "tagName": "清穿"
+            },
+            {
+                "tagId": 20348,
+                "tagName": "正史"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30132,
+                "tagName": "皇后"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 2,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-09-30上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "284"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "82"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1558599253971,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20634878
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1490,
+        "fans": 30014,
+        "redBean": 257281
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 47,
+            "bookId": 8662633103586503,
+            "name": "完结榜",
+            "url": "/rank?tagId=-1000&rankId=Finish_Gold",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP47"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "authorGuid": "802003517205",
+        "intro": "阅文集团大神作家，遥知不是雪，为有暗香来。我相信坚持就会成功。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043267/0",
+        "fans": 116347,
+        "total": 18,
+        "items": [
+            {
+                "bookId": "29049656903062504",
+                "bookName": "步步生骄"
+            },
+            {
+                "bookId": "25324751901314504",
+                "bookName": "吃瓜贵妃的自我修养"
+            },
+            {
+                "bookId": "21292531108289404",
+                "bookName": "太子入戏之后"
+            },
+            {
+                "bookId": "19541280801382404",
+                "bookName": "嫁皇叔"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "28728661020687074",
+                "roleName": "温馨",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "14"
+                },
+                "roleType": 5,
+                "popularCnt": 139662,
+                "createTime": 1527064202000
+            },
+            {
+                "roleId": "28728668822078817",
+                "roleName": "四爷",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "8.8"
+                },
+                "roleType": 4,
+                "popularCnt": 87822,
+                "createTime": 1527064231000
+            },
+            {
+                "roleId": "28728685196641778",
+                "roleName": "八爷",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "1492"
+                },
+                "roleType": 6,
+                "popularCnt": 1492,
+                "createTime": 1527064292000
+            },
+            {
+                "roleId": "28728675801400718",
+                "roleName": "福晋",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "1472"
+                },
+                "roleType": 7,
+                "popularCnt": 1472,
+                "createTime": 1527064257000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 32275,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "789245890794749952",
+                "type": 0,
+                "title": "",
+                "content": "在小说世界里我希望纯粹，脱离现实生活的肮脏和不堪，因此一直以来都看双洁文。所以下了很大的决心，当然也是因为书荒，看了大大的这篇。\n感到幸好没有因为角色的设定而错过！\n大大对历史上的四爷有着自己的想法和认知，有很扎实的真实历史事件穿插其中。\n温馨和四爷的感情循序渐进，很甜蜜。\n这本小说不是空有男女主的爱情，读完了觉得很充实。\n第一次写这么长的评论，真的是本好书。\nP.S 里面别出心裁的错别字有时真的会让人爆笑。",
+                "createTime": 1663597060000,
+                "userId": "120139167580",
+                "nickName": "阿哩鲁",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120139163660_1669356713298/100",
+                "replyCount": 1,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "380498556672344135",
+                "type": 0,
+                "title": "",
+                "content": "一开始看这本书是因为我喜欢古言，第一眼就喜欢作者的笔风了，真的超迷人，一直连追着，在馨馨错喝毒酒不在人世了，特别心痛，那时馨馨还没有和四爷白头偕老呢，留下四爷和馨馨的孩子，超令人心痛。特别是六阿哥和七阿哥不肯娶妻，拉着五阿哥的裤脚叫五哥，提及“皇阿玛”\n“额娘”真的感觉好令人心痛，仿佛事情是真的那般。之前我也看过一篇清穿文，同样穿到了康熙这个时代，女主也同样是在四爷府上，不过身份不同。这本书令人感觉特别舒适，刚刚好的那种，虽然后面馨馨突然去世，特别心痛，更多出来了一些感动，超喜欢这篇文！作者大大，加油鸭，期待新文~还有真的很喜欢你的写作手法和笔风~很棒啊!",
+                "createTime": 1566145799000,
+                "userId": "120088550076",
+                "nickName": "Reset77",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120088557476_1566773815109/100",
+                "replyCount": 28,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 232,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "450376661955837952",
+                "type": 0,
+                "title": "",
+                "content": "看完这本之后，再其它清穿都有些失望了，可能是我要求太高，唉，这对cp太甜了",
+                "createTime": 1582804340000,
+                "userId": "2151482009",
+                "nickName": "烟靡九生",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2151480820_1581326818643/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 49,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

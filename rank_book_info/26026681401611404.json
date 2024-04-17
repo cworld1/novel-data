@@ -1,0 +1,148 @@
+{
+    "bookInfo": {
+        "bookId": "26026681401611404",
+        "bookName": "养猪百头，不如逼太子殿下还钱",
+        "authorId": "24621064601162801",
+        "authorName": "山人钠thing",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "「嫁给我，可使你宋家延续满门荣耀……」太子殿下高坐垂手，企图用权势富贵诱惑良家少女……\n「太子妃？多少钱一个月？请用黄金支付！」\n黄金万两不比太子妃香？\n宋君君坐了一趟过山车，穿成了“养猪能手”，进入了一个叫做「向太子要债」的游戏，成为一个业余爱好是养猪的“白字将军”的女儿。\n系统随机派发任务，都完成才能返回现实世界；只要有一个完不成，就无限轮回卡死在这个时空里。\n可怜宋君君摆烂十余年，卷也卷不动，猪都出栏一百多头了，可她连太子的脸都没看清楚。就在她以为自己真的要了结在这游戏世界里时，太子选妃了，“装死”十余年的系统又活了了……\n「任务：请拆散他们……」\n「任务：帮助她成为太子妃……」\n「任务：帮助他们私奔……」\n原来，系统见不得人好，就喜欢棒打鸳鸯，还要宋君君去做这个恶人……\n做什么任务，还不如专心养猪！",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "77756817114972170",
+        "lastChapterName": "第234章 若你不失败……",
+        "lastChapterTime": 1710461642000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 582217,
+        "totalChapterCount": 234,
+        "collectCount": 22,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 20089,
+                "tagName": "欢喜冤家"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 30414,
+                "tagName": "财迷"
+            },
+            {
+                "tagId": 40181,
+                "tagName": "逗比"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2023-04-02上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "58"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "22"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1681898537170,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 46751204
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 4,
+        "redBean": 4
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

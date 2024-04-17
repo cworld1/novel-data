@@ -1,0 +1,213 @@
+{
+    "bookInfo": {
+        "bookId": "24460101601274904",
+        "bookName": "穿越星际：我靠能吃喜提上将",
+        "authorId": "20869348801025301",
+        "authorName": "俗人某",
+        "categoryId": 30042,
+        "categoryName": "科幻空间",
+        "subCategoryId": 30044,
+        "subCategoryName": "时空穿梭",
+        "description": "【穿越+异能+空间+宠物+种植+甜宠+美食+萌宝】\r\n植物研究生的吃货萌七七，意外穿越成千年后重生的萌七七，这里每个人都有属于自己的异能，\n奇怪的变异植物吃了居然有能量～\n特殊会说话的兽族居然发疯了～\n肥沃的食材而无人知晓～\n虫族搬到了她的星系～\n她本着吃货体制，收获了一群朋友，不断的壮大了吃货队伍携带着战宠开辟新的食材～\n就在这不知不觉间踏上了一条截然不同的道路～～",
+        "lastVipChapterId": "72068807677508862",
+        "lastVipChapterName": "第二百九十二章",
+        "lastVipChapterTime": 1690617712000,
+        "lastChapterId": "69376050953516163",
+        "lastChapterName": "请假",
+        "lastChapterTime": 1679369062000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 794593,
+        "totalChapterCount": 292,
+        "collectCount": 94,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20054,
+                "tagName": "宝宝"
+            },
+            {
+                "tagId": 20308,
+                "tagName": "异能"
+            },
+            {
+                "tagId": 20072,
+                "tagName": "星际"
+            },
+            {
+                "tagId": 30411,
+                "tagName": "颜控"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 10011,
+                "tagName": "科幻"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-10-10上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "79"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "94"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1667288552824,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 45394954
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 11,
+        "redBean": 6
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2,
+        "bookCommentCount": 2,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "882061294214840320",
+                "type": 0,
+                "title": "",
+                "content": "可以蹲一下完结",
+                "createTime": 1685725977000,
+                "userId": "120103692925",
+                "nickName": "徐锦枳",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120103699681_1623634849628/100",
+                "replyCount": 0,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "江西"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "838866924829671424",
+                "type": 0,
+                "title": "评论不一一回复了",
+                "content": "「评论不一一回复了」新书难免有漏洞，错处请指出。<br>书评我都看过了，感谢大家认真的阅读和支持。<br>同样有疏漏的地方，我完结之后会整改好的。<br>感谢大家！",
+                "createTime": 1675427637000,
+                "userId": "116600068079",
+                "nickName": "俗人某",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-12-24/1d6e894c3a30f68126405cdf8146406f8b6NrB5r3T73cnf.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "20869348801025301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

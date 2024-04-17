@@ -1,0 +1,352 @@
+{
+    "bookInfo": {
+        "bookId": "14156142405054404",
+        "bookName": "余生有你，甜又暖",
+        "authorId": "3004974201061301",
+        "authorName": "囧囧有妖",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "刚发现自己会被裴聿城的意识附身时，林烟是拒绝的。\n明明在酒吧蹦迪，一醒来，躺在了荒郊野岭。\n明明在家里打游戏，一醒来，站在了欧洲大街。\n明明在跟男神烛光晚餐，一醒来，站在了男洗手间。\n这日子没法过了！\n后来的林烟——\n“大佬求上身，帮我写个作业！”“大佬求上身,帮我考个试！”“大佬求上身，帮我追个男神！”“大佬,听说生孩子挺疼的，等日后我生孩子的时候，不如你……”\n裴聿城：“……”",
+        "lastVipChapterId": "59901534561348707",
+        "lastVipChapterName": "囧囧有妖2022新书发布：《月亮在怀里》欢迎来磕糖！",
+        "lastVipChapterTime": 1643194344000,
+        "lastChapterId": "38571820386826215",
+        "lastChapterName": "第63章 不赔偿的方法",
+        "lastChapterTime": 1573282894000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1710239,
+        "totalChapterCount": 1642,
+        "collectCount": 233131,
+        "tag": [
+            {
+                "tagId": 20026,
+                "tagName": "娱乐圈"
+            },
+            {
+                "tagId": 20041,
+                "tagName": "职场商战"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 20023,
+                "tagName": "灵魂转换"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 30131,
+                "tagName": "男神"
+            },
+            {
+                "tagId": 30383,
+                "tagName": "高冷"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-06-29上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "171"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "23"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1679569438398,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 25680570
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1596,
+        "fans": 45740,
+        "redBean": 938574
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004974201061301",
+        "authorName": "囧囧有妖",
+        "authorGuid": "3271908627",
+        "intro": "阅文集团白金作家，著有多部畅销小说，且每一部都已经签约出版，成绩斐然。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7909386/0",
+        "fans": 869745,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "22244524601367604",
+                "bookName": "月亮在怀里"
+            },
+            {
+                "bookId": "19118954508500004",
+                "bookName": "礼物"
+            },
+            {
+                "bookId": "11410159504961703",
+                "bookName": "你是我年少的小欢喜"
+            },
+            {
+                "bookId": "8263527304935303",
+                "bookName": "恰似寒光遇骄阳"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "42553867380440416",
+                "roleName": "林烟",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "24"
+                },
+                "roleType": 5,
+                "popularCnt": 235503,
+                "createTime": 1578567110000
+            },
+            {
+                "roleId": "42553826309813764",
+                "roleName": "裴聿城",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "20"
+                },
+                "roleType": 4,
+                "popularCnt": 196428,
+                "createTime": 1578566957000
+            },
+            {
+                "roleId": "42553926973108891",
+                "roleName": "裴宇堂",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.7"
+                },
+                "roleType": 6,
+                "popularCnt": 27228,
+                "createTime": 1578567332000
+            },
+            {
+                "roleId": "47595214915211763",
+                "roleName": "汪景阳",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.6"
+                },
+                "roleType": 6,
+                "popularCnt": 25653,
+                "createTime": 1597347593000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 53922,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "362266015758942210",
+                "type": 0,
+                "title": "",
+                "content": "《许你万丈光芒好》的夕哥，《恰是寒光遇骄阳》的绾绾，《总有一天你会喜欢我》的郁薰都是我女神啊！！！现在烟烟也是了 (=^▽^=)\n二囧，加油鸭！\n初心不忘，陪你光芒万丈！\n期待烟烟的故事…",
+                "createTime": 1561797167000,
+                "userId": "120081095059",
+                "nickName": "淡妆浓抹总相宜V",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120081094923_1561350058615/100",
+                "replyCount": 188,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2328,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7356_9269_%E5%A4%B4%E5%83%8F%E6%8C%82%E4%BB%B6%E7%BA%A2%E5%8C%85%E6%8B%BF%E6%9D%A5.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "364058522628980799",
+                "type": 0,
+                "title": "",
+                "content": "妖妖的文字，清清淡淡，却让人难以忘怀.《恰似寒光遇娇阳》纪修染真的很让人心疼.😭😭😭\n纪修染，正因为爱她，才拒绝她；爱她，才摧毁他们的美好回忆；爱她，才耗尽最后的生命为保护她\n-----倾城不修染，公子世无双.",
+                "createTime": 1562226774000,
+                "userId": "1507132108",
+                "nickName": "云梦流氓魏三岁",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1507135005_1565508458505/100",
+                "replyCount": 37,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 914,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "362020456376696879",
+                "type": 0,
+                "title": "",
+                "content": "恭喜妖妖发新书～(￣▽￣～)~",
+                "createTime": 1561739641000,
+                "userId": "854009569074",
+                "nickName": "顾千言",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854009563051_1572697779730/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 734,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5757_5910_%E5%A4%A7%E6%9A%91.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

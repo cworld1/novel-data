@@ -1,0 +1,251 @@
+{
+    "bookInfo": {
+        "bookId": "18282567008805404",
+        "bookName": "河狸豆包的冒险之旅",
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "categoryId": 30083,
+        "categoryName": "短篇",
+        "subCategoryId": 30089,
+        "subCategoryName": "短篇小说",
+        "description": "【冒险童话故事，奇幻的动物世界】\n豆包是一只勇敢聪明的河狸，他梦想成为优秀的水利工程师，造福森林动物。\r\n意外来临，豆包和青蛙呱呱被老鹰抓到远方森林，在寻找回家之路的旅途中，豆包经历了各种奇妙的冒险……",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "55982486677075244",
+        "lastChapterName": "第89章：完结",
+        "lastChapterTime": 1628592615000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 90200,
+        "totalChapterCount": 90,
+        "collectCount": 126,
+        "tag": [
+            {
+                "tagId": 10275,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-10-17上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "9"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "126"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1604974914894,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 34179147
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 3,
+        "fans": 21,
+        "redBean": 368
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004973801010701",
+        "authorName": "一弯月",
+        "authorGuid": "3261263971",
+        "intro": "作品《王者荣耀：陆神有礼了》获2018王者荣耀文学大赛第一赛季亚军",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-23/3b7a1a794c272f879c48c3bcccd828bc8Y5839Y7JR0l4ms.jpg",
+        "fans": 57250,
+        "total": 12,
+        "items": [
+            {
+                "bookId": "26350511901136104",
+                "bookName": "专治贩剑，玄学大佬她杀疯了"
+            },
+            {
+                "bookId": "22792057801881404",
+                "bookName": "团宠三岁半：别耽误我妈考清华"
+            },
+            {
+                "bookId": "21285758901912104",
+                "bookName": "退婚后，夫人的马甲藏不住了"
+            },
+            {
+                "bookId": "20793729208949304",
+                "bookName": "白爷他超怂哒"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 16,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "538844333860913152",
+                "type": 0,
+                "title": "",
+                "content": "随便写写……\n挑战一下童话……",
+                "createTime": 1603896677000,
+                "userId": "3261263971",
+                "nickName": "一弯月",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-23/3b7a1a794c272f879c48c3bcccd828bc8Y5839Y7JR0l4ms.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "3004973801010701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "539732292839538688",
+                "type": 0,
+                "title": "",
+                "content": "妈耶第二，话说这本书好勤奋呐，一点六万字了",
+                "createTime": 1604108383000,
+                "userId": "3228000359",
+                "nickName": "次年雨未停",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3228001830_1608958498897/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6046_%E6%AD%A3%E7%89%88%E5%8D%AB%E5%A3%AB.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "538683003589754880",
+                "type": 0,
+                "title": "",
+                "content": "嗷嗷嗷嗷嗷嗷嗷嗷我是第一名吧",
+                "createTime": 1603858213000,
+                "userId": "2539751946",
+                "nickName": "读者1530049858587934720",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2539750871_1639994105910/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

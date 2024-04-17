@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "22126363601642004",
+        "bookName": "老祖宗她在生存游戏里当GM",
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "categoryId": 30050,
+        "categoryName": "游戏竞技",
+        "subCategoryId": 30053,
+        "subCategoryName": "游戏异界",
+        "description": "24世纪，人类陆续被送入异世界游戏---【噩梦】。\r\n 在噩梦游戏里，一棵巨大的世界树拔地而起，一片叶子就是一个惊险诡异的副本，人们只有让世界树的叶子全部掉落，才能回到真正的人类世界。\r\n身为最高等级的GM---【HX-1】，商以柔表示她不仅压力一点都不大甚至还有点想笑……\r\n 【系统】：“恭喜您成功登录生存游戏，在这里，让我们一起打开新世界的大门！”\r\n 商以柔：“哦。”\r\n 【系统】：“恭喜您尊敬的【HX-1】，您已成功入驻噩梦游戏名人堂！”\r\n 商以柔：“呵呵。”\r\n 【系统】：“尊敬的【HX-1】，您的第一管理者位置将被取代。”\r\n 商以柔：“他不配……”\r\n 【系统】：“对了，那人是季朝。”\r\n 等等……季朝？！\r\n *\r\n 【GM飒姐X散漫玩家】\r\n “姑娘们，春天到了，花种已经在遗失之境播下，冬天没讲完的故事，我们春天讲完。”",
+        "lastVipChapterId": "62289681601065826",
+        "lastVipChapterName": "番外篇 冬日叙(完)",
+        "lastVipChapterTime": 1652091252000,
+        "lastChapterId": "60671567705123059",
+        "lastChapterName": "第88章 死在那旮旯的贵妃(19)",
+        "lastChapterTime": 1646114619000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 340475,
+        "totalChapterCount": 331,
+        "collectCount": 3046,
+        "tag": [
+            {
+                "tagId": 20353,
+                "tagName": "游戏异界"
+            },
+            {
+                "tagId": 10013,
+                "tagName": "竞技"
+            },
+            {
+                "tagId": 20352,
+                "tagName": "网游情缘"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 10012,
+                "tagName": "游戏"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-01-10上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "34"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3046"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1644286413072,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 42621665
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 75,
+        "fans": 1208,
+        "redBean": 6324
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "11201025903652901",
+        "authorName": "见字就好",
+        "authorGuid": "926127275",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-12/490d04e039c0da536db5aae664d700aey0iNa67Gm1tv6h3.jpg",
+        "fans": 13788,
+        "total": 6,
+        "items": [
+            {
+                "bookId": "23264163801941304",
+                "bookName": "疯了吧，你管这叫游戏主播"
+            },
+            {
+                "bookId": "21313828008580104",
+                "bookName": "只为她偏爱"
+            },
+            {
+                "bookId": "19844755208529404",
+                "bookName": "老祖宗她说生存游戏弱爆了"
+            },
+            {
+                "bookId": "19377043408913604",
+                "bookName": "廖医生的白玫瑰"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 239,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "702221036275499008",
+                "type": 0,
+                "title": "",
+                "content": "\n\n午睡的时候做了个梦，梦到了老祖宗2里面的剧情。\n成为玩家的季朝不太喜欢和人打交道，他喜欢一个人完成一个月的副本要求后，就随便找个方向赶路，他也不知道自己在寻找什么，但就是不想停下来。\n后来他捡了条小流浪狗，狗子见了他和见了骨头一样，连追他好几天，后来季朝就把狗收养了。\n因为狗子的品种是拉布拉多，他给狗子取名叫小布，没错，就是OPPO的语音助手。\n再后来他找到柔姐，柔姐已经是个相当高冷的GM了，柔姐和当时的他一样，神出鬼没，万花丛中过片叶不沾身。\n但是，他的狗子比他会撩妹子，柔姐逃狗子追，柔姐插翅难飞。\n后来，柔姐特意找到狗子的主人，问他问什么狗子这么黏她。\n此刻，热心狗主人季先生一本正经(胡说八道)：“只要是它喜欢的东西，它就想让我帮它带回家。”\n这个梦我想补个完美的结局，所以，我加了几句话。\n“那你喜欢我吗？”\n“喜欢。”\n“那我勉为其难和你回家吧。”\n\n",
+                "createTime": 1642848718000,
+                "userId": "926127275",
+                "nickName": "见字就好",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-04-12/490d04e039c0da536db5aae664d700aey0iNa67Gm1tv6h3.jpg",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 40,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "11201025903652901",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "702671902963007488",
+                "type": 0,
+                "title": "",
+                "content": "啊啊啊！爷青回二来了 居然是身份互换！好刺激 ！",
+                "createTime": 1642956213000,
+                "userId": "2944156540",
+                "nickName": "是抚子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2944158265_1643041146897/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 18,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "701470661369069568",
+                "type": 0,
+                "title": "",
+                "content": "好耶好耶好耶！老祖宗2来了，上本相遇太晚，没能陪伴它成长，现在2来了，我有机会了哈哈哈哈",
+                "createTime": 1642669815000,
+                "userId": "168666581",
+                "nickName": "甄芜羽",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/168667147_1628687785560/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 17,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8106_%E4%B8%80%E7%BA%BF%E7%89%B5.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

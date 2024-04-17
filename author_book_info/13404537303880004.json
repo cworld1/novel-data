@@ -1,0 +1,275 @@
+{
+    "bookInfo": {
+        "bookId": "13404537303880004",
+        "bookName": "罪恶无形",
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30037,
+        "subCategoryName": "推理侦探",
+        "description": "世事万物，或有形，或无形。\r\n有形者，可度量，可观察。\r\n无形者，不可思，不可议。\r\n花花世界有形，而爱无形。\r\n罪恶心魔无形，而法有形。\r\n有些时候，\r\n无形的罪恶能打破有形的平衡。\r\n有些时候，\r\n有形的温暖能解开无形的心结。\r\n小莫的V群：200144356\r\n欢迎任意书中主配角名+读者ID+粉丝值来敲门",
+        "lastVipChapterId": "48344986584320517",
+        "lastVipChapterName": "开新书啦！",
+        "lastVipChapterTime": 1600140711000,
+        "lastChapterId": "37129814924705922",
+        "lastChapterName": "第五十五章 失败的自杀",
+        "lastChapterTime": 1559217744000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1574313,
+        "totalChapterCount": 439,
+        "collectCount": 4713,
+        "tag": [
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 20066,
+                "tagName": "热血"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30117,
+                "tagName": "侦探"
+            },
+            {
+                "tagId": 30361,
+                "tagName": "警察"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-04-01上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "157"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "4713"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1554778805041,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 25056416
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 4,
+        "fans": 175,
+        "redBean": 5190
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "authorGuid": "119090065089",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+        "fans": 2146,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "25752078901523704",
+                "bookName": "罪恶之眼"
+            },
+            {
+                "bookId": "20670443701149104",
+                "bookName": "提刑大人使不得"
+            },
+            {
+                "bookId": "17976991001324904",
+                "bookName": "罪恶不赦"
+            },
+            {
+                "bookId": "8743142704568903",
+                "bookName": "凶案侦缉"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 182,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "476093961514057728",
+                "type": 0,
+                "title": "",
+                "content": "#2020天秀奖年中赛#开始了，赶快pick你最喜欢的男女主男女配，提名上去，有机会获得红袖币哦！",
+                "createTime": 1588935822000,
+                "userId": "119090065089",
+                "nickName": "莫伊莱",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "3633774804394001",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "418563122186485760",
+                "type": 0,
+                "title": "",
+                "content": "非常的好……",
+                "createTime": 1575219401000,
+                "userId": "120102640246",
+                "nickName": "青冢96421127",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120102642297_1563541259744/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "758736773810749440",
+                "type": 0,
+                "title": "",
+                "content": "好看，刑警的故事",
+                "createTime": 1656323120000,
+                "userId": "9163007",
+                "nickName": "水湮",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/9163894_1698989701250/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7044_2628_%E8%AF%9B%E4%BB%99-3.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "18617497508087304",
+        "bookName": "八零年的糯米糖",
+        "authorId": "15766551205035301",
+        "authorName": "逐暖南国",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "   【年代文，1v1，甜宠】 \n     千娇万宠的大小姐许糯糯穿书了，成了年代文女主的恶毒妹妹，未来将成为主角爱情路上的一捧炮灰土。 \n      她决定改写命运，为主角的爱情增光添彩。\n      后来，她姐被曝和男二有私，许糯吓得花容失色：嘤嘤嘤，不是我啊我没有，男主不要搞我啊。\n      她包袱款款，准备连夜逃离修罗场。 \n      被男人阴沉着脸提溜住：你要走？ \n      许糯：是，我… \n      见他模样吓人，她马上改口：不走不走。 —————————————— \n      一开始。 \n      许糯：我姐貌若天仙，心地善良，和你实乃绝配。    \n      厉显冷着脸转身就走。\n      后来。 \n      许糯：要抱抱。\n      厉显张开双臂：糯糯，上来！\n      娇气包撒娇鬼人间富贵花x糙汉大狼狗后期商界大佬",
+        "lastVipChapterId": "53670545661083012",
+        "lastVipChapterName": "番外 美女与野兽",
+        "lastVipChapterTime": 1620541900000,
+        "lastChapterId": "51535535520847931",
+        "lastChapterName": "第八十三章 收到信了",
+        "lastChapterTime": 1612142142000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 513379,
+        "totalChapterCount": 207,
+        "collectCount": 13232,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20022,
+                "tagName": "穿书"
+            },
+            {
+                "tagId": 20084,
+                "tagName": "年代文"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 20079,
+                "tagName": "双洁"
+            },
+            {
+                "tagId": 40164,
+                "tagName": "忠犬"
+            },
+            {
+                "tagId": 30408,
+                "tagName": "白富美"
+            },
+            {
+                "tagId": 30399,
+                "tagName": "糙汉"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-11-24上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "51"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1614824998950,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 34882584
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 45,
+        "fans": 1639,
+        "redBean": 10115
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "15766551205035301",
+        "authorName": "逐暖南国",
+        "authorGuid": "854014938765",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-12-25/5fe5e06223ffd.jpeg",
+        "fans": 2490,
+        "total": 4,
+        "items": [
+            {
+                "bookId": "24117834809874304",
+                "bookName": "炮灰原配选择干掉男主"
+            },
+            {
+                "bookId": "20578885008896904",
+                "bookName": "霍爷捡了个真郡主"
+            },
+            {
+                "bookId": "16479896004500704",
+                "bookName": "反派大佬从良了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "50718101238942861",
+                "roleName": "许糯",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "4578"
+                },
+                "roleType": 5,
+                "popularCnt": 4578,
+                "createTime": 1608981250000
+            },
+            {
+                "roleId": "50718097631838346",
+                "roleName": "厉显",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "4562"
+                },
+                "roleType": 4,
+                "popularCnt": 4562,
+                "createTime": 1608981237000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 605,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "555902915211165696",
+                "type": 0,
+                "title": "",
+                "content": "每天七点准时更新哦～\n如有事情不能更新会在前一章提前告知滴",
+                "createTime": 1607963759000,
+                "userId": "854014938765",
+                "nickName": "逐暖南国",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-12-25/5fe5e06223ffd.jpeg",
+                "replyCount": 8,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "15766551205035301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "601115024680878080",
+                "type": 0,
+                "title": "",
+                "content": "上架后的更新时间每天24点前～",
+                "createTime": 1618743166000,
+                "userId": "854014938765",
+                "nickName": "逐暖南国",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-12-25/5fe5e06223ffd.jpeg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "15766551205035301",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "567921381736644608",
+                "type": 0,
+                "title": "",
+                "content": "女主好可爱，满脑子都是女主，能跟厉大哥抢老婆吗",
+                "createTime": 1610829185000,
+                "userId": "3022638472",
+                "nickName": "窈夜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3022635959_1632016078023/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

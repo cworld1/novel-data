@@ -1,0 +1,331 @@
+{
+    "bookInfo": {
+        "bookId": "16809737804753204",
+        "bookName": "郁太太又在装娇弱",
+        "authorId": "5457845903256301",
+        "authorName": "雪色水晶",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "☆☆全能大佬温蔷，一朝变成了温家的草包大小姐。\n　　草包好啊，装作柔弱小白花，能免去一大堆麻烦。\n　　不过，她那渣父、继母、继妹一个比一个阴险，她只能先下手为强了。\n　　“我老婆从小体弱多病，脑袋也不聪明，什么都不懂，你们不准欺负她！”\n　　被温蔷打败的武道大师、被温蔷碾压的所有学界大佬：“郁先生，请你摸着良心说实话！”",
+        "lastVipChapterId": "47095686864813048",
+        "lastVipChapterName": "第194章 大结局",
+        "lastVipChapterTime": 1595487423000,
+        "lastChapterId": "46078801801086969",
+        "lastChapterName": "第79章 姐姐会好好疼你的",
+        "lastChapterTime": 1591698744000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 235468,
+        "totalChapterCount": 194,
+        "collectCount": 4722,
+        "tag": [
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 40180,
+                "tagName": "护短"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-04-30上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "24"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "4722"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1590480079173,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 30964713
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2,
+        "fans": 469,
+        "redBean": 834
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5457845903256301",
+        "authorName": "雪色水晶",
+        "authorGuid": "803012713199",
+        "intro": " 极懒极懒滴银，需要亲们经常抽抽手中的小鞭子来鞭挞，表吝啬噢……",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2018-11-05/5be001e55b01f.jpeg",
+        "fans": 145593,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "11653675004256003",
+                "bookName": "裴太太你已婚"
+            },
+            {
+                "bookId": "25461182000461201",
+                "bookName": "一叶倾城，天才太子妃"
+            },
+            {
+                "bookId": "3733262703088001",
+                "bookName": "穿越：爱妃别赖帐（全本）"
+            },
+            {
+                "bookId": "3733212003038801",
+                "bookName": "淑女本色，鬼王的新妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "45445116689102305",
+                "roleName": "温蔷",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "319"
+                },
+                "roleType": 5,
+                "popularCnt": 319,
+                "createTime": 1589337852000
+            },
+            {
+                "roleId": "45445065954795374",
+                "roleName": "郁烃",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "208"
+                },
+                "roleType": 4,
+                "popularCnt": 208,
+                "createTime": 1589337663000
+            },
+            {
+                "roleId": "45445168480365066",
+                "roleName": "步尘",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "72"
+                },
+                "roleType": 6,
+                "popularCnt": 72,
+                "createTime": 1589338045000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 157,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "479349662122311680",
+                "type": 0,
+                "title": "",
+                "content": "我看完以后 有点疑惑 向南到底是男主还是配角",
+                "createTime": 1589712042000,
+                "userId": "3225525129",
+                "nickName": "清渠.",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3225523082_1588470068424/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 22,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "480828304518152193",
+                "type": 0,
+                "title": "",
+                "content": "不知道这本书有没有男主唉",
+                "createTime": 1590064577000,
+                "userId": "3450406294",
+                "nickName": "誓死寻找同名同姓的女配",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3450404213_1614066734518/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "473476541234413568",
+                "type": 0,
+                "title": "",
+                "content": "滴滴滴新书打卡",
+                "createTime": 1588311781000,
+                "userId": "3426386758",
+                "nickName": "此长相忆",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3426380947_1711209732753/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5688_8233_Cat.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 19,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

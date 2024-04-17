@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "14450034905560004",
+        "bookName": "跟大佬恋爱你怂了吗",
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【明明是大佬却装乖巧怂包的女主 VS 万年老妖精男主】\r\n乖巧可人的国民妹妹唐景晴，偷偷和大佬沈自洲恋爱了。\r\n从此……\r\n欺负小姑娘的坏人，都自挂了。\r\n教小姑娘做人的，都做不成人了。\r\n想要对小姑娘出牌的，牌都没得玩儿了。\r\n沈自洲眸子半眯，小姑娘人设要崩要掉马。\r\n后来……\r\n网    传：男人纷纷想走进小乖乖的心房，沈自洲为护白月光每天上演修罗场。\r\n沈自洲：呵呵……这群人怕不是傻！\r\n\r\n（敲黑板：爽、宠、甜、苏、玄幻）",
+        "lastVipChapterId": "44499002217443722",
+        "lastVipChapterName": "34：黑凤 白帝",
+        "lastVipChapterTime": 1586912226000,
+        "lastChapterId": "39553313293822583",
+        "lastChapterName": "038：该不是因为心善吧？！",
+        "lastChapterTime": 1567418489000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 714330,
+        "totalChapterCount": 352,
+        "collectCount": 1100047,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20323,
+                "tagName": "马甲"
+            },
+            {
+                "tagId": 20326,
+                "tagName": "虐渣"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 30379,
+                "tagName": "可盐可甜"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-07-31上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "71"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "110"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1565325923956,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 26001661
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 827,
+        "fans": 41463,
+        "redBean": 347083
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "authorGuid": "803012914363",
+        "intro": "阅文集团白金作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+        "fans": 290722,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "22191858701403204",
+                "bookName": "大邺女帝"
+            },
+            {
+                "bookId": "21950364501844104",
+                "bookName": "一座山的距离"
+            },
+            {
+                "bookId": "16792364604322104",
+                "bookName": "嫡长女她又美又飒"
+            },
+            {
+                "bookId": "9199042603510603",
+                "bookName": "傅先生，偏偏喜欢你"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "39286611655884102",
+                "roleName": "唐景晴",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "26"
+                },
+                "roleType": 5,
+                "popularCnt": 256783,
+                "createTime": 1566395633000
+            },
+            {
+                "roleId": "39286637179010965",
+                "roleName": "沈自洲",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "11"
+                },
+                "roleType": 4,
+                "popularCnt": 106173,
+                "createTime": 1566395728000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 40677,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "374162343489241091",
+                "type": 0,
+                "title": "",
+                "content": "老作者写的到底好看^_^虽然没几张让人有看下去的愿望！",
+                "createTime": 1564633466000,
+                "userId": "803006386268",
+                "nickName": "小北辰",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/FE1E7DC28107467ABB7ECCFFCA7D127B44119B7DB83B3806F4D22EEAA46208AE/100",
+                "replyCount": 188,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1164,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "375228022304866337",
+                "type": 0,
+                "title": "",
+                "content": "万年老妖精沈大佬，这万年就能把老傅三哥瞬间秒成渣了😂😂😂",
+                "createTime": 1564888289000,
+                "userId": "803030981442",
+                "nickName": "卿颜如月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803030983504_1605951492838/100",
+                "replyCount": 15,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 705,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6112_%E8%9D%B6%E6%81%8B%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "374683835713126494",
+                "type": 0,
+                "title": "",
+                "content": "最喜欢看您的文，你是我最喜欢的大神！",
+                "createTime": 1564759326000,
+                "userId": "120005856183",
+                "nickName": "我是老公的小可爱",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120005857201_1550248572910/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 406,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 25,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

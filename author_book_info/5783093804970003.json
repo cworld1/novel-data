@@ -1,0 +1,287 @@
+{
+    "bookInfo": {
+        "bookId": "5783093804970003",
+        "bookName": "绝世炼丹师：纨绔九小姐",
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "她是二十四世纪最强修仙者，却穿越到了一个魔法与妖族横行的世界，成了上有家族欺压迫害，下有渣男未婚夫凌辱践踏的受气包…\r\n想虐她？呵呵！她很快就会教他们做人！\r\n魔法了不起？五雷轰顶符，送你成渣！药剂很牛掰？一炉丹药，废柴也能变天才！百万雄师很凶残？撒豆成兵，你们慢慢玩！\r\n笑看作死者自作孽不可活，顺我者昌 逆我者亡！\r\n只是…这个貌美如花的国师大大为啥总是对她“暗送秋波”？某国师：“自己做的事，这会儿就不认账了？”",
+        "lastVipChapterId": "22633638328401414",
+        "lastVipChapterName": "第152章：大结局（4）",
+        "lastVipChapterTime": 1504358473000,
+        "lastChapterId": "16396988791243770",
+        "lastChapterName": "第0137章：国师（1）",
+        "lastChapterTime": 1481125144000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1317709,
+        "totalChapterCount": 1279,
+        "collectCount": 42954,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 40177,
+                "tagName": "杀伐果断"
+            },
+            {
+                "tagId": 30138,
+                "tagName": "嫡女"
+            },
+            {
+                "tagId": 30371,
+                "tagName": "国师"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-10-31上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "132"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "4.3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 14611079
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 72,
+        "fans": 6561,
+        "redBean": 23653
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "authorGuid": "240701592",
+        "intro": "阅文集团白金作家，古言女强天后，代表作《绝世神医：腹黑大小姐》《吾欲成凰》等。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7848102/0",
+        "fans": 89310,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "14315014604556304",
+                "bookName": "凤鸾九霄"
+            },
+            {
+                "bookId": "8531646504192703",
+                "bookName": "吾欲成凰"
+            },
+            {
+                "bookId": "22116362000978402",
+                "bookName": "绝世神医：腹黑大小姐"
+            },
+            {
+                "bookId": "22162847000180402",
+                "bookName": "绝世神偷：废柴七小姐"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 14843,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "306949511203323978",
+                "type": 0,
+                "title": "",
+                "content": "可以说夜北小姐姐是大神级的作者  我很喜欢她笔下的人物 栩栩如生 撩人心神 让每个人活灵活现地展现在大家面前 之前在别的阅读平台里就一直心悦这部小说 但碍于没钱 看不了 🌚🌝这个平台给了我机会领略到夜北的文采 和真实情感 我可以看出夜北对每个人物都描绘的很真实认真 付出心血 小说也透露出人性 善和恶 我很喜欢女主的善良和智慧 对朋友的仗义 实力的强悍 无时无刻都在吸引着我 我一直梦想成为一个女强人 依靠自己的能力工作 不需要靠任何人 这部小说刚好与我所期待的那样 祝福北北的小说大火 北北和北北的家人们身体健康 希望北北写出更好的作品 我会一直支持你的 要加油哦❤️",
+                "createTime": 1548615081000,
+                "userId": "120034616715",
+                "nickName": "念辰呐",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120034610914_1548404142063/100",
+                "replyCount": 13,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 395,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "439611059469352960",
+                "type": 0,
+                "title": "",
+                "content": "夜北大大的绝七真的是我喜欢女强文的一点，太好看了，还有神医。不过我更喜欢绝七!这本没追完，因为当时入了耽美坑哈哈哈哈!现在继续看!",
+                "createTime": 1580237620000,
+                "userId": "854014764655",
+                "nickName": "迟生笙",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854014766383_1579453427636/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 54,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "380261734935691293",
+                "type": 0,
+                "title": "",
+                "content": "夜北大大的书我都有看，我非常喜欢夜北大大的风格，很有代入感，尤其是《绝世神偷废柴七小姐》和《绝世神医腹黑大小姐》让我不自觉的看哭了，只是我觉得，这本书是作者大大，最不好的一本了，我觉得可能是字太少，和女主的逆袭太过简单化了。\n以上是个人意见，不喜勿喷。",
+                "createTime": 1566088228000,
+                "userId": "3012002071",
+                "nickName": "微笑信封",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3012008889_1610402990603/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 106,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

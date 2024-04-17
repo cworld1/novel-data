@@ -1,0 +1,358 @@
+{
+    "bookInfo": {
+        "bookId": "17034953304870404",
+        "bookName": "从现代飞升以后",
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "categoryId": 30008,
+        "categoryName": "仙侠奇缘",
+        "subCategoryId": 30093,
+        "subCategoryName": "仙侣奇缘",
+        "description": "林清婉和易寒飞升时将天邪宗的宗主许贤和清风明月白童三个鬼修也给偷渡上去了，于是三人三鬼一起落到了修真界的飞升台上，一抬头就看到了许多原著居民",
+        "lastVipChapterId": "60015930881053206",
+        "lastVipChapterName": "番外 重聚3",
+        "lastVipChapterTime": 1643618593000,
+        "lastChapterId": "47577194037753366",
+        "lastChapterName": "第一百五十二章 交易一",
+        "lastChapterTime": 1597636969000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 992219,
+        "totalChapterCount": 486,
+        "collectCount": 2490,
+        "tag": [
+            {
+                "tagId": 20351,
+                "tagName": "修真"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20048,
+                "tagName": "扮猪吃虎"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 10009,
+                "tagName": "仙侠"
+            },
+            {
+                "tagId": 30162,
+                "tagName": "仙君"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-05-25上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "99"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "2490"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1591352413462,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 31474602
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1,
+        "fans": 175,
+        "redBean": 10517
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004775400308701",
+        "authorName": "郁雨竹",
+        "authorGuid": "1795374923",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a2437210/0",
+        "fans": 9101,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23743059609775504",
+                "bookName": "正良缘"
+            },
+            {
+                "bookId": "22157767309773504",
+                "bookName": "魏晋干饭人"
+            },
+            {
+                "bookId": "21950873308320704",
+                "bookName": "年成"
+            },
+            {
+                "bookId": "13121988804875403",
+                "bookName": "农家小福女"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "46501120029730684",
+                "roleName": "易寒",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "1698"
+                },
+                "roleType": 4,
+                "popularCnt": 1698,
+                "createTime": 1593271771000
+            },
+            {
+                "roleId": "46501109292316448",
+                "roleName": "林清婉",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "1697"
+                },
+                "roleType": 5,
+                "popularCnt": 1697,
+                "createTime": 1593271731000
+            },
+            {
+                "roleId": "46501131018800125",
+                "roleName": "许贤",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "1137"
+                },
+                "roleType": 6,
+                "popularCnt": 1137,
+                "createTime": 1593271812000
+            },
+            {
+                "roleId": "46501140162387810",
+                "roleName": "清风",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "1137"
+                },
+                "roleType": 6,
+                "popularCnt": 1137,
+                "createTime": 1593271846000
+            },
+            {
+                "roleId": "46501156536943848",
+                "roleName": "白童",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "1137"
+                },
+                "roleType": 6,
+                "popularCnt": 1137,
+                "createTime": 1593271907000
+            },
+            {
+                "roleId": "46501146873276805",
+                "roleName": "明月",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "1136"
+                },
+                "roleType": 7,
+                "popularCnt": 1136,
+                "createTime": 1593271871000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 108,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "576027907089235968",
+                "type": 0,
+                "title": "",
+                "content": "这本和林氏荣华中间，是不是还有一本啊，有些内容人物不是很理解。",
+                "createTime": 1612761931000,
+                "userId": "120171394202",
+                "nickName": "一枕梦寒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120171391998_1601361578520/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9432_%E8%99%90%E6%81%8B%E6%83%85%E6%B7%B1.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "547904795311276032",
+                "type": 0,
+                "title": "",
+                "content": "有人知道这本书要写多久嘛 每次一章一章的没有头啊",
+                "createTime": 1606056859000,
+                "userId": "120027921340",
+                "nickName": "許妖精",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120027924178_1583561485147/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "761832242807898112",
+                "type": 0,
+                "title": "",
+                "content": "一口气看完了。意犹未尽啊！本以为会完结在女主飞升到仙界，结果却是终结在修仙界，还是合体期。不过，在遗憾平息后，就想明白了作者为什么不再往下写了。女主的三部曲都是围绕着她不懈的付出而拥有丰沛的功德，因为这些功德，又得到了天道的眷顾，于是，女主一路顺遂。但女主却并未恣意消费天道的眷顾，而是不忘初心的一直积累功德。飞升修仙界后，不忘帮助地球上的修真者们，为他们提供大量的修真资源，提升他们飞升的机会。身在修仙界，依旧保留了扶弱除恶，互帮互助，共同进步的优良品质，让修仙界有了翻天覆地的变化。所以，第三部也就完结于修仙界的改变之后。",
+                "createTime": 1657061137000,
+                "userId": "800217545625",
+                "nickName": "忘流年从此虚度",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/800217542205_1603237162341/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,298 @@
+{
+    "bookInfo": {
+        "bookId": "21509014001551904",
+        "bookName": "帝妃她富敌三界",
+        "authorId": "5391779703971401",
+        "authorName": "绿依",
+        "categoryId": 30001,
+        "categoryName": "玄幻言情",
+        "subCategoryId": 30002,
+        "subCategoryName": "东方玄幻",
+        "description": "赶上穿越潮流，凌暖手握超级系统商城，创造出一个属于自己的新纪元。\n只是白捡来的便宜师父似乎不简单，师兄也是个个非同一般。\n大师兄：武林至尊（是个闷骚）\n二师兄：权倾朝野（时而抽风）\n三师兄：富可敌国（抠门得很）\n四师兄：博学多才（书呆一个）\n五师兄：医毒无双（很不靠谱）\n六师兄：匠术绝顶（就一根筋）\n小师妹：……\n众位师兄已经做好准备展现自己作为师兄的担当与责任，等着小师妹来抱大腿，却发现毫无用武之地，后来才知道，小师妹才是真正的大腿，连天都能捅破的那种。\n师尊：这么好的徒弟不能便宜了别人家的，徒弟，加把劲。\n看着这么一个个非同一般的师兄被某位爷整得凄凄惨惨戚戚，凌暖在心里暗暗为他们点蜡烛，然后忙着清点当前财富。",
+        "lastVipChapterId": "63964269351329404",
+        "lastVipChapterName": "第615章：大结局",
+        "lastVipChapterTime": 1658329436000,
+        "lastChapterId": "58805233555844236",
+        "lastChapterName": "第100章：大战戚风",
+        "lastChapterTime": 1639108169000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 845238,
+        "totalChapterCount": 615,
+        "collectCount": 1022,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 10003,
+                "tagName": "幻情"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-10-25上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "85"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1022"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1635474728101,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 41306078
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 1,
+        "fans": 191,
+        "redBean": 1830
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5391779703971401",
+        "authorName": "绿依",
+        "authorGuid": "802010381972",
+        "intro": "阅文集团大神作家，山木有兮木有枝，心悦君兮君可知",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a400309418/0",
+        "fans": 66481,
+        "total": 10,
+        "items": [
+            {
+                "bookId": "19089792601557704",
+                "bookName": "王妃虐渣超酷的"
+            },
+            {
+                "bookId": "16583791305954704",
+                "bookName": "炮灰帝凤有点邪"
+            },
+            {
+                "bookId": "7036260604114001",
+                "bookName": "惊世医妃"
+            },
+            {
+                "bookId": "5128511403469001",
+                "bookName": "逆天逃妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "57972276993702396",
+                "roleName": "凌暖",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "479"
+                },
+                "roleType": 5,
+                "popularCnt": 479,
+                "createTime": 1636005161000
+            },
+            {
+                "roleId": "57972280869227241",
+                "roleName": "修云司",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "154"
+                },
+                "roleType": 4,
+                "popularCnt": 154,
+                "createTime": 1636005175000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 36,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "693465151713640448",
+                "type": 0,
+                "title": "",
+                "content": "好看，希望能加更",
+                "createTime": 1640761152000,
+                "userId": "854039727998",
+                "nickName": "红袖书友16384524438544272",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "681572097251868672",
+                "type": 0,
+                "title": "",
+                "content": "章节乱七八遭",
+                "createTime": 1637925627000,
+                "userId": "379511404",
+                "nickName": "红袖书迷8",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/379510510_1561472436929/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3413_%E5%8D%8A%E8%BD%BD%E5%A2%A8%E9%A6%99.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "811693859637100544",
+                "type": 0,
+                "title": "",
+                "content": "什么时候还更文呀",
+                "createTime": 1668949073000,
+                "userId": "2559009681",
+                "nickName": "时光茹歌",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2559000789_1608999420590/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "内蒙古自治区"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

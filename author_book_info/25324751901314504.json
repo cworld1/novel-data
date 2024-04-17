@@ -1,0 +1,317 @@
+{
+    "bookInfo": {
+        "bookId": "25324751901314504",
+        "bookName": "吃瓜贵妃的自我修养",
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "封奕登基之前没有人想要嫁给他这个没存在感不受宠的皇子，登基之后后宫里塞满了朝中重臣的女儿。\n\n　　看着伤眼，处着心烦，宠幸她们都觉得自己脏了自己的龙体。\n\n　　他决定选一个性子泼辣嚣张跋扈爱吃醋的女子进宫，替他将这些垃圾全都打进冷宫。\n\n　　宋云昭穿到古代十四年，一直猥琐发育，苟着度日，就等着剧情开启，然后化身嚣张跋扈泼辣善妒的恶女，等到落选好挑一个夫婿逍遥快活的过日子。\n\n　　后来，宋云昭看着对着她笑的十分宠溺的陛下说道：“昭昭，过来。”\n\n　　宋云昭只觉得大事不妙，脚底发凉，狗皇帝面带温柔眼神冰冷，分明是想拿她当刀使！",
+        "lastVipChapterId": "75849292165729982",
+        "lastVipChapterName": "583：余生有你",
+        "lastVipChapterTime": 1702618280000,
+        "lastChapterId": "68644120746313572",
+        "lastChapterName": "035：宋云昭想给自己找了个好对象",
+        "lastChapterTime": 1676244125000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1492935,
+        "totalChapterCount": 583,
+        "collectCount": 23593,
+        "tag": [
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 30132,
+                "tagName": "皇后"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2023-01-10上架\n版权：潇湘书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "149"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "2.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1673859735814,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 46150346
+    },
+    "ticketInfo": {
+        "monthTicket": 1,
+        "gift": 49,
+        "fans": 1993,
+        "redBean": 91458
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 3,
+            "bookId": 25324751901314504,
+            "name": "半年榜",
+            "url": "/rank?tagId=-1000&rankId=NewBook_Ability",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP3"
+        },
+        {
+            "rankNum": 7,
+            "bookId": 25324751901314504,
+            "name": "红豆榜",
+            "url": "/rank?tagId=-1000&rankId=Book_HongDou",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP7"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5390267204882801",
+        "authorName": "暗香",
+        "authorGuid": "802003517205",
+        "intro": "阅文集团大神作家，遥知不是雪，为有暗香来。我相信坚持就会成功。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043267/0",
+        "fans": 116347,
+        "total": 18,
+        "items": [
+            {
+                "bookId": "29049656903062504",
+                "bookName": "步步生骄"
+            },
+            {
+                "bookId": "21292531108289404",
+                "bookName": "太子入戏之后"
+            },
+            {
+                "bookId": "19541280801382404",
+                "bookName": "嫁皇叔"
+            },
+            {
+                "bookId": "15615963605534504",
+                "bookName": "成亲后王爷暴富了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "70476207094938753",
+                "roleName": "宋云昭",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.5"
+                },
+                "roleType": 5,
+                "popularCnt": 14804,
+                "createTime": 1682585930000
+            },
+            {
+                "roleId": "70476147904911904",
+                "roleName": "封奕",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "6876"
+                },
+                "roleType": 4,
+                "popularCnt": 6876,
+                "createTime": 1682585710000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 836,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "850470394737197056",
+                "type": 0,
+                "title": "",
+                "content": "为什么其他平台都更了，这里还不更新？还有人在这平台吗？",
+                "createTime": 1678194119000,
+                "userId": "803015335395",
+                "nickName": "木木子12",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803015331561_1680154687148/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "广东"
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "837945397615656960",
+                "type": 0,
+                "title": "",
+                "content": "       看简介，有点意思哈。\n       当皇子时没人想嫁的男主，登基后，看着被朝中大臣塞满后宫的女人们，居然很清醒地认识到自己即将成为沾满污泥的播种机，很是愤懑。于是决定以恶制恶，找个最恶的女人把这一后宫的女人都踢进冷宫里。\n        穿越过来苟了十四年，一直在等待时机彻底掌控自己命运的女主，很“荣幸”的被男主选中当那把将后宫所有女人扫进冷宫的大扫帚。\n       女主为自己制定的横行霸道的梦想，被意外圈定在了一方高墙里。且看女主如何化悲愤为力量，在这一方天地里，横行霸道地挥舞着大扫帚把一宫女人都扫进冷宫。",
+                "createTime": 1675207927000,
+                "userId": "800217545625",
+                "nickName": "忘流年从此虚度",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/800217542205_1603237162341/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 26,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 22,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": "北京"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "837715267198648320",
+                "type": 0,
+                "title": "",
+                "content": "就很奇怪，男主都没出来呢，它就没了",
+                "createTime": 1675153060000,
+                "userId": "3254843034",
+                "nickName": "HX阔阔耐耐",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3254842071_1657497881336/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 5,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8516_%E4%B8%80%E5%AD%A3%E7%B9%81%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "宁夏回族自治区"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

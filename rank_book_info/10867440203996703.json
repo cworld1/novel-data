@@ -1,0 +1,317 @@
+{
+    "bookInfo": {
+        "bookId": "10867440203996703",
+        "bookName": "给我笑一下",
+        "authorId": "9927100904956201",
+        "authorName": "故人不识",
+        "categoryId": 30031,
+        "categoryName": "浪漫青春",
+        "subCategoryId": 30032,
+        "subCategoryName": "叛逆成长",
+        "description": "钟重年安安稳稳坐在墙头，两条细长白皙的长腿在日光下晃呀晃呀。\r\n顾轻舟在下面看着晃眼，他忍了会儿抬头冲上面的人克制地喊:“你下来，学校禁止翻墙。”\r\n“顾主任，你会处分我吗？”大大的眼睛在发光，女孩很期待地问。\r\n“好说好说，你先下来。”\r\n“顾主任！我求你处分我吧！”钟重年哀嚎一声。\r\n“好，处分处分，可以下来了？”\r\n钟重年从墙上“刺溜”一声滑下来，顾轻舟伸出长手去接住她。\r\n女孩的脸色突然一僵。\r\n“又怎么了？”顾主任颤抖着声音试问。\r\n“我……”钟重年回头看挂在墙头上的一块布料，风中，像一面小旗帜。\r\n顾轻舟:“……”\r\n甜宠，毒舌傲娇男vs软萌状况女，不是冤家不聚头，见到钟重年那刻顾轻舟就知道，他完了……",
+        "lastVipChapterId": "32839735804357290",
+        "lastVipChapterName": "番外二：顾轻舟篇",
+        "lastVipChapterTime": 1542384904000,
+        "lastChapterId": "31674128939689724",
+        "lastChapterName": "第六十三章:狼子野心",
+        "lastChapterTime": 1538103753000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 249952,
+        "totalChapterCount": 129,
+        "collectCount": 15253,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 10005,
+                "tagName": "青春"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-07-25上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "25"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.5"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1562739411598,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 22286234
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2,
+        "fans": 1356,
+        "redBean": 2679
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "9927100904956201",
+        "authorName": "故人不识",
+        "authorGuid": "120003042378",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2019-08-15/5d554eab91968.jpeg",
+        "fans": 2680,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "13141283303631704",
+                "bookName": "今天也是个磨人的"
+            },
+            {
+                "bookId": "9927134704963603",
+                "bookName": "请问我可以挂你的号吗"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "31557978269355034",
+                "roleName": "顾轻舟",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "889"
+                },
+                "roleType": 4,
+                "popularCnt": 889,
+                "createTime": 1537604230000
+            },
+            {
+                "roleId": "31558019592066923",
+                "roleName": "钟重年",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "706"
+                },
+                "roleType": 5,
+                "popularCnt": 706,
+                "createTime": 1537604384000
+            },
+            {
+                "roleId": "31558046187039031",
+                "roleName": "白芒",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "83"
+                },
+                "roleType": 2,
+                "popularCnt": 83,
+                "createTime": 1537604483000
+            },
+            {
+                "roleId": "31558094226618155",
+                "roleName": "宋宁予",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "79"
+                },
+                "roleType": 2,
+                "popularCnt": 79,
+                "createTime": 1537604663000
+            },
+            {
+                "roleId": "31558141745615944",
+                "roleName": "冯霖玲",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "22"
+                },
+                "roleType": 7,
+                "popularCnt": 22,
+                "createTime": 1537604839000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 525,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "249117884217884730",
+                "type": 0,
+                "title": "",
+                "content": "【请大家多多支持呐】\n新书需要大家的鼓励，票票，评论……\n鞠躬！\n最后希望大家看文开心♥开心最重要呐",
+                "createTime": 1534825323000,
+                "userId": "120003042378",
+                "nickName": "故人不识",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2019-08-15/5d554eab91968.jpeg",
+                "replyCount": 4,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "9927100904956201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "256822102064300063",
+                "type": 0,
+                "title": "",
+                "content": "【说一下更新时间】\n周五周六周日三天加更，每天四千到六千不等。然后一周内其他天数，每天在十一点到十二点半发文。\n笔芯♥",
+                "createTime": 1536662604000,
+                "userId": "120003042378",
+                "nickName": "故人不识",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2019-08-15/5d554eab91968.jpeg",
+                "replyCount": 1,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "9927100904956201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "333582751603294226",
+                "type": 0,
+                "title": "",
+                "content": "心疼宋宁于，明明是温文尔雅的人，结果却是这样",
+                "createTime": 1554959110000,
+                "userId": "2048736117",
+                "nickName": "安昊元",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2048733776_1596650011891/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

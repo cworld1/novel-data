@@ -1,0 +1,290 @@
+{
+    "bookInfo": {
+        "bookId": "13017347103192803",
+        "bookName": "我的黑月光女友",
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "【微信公众号：遇见吉祥读书会    微博：吉祥夜-hx     抖音：ningziningzi（宁家姐姐）】\r\n据说每个男人生命里都有一道白月光，娴静，美好，甜美着整个青春的回忆。粟融珵生命里的特么为毛是只黑月光？从五岁开始就在他的天空打雷下雨，将他从此后的人生都照得暗无天日，惨绝人寰……回忆？呵呵！回忆多少钱一斤？我给你钱，都卖给你好不好？\r\n奶奶：绾绾，粟融珵你还记得吗？他从国外回来了！\r\n辛绾：粟融珵谁呀？\r\n奶奶：就是小时候常常被你欺负的，粟家的老大。\r\n辛绾：切，那个哭包啊……\r\n话说从前有个哭包，后来他长大了……\r\n后来，我终于知道，原来怕的那个人是你，恼的那个人是你，讨厌的那个人是你，离不开的那个人也是你。从一开始，你就在我生命里，填满了时间的每一个缝隙。回忆，全都是你。",
+        "lastVipChapterId": "43759775800330305",
+        "lastVipChapterName": "第471章 结局（二）",
+        "lastVipChapterTime": 1583135628000,
+        "lastChapterId": "36420848137175640",
+        "lastChapterName": "第82章 绾绾~",
+        "lastChapterTime": 1555723692000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 638218,
+        "totalChapterCount": 468,
+        "collectCount": 256270,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20095,
+                "tagName": "一见钟情"
+            },
+            {
+                "tagId": 20049,
+                "tagName": "双向暗恋"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-02-28上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "64"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "26"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1550546987766,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 24153097
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 819,
+        "fans": 14847,
+        "redBean": 234383
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "authorGuid": "803010821665",
+        "intro": "阅文集团白金作家，作品《写给鼹鼠先生的情书》荣获第二届网络原创文学现实主义题材征文大赛优胜奖。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+        "fans": 200948,
+        "total": 17,
+        "items": [
+            {
+                "bookId": "27801520907672704",
+                "bookName": "病娇小师弟今天又在钓我"
+            },
+            {
+                "bookId": "19188324408052104",
+                "bookName": "我寄人间"
+            },
+            {
+                "bookId": "15616007105547604",
+                "bookName": "亲爱的请入剧"
+            },
+            {
+                "bookId": "13007251603734603",
+                "bookName": "旧曾谙"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "35299696856542477",
+                "roleName": "辛绾",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "11"
+                },
+                "roleType": 5,
+                "popularCnt": 105585,
+                "createTime": 1551543218000
+            },
+            {
+                "roleId": "35299662755526452",
+                "roleName": "粟融珵",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "8.8"
+                },
+                "roleType": 4,
+                "popularCnt": 87722,
+                "createTime": 1551543091000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 14105,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "367076770341716087",
+                "type": 0,
+                "title": "",
+                "content": "辛绾和粟融程两个人都是再了解彼此不过了，同样也是会为了对方可以牺牲一切的人，这样的爱，平淡却深厚，刻在骨子里，印在心上，牢不可破，应该是没有什么可以拆散他们。然而辛婉走了，珵宝再也找不到自己的妞妞了，我想辛绾应该是很信任粟融程的为人，那些粟融程和某女亲密的传闻她压根不信吧，虽然心里也会有过不舒服。但是面对粟家的低谷，粟融程要自己扛下去，她心里应该十分心疼，同时也自责自己没有能力帮助自己爱的珵宝，所以选择悄无声息的离开，自以为离开就可以帮助到珵宝，殊不知对于粟融程来说妞妞比任何都重要，无价之宝。\n        很多时候相爱的两个人不一定会相守，相守的两个人不一定是最爱，如果爱请深爱，不要去用自己的想法来揣测爱的人，不要以自己认为为他好的方式来牺牲，你可曾想过这是否是他所需?人生兜兜转转就那么些年，何不在在一起的时候好好守护，不要等到真的失去了才懊悔不已，回忆或许最后只能成为永久的回忆。\n        有时候觉得辛绾性格有点别扭，很多时候喜欢把问题藏在心里，不曾想过珵宝非常乐意为你排忧解难么？或许辛绾小时候就一直操心珵宝，久而久之养成习惯了，习惯真是可怕的东西。不过辛绾的闷和珵宝的闹真是天生一对。\n        其实柳承飞这个人也不算坏人了，从小父母离异，又摊上柳意这么个妈，也比较可怜了。他对辛绾做的那些真的很可恶，不过感觉的到他对辛绾的爱不会少，只是他用错了方式，爱而不得，比较极端。可怜之人必有可恨之处，哎。\n        \n       辛绾——我是不是该安静的离开?还是勇敢的留下来?\n\n       粟融程——爱要有你才完美!",
+                "createTime": 1562946453000,
+                "userId": "803003882327",
+                "nickName": "piaoyun00",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803003888204_1511000198387/100",
+                "replyCount": 37,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 663,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 8,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/2090_2275_beautiful.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "451713827998859264",
+                "type": 0,
+                "title": "",
+                "content": "感觉吉祥为了新坑匆匆收尾，意犹未尽。应该有很多之前想写的却没再交待就结尾了",
+                "createTime": 1583123145000,
+                "userId": "120008573642",
+                "nickName": "田蜜亮粉",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120008578200_1550401896021/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 12,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "448836094516199424",
+                "type": 0,
+                "title": "",
+                "content": "呵呵… 真是看得云里雾里。我有很认真的追书，但是作者并没有很认真的在写啊",
+                "createTime": 1582437040000,
+                "userId": "854015184157",
+                "nickName": "红袖书友15793218796735614",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 11,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 3,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

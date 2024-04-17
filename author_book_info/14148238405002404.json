@@ -1,0 +1,275 @@
+{
+    "bookInfo": {
+        "bookId": "14148238405002404",
+        "bookName": "我家影后，超凶萌！",
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "categoryId": 30008,
+        "categoryName": "仙侠奇缘",
+        "subCategoryId": 30011,
+        "subCategoryName": "现代修真",
+        "description": "（baby们～我终于又双叒开新坑了《去TM的虐文女主》无敌大爽文！专业打脸虐文里的渣男贱女！欢迎来看，入坑不亏哟～）\n天上掉下个小仙女，成了软弱可欺的十八线女明星云初朵。\r\n让她跑龙套？\r\nNO，演技不允许！\r\n想要潜规则？\r\nNO ，拳头不允许！\r\n 一不小心成为史上最年轻的大满贯影后，粉丝追着喊着要给她生猴子！\r\n向来冷傲矜贵、清心寡欲的林影帝在某个深夜连发两条微博，引爆整个娱乐圈。\r\n林之染：我媳妇又萌又软超可爱！\r\n林之染：我媳妇又苏又暖超贤惠！\r\n吃瓜群众：w(°ｏ°)w\r\n 粉丝：(╯°Д°)╯︵┻━┻\r\n腥风血雨过后，所有人纷纷猜测，到底是哪位仙女下了凡，才能打动那个冷冰冰的影帝大人？\r\n【打滚求收藏！推荐票！】",
+        "lastVipChapterId": "41410429763163527",
+        "lastVipChapterName": "大结局",
+        "lastVipChapterTime": 1574315657000,
+        "lastChapterId": "38864662015940651",
+        "lastChapterName": "第101章 人太多氧气会不足",
+        "lastChapterTime": 1565052018000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 626136,
+        "totalChapterCount": 547,
+        "collectCount": 261138,
+        "tag": [
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 30372,
+                "tagName": "影后"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30370,
+                "tagName": "影帝"
+            },
+            {
+                "tagId": 30121,
+                "tagName": "明星"
+            },
+            {
+                "tagId": 10009,
+                "tagName": "仙侠"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-07-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "63"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "26"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1562068584830,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 25671471
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 904,
+        "fans": 17407,
+        "redBean": 73521
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "authorGuid": "803035205101",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-09-11/5f5b02f1cb183.jpeg",
+        "fans": 37172,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "21121674001268404",
+                "bookName": "墨爷天天都想吃软饭"
+            },
+            {
+                "bookId": "17679014807876804",
+                "bookName": "觉醒吧虐文女主"
+            },
+            {
+                "bookId": "16334069504962704",
+                "bookName": "大佬争着要宠我"
+            },
+            {
+                "bookId": "7779600904171401",
+                "bookName": "快穿直播：攻略反派大BOSS"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 13076,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "414750444381011968",
+                "type": 0,
+                "title": "",
+                "content": "完结撒花🎆\n这本书真的太爱啦！\n它陪我度过一整个暑假\n每天盼星星盼月亮\n总希望能快些看到结局\n但现在真的超舍不得的\n每次看文时心情会随着情节的推动不断改变\n会因为感动而哭，因为有趣而笑\n舍不得呆萌可爱的朵朵（其实很憨）\n舍不得操心还胆小的富贵\n舍不得傲娇还是个醋王的柒爷\n舍不得唠叨但护短的曲母鸡\n舍不得送你有钱花的龙爷\n舍不得花痴但爱朵的温心\n舍不得有话直说还帮了柒爷的青怡\n舍不得凉的很惨的乔碧佳\n舍不得对朵朵好的导演\n舍不得乖巧听话的木木\n舍不得这本书里所有的人\n谢谢大鱼让我们见到了这么多有趣且活灵活现、个性鲜明的人物\n大鱼属实令我感动 为了按时更啊啊啊啊新 每天熬夜写文（快要秃头了估计）\n希望写完下一本书不会秃 但秃了也不慌 因为窝爱你❤！！！！！\n\n谢谢每个读者这几个月的陪伴，谢谢大家对大鱼的支持，敬请期待下一本书叭！爱你们❤",
+                "createTime": 1574310388000,
+                "userId": "2314411237",
+                "nickName": "长安是个菜鸡",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2314416663_1583499307643/100",
+                "replyCount": 13,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 64,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 6,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "371896263630716998",
+                "type": 0,
+                "title": "",
+                "content": "这个小说太搞笑了，女主淡定又彪悍，很多时候还很逗比，男主面对女主的时候很腹黑，好多时候还忽悠人家，也是个不简单的影帝！",
+                "createTime": 1564096253000,
+                "userId": "803005642536",
+                "nickName": "清丽淡雅0528",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803005645847_1500937396215/100",
+                "replyCount": 16,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 280,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/4512_2212_%E7%AB%AF%E5%8D%88%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "382155970983297090",
+                "type": 0,
+                "title": "上架订阅50书币的问题！",
+                "content": "「上架订阅50书币的问题！」不要再说我疯了！是一万字一章！！！\n\n更新了五万字！！！\n\n两天两夜都没睡的秃头作者，在线跪求订阅啊啊啊！！！(ಥ﹏ಥ)",
+                "createTime": 1566540477000,
+                "userId": "803035205101",
+                "nickName": "来一大碗糖",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-09-11/5f5b02f1cb183.jpeg",
+                "replyCount": 8,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 45,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5165_%E6%9A%97%E9%AD%87%E4%B9%8B%E8%9D%B6.png",
+                "authorId": "7779600904202701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

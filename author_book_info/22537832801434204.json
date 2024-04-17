@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "22537832801434204",
+        "bookName": "我的美人鱼不可能那么凶残！",
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "categoryId": 30083,
+        "categoryName": "短篇",
+        "subCategoryId": 30089,
+        "subCategoryName": "短篇小说",
+        "description": "总裁简森流落荒岛，一睁眼，身边是纯真懵懂的美人鱼。\r\n\r\n如题，薇薇的脑洞，慢更，调剂心情。",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "63951566180241548",
+        "lastChapterName": "16.完结",
+        "lastChapterTime": 1658750059000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 16379,
+        "totalChapterCount": 17,
+        "collectCount": 53,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 30151,
+                "tagName": "精灵"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 10275,
+                "tagName": "短篇"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-06-27上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "1.6"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "53"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1656589997055,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 43133634
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 9,
+        "redBean": 30
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3641213504013601",
+        "authorName": "荆棘之歌",
+        "authorGuid": "800112729270",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-06-30/89c4b0df90822ab9503db8b90b013e8aeQn8voUc4SX11U5.jpg",
+        "fans": 6987,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "23668280201484904",
+                "bookName": "宋檀记事"
+            },
+            {
+                "bookId": "22537847201444604",
+                "bookName": "妻子的复仇：一女二卖"
+            },
+            {
+                "bookId": "22537839101439204",
+                "bookName": "了不起的魔法"
+            },
+            {
+                "bookId": "21953280608166504",
+                "bookName": "兔子丢了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 20,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "763116257594769408",
+                "type": 0,
+                "title": "",
+                "content": "资本家人设也很有意思 ",
+                "createTime": 1657367270000,
+                "userId": "900002244286",
+                "nickName": "澜聿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/900002249454_1657177959568/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "763116100333469696",
+                "type": 0,
+                "title": "",
+                "content": "白切黑什么的简直太有爱了",
+                "createTime": 1657367233000,
+                "userId": "900002244286",
+                "nickName": "澜聿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/900002249454_1657177959568/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "763115984419684352",
+                "type": 0,
+                "title": "",
+                "content": "啊啊啊啊啊啊啊啊！！！！好看，太好看了 ！我就喜欢这种搞事型的人 ",
+                "createTime": 1657367205000,
+                "userId": "900002244286",
+                "nickName": "澜聿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/900002249454_1657177959568/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

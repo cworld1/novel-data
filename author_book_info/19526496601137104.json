@@ -1,0 +1,287 @@
+{
+    "bookInfo": {
+        "bookId": "19526496601137104",
+        "bookName": "仙风药令",
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "她是古医家族最神秘的存在，却丧命在最亲的人手中。\n一朝重生，她成了生活在食物链最底层的楚千棠。\n情不知所起，一往而深。\n身娇体弱的贵公子沐宸，怎么也没想到，他本只想逗逗那小子，却不想竟让自己一步步的深陷……\n当他已经决定冒天下之大不韪时，却发现他竟是她……\n文中片段：\n陌上人如玉，公子世无双。\n他神色淡淡，步伐从容，白衣飘逸，墨发飞扬，身上自然而然的散发着一股仙风贵气，让她恍惚间有种错觉，他不是走在山坡下的杂草树木中，而是从九天乘风而下，漫步在云端之中。",
+        "lastVipChapterId": "56961041288376778",
+        "lastVipChapterName": "第726章 成亲之日",
+        "lastVipChapterTime": 1632238264000,
+        "lastChapterId": "53151654673356537",
+        "lastChapterName": "第87章 不堪一击",
+        "lastChapterTime": 1619366417000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 740561,
+        "totalChapterCount": 726,
+        "collectCount": 14705,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20050,
+                "tagName": "女扮男装"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 30156,
+                "tagName": "神医"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-03-10上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "74"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.5"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1615427679289,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 36825653
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 20,
+        "fans": 2374,
+        "redBean": 42864
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "authorGuid": "1518932830",
+        "intro": "阅文集团大神作家，作者文笔老练，文风恢弘大气，将人引入一个她所编织的世界之中，巧妙的勾起无数读者心弦和热捧。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a6002330/0",
+        "fans": 38656,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "13129774004140803",
+                "bookName": "药门仙医"
+            },
+            {
+                "bookId": "3675832204934203",
+                "bookName": "天医凤九"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 737,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "594256862011064320",
+                "type": 0,
+                "title": "",
+                "content": "第一个，老粉来咯，看完两遍起凤九，期待新文！么么哒么么哒，等了好久终于来了啊，泪目…",
+                "createTime": 1617108053000,
+                "userId": "120144476427",
+                "nickName": "红袖书豆沙",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120144474794_1606784538296/100",
+                "replyCount": 17,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 38,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "600141322560667648",
+                "type": 0,
+                "title": "",
+                "content": "未完待续，就这?就没了?一朝失足，等更万年啊，失策了，没先看一下目录",
+                "createTime": 1618511018000,
+                "userId": "120138094063",
+                "nickName": "沈苜枔",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120138097734_1636026850086/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 19,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "633103400199979008",
+                "type": 0,
+                "title": "",
+                "content": "作为大大三本小说都看了的我，趁着大大还没写完，容我提个小小要求：\n1.不虐，男女主无误会\n2.主角智商一直在线\n3.双洁\n4.不啰嗦\n其他的大大想怎么样就怎么样，想怎么写就怎么写，想写多少就写多少，我都追到底。",
+                "createTime": 1626369789000,
+                "userId": "854025831965",
+                "nickName": "星云千玥",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854025839930_1613321653386/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

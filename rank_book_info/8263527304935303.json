@@ -1,0 +1,321 @@
+{
+    "bookInfo": {
+        "bookId": "8263527304935303",
+        "bookName": "恰似寒光遇骄阳",
+        "authorId": "3004974201061301",
+        "authorName": "囧囧有妖",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "一觉醒来，她看着镜子里的自己， 爆炸头血腥纹身脸化得像鬼，多看一秒都辣眼睛。\n重生前，她另有所爱，一心逃离，对他恨之入骨。\n上一世脑子被门夹了放着绝色老公不要，被渣男贱女所害，被最信任的闺密洗脑，落了个众叛亲离的下场。\n这一世，任各路牛鬼蛇神处心积虑巴不得她离婚让位，不好意思，本小姐智商上线了！",
+        "lastVipChapterId": "67080469853817337",
+        "lastVipChapterName": "独家新番外上线潇湘书院啦",
+        "lastVipChapterTime": 1669950548000,
+        "lastChapterId": "22867457689997465",
+        "lastChapterName": "第69章 全都误会了",
+        "lastChapterTime": 1508959869000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2612501,
+        "totalChapterCount": 2505,
+        "collectCount": 1338374,
+        "tag": [
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 30402,
+                "tagName": "钢铁直男"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-08-15上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "261"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "134"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1679569656444,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20304305
+    },
+    "ticketInfo": {
+        "monthTicket": 1,
+        "gift": 11905,
+        "fans": 395730,
+        "redBean": 3390242
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 10,
+            "bookId": 8263527304935303,
+            "name": "完结榜",
+            "url": "/rank?tagId=-1000&rankId=Finish_Gold",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP10"
+        },
+        {
+            "rankNum": 16,
+            "bookId": 8263527304935303,
+            "name": "红豆榜",
+            "url": "/rank?tagId=-1000&rankId=Book_HongDou",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP16"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004974201061301",
+        "authorName": "囧囧有妖",
+        "authorGuid": "3271908627",
+        "intro": "阅文集团白金作家，著有多部畅销小说，且每一部都已经签约出版，成绩斐然。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7909386/0",
+        "fans": 869727,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "22244524601367604",
+                "bookName": "月亮在怀里"
+            },
+            {
+                "bookId": "19118954508500004",
+                "bookName": "礼物"
+            },
+            {
+                "bookId": "14156142405054404",
+                "bookName": "余生有你，甜又暖"
+            },
+            {
+                "bookId": "11410159504961703",
+                "bookName": "你是我年少的小欢喜"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "27865542262050860",
+                "roleName": "司夜寒",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "201"
+                },
+                "roleType": 4,
+                "popularCnt": 2014461,
+                "createTime": 1523848834000
+            },
+            {
+                "roleId": "27865542245273219",
+                "roleName": "叶绾绾",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "110"
+                },
+                "roleType": 5,
+                "popularCnt": 1099991,
+                "createTime": 1523848834000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 498071,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "463703978513924096",
+                "type": 0,
+                "title": "",
+                "content": "我们看文都站在上帝视角，但你们有没有想过站在配角和主角的角度，来看看他们是怎么想的，纪修染为绾绾付出很多甚至是生命，但九爷也一样啊，凭什么你们只看到修染的付出，看不到九爷的？？？？爱情本来讲究的就是随心，三个人之间总会有一个人得不到，他既然选择要爱，他就已经做好了承受最后结果的准备，修染是心甘情愿的啊。我们只能读他们的故事，却不能评判任何人的对错，每一个人的付出多少都是看你们怎么想的，我们内心都不一样，也许觉得九爷付出的多，也许觉得修染付出的多，无论那种情况绾绾最终选择的是九爷，而修染也是甘愿退出，这就够了，他们的人生他们自己选择好吧，我们只能观看，不能批判任何一个人！！\n    对于这本小说，写文的是作者，你们可以提建议，但是记住，仅限于提建议！为什么有些人的建议，说着说着语气越来越重了？不是说你不能提，不是说不让你们评论，但能不能评论的时候语气稍好一点？？一个小说的评论区能吵起来，我也是服了....希望大家好好看文，带着脑子看，不要拿半截就开跑，不要看个小说想仇人见面一样，ok？？",
+                "createTime": 1585981820000,
+                "userId": "2950311545",
+                "nickName": "是纪修染a",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2950310950_1591432022178/100",
+                "replyCount": 161,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 744,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "559515336609824768",
+                "type": 0,
+                "title": "",
+                "content": "【希望看完友善评论】我也不知道这是看了多少遍了，之前有个号，但是找不到了，所以这个号是个新号，在红袖里面翻翻找找，最后还是决定再看一次恰似。看到一半，好奇大家在评论区里面写了什么，就来看看，结果入眼的全是“不好看”“剧情拖沓”等等，不知道大家看文是抱着什么心态，也不知道为什么你们会有那么多怨言。\n     囧囧塑造的每一个角色都是有血有肉的，每一个场景画面感极强，文笔也很好，描写九爷时，感觉就好像我自己见到了一样。\n     书的开篇有好多好多伏笔（都是看了很多遍才一一找出来的），后面又是一个一个的填坑，逻辑也很清晰，文章脉络也很明了。\n     然后是人物感情的塑造。九爷，修染，羡羽对无忧（绾绾）的爱真的很深沉，他们都给了无忧最好的，只不过最后无忧选择的九爷罢了，没有谁付出的比谁多。无名，慕凡两个哥哥对无忧也是付出了很多，很暖心，很治愈。\n    从华国到独立洲之间的衔接也是自然的，没有生硬的扯到独立洲。\n     全文没有狗血的女配影响男女主感情，没有毫无逻辑的剧情，每个剧情的来源都是有据可依的，每个人物内心的改变都是一点点一点点来的，没有一下就改变了的。囧囧很耐心地塑造这每一个人物，给予了他们每个人生命。\n     这是一篇好的文，不然我也不会看这么多遍，我的心情会随书中人物的遭遇大起大落，会哭，会笑，会生气，会无奈，它就是我心头的白月光！无可替代。\n（我是想到哪儿就写到哪儿，没有逻辑，纯粹是看评论气到了才想来说说自己的感受，不喜勿喷，谢谢）",
+                "createTime": 1608825028000,
+                "userId": "3546331906",
+                "nickName": "别杠我杠就是你错",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3546334716_1608821947245/100",
+                "replyCount": 36,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 193,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "383066580503822395",
+                "type": 0,
+                "title": "",
+                "content": "九爷，拜拜……一路看过来，有不少翻墙的，甚至还有说你不好的，拿你和纪修染比的，什么人都有，但是我一直都是站在你这一边的，娱乐圈翻墙的人也不少，可我就只喜欢王俊凯一个，从开始到未来只为王俊凯，只为王俊凯！你也是一样，我这本书里只喜欢你",
+                "createTime": 1566762508000,
+                "userId": "3369401949",
+                "nickName": "读者1300323317761384448",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3369401956_1550238462730/100",
+                "replyCount": 48,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 566,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

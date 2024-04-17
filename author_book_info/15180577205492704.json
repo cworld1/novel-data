@@ -1,0 +1,342 @@
+{
+    "bookInfo": {
+        "bookId": "15180577205492704",
+        "bookName": "柏舟不思今",
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "俗话说得好，兔子不吃窝边草。\r\n江医生一本正经：“瞎说，这明明是近水楼台先得月。”\r\n\r\n*\n他是年轻有为的心理学医生江柏舟，擅长洞察人心，冷傲矜贵，在娶了青梅竹马的聂岑今后，却只热衷于怎么秀恩爱。\r\n\r\n接连好几天，岑今收到亲朋好友对他这‘可耻‘行为的强烈控诉，终是忍无可忍：“话说……我们就不能低调点吗？”\r\n\r\n江医生轻抬眼皮，语气懒散：“不能，不服，就让他们憋着。”\r\n\r\n\r\n*\n后来，一向温婉可人的岑今扬言要离婚，江医生敛了敛眸光：“离婚？”\r\n\r\n聂岑今拉着小脸，非常严肃且认真：“嗯，离婚。”\r\n\r\n坐在沙发上的江医生稍稍迟疑了一下，深邃的眸底泛着丝丝笑意，缓缓起身走过去揽住她的腰，另一只手轻轻抚摸着她越渐圆润的肚子：“乖，我们大白天不做梦。”\n【双向暗恋的甜宠文，1V1，今天你缺糖吗？】",
+        "lastVipChapterId": "49584096191945629",
+        "lastVipChapterName": "086：大结局2",
+        "lastVipChapterTime": 1605049249000,
+        "lastChapterId": "41511571696355223",
+        "lastChapterName": "112：喜欢的人是你啊！",
+        "lastChapterTime": 1575424509000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1035450,
+        "totalChapterCount": 494,
+        "collectCount": 44455,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20088,
+                "tagName": "青梅竹马"
+            },
+            {
+                "tagId": 20311,
+                "tagName": "破镜重圆"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-10-24上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "104"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "4.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1574591273883,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 26707944
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 60,
+        "fans": 10060,
+        "redBean": 43021
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "authorGuid": "854000517740",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+        "fans": 44736,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25639927501415304",
+                "bookName": "炙婚久骄"
+            },
+            {
+                "bookId": "24920432001880504",
+                "bookName": "恃婚生骄"
+            },
+            {
+                "bookId": "22921404701234304",
+                "bookName": "闪婚后，首富老公抱着我不撒手"
+            },
+            {
+                "bookId": "20831154108229704",
+                "bookName": "夫人是个小撩精"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "40908300858405742",
+                "roleName": "江柏舟",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.9"
+                },
+                "roleType": 4,
+                "popularCnt": 18663,
+                "createTime": 1572436896000
+            },
+            {
+                "roleId": "40908329295783854",
+                "roleName": "聂岑今",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "7928"
+                },
+                "roleType": 5,
+                "popularCnt": 7928,
+                "createTime": 1572437002000
+            },
+            {
+                "roleId": "40908389978980084",
+                "roleName": "叶聆然",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "3105"
+                },
+                "roleType": 7,
+                "popularCnt": 3105,
+                "createTime": 1572437228000
+            },
+            {
+                "roleId": "40908365803004863",
+                "roleName": "云祈",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "2663"
+                },
+                "roleType": 6,
+                "popularCnt": 2663,
+                "createTime": 1572437138000
+            },
+            {
+                "roleId": "43371799610100715",
+                "roleName": "南迦衍",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "1286"
+                },
+                "roleType": 6,
+                "popularCnt": 1286,
+                "createTime": 1581614144000
+            },
+            {
+                "roleId": "41025055517814536",
+                "roleName": "陆时疏",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "1233"
+                },
+                "roleType": 7,
+                "popularCnt": 1233,
+                "createTime": 1572871841000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 2313,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 3,
+                "isYearMember": 1,
+                "commentId": "441681477625905152",
+                "type": 0,
+                "title": "",
+                "content": "打卡报到，已经加了群啦。\n嗯，这本书真的超好看，表示还在追的路上，但事先已经全订啦，真的超喜欢柏舟这样的闷骚男主哈哈，很难碰到这么对我口味的男神呀。超级羡慕青梅竹马诶，可能就是因为自己没有啊，哈哈～(￣▽￣～)~。\n继续追文，先冒个泡，混个眼熟，然后追文去咯。书超好看，超好看，超好看(｡･ω･｡)ﾉ♡，超级喜欢，表个白。💞💞💞💕💕💕♥️♥️♥️❤️❤️❤️💖💖💖",
+                "createTime": 1580731247000,
+                "userId": "120007842302",
+                "nickName": "楚衿衿",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120007847706_1711350223530/100",
+                "replyCount": 10,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 42,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super_year.png",
+                "membershipImgRatio": 2.333,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1375_2132_%E4%B8%83%E5%A4%95%E4%BC%9A%E5%91%98%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 1,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "404954379205148672",
+                "type": 0,
+                "title": "",
+                "content": "不能送礼物，我只能妥妥的趴地板了！",
+                "createTime": 1571974824000,
+                "userId": "802019449238",
+                "nickName": "鲁四小姐本尊",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/802019448127_1596277887042/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 40,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "404586073654820864",
+                "type": 0,
+                "title": "",
+                "content": "我是第一个沙发耶",
+                "createTime": 1571887013000,
+                "userId": "1733809063",
+                "nickName": "时瑾笙",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1733808956_1550594339730/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 10,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1049_%E9%80%A2%E8%80%83%E5%BF%85%E8%BF%87.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

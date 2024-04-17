@@ -1,0 +1,514 @@
+{
+    "bookInfo": {
+        "bookId": "7317963003730403",
+        "bookName": "喜上眉头",
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "——新书《长安好》正在连载中——\r\n\r\n大靖朝一夫一妻典范，被誉为佳话的帝后，死后齐齐重生了。  \r\n这是一个重生的皇帝陛下想替小皇后择良配、拉红线，可拉着拉着却又拉回到了自己身上的故事……",
+        "lastVipChapterId": "58089599779974174",
+        "lastVipChapterName": "新书《吉时已到》已发布",
+        "lastVipChapterTime": 1636442223000,
+        "lastChapterId": "33161049825190779",
+        "lastChapterName": "上架前的一些唠叨",
+        "lastChapterTime": 1563527252000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1970435,
+        "totalChapterCount": 951,
+        "collectCount": 36014,
+        "tag": [
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20334,
+                "tagName": "双重生"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70422,
+                "tagName": "爆笑"
+            },
+            {
+                "tagId": 30132,
+                "tagName": "皇后"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-10-11上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "197"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.6"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1552279291174,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 19277714
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 58,
+        "fans": 6276,
+        "redBean": 49791
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3635630704914401",
+        "authorName": "非10",
+        "authorGuid": "800162189445",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2022-11-26/1af003b506f1a11d4dda16594f4ab0323QNnKcd30ptpNBP.jpg",
+        "fans": 14931,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "22455842509184904",
+                "bookName": "长安好"
+            },
+            {
+                "bookId": "18766731108345204",
+                "bookName": "吉时已到"
+            },
+            {
+                "bookId": "11520050703600603",
+                "bookName": "如意事"
+            },
+            {
+                "bookId": "3150632801957202",
+                "bookName": "金夫"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "32273625850489347",
+                "roleName": "张眉寿",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.3"
+                },
+                "roleType": 5,
+                "popularCnt": 12761,
+                "createTime": 1540270226000
+            },
+            {
+                "roleId": "32641480947346190",
+                "roleName": "祝又樘",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.1"
+                },
+                "roleType": 1,
+                "popularCnt": 10703,
+                "createTime": 1541640592000
+            },
+            {
+                "roleId": "33246049126749565",
+                "roleName": "阿鹿",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "4090"
+                },
+                "roleType": 1,
+                "popularCnt": 4090,
+                "createTime": 1543892784000
+            },
+            {
+                "roleId": "33997328014013547",
+                "roleName": "阿荔",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "3469"
+                },
+                "roleType": 2,
+                "popularCnt": 3469,
+                "createTime": 1546691516000
+            },
+            {
+                "roleId": "33246077298248703",
+                "roleName": "张秋池",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "1554"
+                },
+                "roleType": 2,
+                "popularCnt": 1554,
+                "createTime": 1543892889000
+            },
+            {
+                "roleId": "33246080519720997",
+                "roleName": "张敬张三叔",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "947"
+                },
+                "roleType": 2,
+                "popularCnt": 947,
+                "createTime": 1543892901000
+            },
+            {
+                "roleId": "38171209447310657",
+                "roleName": "清羽",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "944"
+                },
+                "roleType": 2,
+                "popularCnt": 944,
+                "createTime": 1562240436000
+            },
+            {
+                "roleId": "37919651904798967",
+                "roleName": "徐婉兮",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "821"
+                },
+                "roleType": 2,
+                "popularCnt": 821,
+                "createTime": 1561303311000
+            },
+            {
+                "roleId": "33246054747646511",
+                "roleName": "王守仁",
+                "bookRank": 9,
+                "bookRankStr": "09",
+                "popular": {
+                    "unit": "",
+                    "count": "568"
+                },
+                "roleType": 1,
+                "popularCnt": 568,
+                "createTime": 1543892805000
+            },
+            {
+                "roleId": "34368575598926813",
+                "roleName": "张老太太",
+                "bookRank": 10,
+                "bookRankStr": "10",
+                "popular": {
+                    "unit": "",
+                    "count": "320"
+                },
+                "roleType": 2,
+                "popularCnt": 320,
+                "createTime": 1548074521000
+            },
+            {
+                "roleId": "33246084009712238",
+                "roleName": "张峦",
+                "bookRank": 11,
+                "bookRankStr": "11",
+                "popular": {
+                    "unit": "",
+                    "count": "296"
+                },
+                "roleType": 2,
+                "popularCnt": 296,
+                "createTime": 1543892914000
+            },
+            {
+                "roleId": "33827085459682066",
+                "roleName": "张清奇",
+                "bookRank": 12,
+                "bookRankStr": "12",
+                "popular": {
+                    "unit": "",
+                    "count": "263"
+                },
+                "roleType": 2,
+                "popularCnt": 263,
+                "createTime": 1546057313000
+            },
+            {
+                "roleId": "40911644221997337",
+                "roleName": "昭丰帝",
+                "bookRank": 13,
+                "bookRankStr": "13",
+                "popular": {
+                    "unit": "",
+                    "count": "253"
+                },
+                "roleType": 2,
+                "popularCnt": 253,
+                "createTime": 1572449351000
+            },
+            {
+                "roleId": "33997329641719856",
+                "roleName": "棉花",
+                "bookRank": 14,
+                "bookRankStr": "14",
+                "popular": {
+                    "unit": "",
+                    "count": "250"
+                },
+                "roleType": 2,
+                "popularCnt": 250,
+                "createTime": 1546691522000
+            },
+            {
+                "roleId": "33246088568220069",
+                "roleName": "宋氏",
+                "bookRank": 15,
+                "bookRankStr": "15",
+                "popular": {
+                    "unit": "",
+                    "count": "158"
+                },
+                "roleType": 2,
+                "popularCnt": 158,
+                "createTime": 1543892932000
+            },
+            {
+                "roleId": "43509118304496384",
+                "roleName": "洗碗夫妇",
+                "bookRank": 16,
+                "bookRankStr": "16",
+                "popular": {
+                    "unit": "",
+                    "count": "103"
+                },
+                "roleType": 2,
+                "popularCnt": 103,
+                "createTime": 1582125697000
+            },
+            {
+                "roleId": "33246085615198423",
+                "roleName": "宋锦娘",
+                "bookRank": 17,
+                "bookRankStr": "17",
+                "popular": {
+                    "unit": "",
+                    "count": "91"
+                },
+                "roleType": 2,
+                "popularCnt": 91,
+                "createTime": 1543892920000
+            },
+            {
+                "roleId": "33246061744056430",
+                "roleName": "枸杞",
+                "bookRank": 18,
+                "bookRankStr": "18",
+                "popular": {
+                    "unit": "",
+                    "count": "75"
+                },
+                "roleType": 2,
+                "popularCnt": 75,
+                "createTime": 1543892831000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 12111,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "530895525310955522",
+                "type": 0,
+                "title": "",
+                "content": "怎么说呢。这本书是作为一个鸽子都忍不住写长评夸夸的。\n \n背景是明朝皇帝朱佑樘与其唯一的妻子张皇后，很早以前我就叹过这对封建王朝里难得的一夫一妻，没想到真的有大大写了出来，用的是现在满大街都是的重生梗，却依然看得我抚掌大赞。\n \n第一个想夸夸的是蓁蓁。\n蓁蓁的容貌品行和性情完全长在我审美上。\n就是很喜欢这种可爱直率大气从容果断有主见又不矫揉造作的姑娘，没有在上一世乱七八糟的宫闱间消磨了心气，反而练出了一身沉稳玲珑的待人处事…反正就是，很喜欢。\n \n第二个想吹吹的就是太子\n太子也完全长在我审美上，我当时看明朝历史书的时候就思量着，朱佑樘怎么活这么短。\n好耶，多谢大大圆我心愿，有重活一世的蓁蓁在，他们都得长命百岁，嘿嘿嘿。\n \n第三个就是阿鹿了嗷。\n阿鹿是我全书最心疼的角色没有之一，出生即被种蛊而不得视物，上一世更遭满门被屠的剜心之痛，最终也是为了蓁蓁而舍了性命去做祭阵之人。他即使满身伤痕也在为了别人而来。\n幸好下一世有重活的蓁蓁在。让少年得以一睹这与他姿容相衬的绚烂人间 \n \n我无比钟意这本书里头每一个可爱的人。\n沉冤得以昭雪，旧怨得以尽释，佞臣得以伏诛，诤臣得明君以佐，错失的良缘得以再续，我总是听旁人说be比he更印象深刻其意难平，但是《喜上眉头》的欢喜结局不牵强也不生硬，解释到了每一个伏笔，撑起了整本书颇庞大的格局，里面每一个心怀善意的人物都值得结局里的灿烂盛世。\n \n所感太多，难以尽表，谨希望平行时空里的蓁蓁与祝靓仔，婉兮与谢世叔，箐箐与宋表哥，锦儿与张大哥，阿荔与棉花，眉娴与齐将军，以及因为太靓还没找到对象的阿鹿，意无忧，心欢喜，不相忘，长相见，诸事顺遂，万事胜意。\n \n最后一句吹吹作者大大。祝身体健康，一定要照顾好自己。\n \n\n",
+                "createTime": 1602001533000,
+                "userId": "2747832934",
+                "nickName": "宴惊鸿.",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2747839344_1601569982022/100",
+                "replyCount": 10,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 42,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 7,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "468527171670114304",
+                "type": 0,
+                "title": "",
+                "content": "这本书神了！！！简直爱死了，背景是明朝，本书男主是祝又樘是明孝宗朱佑憆，都是皇帝的第三个儿子，女主是张眉寿是孝康静皇后张氏，书里还有历史上她的父亲都叫张峦，还有书里第一章说的那个皇上是历史上的朱厚熜，历史上也是说打压张皇后，为了报复杀死了她弟弟。而且历史上朱佑憆和张皇后是一夫一妻制！！！！哇居然是以历史为大背景的小说！！！为作者大大打call",
+                "createTime": 1587131759000,
+                "userId": "120133047159",
+                "nickName": "亦亦y",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120133044964_1582271426719/100",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 81,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "461231452630286336",
+                "type": 0,
+                "title": "",
+                "content": "人生总会有许多的遗憾。若能重新来过，是幸，亦是缘，就如即安和蓁蓁。前世因误会错过，幸而还有今生，可以去弥补，去放肆地敞开心扉。历经繁华过后才会发现，最合适的，还是最初的那个人。上下五千年的历史，我最喜秦和宋，宋朝的历史，我又最喜欢的就是孝宗皇帝和张皇后这一时期，不仅是政治，更是那后宫虚设一浮生，东风不换三千宠。弥足珍贵。\n从《金夫》到《喜上眉头》，我爱了作者大大许久，最喜欢大大文笔，闲适随意，轻松有趣，娓娓道来，尤其是心理描写！另外，感觉大大的历史功底也特别深厚，行文间毫无违和感，每个人物的描写也都是有血有肉，活灵活现，性格鲜明。\nps：陈寅的番外我看得都要哭了，好心疼阿鹿。",
+                "createTime": 1585392324000,
+                "userId": "119102569152",
+                "nickName": "季漫清",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119102565832_1581760841343/100",
+                "replyCount": 9,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 72,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3413_%E5%8D%8A%E8%BD%BD%E5%A2%A8%E9%A6%99.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

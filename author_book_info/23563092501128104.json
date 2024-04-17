@@ -1,0 +1,305 @@
+{
+    "bookInfo": {
+        "bookId": "23563092501128104",
+        "bookName": "寒门大俗人",
+        "authorId": "17415069604554001",
+        "authorName": "画笔敲敲",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "　　对于生于末世的双系强者时柳来说，没什么比好好活下去更重要了，所以，当被雷劈到古代边关，成了寒门军户之女李五丫时，她适应良好，很快就入乡随俗当起了古代人。\n\n　　活着嘛，就得有点追求。\n\n　　衣：绫罗绸缎、珠宝首饰都要有，不过分吧。\n\n　　食：每天来点燕窝鱼翅、海参鲍鱼，不过分吧。\n\n　　住：亭台楼阁、轩榭廊舫，竹林幽幽、鸟语花香，自家就是风景区，不过分吧。\n\n　　行：香车宝马不可少，不过分吧。\n\n　　银子花不完，工作不用上，老公孩子热炕头，这日子......完美！\n\n　　生活不易，必须好好爱自己，时柳决心要将在末世没经历、没享受过的一切都体验一遍。\n\n　　\n　　可惜，现实狠狠给了她一巴掌。\n\n　　边关苦寒，连年战乱，别说山珍海味，想要吃饱饭都不容易，生命还时常遭受威胁。\n\n　　得，撸起袖子奋斗吧！\n\n　　时柳奉行一句话：只要不挡我的路，你好我好大家好，否则！！！！\n\n　　想要地位稳，做人就得豪横点，人生得意需尽欢，做个肤浅又快乐的俗人吧。\n",
+        "lastVipChapterId": "74473320522761514",
+        "lastVipChapterName": "调换的人生3",
+        "lastVipChapterTime": 1700536755000,
+        "lastChapterId": "64489085632306383",
+        "lastChapterName": "第35章，失踪",
+        "lastChapterTime": 1697259826000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1502617,
+        "totalChapterCount": 441,
+        "collectCount": 3950,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-06-20上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "150"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "3950"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1657797491624,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 44315722
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 124,
+        "fans": 1427,
+        "redBean": 47521
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 10,
+            "bookId": 23563092501128104,
+            "name": "热销榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_HotSale",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP10"
+        },
+        {
+            "rankNum": 18,
+            "bookId": 23563092501128104,
+            "name": "人气榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_BookPopularity",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP18"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "17415069604554001",
+        "authorName": "画笔敲敲",
+        "authorGuid": "854013329810",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 5859,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "17415658605564304",
+                "bookName": "寒门嫡女有空间"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "68963695841157515",
+                "roleName": "时芙昕",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.7"
+                },
+                "roleType": 5,
+                "popularCnt": 16752,
+                "createTime": 1676951387000
+            },
+            {
+                "roleId": "68499678311919719",
+                "roleName": "楚曜",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "5072"
+                },
+                "roleType": 4,
+                "popularCnt": 5072,
+                "createTime": 1675222787000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1258,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "869417554417680384",
+                "type": 0,
+                "title": "",
+                "content": "更到今天男主不光不喜欢女主还嫌弃女主家世差、嫌弃女主长得丑，一心求娶家世好的姑娘还跟男二面前说女主坏话。不太懂这本书想表达的三观，男女主找伴侣就为了利益。更别说姐姐为了嫁国公甘愿当生子工具生三个儿子。别跟我讲古代现代，因为这是给当代姑娘看的标着女强的女频小说啊…想琢磨纪实小说我也不来这频道不是吗，这本书高开低走了。",
+                "createTime": 1682711474000,
+                "userId": "803011755819",
+                "nickName": "粘粘粘粘粘子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803011755041_1674269978243/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 15,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "荷兰"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "869421788223635456",
+                "type": 0,
+                "title": "",
+                "content": "数了数男主的光辉奇葩事迹：为了好家世求娶第一美人东方，东方被设计赐婚了来求他他嫌东方中计了太蠢；贪女主店铺红利要分红，美其名曰帮女主解决麻烦然而最后都是女主自己解决的，女主哥被抓还卖了五万两的消息让女主去对付会下蛊顶尖高手（也是他的敌对方），他还很期待；为了自保拉女主跳千米悬崖，还倒打一耙他是为了救女主，承诺帮女主查仇人最后还是女主自己解决的；女主看上男二制造机会，他跟男二说女主是披着羊皮的狼；参加宴会心理活动是女主【长那样】都能引诱男二，他能不能也用自己的帅脸引诱高门贵女呢。除此之外就不提每次见面对女主各种嘲笑嘴欠讥笑不屑的态度…请告诉我这样的男人，怎么能是男主为什么让他当男主？？今天更新的男二保皇派跟女主三观不合，你俩才认识一年不到你就当他面议论皇上？一百万字了我真的不想看她跟楚曜凑一起啦",
+                "createTime": 1682712484000,
+                "userId": "803011755819",
+                "nickName": "粘粘粘粘粘子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803011755041_1674269978243/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "荷兰"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "852170663598555136",
+                "type": 0,
+                "title": "",
+                "content": "我觉得女主每次一遇到男主就有种强行降智的感觉，老是说是因为男主的美色所以才心软，有点无语，帮男主做那么多调理身体有什么用，感觉男主对女主应有的尊重都没有，男主完全看心情对待女主，女主还老是有所期待的凑上去",
+                "createTime": 1678599495000,
+                "userId": "854058710519",
+                "nickName": "红袖书友16785152764283247",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 15,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "广东"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

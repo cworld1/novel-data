@@ -1,0 +1,283 @@
+{
+    "bookInfo": {
+        "bookId": "22116362000978402",
+        "bookName": "绝世神医：腹黑大小姐",
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "她是二十四世纪神医，一支银针，活死人，肉白骨。一夕穿越，成为王府人人喊打的大小姐。没有戒灵、骄横无能，身为王府嫡脉却被欺上门来？\r\n本是天之骄子，岂容尔等放肆！银针在手，天下我有！天玄地宝尽在她手，绝世功法信手拈来。叫你知道什么是打脸！神医到处，魂断九霄。不曾想，却救起了一只跟屁虫。\r\n他绝色妖异，手段狠辣，却对这个偶然救他一命的小家伙，情有独钟。\r\n“我们不熟。”某神医横眉冷对。",
+        "lastVipChapterId": "16070615550279926",
+        "lastVipChapterName": "第13章：曲终人未散-娃娃亲",
+        "lastVipChapterTime": 1479909384000,
+        "lastChapterId": "108216399724087877",
+        "lastChapterName": "第0110章：凌云响出（1）",
+        "lastChapterTime": 1435680320000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 3205407,
+        "totalChapterCount": 3121,
+        "collectCount": 103504,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20031,
+                "tagName": "逆袭"
+            },
+            {
+                "tagId": 30138,
+                "tagName": "嫡女"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30156,
+                "tagName": "神医"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2015-06-06上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "321"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "10"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1617326680998,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 626275
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 400,
+        "fans": 25863,
+        "redBean": 182661
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004311901233701",
+        "authorName": "夜北",
+        "authorGuid": "240701592",
+        "intro": "阅文集团白金作家，古言女强天后，代表作《绝世神医：腹黑大小姐》《吾欲成凰》等。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a7848102/0",
+        "fans": 89306,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "14315014604556304",
+                "bookName": "凤鸾九霄"
+            },
+            {
+                "bookId": "8531646504192703",
+                "bookName": "吾欲成凰"
+            },
+            {
+                "bookId": "5783093804970003",
+                "bookName": "绝世炼丹师：纨绔九小姐"
+            },
+            {
+                "bookId": "22162847000180402",
+                "bookName": "绝世神偷：废柴七小姐"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 48404,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "258613610031415307",
+                "type": 0,
+                "title": "",
+                "content": "我就说一句，已经不是看第一遍的亲们请举个手，我先为我自己举个手🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋🙋",
+                "createTime": 1537086657000,
+                "userId": "2071826560",
+                "nickName": "辞墨翎殇",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2071820978_1580531908728/100",
+                "replyCount": 149,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 2923,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "333037083927052392",
+                "type": 0,
+                "title": "",
+                "content": "喜欢君无邪的童鞋请举一下手",
+                "createTime": 1554850012000,
+                "userId": "120055439169",
+                "nickName": "清晨中的橙子",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120055431450_1594132055174/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1411,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "442266998622388224",
+                "type": 0,
+                "title": "",
+                "content": "无邪人狠话不多的形象塑造得很成功",
+                "createTime": 1580870846000,
+                "userId": "1852969769",
+                "nickName": "阿黎是个萌妹吗",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1852969768_1580352421716/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 181,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

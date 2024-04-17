@@ -1,0 +1,287 @@
+{
+    "bookInfo": {
+        "bookId": "22384821000180602",
+        "bookName": "凶案背后",
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30037,
+        "subCategoryName": "推理侦探",
+        "description": "　　世事无论好坏，总是先有因，而后才有果。\r\n　　每一起凶案的背后，都曾有罪恶的种子在发芽。\r\n　　作恶的是否十恶不赦？\r\n　　被害的是否白璧无瑕？\r\n　　究竟是可怜之人必有可恨之处，\r\n　　还是有些人生来就携带着罪恶的基因？\r\n　　种种疑问，\r\n　　不到真相大白的那一刻，无人可以解答。\r\n      小莫的V群：200144356\r\n     欢迎任意书中主配角名+读者ID+粉丝值来敲门\r\n　　",
+        "lastVipChapterId": "36005524033746223",
+        "lastVipChapterName": "开新书啦！",
+        "lastVipChapterTime": 1554172695000,
+        "lastChapterId": "96142117082138141",
+        "lastChapterName": "第三十九章 交换工作",
+        "lastChapterTime": 1393588865000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1473316,
+        "totalChapterCount": 467,
+        "collectCount": 1425,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 20049,
+                "tagName": "双向暗恋"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 20436,
+                "tagName": "探险"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30131,
+                "tagName": "男神"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2014-01-13上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "147"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1425"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 524482
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2,
+        "fans": 104,
+        "redBean": 625
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3633774804394001",
+        "authorName": "莫伊莱",
+        "authorGuid": "119090065089",
+        "intro": "阅文集团大神作家",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2023-02-13/987f49c5343f1a3c3caa7ce24b9fd95dy0D4tx00Y373yNn.jpg",
+        "fans": 2146,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "25752078901523704",
+                "bookName": "罪恶之眼"
+            },
+            {
+                "bookId": "20670443701149104",
+                "bookName": "提刑大人使不得"
+            },
+            {
+                "bookId": "17976991001324904",
+                "bookName": "罪恶不赦"
+            },
+            {
+                "bookId": "13404537303880004",
+                "bookName": "罪恶无形"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 101,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 2,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "273927369767714834",
+                "type": 0,
+                "title": "",
+                "content": "简介不错(*๓´╰╯`๓)♡期待(๑˙ー˙๑)",
+                "createTime": 1540738038000,
+                "userId": "854015151682",
+                "nickName": "书友20210301415252717892",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854015150347_1513054238559/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "193067889916641280",
+                "type": 3,
+                "title": "",
+                "content": "看了贺宁才知道太太的书，超喜欢贺宁，开始看太太的书，顾小凡么？哇。真的，她是个本来蛮平凡蛮可爱的女孩子，为什么她当刑警呢？真的感觉并不好了",
+                "createTime": 1541693957503,
+                "userId": "854008951503",
+                "nickName": "书友20210301414131743644",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/201/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "96142104194500124",
+                "chapterName": "第四章 认尸",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "30",
+                "paragraphContent": "嘴上说着客气话，顾小凡转身逃回办公室的速度就好像生怕钟翰会反悔似的，等走到办公室门口才停下来回头看看，发现钟翰带着许若蓓早就走远了，这让顾小凡忽然有点不好意思，觉得自己刚才的反应实在是有点以小人之心度君子之腹的感觉。",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "174372100008640512",
+                "type": 2,
+                "title": "",
+                "content": "她是不是根本没读过警校？一点点专业知识都没有！！有的连一点点职业常识都没有！！民警也不是好当的好吧！除非是混吃混喝等老百姓骂的废好吧！民警也要有专业常识正常思维还要更圆滑才能在芸芸百姓中处理好各种纠纷有时也会有高智商的案件！！百姓的事情更难缠好吧！！",
+                "createTime": 1541119770433,
+                "userId": "854008964524",
+                "nickName": "书友20210301415252718364",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/201/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "96142108490122781",
+                "chapterName": "第十二章 蒙",
+                "likeCount": 2,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

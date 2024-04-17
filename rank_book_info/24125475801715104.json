@@ -1,0 +1,277 @@
+{
+    "bookInfo": {
+        "bookId": "24125475801715104",
+        "bookName": "穿成权臣的首富娇妻",
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30019,
+        "subCategoryName": "经商种田",
+        "description": "【甜宠+双强+基建】\n　　她穿了，成了爱慕太子殿下的有夫之妻，可是她没有原主记忆！\n　　原本这已经是地狱模式开局，谁想便宜夫君出差回来直接下大狱，咸鱼生活破灭不说，还招来抄家杀生之祸，为了小命，她撩起袖子捞夫君。\n　　只是为何夫君让她接触的人都有病。\n　　京城首富：徐娘子，下个护肤方子想好了吗？\n　　太子殿下：徐姑娘有人还在等你，你又何苦追随探花郎。\n　　探花郎：娘子救命！\n　　看着身陷牢狱却不失风采的男人，她表示看在那张脸上，她决定还是在救一救。\n　　\n　　京城送来一纸书信，信上情愫满满，最后一句问询她何时和离。\n　　偏生这时候，某人翻出她的和离书，徐如君眼看着面色温和的男人把她敲晕，困在身边，一遍又一遍的唤着她的名字。\n　　“如君，你只能是我的。”",
+        "lastVipChapterId": "73623059487062187",
+        "lastVipChapterName": "第四百二十八章 大结局",
+        "lastVipChapterTime": 1694313880000,
+        "lastChapterId": "65630440844751841",
+        "lastChapterName": "第41章 苏家起火",
+        "lastChapterTime": 1664538407000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 880001,
+        "totalChapterCount": 428,
+        "collectCount": 16147,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 20449,
+                "tagName": "权臣"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-08-24上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "88"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "1.6"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1662459133209,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 45041489
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 2025,
+        "fans": 31671,
+        "redBean": 6428
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 1,
+            "bookId": 24125475801715104,
+            "name": "礼物榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_Donate",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP1"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "authorGuid": "802016793278",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 79493,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "27445029804678904",
+                "bookName": "豪门弃妇被迫走红了"
+            },
+            {
+                "bookId": "20111401108932404",
+                "bookName": "落跑娇妻是大佬"
+            },
+            {
+                "bookId": "17905671206857004",
+                "bookName": "小胖娘也有暴富梦"
+            },
+            {
+                "bookId": "4126701703902901",
+                "bookName": "冷情王爷媚颜妃"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 43,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "791471978841309184",
+                "type": 0,
+                "title": "",
+                "content": "我日，为什么要让我看到未完结",
+                "createTime": 1664127801000,
+                "userId": "120105731539",
+                "nickName": "Blank space462151879",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120105733397_1653013692099/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 9,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "873126297894453248",
+                "type": 0,
+                "title": "感谢莫拉多大大的打赏",
+                "content": "「感谢莫拉多大大的打赏」莫拉多大大荣登粉丝榜第一",
+                "createTime": 1683595708000,
+                "userId": "802016793278",
+                "nickName": "巧克力派",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5395325704984101",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "未知属地"
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "873005252457922560",
+                "type": 0,
+                "title": "",
+                "content": "麻烦问一下男主是谁？",
+                "createTime": 1683566848000,
+                "userId": "119097235558",
+                "nickName": "张起灵王俊凯总得嫁一个",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119097234629_1677825597984/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9472_3650_%E6%98%8E%E7%81%AF%E5%BE%A1%E9%A3%8Ex.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "青海"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

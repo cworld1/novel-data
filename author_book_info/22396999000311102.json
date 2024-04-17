@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "22396999000311102",
+        "bookName": "千面风华",
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "她穿越而来，一来便发现自己被绑在燕国军神慕容恪的床上。\r\n她有四张脸，晋国第一公子谢安爱上其中三个。\r\n这是荒唐乱世，她是乱世魅女，世人为了记念她，创下了一个流传千古的词：风华绝代！",
+        "lastVipChapterId": "96194507097032912",
+        "lastVipChapterName": "第267章 结局",
+        "lastVipChapterTime": 1251461003000,
+        "lastChapterId": "96194408310229199",
+        "lastChapterName": "第七十八章 计划赶不上变化",
+        "lastChapterTime": 1233379020000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 660977,
+        "totalChapterCount": 277,
+        "collectCount": 322,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20089,
+                "tagName": "欢喜冤家"
+            },
+            {
+                "tagId": 30383,
+                "tagName": "高冷"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2008-12-27上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "66"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "322"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1546580477577,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 468066
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 38,
+        "redBean": 17
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3625122904798801",
+        "authorName": "林家成",
+        "authorGuid": "800004290624",
+        "intro": "中医师，起点女生网签约作者。零七年到起点，至今已著书近十部。胸无大志，所好的，不过就是看文写文而已。 ",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2016-09-12/5942c9fd1b7a78789688068714dc28bd.jpg",
+        "fans": 2345,
+        "total": 16,
+        "items": [
+            {
+                "bookId": "3148413700960802",
+                "bookName": "恃运而娇"
+            },
+            {
+                "bookId": "25114226000168302",
+                "bookName": "骄娇无双"
+            },
+            {
+                "bookId": "22312481000716402",
+                "bookName": "误长生——花戎原著"
+            },
+            {
+                "bookId": "22362350000475502",
+                "bookName": "美人温雅"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 16,
+        "bookCommentCount": 2,
+        "chapterCommentCount": 1,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "451360915141558272",
+                "type": 0,
+                "title": "",
+                "content": "女主真的像一个普通至极的人",
+                "createTime": 1583039004000,
+                "userId": "2821849846",
+                "nickName": "蓦藜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2821849882_1575966253186/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "367279560401748029",
+                "type": 0,
+                "title": "",
+                "content": "喜欢慕容恪",
+                "createTime": 1562994683000,
+                "userId": "2908704602",
+                "nickName": "鑫儿1110",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2908703208_1562207353043/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "120229746259918963",
+                "type": 2,
+                "title": "",
+                "content": "每次看到女主心理活动：不知道为什么....的时候，我就知道，她又要开始做了",
+                "createTime": 1539456954165,
+                "userId": "854008926907",
+                "nickName": "喵小喵01",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854008924136_1544409765504/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "96194408310098127",
+                "chapterName": "第七十六章",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

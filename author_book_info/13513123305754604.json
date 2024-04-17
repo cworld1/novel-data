@@ -1,0 +1,255 @@
+{
+    "bookInfo": {
+        "bookId": "13513123305754604",
+        "bookName": "醉临江",
+        "authorId": "10739342303944101",
+        "authorName": "八云家狐狸",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30019,
+        "subCategoryName": "经商种田",
+        "description": "当穿越到了一个架空的世界，从小成长，发现身边的一切似乎是那样的熟悉，又是那样的陌生，又该何去何从？朝廷，江湖，面对这一切，穿越的她又该何去何从。",
+        "lastVipChapterId": "40354842244818198",
+        "lastVipChapterName": "第三百五十八章一曲临江仙，曲终人散空愁暮",
+        "lastVipChapterTime": 1570375104000,
+        "lastChapterId": "37363485854863127",
+        "lastChapterName": "第九十章对外政策，答应同游",
+        "lastChapterTime": 1559231451000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 895073,
+        "totalChapterCount": 356,
+        "collectCount": 90,
+        "tag": [
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-04-14上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "90"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "90"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1556106171298,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 25148198
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 4,
+        "redBean": 5
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10739342303944101",
+        "authorName": "八云家狐狸",
+        "authorGuid": "2339681926",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 20,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "15177661204127704",
+                "bookName": "重生厨娘有空间"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 7,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "385202095927853090",
+                "type": 0,
+                "title": "",
+                "content": "作者大大写的超好，超推！入坑入坑！🌺(=^▽^=)",
+                "createTime": 1567266071000,
+                "userId": "2226174028",
+                "nickName": "樂小可爱",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2226174200_1548396104096/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "385196200103575661",
+                "type": 0,
+                "title": "",
+                "content": "这本小说写的超好！！！超推荐！！入坑吧姐妹，作者大大加油加油！🌺🌺🌺爱了爱了！(=^▽^=)",
+                "createTime": 1567265861000,
+                "userId": "2226174028",
+                "nickName": "樂小可爱",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2226174200_1548396104096/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "343303769825738830",
+                "type": 0,
+                "title": "标题随便吧！",
+                "content": "「标题随便吧！」看新书推荐过来的，同时萌新，都不容易，加油！",
+                "createTime": 1557279630000,
+                "userId": "120015676228",
+                "nickName": "奶酪豆瓣酱m",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120015677525_1582024403692/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7741_%E4%BA%8C%E6%9C%88%E6%B5%81%E9%87%91.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

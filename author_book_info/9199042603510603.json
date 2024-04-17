@@ -1,0 +1,311 @@
+{
+    "bookInfo": {
+        "bookId": "9199042603510603",
+        "bookName": "傅先生，偏偏喜欢你",
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "【已出版预售，天猫、当当特签预售中，出版名《傅律师有点甜》，欢迎宝宝们预订！】\r\n律政界最胆寒的传奇傅怀安携子归来，订婚在即。\r\n订婚前……\r\n他问：“既然心里爱着温墨深，为什么又来找我？！”\r\n她说：“因为不能眼看着温墨深的女人，和你订婚。”\r\n傅怀安唇角咬着香烟，修长的双腿交叠，隔着轻烟薄雾，半眯着眸子……看着林暖纤细的手臂环上他的颈脖，有些触动，原来爱一个人可以炙热到如此地步……",
+        "lastVipChapterId": "39211237408735408",
+        "lastVipChapterName": "大结局。",
+        "lastVipChapterTime": 1566144326000,
+        "lastChapterId": "28773476337069081",
+        "lastChapterName": "是谁给你下的？！【071】",
+        "lastChapterTime": 1640146024000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 2633319,
+        "totalChapterCount": 1434,
+        "collectCount": 1395439,
+        "tag": [
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            },
+            {
+                "tagId": 20054,
+                "tagName": "宝宝"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30128,
+                "tagName": "总裁"
+            },
+            {
+                "tagId": 30381,
+                "tagName": "精英"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2017-12-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "263"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "140"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1558599207682,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 20935013
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 10023,
+        "fans": 81081,
+        "redBean": 675362
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "authorGuid": "803012914363",
+        "intro": "阅文集团白金作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+        "fans": 290722,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "22191858701403204",
+                "bookName": "大邺女帝"
+            },
+            {
+                "bookId": "21950364501844104",
+                "bookName": "一座山的距离"
+            },
+            {
+                "bookId": "16792364604322104",
+                "bookName": "嫡长女她又美又飒"
+            },
+            {
+                "bookId": "14450034905560004",
+                "bookName": "跟大佬恋爱你怂了吗"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30350510762219269",
+                "roleName": "傅怀安",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "76"
+                },
+                "roleType": 4,
+                "popularCnt": 760011,
+                "createTime": 1533106064000
+            },
+            {
+                "roleId": "30350600672226776",
+                "roleName": "林暖",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "15"
+                },
+                "roleType": 5,
+                "popularCnt": 147343,
+                "createTime": 1533106399000
+            },
+            {
+                "roleId": "30651833307333259",
+                "roleName": "团团",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "9.7"
+                },
+                "roleType": 2,
+                "popularCnt": 97055,
+                "createTime": 1534228577000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 41165,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "304731874943762484",
+                "type": 0,
+                "title": "",
+                "content": "关于番外！\n\n小仙女们，咱老傅暖暖即将进入大结局了，想要先看谁的番外就由小仙女们来投票决定吧，票多的领先写哦\u0014👈\n\n记住，可以多选哦，投票截止日乃正文完结那天凌晨12点，最终解释权属于作者君😘",
+                "createTime": 1548084280000,
+                "userId": "803030981442",
+                "nickName": "卿颜如月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803030983504_1605951492838/100",
+                "replyCount": 267,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 390,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6112_%E8%9D%B6%E6%81%8B%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "376437771323310172",
+                "type": 0,
+                "title": "",
+                "content": "新文《跟大佬恋爱你怂了吗》已经开始更新啦……可以阅读啦！",
+                "createTime": 1565178351000,
+                "userId": "803012914363",
+                "nickName": "千桦尽落",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+                "replyCount": 14,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 145,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 6,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5490160403352201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "257799036952772620",
+                "type": 0,
+                "title": "",
+                "content": "如何获得月票?\n\n获得月票有以下几种方法:\n①保底月票: .上月使用有价币订阅消费满1000红袖币，次月月初即可获得对应数量的月票，每月只可获得一次(注意:保底月票，只有账号等级vip3以上的而且每个月订阅要满1000个有价红袖币<不能赠币>才有保底月票哦)\n\n②订阅月票:本月内使用有价币订阅消费满一定额度(各等级按表格中数值消费有价红袖币额度~这个表格请去红袖个人中心页面~帮助中心~点击“月票”进去比对哦)即可马上获得，可重复获得，无上限~\n\n③礼物月票:赠送10000红袖币的礼物系统自动给作品投一张月票，赠送20000红袖币的礼物系统自动给作品投两张月票\n④还有一种就是抽奖抽到的礼物(月票)，如这次红袖搞的充值活动，里面有一项奖品就是“月票” 这个可要看个人的运气了\u0014¨\n\nps:一个文一个账号一个月只给投五张哦，如有月票大户超过五张的也可支持投别的文(当然得要优先我们老傅，哈哈哈)",
+                "createTime": 1536892622000,
+                "userId": "803030981442",
+                "nickName": "卿颜如月",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803030983504_1605951492838/100",
+                "replyCount": 19,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 201,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 11,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6112_%E8%9D%B6%E6%81%8B%E8%8A%B1.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 24,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

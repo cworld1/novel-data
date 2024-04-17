@@ -1,0 +1,247 @@
+{
+    "bookInfo": {
+        "bookId": "15177661204127704",
+        "bookName": "重生厨娘有空间",
+        "authorId": "10739342303944101",
+        "authorName": "八云家狐狸",
+        "categoryId": 30001,
+        "categoryName": "玄幻言情",
+        "subCategoryId": 30002,
+        "subCategoryName": "东方玄幻",
+        "description": "在一个修行人可碎山断河的世界，做饭能够有什么出路？\n嗯……很简单啊，堪比丹药的料理你尝试过没有？传说中仙人都赞不绝口的美酒你有没有尝试过？\n什么？你想吃霸王餐？\n那你就要看看这些被征服了胃的大能们，答不答应了。",
+        "lastVipChapterId": "46384941432802445",
+        "lastVipChapterName": "第三百七十六章回归清风，小小礼物",
+        "lastVipChapterTime": 1592840787000,
+        "lastChapterId": "41583264632646895",
+        "lastChapterName": "第七十四章可怕外行，一灵两妖",
+        "lastChapterTime": 1574951334000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 912557,
+        "totalChapterCount": 376,
+        "collectCount": 182,
+        "tag": [
+            {
+                "tagId": 20027,
+                "tagName": "空间"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 10003,
+                "tagName": "幻情"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-10-23上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "91"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "182"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1572933277336,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 26701845
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 16,
+        "redBean": 71
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10739342303944101",
+        "authorName": "八云家狐狸",
+        "authorGuid": "2339681926",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 20,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "13513123305754604",
+                "bookName": "醉临江"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 13,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 2,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "409098451742162944",
+                "type": 0,
+                "title": "",
+                "content": "还不错，希望作者快更啊！",
+                "createTime": 1572962848000,
+                "userId": "854012925191",
+                "nickName": "降灾不知有何错",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854012928506_1579420225820/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 11,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "446808031280496640",
+                "type": 3,
+                "title": "",
+                "content": "榴莲很美味，你们不懂",
+                "createTime": 1581953512260,
+                "userId": "120110095343",
+                "nickName": "，一颗不太成熟的豆芽",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120110096873_1582508590683/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "42558262474151998",
+                "chapterName": "第一百四十九章酒水与菜，味道冲突",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3990_%E6%8B%9B%E8%B4%A2%E7%8C%AB.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "37",
+                "paragraphContent": "但是说实在的，就算是屠梦晨自己都不是很受得了榴莲的味道，而且酒精的味道偏辣，所以四川料理也是一种能够考虑的饭菜。\n",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "446709986849062912",
+                "type": 3,
+                "title": "",
+                "content": "哈哈，你想睡他，他却想吃了你",
+                "createTime": 1581930136649,
+                "userId": "120110095343",
+                "nickName": "，一颗不太成熟的豆芽",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120110096873_1582508590683/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "41862601235738324",
+                "chapterName": "第九十五章如意刀工，妖怪本体",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3990_%E6%8B%9B%E8%B4%A2%E7%8C%AB.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "24",
+                "paragraphContent": "“你！”女子这个时候则是脸上有些惊悚，“你个那个该死的家伙一样，都想要吃老娘！”\n",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

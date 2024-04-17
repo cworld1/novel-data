@@ -1,0 +1,310 @@
+{
+    "bookInfo": {
+        "bookId": "22191858701403204",
+        "bookName": "大邺女帝",
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "嫡长女又美又飒出版名为《将门盛华  吾命为凰》，于9月18日18：00在各平台预售，天猫、拼多多等各大平台上文轩、博库、当当等旗舰店火热开售，海量精美赠品赠送哟\n\n谢云初号称大邺废物，顶着谢六郎的名字，干着祸害人间的事。\n就干……你屁事？\n六郎成六姑娘后，追求对象从永嘉排到汴京。\n可唯纪京辞是她心中一轮皓月，无人能替。\n多年后，她问鼎至尊，龙袍加身。\n若他还活着，定会以她为荣。\n他曾言：“从无女子不如男，你亦可为天地立心，为生民立命，为大邺开太平！”\n屡变星霜，世易时移，她终是……做到了。\n【非杯具！非杯具！非杯具！重要的事情说三遍！】",
+        "lastVipChapterId": "65322632618239497",
+        "lastVipChapterName": "第五百三十九章：生死同路",
+        "lastVipChapterTime": 1663417145000,
+        "lastChapterId": "61124481535947636",
+        "lastChapterName": "第四十六章：投壶",
+        "lastChapterTime": 1648294924000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1081249,
+        "totalChapterCount": 539,
+        "collectCount": 8610,
+        "tag": [
+            {
+                "tagId": 20020,
+                "tagName": "重生"
+            },
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20050,
+                "tagName": "女扮男装"
+            },
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 30144,
+                "tagName": "才女"
+            },
+            {
+                "tagId": 30112,
+                "tagName": "首辅"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-01-12上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "108"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "8610"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1648812339390,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 42700455
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 111,
+        "fans": 1386,
+        "redBean": 55659
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5490160403352201",
+        "authorName": "千桦尽落",
+        "authorGuid": "803012914363",
+        "intro": "阅文集团白金作家",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+        "fans": 290722,
+        "total": 11,
+        "items": [
+            {
+                "bookId": "21950364501844104",
+                "bookName": "一座山的距离"
+            },
+            {
+                "bookId": "16792364604322104",
+                "bookName": "嫡长女她又美又飒"
+            },
+            {
+                "bookId": "14450034905560004",
+                "bookName": "跟大佬恋爱你怂了吗"
+            },
+            {
+                "bookId": "9199042603510603",
+                "bookName": "傅先生，偏偏喜欢你"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "60657926486331364",
+                "roleName": "谢云初",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "2.4"
+                },
+                "roleType": 5,
+                "popularCnt": 23706,
+                "createTime": 1646009985000
+            },
+            {
+                "roleId": "60657948900689572",
+                "roleName": "纪京辞",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.5"
+                },
+                "roleType": 4,
+                "popularCnt": 14518,
+                "createTime": 1646010068000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1603,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "715932620936118272",
+                "type": 0,
+                "title": "最终版",
+                "content": "「最终版」抱歉小可爱们，强迫症又回去改文了，今天3月1号，今天之后开篇除了错别字不会再改了，抱歉抱歉……给小可爱们带来不好的阅读体验，我发誓绝对不改了！",
+                "createTime": 1646117814000,
+                "userId": "803012914363",
+                "nickName": "千桦尽落",
+                "avatar": "https://facepic.qidian.com/qd_face/349573/a401044217/0",
+                "replyCount": 10,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 24,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5490160403352201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "714440433018863616",
+                "type": 0,
+                "title": "",
+                "content": "•᷄ࡇ•᷅追完嫡女过来的，呜呜呜，嫡女我一边哭一边看真的是废寝忘食的看完了大半夜哭的稀里哗啦赚足了我的眼泪啊文笔太好，虽然还有好多小坑没填，但是这句不战死不卸甲家国好儿郎，我真的是哭死了",
+                "createTime": 1645762049000,
+                "userId": "2402132189",
+                "nickName": "狐狸家的小祖宗",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2402138481_1656109034253/100",
+                "replyCount": 7,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 40,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "710835434762272768",
+                "type": 0,
+                "title": "",
+                "content": "赶不上沙发，板凳也行😂，坐等",
+                "createTime": 1644902551000,
+                "userId": "803030444584",
+                "nickName": "初心如雪666",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/803030445929_1664124260291/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 33,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8254_%E8%82%A5%E5%95%BE%E5%A0%86%E9%9B%AA%E4%BA%BA.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 23,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,287 @@
+{
+    "bookInfo": {
+        "bookId": "3733359204040101",
+        "bookName": "芙蓉王妃：花轿错嫁",
+        "authorId": "5284955303086301",
+        "authorName": "安知晓",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "青梅竹马的恋人为了皇位，灭她满门，从此她陷入万丈深渊。为了复仇，她芊芊玉手掌控整盘棋局，一场花轿错嫁，扭转乾坤。为了复仇，她赌上一生幸福，谈笑间，翻手为云，覆手为雨，在朝廷掀起腥风血雨。当爱战胜仇恨时，她却失去了一切。",
+        "lastVipChapterId": "16570437805740447",
+        "lastVipChapterName": "悠若番外 大结局",
+        "lastVipChapterTime": 1355364273000,
+        "lastChapterId": "16570427091653079",
+        "lastChapterName": "071 晋王和绿芙 2",
+        "lastChapterTime": 1488451453000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 476720,
+        "totalChapterCount": 230,
+        "collectCount": 541,
+        "tag": [
+            {
+                "tagId": 20039,
+                "tagName": "宫斗"
+            },
+            {
+                "tagId": 20038,
+                "tagName": "权谋"
+            },
+            {
+                "tagId": 20089,
+                "tagName": "欢喜冤家"
+            },
+            {
+                "tagId": 20088,
+                "tagName": "青梅竹马"
+            },
+            {
+                "tagId": 20427,
+                "tagName": "错嫁"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30133,
+                "tagName": "王妃"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2015-10-26上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "48"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "541"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1650860862957,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 178346
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 62,
+        "redBean": 2117
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5284955303086301",
+        "authorName": "安知晓",
+        "authorGuid": "801000025960",
+        "intro": "阅文集团白金作家，炙手可热的当红网络作家，其作品风格轻松、华丽，环环相扣、层层推进，是网络写作“聊天室写法”的开山鼻祖。脑洞巨大，情节冲突常出其不意，被众多粉丝戏称为后妈。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a400882929/0",
+        "fans": 19594,
+        "total": 22,
+        "items": [
+            {
+                "bookId": "25587167609305404",
+                "bookName": "退婚后咸鱼美人拿了反派剧本"
+            },
+            {
+                "bookId": "22503638209712204",
+                "bookName": "惊爆！她带着缩小版大佬杀回来了"
+            },
+            {
+                "bookId": "14877114405387804",
+                "bookName": "重生后我渣了死对头"
+            },
+            {
+                "bookId": "12879845203138903",
+                "bookName": "我和黑粉结婚了"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "459239673743671296",
+                "type": 0,
+                "title": "",
+                "content": "还是很喜欢凤君政",
+                "createTime": 1584917447000,
+                "userId": "1933574883",
+                "nickName": "谦谦等我长大",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1933573475_1704439226525/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "706145982437457920",
+                "type": 0,
+                "title": "",
+                "content": "感觉女主还是爱她的政哥哥。她只想太想有个家了，把男主当亲人的那种爱。诶。。。真是遗憾的文",
+                "createTime": 1643784498000,
+                "userId": "120118555634",
+                "nickName": "不爱看纯爱的小读者",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120118552783_1614096537342/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "705936479532285952",
+                "type": 0,
+                "title": "",
+                "content": "命运捉弄，女主的爱情一分为二，再无完美。两位男主哪个好？二皇子是初恋，是根深蒂固和青梅竹马。楚王是细水长流和相互扶持。各有千秋，可我最爱终究是二皇子。\n\n作者刻画的女主在二皇子死后慢慢和楚王试着幸福，还是进展过于快了些。\n\n二皇子这一生太过可怜了。虽然最后女主为他生了个孩子，可他失去的还是比得到更多。",
+                "createTime": 1643734549000,
+                "userId": "120118555634",
+                "nickName": "不爱看纯爱的小读者",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120118552783_1614096537342/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 16,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

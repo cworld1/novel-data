@@ -1,0 +1,274 @@
+{
+    "bookInfo": {
+        "bookId": "13138512203205104",
+        "bookName": "我们该去领证了",
+        "authorId": "9257825303855801",
+        "authorName": "钻衣角",
+        "categoryId": 30001,
+        "categoryName": "玄幻言情",
+        "subCategoryId": 30003,
+        "subCategoryName": "异世大陆",
+        "description": "　五年前\r\n\r\n　　乔暮久说：“我们分手吧，以后就老死不相往来了。”\r\n\r\n　　于海臣说：“好。”\r\n\r\n　　五年后\r\n\r\n　　乔爸说：“这是你相亲对象的照片，了解一下？”\r\n\r\n　　于爸说：“从小就给你定了娃娃亲，惊不惊喜？”",
+        "lastVipChapterId": "37101836171330235",
+        "lastVipChapterName": "第一百二十七章 又要把混世大魔王带出来吗",
+        "lastVipChapterTime": 1558257035000,
+        "lastChapterId": "36146636524508461",
+        "lastChapterName": "第七十四章 老于今天三米八",
+        "lastChapterTime": 1554698315000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 195766,
+        "totalChapterCount": 125,
+        "collectCount": 38088,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 10003,
+                "tagName": "幻情"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-03-01上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "20"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.8"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1555416879319,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 24242402
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 330,
+        "fans": 5210,
+        "redBean": 40747
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "9257825303855801",
+        "authorName": "钻衣角",
+        "authorGuid": "854006897345",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 6833,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "12628935803060703",
+                "bookName": "盟主家的小刺客"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "35385969864798782",
+                "roleName": "于海臣",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "11"
+                },
+                "roleType": 4,
+                "popularCnt": 113990,
+                "createTime": 1551864610000
+            },
+            {
+                "roleId": "35386010150287051",
+                "roleName": "乔暮久",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "11"
+                },
+                "roleType": 4,
+                "popularCnt": 107948,
+                "createTime": 1551864760000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4203,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "387549726469455927",
+                "type": 0,
+                "title": "",
+                "content": "看到了很多人搞不懂这是什么小说，还在问男主是谁，女主是谁的话，那让我来澄清一下吧，这类小说叫做纯爱小说，也就是耽美文学，英文名叫做bl。就是双男主的小说，要是实在不能理解的话，可以看作为两个男人谈恋爱的小说，是没有女主的，然后很多人说什么怀孕这些东西，我也来解释一下吧，耽美文学，设定可以有很多种。例如Abo，在这种设定里面男人和女人都是可以怀孕的，反过来讲，女人和男人也是可以受精的，即使是女人和男人做，但男人也可能怀孕。这种设定我就不多说了，还是蛮有意思的，如果有兴趣就去找度娘吧。还有一个设定就是生子，在这个设定中，男人和男人在一起是可以怀孕的，其时这么想，你们就可以明白了吧，除了生子了还有什么兽化这个设定讲的就是，双男主一方可以变成兽也可以变成人，这种设定在言情中也是很常见的，而大大的这本书，可能就是有生子的设定在里面的，怀孕什么的是很常见的。然后请各位言情的小仙女。下次不要再走错频道了哦，也不要对耽美做出很恶心的感觉，可以不爱，但也别伤害嘛。(◍•ᴗ•◍)",
+                "createTime": 1567827503000,
+                "userId": "3180411086",
+                "nickName": "吼吼吼29537267",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 10,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 460,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "344482047139577924",
+                "type": 0,
+                "title": "",
+                "content": "我为什么连男主女主都分不清。为什么都是（他）。不会用（她）",
+                "createTime": 1557561418000,
+                "userId": "1805461973",
+                "nickName": "沈沈倦",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1805464813_1595778506019/100",
+                "replyCount": 47,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 81,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "332674983757152323",
+                "type": 0,
+                "title": "",
+                "content": "于海臣和乔暮久谁是男谁是女😂",
+                "createTime": 1554756379000,
+                "userId": "3252615828",
+                "nickName": "柚子味儿的戚然",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3252615714_1534609226259/100",
+                "replyCount": 26,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 73,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

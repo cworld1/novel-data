@@ -1,0 +1,116 @@
+{
+    "bookInfo": {
+        "bookId": "16234750005145304",
+        "bookName": "红妆十里花期十年",
+        "authorId": "16224162804978201",
+        "authorName": "明月晞",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30016,
+        "subCategoryName": "古代情缘",
+        "description": "平喜乐身为将军夫人，入府不足三月，匪气难除，暴戾成性，草菅人命。平家仗势作奸犯科、打砸抢烧，无恶不作。叶将军大义灭亲，扫除平家匪寇。事迹败露，平喜乐畏罪跳崖自杀，尸骨无存……",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "72579549904300733",
+        "lastChapterName": "第一百五十三章 终",
+        "lastChapterTime": 1690428923000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 305957,
+        "totalChapterCount": 153,
+        "collectCount": 26,
+        "tag": [
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-02-24上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "31"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "26"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1583590533759,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 28718015
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 10,
+        "fans": 1,
+        "redBean": 0
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": null,
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

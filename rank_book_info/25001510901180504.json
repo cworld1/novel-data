@@ -1,0 +1,308 @@
+{
+    "bookInfo": {
+        "bookId": "25001510901180504",
+        "bookName": "欢迎来到我的地狱",
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "categoryId": 30036,
+        "categoryName": "悬疑侦探",
+        "subCategoryId": 30037,
+        "subCategoryName": "推理侦探",
+        "description": "【无限流+无CP】\n【只要胆子大，游戏是我家。】\n自幼倒霉的银苏被拉进无限生存游戏后，被困在第一个副本，要死要活无限轮回无数次，终于回到正常游戏进程。\n终于不用面对同一批怪物的银苏泪流满面，决定好好和怪物们交朋友，再也不打他们了。\n众人看着随手捏爆怪物，渣都不剩的银苏：灰都扬了是吧！\n后来游戏里多了一条禁忌：远离银苏，她有病！",
+        "lastVipChapterId": "78289939862711117",
+        "lastVipChapterName": "第806章 铜人工厂（24）",
+        "lastVipChapterTime": 1711934606000,
+        "lastChapterId": "70909269184142998",
+        "lastChapterName": "第28章 完美人生疗养院（28）",
+        "lastChapterTime": 1691339208000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 1649871,
+        "totalChapterCount": 806,
+        "collectCount": 9446,
+        "tag": [
+            {
+                "tagId": 20292,
+                "tagName": "无CP"
+            },
+            {
+                "tagId": 20432,
+                "tagName": "满级流"
+            },
+            {
+                "tagId": 20451,
+                "tagName": "无限流"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 10006,
+                "tagName": "悬疑"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2022-12-04上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "165"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "9446"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1678190240495,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 45875090
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 370,
+        "fans": 3330,
+        "redBean": 153348
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 2,
+            "bookId": 25001510901180504,
+            "name": "季榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_NewBook",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP2"
+        },
+        {
+            "rankNum": 3,
+            "bookId": 25001510901180504,
+            "name": "红豆榜",
+            "url": "/rank?tagId=-1000&rankId=Book_HongDou",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP3"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3004334200595601",
+        "authorName": "墨泠",
+        "authorGuid": "357746135",
+        "intro": "阅文集团大神作家，文风轻松活泼，剧情天马行空，饱受读者喜爱。",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-03-13/0a28124b0c29ae4c245bc7fef9a5ccefMpqe7J17EBW6wVI.jpg",
+        "fans": 340629,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "18973470101456604",
+                "bookName": "快穿：反派女主满级之后"
+            },
+            {
+                "bookId": "15953225505698104",
+                "bookName": "十万个氪金的理由"
+            },
+            {
+                "bookId": "11297425304303403",
+                "bookName": "这个大佬画风不对"
+            },
+            {
+                "bookId": "8314915703615503",
+                "bookName": "快穿系统之反派BOSS来袭"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "70775309691495515",
+                "roleName": "银苏",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "10"
+                },
+                "roleType": 1,
+                "popularCnt": 103478,
+                "createTime": 1683700174000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 3821,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "870410721967276032",
+                "type": 0,
+                "title": "",
+                "content": "从初筝入坑，小姐姐表面冷酷内里逗比。\n到时笙一言不合就开干，\n明叔的吃货属性背后的故事，\n琼神的被人背叛，\n花雾是最喜欢也是最短暂的一个女儿，蛇精病属性，\n现在终于等来了新女儿，\n大大加油哦",
+                "createTime": 1682948264000,
+                "userId": "120037247472",
+                "nickName": "小兔子乖乖tt",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/120037246128_1687189940531/100",
+                "replyCount": 3,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 50,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "福建"
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "869239495861272576",
+                "type": 0,
+                "title": "",
+                "content": "嘿嘿嘿，期待期待！",
+                "createTime": 1682669022000,
+                "userId": "1479142766",
+                "nickName": "我家秦小苒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1479144877_1626927046632/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 18,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/2143_%E8%8D%B7%E5%A1%98%E6%9C%88%E8%89%B2.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 18,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "湖南"
+            },
+            {
+                "memberType": 3,
+                "isYearMember": 0,
+                "commentId": "866540236812582912",
+                "type": 0,
+                "title": "",
+                "content": "期待，有男主吗",
+                "createTime": 1682025468000,
+                "userId": "1253132244",
+                "nickName": "桃倾我心",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1253139281_1601418918811/100",
+                "replyCount": 4,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 12,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "https://readx-her-1252317822.image.myqcloud.com/static/member/member_tag_super.png",
+                "membershipImgRatio": 1.889,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "山东"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

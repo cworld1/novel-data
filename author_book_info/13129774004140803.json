@@ -1,0 +1,283 @@
+{
+    "bookInfo": {
+        "bookId": "13129774004140803",
+        "bookName": "药门仙医",
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "推荐我的新文《仙风药令》\n几句话简介：陌上人如玉，公子世无双~\n公子他体弱又腹黑~\n女主她肆意又张扬~\n\n我的完结文《天医凤九》\n她，出自百年隐世家族，贵为堂堂药门至尊。\n她，生于百年世家贵族，贵为世家传承少主。\n一个身死，一个魂灭，\n一朝易魂重生，天下风云将起！\n他与她，青梅竹马之情，曾许诺，玉兰花树长成之日，便是迎娶之时。\n他与她，初相识，便结下佛缘，一个狡黠如狐的小光头，让他印象深刻，可后来，谁来告诉他，为什么小光头会变成一个长发飘飘倾城绝美的女人？\n",
+        "lastVipChapterId": "46744916868958344",
+        "lastVipChapterName": "第1813章 大结局章",
+        "lastVipChapterTime": 1594180468000,
+        "lastChapterId": "35703942938901846",
+        "lastChapterName": "第84章 格外纵容",
+        "lastChapterTime": 1553049243000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1831431,
+        "totalChapterCount": 1804,
+        "collectCount": 34345,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 20425,
+                "tagName": "世家"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 40172,
+                "tagName": "腹黑"
+            },
+            {
+                "tagId": 30156,
+                "tagName": "神医"
+            },
+            {
+                "tagId": 30403,
+                "tagName": "秀外慧中"
+            },
+            {
+                "tagId": 30401,
+                "tagName": "醋王"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-03-01上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "183"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1586048374748,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 24236008
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 201,
+        "fans": 7663,
+        "redBean": 122117
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "3617021403621501",
+        "authorName": "凤炅",
+        "authorGuid": "1518932830",
+        "intro": "阅文集团大神作家，作者文笔老练，文风恢弘大气，将人引入一个她所编织的世界之中，巧妙的勾起无数读者心弦和热捧。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a6002330/0",
+        "fans": 38656,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "19526496601137104",
+                "bookName": "仙风药令"
+            },
+            {
+                "bookId": "3675832204934203",
+                "bookName": "天医凤九"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4258,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "602057627194818560",
+                "type": 0,
+                "title": "",
+                "content": "这书前期我爱看，后期剧情就不太喜欢了，而且后期女主有些行为我...不经过人同意窥探人梦境那些就算了，主要的就是自己还没死的消息只告诉了墨烨，你亲人不告诉的吗？难道白白让墨烨心痛五年不忍心，让父亲、祖父白白心痛五年你就忍心？我....，真的不太懂为什么不告诉他们让他们都以为你死了，就算是为了不让来杀你，也不至于亲人都不告诉吧，难道告诉亲人后就会被那方外之人察觉你的存在，告诉爱人就不会吗？蒜了，总而言之，完结打卡",
+                "createTime": 1618967900000,
+                "userId": "1374828386",
+                "nickName": "半笙寒",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1374829845_1637503267883/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 13,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/8719_02%E7%BB%BF%E5%8F%B6%E6%88%90%E8%8D%AB.gif",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 30,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "365146225869258786",
+                "type": 0,
+                "title": "",
+                "content": "我也是因为凤九喜欢上作者的，看了唐宁之后，感觉就是一个对爱情懵懂的小女孩，而另一面又是厉害的唐师，我是比较喜欢墨烨的，因为他一开始就喜欢唐宁，最后发现唐宁和南宫凌云在一起时也是默默守护，让唐宁自己去选择，不好的一面是~唐宁不喜欢墨烨的原因是以为他喜欢男人，哈哈！   觉得南宫凌云不太好，我个人不太喜欢，因为他在墨烨为唐宁吸毒之类这些事上并没有让唐宁知道真相，如果说墨烨的爱是偏执，那么南宫凌云的爱就是固执.\n  不管怎么样，还是希望作者大大可以继续和我们一起走下去，一起见证唐宁的成长，加油＾０＾~ \n               ——傅知白",
+                "createTime": 1562484742000,
+                "userId": "2965174465",
+                "nickName": "沈安生",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2965175941_1561001113191/100",
+                "replyCount": 29,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 242,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "379403869899325515",
+                "type": 0,
+                "title": "",
+                "content": "这是我看到的第一本小说女主是和尚有关的，在古代，女子受封建礼教影响，只知相夫教子，出家为僧几乎从未有过，本文内容新奇，大胆有创新，让我们认识到了唐宁不受世俗拘束，快意恩仇的一面。",
+                "createTime": 1565884389000,
+                "userId": "1151463198",
+                "nickName": "月寒暮雪",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1151463639_1564320214633/100",
+                "replyCount": 9,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 81,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/3413_%E5%8D%8A%E8%BD%BD%E5%A2%A8%E9%A6%99.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

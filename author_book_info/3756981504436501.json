@@ -1,0 +1,271 @@
+{
+    "bookInfo": {
+        "bookId": "3756981504436501",
+        "bookName": "听说你喜欢我（影视原著）",
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "彭冠英、王楚然主演同名电视剧原著，同名影视剧在腾讯视频独家热播中。\r\n本书为北雅医院系列一，作为医生治愈病人，作为爱人治愈你，这是重逢后的理想与爱。\r\n**************\r\n每个人心里都有一团火，路过的人只看到烟。但总有一个人，总有那么一个人能看到这团火，然后走过来，陪我一起。我带着我的热情，我的冷漠，我的狂暴，我的温和，以及对爱情毫无理由的相信，走的上气不接不下气。我说，你叫什么名字。从你叫什么名字开始，后来，有了一切。——梵高  \r\n\r\n\r\n******************************************\r\n\r\n   “你叫流筝？”\r\n\r\n    “是……是的……”\r\n\r\n   “听说你喜欢我？”\r\n\r\n    “嗯……是……我……可是……”\r\n\r\n    “那我们结婚吧。”\r\n\r\n    “哦。好……啊？”  \r\n\r\n     阮流筝心里有一条星河。\r\n\r\n     它属于一个眼睛里银河一般潺潺流动着碎碎星光的男子。\r\n\r\n      她用了很多年去爱他，又用了好些年去忘记他。\r\n*********************************************************\r\n特邀番外~潇湘3月3日上线~",
+        "lastVipChapterId": "20291357235721115",
+        "lastVipChapterName": "第373章 结局",
+        "lastVipChapterTime": 1579224821000,
+        "lastChapterId": "20291348372155522",
+        "lastChapterName": "第62章   公道",
+        "lastChapterTime": 1495632763000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 916971,
+        "totalChapterCount": 373,
+        "collectCount": 78675,
+        "tag": [
+            {
+                "tagId": 20095,
+                "tagName": "一见钟情"
+            },
+            {
+                "tagId": 20311,
+                "tagName": "破镜重圆"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 40166,
+                "tagName": "霸道"
+            },
+            {
+                "tagId": 40180,
+                "tagName": "护短"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-03-10上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "92"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "7.9"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 812780
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 58,
+        "fans": 27130,
+        "redBean": 15503
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5458984304804301",
+        "authorName": "吉祥夜",
+        "authorGuid": "803010821665",
+        "intro": "阅文集团白金作家，作品《写给鼹鼠先生的情书》荣获第二届网络原创文学现实主义题材征文大赛优胜奖。",
+        "avatar": "https://facepic.qidian.com/qd_face/349573/a401043018/0",
+        "fans": 200948,
+        "total": 17,
+        "items": [
+            {
+                "bookId": "27801520907672704",
+                "bookName": "病娇小师弟今天又在钓我"
+            },
+            {
+                "bookId": "19188324408052104",
+                "bookName": "我寄人间"
+            },
+            {
+                "bookId": "15616007105547604",
+                "bookName": "亲爱的请入剧"
+            },
+            {
+                "bookId": "13017347103192803",
+                "bookName": "我的黑月光女友"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 5106,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "516312171244945408",
+                "type": 0,
+                "title": "",
+                "content": "       大家都在猜宁医生的想法，却有谁读懂了真正的流筝。\n       大家眼中的流筝是什么样子呢？先从流筝的外貌说起吧，她总是自嘲自己是一朵小雏菊，可其他眼中的她呢？\n        她应该是个貌美如花的女子吧，她总说苗苗很美很美，但是她在同学眼中呢？（同学偷看她日记时，怂恿她去表白时说一句咱们流筝也不差吗，还有糟心的弟弟可以当男二，可以看出姐姐也应该是极美的，在与苗苗重逢时，苗苗说过流筝像她的名字一样美）；她应该有一双很漂亮的眼睛（她总说宁老师的眼睛星光闪闪，但她的眼睛也应该是秋水碧波，文中有写宁老师给她拿酒精擦脸时有写）；她应该是一个气质干净的女孩（文中有写她会跳舞，会跳舞的女孩气质一般都不错，可想女主气质很好，苗苗说流筝的眼睛干净的像天空一样，可见流筝有多干净简单）。\n        流筝是一个内心强大的人，为什么这样说呢？她选择嫁给宁至谦就应该知道她可能永远也比不过那个爱而不得的妹妹，一般人是没有这个勇气去选择这样的一个爱人的。\n        流筝是一个温暖的人，她心疼宁老师，想用自己去温暖一个受伤的心。\n       流筝是一个乐观的人，在她的前一段婚姻里，其实她并不快乐，却每天用微笑面对，难道这样的人不强大乐观吗？\n       流筝同时也是一个孤寂忧伤的女人，因为她的内心从不对别人诉说，忧伤从来自已承担，活在一个人的世界当中。\n        流筝也是一个通透的人，她知道温宜的心结，她劝流筝要掌握自已的心，这样才不会轻易受伤害，其实人的根本在于自己心中所想，想开了，也就无所谓了。\n       流筝也是一个敢于面对问题的人，（文中说回忆里有一处伤是温宜的，宁家父子的，甚至是她的，但是解决问题的办法是面对而不是逃避）面对了，问题才会有解决的办法。\n       流筝是个有大爱的女人，首先她的职业就可以看出（在庙会上抢救病人，手术做完后她说了一句话医生还是很渺小的，只可以治病，却不能医命。还有她告诉宁想一个人的心和一个人的爱可以承载很多很多）\n        流筝是一个大度，大气的女人（因为宁老师的过去，并不是一个普通女人可以承受的，这样的女人需要有强大的包容心，并且大气的全盘接受）\n         流筝身上还有一种坚韧不拔的品质，她可以坚守某种信仰数十年如一日，她身上具有传统东方女人的特性很伟大，温润如玉，润物细无声。\n         以上都是流筝的品质，温婉，大气，大度，通透，智慧等等。\n        流筝做为小女人时，也是娇俏，灵动，活泼，热情，迷糊，单纯，有时也很傻。\n         这样的一个女人太美好，做为一个女人我都喜欢她，何况如果有人读懂了她的一切，会把她视为生命的。\n         我喜欢她，也怜惜她，她从不自怨自怜，也活的很洒脱，每天都让自己努力过的开心，爱而不得又觉的不能给人带幸福，痛快说拜拜。\n       这样的女孩太美好了，太善良了，也太懂事，但也太让人心疼了。\n       我想宁医生是懂流筝的所有一切的吧，所有的美好的吧！\n       我喜欢你流筝，是很喜欢，很喜欢哦，我的女孩，无法替代。",
+                "createTime": 1598524591000,
+                "userId": "120006315071",
+                "nickName": "遇见你之后",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 17,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 153,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 4,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 6,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "279697274148290675",
+                "type": 0,
+                "title": "",
+                "content": "从来只心疼流筝！！！我也没有不喜欢苗苗，但我觉得她其实是幸福的。苗苗和想想的感情里，我没有看到苗苗为想想做过什么，一直都是想想在付出。苗苗是被爱的那个，哪怕是分开了，想想对她的爱也一直到亲手把她交给方团长为止。甚至为了苗苗伤害了流筝。对比一下流筝13年来的暗恋和等待，心酸到想哭。\n        我一直觉得，是因为苗苗喜欢才会有谦谦君子般的想想。为了苗苗才变成的想想。不是那个从小就会打群架，腹黑，霸道的宁至谦，是流筝的爱让至谦做回最真实的自己。",
+                "createTime": 1542143161000,
+                "userId": "2863415075",
+                "nickName": "红袖书友15421308173215714",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 16,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 160,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 13,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "305971271848558692",
+                "type": 0,
+                "title": "",
+                "content": "喜欢看小说，是因为它的不现实，如果小说写的太现实与难过，我就选择不看了",
+                "createTime": 1548379914000,
+                "userId": "854000367779",
+                "nickName": "莎粑",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854000362422_1548032545236/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 40,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/9480_9582_%E4%BC%AF%E4%B9%90%E6%8C%82%E4%BB%B6.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

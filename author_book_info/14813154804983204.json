@@ -1,0 +1,267 @@
+{
+    "bookInfo": {
+        "bookId": "14813154804983204",
+        "bookName": "两个我都在说爱你",
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30028,
+        "subCategoryName": "豪门世家",
+        "description": "新文《你惊扰了时光》已发，喜欢的小仙女可以先收藏啦！\r\n【升大二的这个暑假，夏如荞当“妈”了！】\r\n她蹲下身，握着萨摩耶毛茸茸的爪子：“炸鸡，妈妈给你找个男朋友好不好？”\r\n身后，爸爸倚着门框冷冷一笑：“自己都没着落，还好意思替狗着急？”\r\n妈妈同样补了一刀：“我跟你这么大的时候，都已经跟你爸谈恋爱一年了。”\r\n后来“炸鸡”成功脱单了，对象是一个微信名叫【1101】的人养的狗。\r\n【1101】：Beer说想见媳妇了。\r\n【君子如荞】：你意思要见面吗？\r\n【1101】：嗯，下聘。\r\n夏如荞：肖牧，当初说好下聘的，聘礼呢？\r\n肖牧抬了抬与她十指紧扣的手：我的聘礼，你不是早就握在手心了吗？\r\n往后余生，只想和你婚！\r\n",
+        "lastVipChapterId": "43787049647976826",
+        "lastVipChapterName": "尾声（2）",
+        "lastVipChapterTime": 1583164877000,
+        "lastChapterId": "40647591226483958",
+        "lastChapterName": "第82章 狂魔你知道吧",
+        "lastChapterTime": 1571501002000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 641545,
+        "totalChapterCount": 630,
+        "collectCount": 23219,
+        "tag": [
+            {
+                "tagId": 20078,
+                "tagName": "HE"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 30131,
+                "tagName": "男神"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            },
+            {
+                "tagId": 20090,
+                "tagName": "豪门"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-09-12上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "64"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "2.3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1568177144448,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 26350297
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 391,
+        "fans": 10985,
+        "redBean": 64274
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7944932004215201",
+        "authorName": "小柚子茶",
+        "authorGuid": "120002683845",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+        "fans": 83859,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "23140429909042704",
+                "bookName": "夫人她每天都想摸鱼摆烂"
+            },
+            {
+                "bookId": "21638836501986804",
+                "bookName": "他与她逆光而行"
+            },
+            {
+                "bookId": "20182811201393604",
+                "bookName": "夫人被我越宠越凶"
+            },
+            {
+                "bookId": "18022368401796304",
+                "bookName": "魂归后宿敌总想跟我谈恋爱"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4382,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "393734090911711232",
+                "type": 0,
+                "title": "",
+                "content": "哈喽，大家好，我是本文的作者小柚子茶！\n又开新文了，又是小甜文。\n所以非常感谢各位支持老肖和荞荞的故事！\n嗯，老肖，真的是典型的两面派，嘴上说着嫌弃，心里爱的要命！\n我家荞荞呢，是敲可爱，敲软萌，敲温柔的小姐姐！\n还有炸鸡和Beer……\n总之，我们一起期待一下吧，记得双击……哦不，记得收藏，么么哒！",
+                "createTime": 1569299699000,
+                "userId": "120002683845",
+                "nickName": "小柚子茶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+                "replyCount": 16,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 87,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "7944932004215201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "406035004041461760",
+                "type": 0,
+                "title": "",
+                "content": "这篇文是我一个字一个字写出来的，就像我的孩子，我不是全职作者，我还有别的工作，每天下班回家已经很累了，但是我还是坚持写下来，说我抄袭，可以，拿出证据，我抄袭谁了，真是没想到，我也不是大神，也不是明星，居然也会有人来黑我，这个世界真的！还是那句话，拿出证据，没有证据，就请闭嘴",
+                "createTime": 1572232465000,
+                "userId": "120002683845",
+                "nickName": "小柚子茶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-12-14/842e0b4c2d269d64abcec11f43c07841oP6D834T2Wo2p4D.jpg",
+                "replyCount": 22,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 89,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/6359_%E9%94%A6%E9%B2%A4%E6%A1%86S384.png",
+                "authorId": "7944932004215201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "392233491275907153",
+                "type": 0,
+                "title": "",
+                "content": "为什么没有加入收藏这个选项",
+                "createTime": 1568946611000,
+                "userId": "800218471755",
+                "nickName": "赵妖净",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/800218476375_1565244947589/100",
+                "replyCount": 6,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 61,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1049_%E9%80%A2%E8%80%83%E5%BF%85%E8%BF%87.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

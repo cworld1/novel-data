@@ -1,0 +1,368 @@
+{
+    "bookInfo": {
+        "bookId": "11426933303491703",
+        "bookName": "医婚",
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30022,
+        "subCategoryName": "婚恋情缘",
+        "description": "【全文已完结，番外都是独立故事篇章，可放心入坑！】 \r\n  正文简介：\r\n     传闻医学界翘楚，世家出身的陆家二少高冷，不近女色，至今单身，殊不知他有个隐婚两年之久的律师妻。\r\n     你想离婚？”\r\n   “恩。”\r\n   “理由。”\r\n     她噙着抹笑：“根据婚姻法规定分局两年以上的是可以要求离婚的，这，算不算理由？”",
+        "lastVipChapterId": "38628369798285121",
+        "lastVipChapterName": "003：说好的余生，定不负她",
+        "lastVipChapterTime": 1564675757000,
+        "lastChapterId": "31467817490144648",
+        "lastChapterName": "117：重逢的画面",
+        "lastChapterTime": 1538632815000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 1830429,
+        "totalChapterCount": 566,
+        "collectCount": 80680,
+        "tag": [
+            {
+                "tagId": 20102,
+                "tagName": "先婚后爱"
+            },
+            {
+                "tagId": 20036,
+                "tagName": "隐婚"
+            },
+            {
+                "tagId": 30384,
+                "tagName": "痴情"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-08-15上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "183"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "8.1"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1562745226860,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 22852344
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 236,
+        "fans": 23631,
+        "redBean": 33134
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10487557603400401",
+        "authorName": "槿郗",
+        "authorGuid": "854000517740",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+        "fans": 44736,
+        "total": 7,
+        "items": [
+            {
+                "bookId": "25639927501415304",
+                "bookName": "炙婚久骄"
+            },
+            {
+                "bookId": "24920432001880504",
+                "bookName": "恃婚生骄"
+            },
+            {
+                "bookId": "22921404701234304",
+                "bookName": "闪婚后，首富老公抱着我不撒手"
+            },
+            {
+                "bookId": "20831154108229704",
+                "bookName": "夫人是个小撩精"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "35114459219692641",
+                "roleName": "陆奕旸",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "6970"
+                },
+                "roleType": 1,
+                "popularCnt": 6970,
+                "createTime": 1550853154000
+            },
+            {
+                "roleId": "35114480691541014",
+                "roleName": "乔语微",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "4463"
+                },
+                "roleType": 1,
+                "popularCnt": 4463,
+                "createTime": 1550853234000
+            },
+            {
+                "roleId": "35114424601800306",
+                "roleName": "苏默南",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "3137"
+                },
+                "roleType": 1,
+                "popularCnt": 3137,
+                "createTime": 1550853025000
+            },
+            {
+                "roleId": "35114441484810890",
+                "roleName": "秦子衿",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "1744"
+                },
+                "roleType": 1,
+                "popularCnt": 1744,
+                "createTime": 1550853088000
+            },
+            {
+                "roleId": "36761415181996056",
+                "roleName": "乔诗微",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "964"
+                },
+                "roleType": 7,
+                "popularCnt": 964,
+                "createTime": 1556988543000
+            },
+            {
+                "roleId": "36761430986568136",
+                "roleName": "程北淮",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "842"
+                },
+                "roleType": 6,
+                "popularCnt": 842,
+                "createTime": 1556988603000
+            },
+            {
+                "roleId": "36761371659676591",
+                "roleName": "傅靳恒",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "684"
+                },
+                "roleType": 6,
+                "popularCnt": 684,
+                "createTime": 1556988381000
+            },
+            {
+                "roleId": "36761395048026504",
+                "roleName": "宋堇安",
+                "bookRank": 8,
+                "bookRankStr": "08",
+                "popular": {
+                    "unit": "",
+                    "count": "557"
+                },
+                "roleType": 7,
+                "popularCnt": 557,
+                "createTime": 1556988468000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 5736,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "350913976110153757",
+                "type": 0,
+                "title": "【傅之安然VS谈案说情】",
+                "content": "「傅之安然VS谈案说情」都说土味情话可以虏获芳心，傅靳恒在没认识宋堇安之前确实是这样认为的，但认识后，他就开始怀疑人生了。\n“宋警官，你是不是缺点什么东西？”\n“什么？”\n“缺点我。”\n“你是东西？”\n“不是……。”\n“那你到底是不是个东西？”\n“……”\n他该说是还是该说不是呢？\n后来，宋堇安破天荒的问了傅靳恒一句：“你知道我喜欢你哪一点吗？”\n“我你离近一点。”\n“不，现在离我远点，你坐着我资料了。”\n“……”\n口是心非的女人果然不太好惹。\n【这是个灰常正经的检察官为了追高冷妻子而变得非常不正经的爱情故事】",
+                "createTime": 1559092277000,
+                "userId": "854000517740",
+                "nickName": "槿郗",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+                "replyCount": 32,
+                "top": 1,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 133,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "10487557603400401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "334705297887330368",
+                "type": 0,
+                "title": "",
+                "content": "作者大大求轻虐求加更！！！",
+                "createTime": 1555230804000,
+                "userId": "1787392467",
+                "nickName": "拒绝白兰地岚鹄才是王道",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1787399126_1556882544537/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 29,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "276833190935593005",
+                "type": 0,
+                "title": "说一下",
+                "content": "「说一下」那个……有些评论我没有去回复并不代表我没有看到，只是可能系统的原因在网页没有显示出来，后台看见了也回复不了，所以那些没有回复到评论的宝宝们谅解下哈！！相信我已经在心里回复过你们啦！！！感谢的话说过很多遍，但依旧不觉得厌，你们的支持就是我最大的动力，谢谢你们的陪伴，也灰常感谢那些丢打赏投推荐票和月票还有订阅的小仙女们，你们是最美的，槿郗不接受任何反驳，爱你们，手动笔芯给你们，还有关于更新的时间虽然说过很多遍，但还是和你们说一下吧！由于这段时间我们这里的网络时常抽风不正常，所以有时候会断网，如果亲们没有在凌晨看到更新也没有看到我发出来的通知的话，那宝宝们可以在晚上九点到十点这个时间断来看，我以我的人格发誓，绝对不会断更，就算匍匐前进去网吧我也也要给你们更新上，目前的更新字数保底是六千，会不定时的去加更，具体如果有加更的话，我会在评论区另行通知大家的，好了，今天的废话就这么多了，祝各位小仙女们阅文愉快，越来越漂亮，么么哒！！！爱你们哟！！",
+                "createTime": 1541434999000,
+                "userId": "854000517740",
+                "nickName": "槿郗",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-07-29/6102b22f0be1f.jpeg",
+                "replyCount": 5,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 41,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 2,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "10487557603400401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 8,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

@@ -1,0 +1,230 @@
+{
+    "bookInfo": {
+        "bookId": "28820453107372004",
+        "bookName": "欢迎来到梦境世界",
+        "authorId": "19101967308064401",
+        "authorName": "长枳",
+        "categoryId": 30042,
+        "categoryName": "科幻空间",
+        "subCategoryId": 30049,
+        "subCategoryName": "末世危机",
+        "description": "祝岁恩被迫传送进入了一场全民参与的梦境游戏。\n\n只是这个游戏好像不太一样。\n \n它没有角色积分排行榜，没有一个基本的玩家交流大厅，甚至游戏副本通关都没有任何的通关奖励。\n\n但它对新人非常的友好，会赠送新人一次游戏副本提示权。\n——真的很友好呢，友好到使用提示权便会死。\n\n它的副本时长并不会让人玩儿的厌烦，副本设定的有效通关时长绝不超过七天，就怕玩家待烦。\n——确实不会厌烦呢，因为充满的都是随时会死亡的恐惧，大部分玩家根本活不到第七天，能坚持到第三天的都是奇迹。\n \n它也十分的安静，副本进行途中从来不会乱发机械语音提示，只为给玩家最好的游戏体验感。\n——确实很安静呢，安静到除了副本解说，它根本不给任何多余提示。\n——当然，其中自然也包括队友已死亡的提示。\n\n…\n\n进入梦境世界前祝岁恩对梦境世界的态度：\n——这个假设不成立。\n\n进入梦境世界后祝岁恩对梦境世界的态度：\n——究竟是我们在玩游戏，还是游戏在玩我们。\n——我们所处的世界就一定是真实的世界吗？梦境中的世界又真的是梦境吗？",
+        "lastVipChapterId": "78413232754182864",
+        "lastVipChapterName": "第四十六章 玫瑰列车（06）",
+        "lastVipChapterTime": 1712159865000,
+        "lastChapterId": "77853425089440542",
+        "lastChapterName": "第二十七章 保质期（03）",
+        "lastChapterTime": 1710336733000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "连载",
+        "wordsCount": 134072,
+        "totalChapterCount": 46,
+        "collectCount": 17,
+        "tag": [
+            {
+                "tagId": 20353,
+                "tagName": "游戏异界"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20451,
+                "tagName": "无限流"
+            },
+            {
+                "tagId": 20052,
+                "tagName": "悬疑推理"
+            },
+            {
+                "tagId": 30380,
+                "tagName": "超A"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 10011,
+                "tagName": "科幻"
+            },
+            {
+                "tagId": 20086,
+                "tagName": "末世"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2024-02-19上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "13"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "17"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1708412319670,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 49057366
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 2,
+        "redBean": 2
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员75折",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "19101967308064401",
+        "authorName": "长枳",
+        "authorGuid": "3028023745",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-01/f2ef6bdb57796d20746979117dc8df8b4HbFy5sqi7881m3.jpg",
+        "fans": 655,
+        "total": 4,
+        "items": [
+            {
+                "bookId": "20805366208280104",
+                "bookName": "再度热恋"
+            },
+            {
+                "bookId": "20572215408175704",
+                "bookName": "诱他入眠"
+            },
+            {
+                "bookId": "19102013408135704",
+                "bookName": "她的花孔雀"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "77496872172232839",
+                "roleName": "祝岁恩",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "2"
+                },
+                "roleType": 5,
+                "popularCnt": 2,
+                "createTime": 1708739946000
+            },
+            {
+                "roleId": "77496893378635871",
+                "roleName": "裴愈安",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "0"
+                },
+                "roleType": 4,
+                "popularCnt": 0,
+                "createTime": 1708740025000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 1,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "983875766201483264",
+                "type": 0,
+                "title": "",
+                "content": "男主是裴愈安？",
+                "createTime": 1710000439000,
+                "userId": "3302315155",
+                "nickName": "半夏未澜",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/3302319778_1671276188351/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/5999_%E9%94%98%E8%B7%A8%E5%AD%A9%E7%90%9A%E6%A0%AB%EE%84%B7%E9%8D%92_365_258.webp",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": "河南"
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

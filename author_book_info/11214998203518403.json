@@ -1,0 +1,351 @@
+{
+    "bookInfo": {
+        "bookId": "11214998203518403",
+        "bookName": "草根女帝",
+        "authorId": "10139519403279701",
+        "authorName": "杨不寻",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "群：816623654\r\n新书预收：《别和叔叔抢糖》\r\n本帝不与女斗，与天斗！\r\n快速登基成女帝，国弱势威根本没在怕的，我和老天慢慢磨，总有逆天崛起那一日。\r\n霸道国君、温柔少主、病娇王爷、十二宫天团，各式美男如云。\r\n然而本女帝只想振兴国家，诸位美人，请你们自重！\r\n*第一人称正剧*HE*更新保证*\r\n*请支持正版订阅*",
+        "lastVipChapterId": "33618862746091804",
+        "lastVipChapterName": "第308章 沿途美景与你共赏（完结）",
+        "lastVipChapterTime": 1545281740000,
+        "lastChapterId": "31274917082022301",
+        "lastChapterName": "第62章 国家机器艰难重启",
+        "lastChapterTime": 1537444834000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 669415,
+        "totalChapterCount": 308,
+        "collectCount": 275,
+        "tag": [
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20040,
+                "tagName": "宅斗"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2018-07-22上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "67"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "275"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 22636842
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 5,
+        "fans": 37,
+        "redBean": 271
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "10139519403279701",
+        "authorName": "杨不寻",
+        "authorGuid": "1450779889",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-06-14/5ee61dfe70c36.jpeg",
+        "fans": 464,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "21890201001610804",
+                "bookName": "穿越后有个皇位等着我继承"
+            },
+            {
+                "bookId": "12342233803914603",
+                "bookName": "游戏朋克"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "30394649324310349",
+                "roleName": "雷决",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "234"
+                },
+                "roleType": 4,
+                "popularCnt": 234,
+                "createTime": 1533270492000
+            },
+            {
+                "roleId": "30353807421758682",
+                "roleName": "玄瑚",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "150"
+                },
+                "roleType": 5,
+                "popularCnt": 150,
+                "createTime": 1533118346000
+            },
+            {
+                "roleId": "30394663805414625",
+                "roleName": "雷念",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "134"
+                },
+                "roleType": 1,
+                "popularCnt": 134,
+                "createTime": 1533270546000
+            },
+            {
+                "roleId": "30742056353617196",
+                "roleName": "言域",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "",
+                    "count": "51"
+                },
+                "roleType": 1,
+                "popularCnt": 51,
+                "createTime": 1534564684000
+            },
+            {
+                "roleId": "30742067076488357",
+                "roleName": "暮长烟",
+                "bookRank": 5,
+                "bookRankStr": "05",
+                "popular": {
+                    "unit": "",
+                    "count": "5"
+                },
+                "roleType": 2,
+                "popularCnt": 5,
+                "createTime": 1534564724000
+            },
+            {
+                "roleId": "31274833087054958",
+                "roleName": "皓渊",
+                "bookRank": 6,
+                "bookRankStr": "06",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 6,
+                "popularCnt": 1,
+                "createTime": 1536549432000
+            },
+            {
+                "roleId": "31274848104226613",
+                "roleName": "长染",
+                "bookRank": 7,
+                "bookRankStr": "07",
+                "popular": {
+                    "unit": "",
+                    "count": "1"
+                },
+                "roleType": 6,
+                "popularCnt": 1,
+                "createTime": 1536549489000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 276,
+        "bookCommentCount": 1,
+        "chapterCommentCount": 2,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "389063141390286889",
+                "type": 0,
+                "title": "",
+                "content": "看头像发现是一起混过起点的人，后面写的书和第一本风格差很多呀，不过挺好的。",
+                "createTime": 1568190830000,
+                "userId": "800218471755",
+                "nickName": "赵妖净",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/800218476375_1565244947589/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/1049_%E9%80%A2%E8%80%83%E5%BF%85%E8%BF%87.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 20,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "257297386806902785",
+                "type": 3,
+                "title": "",
+                "content": "言域是资深妹控导致的吧？妹妹活着就要上演德国骨科了？",
+                "createTime": 1543670977723,
+                "userId": "854001933960",
+                "nickName": "书友20210301415367803828",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854001933512_1544409767637/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "30747418599862633",
+                "chapterName": "第54章 不好女色求喜当爹",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "41",
+                "paragraphContent": "“为兄不好女色，这一生也不想耽误谁家姑娘，故而一早便下定决心，此生不娶。若你也决定此生不嫁，你我岂不正好凑做一对，共度余生，也算不负你我相识知己的缘分。”",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "249580436186071040",
+                "type": 3,
+                "title": "",
+                "content": "那当然，曹操可是一代枭雄啊，有一统天下的智慧，势力和能力，文韬武略都很厉害，只是那时候变数太多，卧龙雏凤，赤壁之战，荀彧英年早逝……",
+                "createTime": 1543433670970,
+                "userId": "854008951453",
+                "nickName": "c84",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854008951542_1544409768457/100",
+                "replyCount": 0,
+                "top": 0,
+                "better": 1,
+                "chapterId": "30324774500932964",
+                "chapterName": "第14章 粗品三国表露心意",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "18",
+                "paragraphContent": "果然啊，什么帝王将相都会喜欢曹操这样的乱世枭雄。",
+                "disableRead": 0,
+                "expLevel": 0,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

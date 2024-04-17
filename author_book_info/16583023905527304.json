@@ -1,0 +1,146 @@
+{
+    "bookInfo": {
+        "bookId": "16583023905527304",
+        "bookName": "重生之公子是个泼辣货",
+        "authorId": "11744782703748501",
+        "authorName": "少华章",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30017,
+        "subCategoryName": "穿越奇情",
+        "description": "一个农村妇女在树林中被丈夫掐死，一睁眼,竟然附身在一个古代少年的身体中。\n被活埋的少年，从密林深处的土坑中爬了出来，他是活着？还是死了？\n刘府大院，似虎狼之地，要想活下去，成了他最迫切的事情。\n跳出“一个黑坑”，等待他的，竟是更大一个深幽无底的“黑坑”……\n爱她，给她命够么？爱我？葬送你的一生么？\n这一生注定了，因你而来，随你而去……我欲乘风而去，你却拎着我的耳朵说：哪里逃？\n哪敢逃，我是替你看看这人世最美的风景，揽你入怀，携你而去……",
+        "lastVipChapterId": "0",
+        "lastVipChapterName": "",
+        "lastVipChapterTime": 0,
+        "lastChapterId": "44634879967083609",
+        "lastChapterName": "第七章 暗藏在自己身边最大的一只鬼",
+        "lastChapterTime": 1586329811000,
+        "isVip": 0,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 4250,
+        "totalChapterCount": 2,
+        "collectCount": 1,
+        "tag": [
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            },
+            {
+                "tagId": 20017,
+                "tagName": "穿越"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 0,
+        "enableGift": 0,
+        "copyright": "2020-04-05上架\n版权：起点女生网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "",
+            "count": "4250"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1586057552383,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 30260850
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 1,
+        "redBean": 28
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "11744782703748501",
+        "authorName": "少华章",
+        "authorGuid": "2271746232",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-04-10/60719dc9326fc.jpeg",
+        "fans": 128,
+        "total": 9,
+        "items": [
+            {
+                "bookId": "21845019201436004",
+                "bookName": "农家悍姐"
+            },
+            {
+                "bookId": "18907787508196904",
+                "bookName": "我穿成了八个大佬崽崽的娘亲"
+            },
+            {
+                "bookId": "17364934305950304",
+                "bookName": "我与神兽追凶的日子"
+            },
+            {
+                "bookId": "15511931705708704",
+                "bookName": "玉面抚耳唤青青"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

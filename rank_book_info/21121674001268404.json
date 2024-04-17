@@ -1,0 +1,314 @@
+{
+    "bookInfo": {
+        "bookId": "21121674001268404",
+        "bookName": "墨爷天天都想吃软饭",
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30027,
+        "subCategoryName": "都市异能",
+        "description": "（玄学+捉妖+团宠+1V1甜爽燃！）\r\n众所周知，京都墨二爷被乐游大师批命：天降孤星，命中带煞。\r\n有不信邪的豪门千金，前仆后继凑上去。\r\n下场……不言而喻。\r\n墨爷不在乎，单身就单身，情路都斩断！\r\n然鹅，自从那个只收玉器，不收金银财宝的小神棍出现，墨二爷画风突变。\r\n天天上赶着给人家收钱，原因无他……\r\n小神棍太穷了！\r\n墨二爷：我媳妇与人为善，看风水不取金银，但你们得给钱。\r\n墨二爷：我媳妇心地纯良，测吉凶不收财宝，但你们得给钱。\r\n墨二爷：我媳妇天真无邪，看面相不……\r\n众人唏嘘：二爷，孟大师在京都有座郡王府，价值连城！孟大师身怀异能，各界大佬纷纷捧着金银财宝，请都请不动！\r\n墨二爷：……\r\n后知后觉，他才发现，小媳妇才是深藏不露的真大佬！\r\n墨二爷暗自握拳：媳妇的大腿要抱紧！媳妇的金库要捂紧！\r\n 媳妇的软饭——真香(*/ω＼*)～",
+        "lastVipChapterId": "60022952884154194",
+        "lastVipChapterName": "全文完",
+        "lastVipChapterTime": 1643644640000,
+        "lastChapterId": "57899277582045605",
+        "lastChapterName": "上架通知～",
+        "lastChapterTime": 1635733218000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 414113,
+        "totalChapterCount": 254,
+        "collectCount": 4692,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20060,
+                "tagName": "女强"
+            },
+            {
+                "tagId": 20061,
+                "tagName": "强强"
+            },
+            {
+                "tagId": 20062,
+                "tagName": "玄学"
+            },
+            {
+                "tagId": 20326,
+                "tagName": "虐渣"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 30410,
+                "tagName": "全能"
+            },
+            {
+                "tagId": 40177,
+                "tagName": "杀伐果断"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 1,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-09-14上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "41"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "4692"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1637904552175,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 40679995
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 85,
+        "fans": 730,
+        "redBean": 4411
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "authorGuid": "803035205101",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-09-11/5f5b02f1cb183.jpeg",
+        "fans": 37172,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "17679014807876804",
+                "bookName": "觉醒吧虐文女主"
+            },
+            {
+                "bookId": "16334069504962704",
+                "bookName": "大佬争着要宠我"
+            },
+            {
+                "bookId": "14148238405002404",
+                "bookName": "我家影后，超凶萌！"
+            },
+            {
+                "bookId": "7779600904171401",
+                "bookName": "快穿直播：攻略反派大BOSS"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "56839679890660182",
+                "roleName": "孟晚",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "",
+                    "count": "9513"
+                },
+                "roleType": 5,
+                "popularCnt": 9513,
+                "createTime": 1631785908000
+            },
+            {
+                "roleId": "56839692238685926",
+                "roleName": "墨砚",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "2341"
+                },
+                "roleType": 4,
+                "popularCnt": 2341,
+                "createTime": 1631785954000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 652,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "655025500183461888",
+                "type": 0,
+                "title": "",
+                "content": "滴～新书打卡\n鱼鱼冲鸭",
+                "createTime": 1631596425000,
+                "userId": "398097648",
+                "nickName": "子染.",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/398092075_1632106693769/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 3,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "655018206427217920",
+                "type": 0,
+                "title": "",
+                "content": "新书发布！\n从影后到墨爷！\n一直追！\n祝鱼鱼新书大火！\n冲鸭！！！",
+                "createTime": 1631594686000,
+                "userId": "2778198350",
+                "nickName": "没口袋的哆啦",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2778194833_1649128548722/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 6,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/4419_yefeiye.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 21,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "655013936399319040",
+                "type": 0,
+                "title": "",
+                "content": "新书嗳，打卡(*˘︶˘*).｡.:*♡",
+                "createTime": 1631593668000,
+                "userId": "2016323827",
+                "nickName": "海绵饱饱521",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/2016322350_1644404763100/100",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 3,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 15,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

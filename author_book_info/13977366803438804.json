@@ -1,0 +1,263 @@
+{
+    "bookInfo": {
+        "bookId": "13977366803438804",
+        "bookName": "九零长女有点苏",
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "categoryId": 30020,
+        "categoryName": "现代言情",
+        "subCategoryId": 30021,
+        "subCategoryName": "都市生活",
+        "description": "自古寒门难出贵子？原生家庭影响下一代？读书无用论，女人就该认命安分？\r\n曲凡表示奋起不服，誓要扭转这穷困苦的设定。\r\n某只见到曲凡的时候，就对发小夸下海口：“这种土鳖捞女，不出一月，本少爷就能拿下，赌？”\r\n这一赌，号称战无不胜的撩妹战斗机的某输了个彻头彻尾。\r\n这一赌，就是十年余，某人才抱得美人归，结婚当日，泪流长河，为啥？一腔激动辛酸泪，苦的！\r\n某天，曲凡对某奶爸道：“听说你当初只想和我玩玩，还下了赌注啊？”\r\n某少熟练的换着尿布道：“可不是，特么一场豪赌，把老子都坑进去了，现世报啊！”\r\n“哦，现世报？”阴恻恻的磨牙声。\r\n某少头皮一麻，端正立正稍息：“报告老婆大人，这个现世报，我裴某人愿意报个几辈子！”\r\n“妥！”\r\n小奶娃咯咯笑曰：豪赌一时爽，一直豪赌一直爽！\r\n\r\n",
+        "lastVipChapterId": "42437036737013165",
+        "lastVipChapterName": "番外 惜今生",
+        "lastVipChapterTime": 1578285773000,
+        "lastChapterId": "38589161049685019",
+        "lastChapterName": "第98章 恶毒",
+        "lastChapterTime": 1563858026000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 790000,
+        "totalChapterCount": 763,
+        "collectCount": 1325,
+        "tag": [
+            {
+                "tagId": 20326,
+                "tagName": "虐渣"
+            },
+            {
+                "tagId": 70227,
+                "tagName": "正剧"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 10001,
+                "tagName": "现言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2019-06-09上架\n版权：云起书院\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "79"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "1325"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1560248546505,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 25516169
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 392,
+        "redBean": 366
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5285699503215401",
+        "authorName": "燕小陌",
+        "authorGuid": "801000085520",
+        "intro": "阅文集团大神作家，只想做个安静有坑品的好作者！",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+        "fans": 4657,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "24604915301478504",
+                "bookName": "大小姐她总是不求上进"
+            },
+            {
+                "bookId": "16793488904152804",
+                "bookName": "带着空间重生八零了"
+            },
+            {
+                "bookId": "10027934804677503",
+                "bookName": "旺福小娘子"
+            },
+            {
+                "bookId": "4066980404814601",
+                "bookName": "长女"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 37,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "403222947856384000",
+                "type": 0,
+                "title": "章节倒片",
+                "content": "「章节倒片」嗯，关于周日章节倒片，我的解释是一定是后台网周末喝嗨了然后倒片……哈啊……尬笑",
+                "createTime": 1571562019000,
+                "userId": "801000085520",
+                "nickName": "燕小陌",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2024-04-02/a3da1763a73da69191a8d62b91876f8avjLYTGS9eZDGsqI.jpg",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 1,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "5285699503215401",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 1,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "374424325522063407",
+                "type": 0,
+                "title": "",
+                "content": "话说作者你的【你和我的八十年代】怎么突然下架了，那本书也超级好看，本来想重温一遍的，发现这本书在书架上显示（本书已下架），只能看已购买的章节了。",
+                "createTime": 1564698474000,
+                "userId": "854009977168",
+                "nickName": "D倾尔",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/854009974485_1564707253817/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 4,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 12,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "452213417940418560",
+                "type": 0,
+                "title": "",
+                "content": "……就这么多，资深看客还是别看了",
+                "createTime": 1583242257000,
+                "userId": "119090331907",
+                "nickName": "阿芸595882958",
+                "avatar": "https://readx-her-1252317822.image.myqcloud.com/static/headerImgNew.png",
+                "replyCount": 0,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 0,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "http://readx-her-1252317822.image.myqcloud.com/boss/7741_%E4%BA%8C%E6%9C%88%E6%B5%81%E9%87%91.png",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 10,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

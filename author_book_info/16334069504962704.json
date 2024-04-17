@@ -1,0 +1,291 @@
+{
+    "bookInfo": {
+        "bookId": "16334069504962704",
+        "bookName": "大佬争着要宠我",
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "categoryId": 30050,
+        "categoryName": "游戏竞技",
+        "subCategoryId": 30052,
+        "subCategoryName": "网游情缘",
+        "description": "（baby们～我终于又双叒开新坑了《去TM的虐文女主》无敌大爽文！专业打脸虐文里的渣男贱女！欢迎来看，入坑不亏哟～）\n某天，元宝的手机里忽然多了一款画风清奇的，养成纸片人游戏。\n　　说好不氪金的她，被骗氪整整十万RMB！\n　　瞬间从小富婆，变成了穷光蛋！\n　　然而，系统给她的福利，远不止这些……\n　　她忽然被一股神秘力量所救……\n　　发烧时，梦见有人喂她吃药……\n　　胃疼时，小米粥、鸡蛋通通备好……\n　　就连姨妈报道，床头都莫名多出一碗红糖水……\n　　元宝本以为自己养了个纸片人，谁知道崽崽突然变大佬，她成了被宠的那一个！\n　　更可怕的是，崽崽身穿游戏，忽然出现在她家里，与顶流爱豆争着抢着要宠她！\n　　　",
+        "lastVipChapterId": "47866115447566392",
+        "lastVipChapterName": "全文完",
+        "lastVipChapterTime": 1598356919000,
+        "lastChapterId": "44810761008559360",
+        "lastChapterName": "第91章 初见",
+        "lastChapterTime": 1587089893000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 315038,
+        "totalChapterCount": 301,
+        "collectCount": 24253,
+        "tag": [
+            {
+                "tagId": 20047,
+                "tagName": "打脸"
+            },
+            {
+                "tagId": 20028,
+                "tagName": "系统流"
+            },
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 40174,
+                "tagName": "小狼狗"
+            },
+            {
+                "tagId": 30376,
+                "tagName": "大佬"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70223,
+                "tagName": "甜宠"
+            },
+            {
+                "tagId": 70225,
+                "tagName": "爽文"
+            },
+            {
+                "tagId": 20046,
+                "tagName": "励志"
+            },
+            {
+                "tagId": 40180,
+                "tagName": "护短"
+            },
+            {
+                "tagId": 10012,
+                "tagName": "游戏"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-03-07上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "32"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "2.4"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1600067305436,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 29367643
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 132,
+        "fans": 1033,
+        "redBean": 17775
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "7779600904202701",
+        "authorName": "来一大碗糖",
+        "authorGuid": "803035205101",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2020-09-11/5f5b02f1cb183.jpeg",
+        "fans": 37172,
+        "total": 5,
+        "items": [
+            {
+                "bookId": "21121674001268404",
+                "bookName": "墨爷天天都想吃软饭"
+            },
+            {
+                "bookId": "17679014807876804",
+                "bookName": "觉醒吧虐文女主"
+            },
+            {
+                "bookId": "14148238405002404",
+                "bookName": "我家影后，超凶萌！"
+            },
+            {
+                "bookId": "7779600904171401",
+                "bookName": "快穿直播：攻略反派大BOSS"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 596,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "453623927701372928",
+                "type": 0,
+                "title": "",
+                "content": "［互动楼］一个字毁掉一个作品；书/影视剧/音乐：\n孙子兵法👉装孙子兵法",
+                "createTime": 1583578549000,
+                "userId": "398097648",
+                "nickName": "子染.",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/398092075_1632106693769/100",
+                "replyCount": 98,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 48,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 9,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "453621863092977664",
+                "type": 0,
+                "title": "",
+                "content": "我们玩个故事接龙的游戏吧🐟\n \n凡间2020年，天上的锦鲤仙女因为触犯了天条，天帝一怒之下把仙女贬到了凡间，让她化作一条小小的锦鲤在江里。有一天，一个打渔的渔夫捞到了这条小鱼，回家发现它是在太小了，所以把它装在了小瓶子里养着，之后渔夫的家人再打渔的过程中突发意外，他回到家沮丧不已，这时候一个小小的声音:你需要帮助吗？他转过头四处探望，家里只有他一个人啊，怎么会出现其他人的声音呢，难道？于是他僵硬的把目光看向了那一尾小小的锦鲤，四目相对，他们的故事就此开始了...",
+                "createTime": 1583578056000,
+                "userId": "119099689872",
+                "nickName": "踩着月亮去偷蔡",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/119099681976_1593620237509/100",
+                "replyCount": 24,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 34,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 17,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "453605252248305664",
+                "type": 0,
+                "title": "",
+                "content": "祝贺鱼鱼开新坑辽~这次是全新的养成文呢 \n这次的女主我可！毕竟我以前就想当一个既有钱又强势的大佬\n这本的剧情很新颖(不知道你们有没有看过类似的，反正我是没有)\n女主强势有钱小钢炮\n男主吃喝嫖赌没有嫖\n1v1甜爽文\n绝对甜！甜的你牙疼的那种！\n放心追！不会出现断更烂尾的情况\n入坑不亏！！！",
+                "createTime": 1583574096000,
+                "userId": "1879998977",
+                "nickName": "我有刘耀文你没有",
+                "avatar": "https://shp.qpic.cn/hongxiu/0/1879997016_1599715591518/100",
+                "replyCount": 2,
+                "top": 0,
+                "better": 1,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 33,
+                "isLike": 0,
+                "isAuthor": 0,
+                "fansLevel": 7,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 14,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

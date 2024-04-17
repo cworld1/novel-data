@@ -1,0 +1,150 @@
+{
+    "bookInfo": {
+        "bookId": "3735479503128701",
+        "bookName": "暮色晚晴天",
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "categoryId": 30031,
+        "categoryName": "浪漫青春",
+        "subCategoryId": 30034,
+        "subCategoryName": "青春疼痛",
+        "description": "  他和她，原本是素不相识的陌生人,却因为一场错误的婚姻而熟识。\n  他和她，原来性格就是大相径庭的人，却因为容貌的相像而彼此磨合。\n 一场家庭的变故让两个人相识，两个命中注定的宿敌却相爱了，这场爱来得轰轰烈烈，一发不可收拾，这场不被世人看好的恋爱，似乎注定是要经历百般挫折的。\n  他是她的爱人，也是她的仇人，那这场爱情又该如何落下帷幕。\n  有些爱情来得向来都是汹涌澎拜，有些仇人又深入骨髓。\n  在这座喧嚣繁华的城市里，我究竟是我，还是我们还是我们。\n  爱恨情仇，是走是留，究竟该如何抉择？\n  青春是一场颠沛流离的伤，我们是彼此记忆里最美的时光。\n  一个是桀骜不驯、冷漠无情的高冷帝   \n  一个是青春阳光，活泼可爱的向日葵   \n  两个人之间到底发生了怎样的爱情呢？\n",
+        "lastVipChapterId": "19327119881508877",
+        "lastVipChapterName": "第315章   大结局",
+        "lastVipChapterTime": 1469112057000,
+        "lastChapterId": "19327110233244720",
+        "lastChapterName": "第45章     教育夜子辰",
+        "lastChapterTime": 1445485306000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 932489,
+        "totalChapterCount": 295,
+        "collectCount": 209,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20310,
+                "tagName": "相爱相杀"
+            },
+            {
+                "tagId": 10005,
+                "tagName": "青春"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2016-01-06上架\n版权：言情小说吧\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "93"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "209"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 0,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 0,
+        "qqbid": 801902
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 0,
+        "fans": 1426,
+        "redBean": 7
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "5395325704984101",
+        "authorName": "巧克力派",
+        "authorGuid": "802016793278",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/writer/p1/contentv2/photo_default.png",
+        "fans": 79503,
+        "total": 8,
+        "items": [
+            {
+                "bookId": "27445029804678904",
+                "bookName": "豪门弃妇被迫走红了"
+            },
+            {
+                "bookId": "24125475801715104",
+                "bookName": "穿成权臣的首富娇妻"
+            },
+            {
+                "bookId": "20111401108932404",
+                "bookName": "落跑娇妻是大佬"
+            },
+            {
+                "bookId": "17905671206857004",
+                "bookName": "小胖娘也有暴富梦"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 0,
+        "bookCommentCount": 0,
+        "chapterCommentCount": 0,
+        "items": []
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

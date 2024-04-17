@@ -1,0 +1,327 @@
+{
+    "bookInfo": {
+        "bookId": "17155104204051104",
+        "bookName": "夜寒深深醉思量",
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30015,
+        "subCategoryName": "古典架空",
+        "description": "这个故事，只讲醉人的情话，和不负真心地爱与被爱。\n爱你一生一世，不够。\n哪怕是劫难，是天崩地裂，是魂飞魄散，是没有尽头的万世轮回，我都要重回你身畔，牵你的手，与你同醉，笑看浮生若梦。\n我醉了，我哭了，我真的受伤了。思念着你的长发，你的浅笑与温柔，夜却那么长……\n我不会杀你，但我会杀了一切与你有关的。让你生不如死，用余生与来世后悔，为何要狠心离开我？\n为你欢喜，我愿生生世世来度。即使你会忘记我的模样，我的名字。\n爱是放弃，爱是牺牲，爱是慈悲。因为爱你，我终于有了真心……\n夜寒深深醉思量，此情绵绵难自忘，你心底藏着的那个人，是谁？\n2018华语言情大赛优秀作品《寒月夜》续篇《夜寒深深醉思量》，脑洞大开的新古风言情小说，有甜也有虐，但够劲儿还会上头呢，那你敢不敢来与我痛饮一杯，情到深处的醉？\n当现世与异世被冥洞穿透，释放出上古老神祖龙与凤凰的转生。来自不同空间的男女，因为灵魂对调而阴错阳差相遇，从此也开始了爱恨情仇的百转千回。最终，两对穿越前生今世的情侣，都找到了自己的真爱。",
+        "lastVipChapterId": "54676308890199339",
+        "lastVipChapterName": "359.未完的故事（彩蛋）",
+        "lastVipChapterTime": 1624244283000,
+        "lastChapterId": "47727983628631176",
+        "lastChapterName": "76.那货叫石居",
+        "lastChapterTime": 1598028331000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 850844,
+        "totalChapterCount": 360,
+        "collectCount": 32778,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 20310,
+                "tagName": "相爱相杀"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2020-06-09上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "85"
+        },
+        "collectCountStr": {
+            "unit": "万",
+            "count": "3.3"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1612696277333,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 31683252
+    },
+    "ticketInfo": {
+        "monthTicket": 11,
+        "gift": 6050,
+        "fans": 15744,
+        "redBean": 183004
+    },
+    "rankInfoItem": [
+        {
+            "rankNum": 1,
+            "bookId": 17155104204051104,
+            "name": "月票榜",
+            "url": "/rank?tagId=-1000&rankId=conditionMonthTicket_hx_tag",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP1"
+        },
+        {
+            "rankNum": 16,
+            "bookId": 17155104204051104,
+            "name": "礼物榜",
+            "url": "/rank?tagId=-1000&rankId=ReadNovel_Donate",
+            "bgImg": "https://readx-her-1252317822.image.myqcloud.com/boss/9873_day.png",
+            "bgNightImg": "https://readx-her-1252317822.image.myqcloud.com/boss/1903_night.png",
+            "position": "TOP16"
+        }
+    ],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "8091453404429201",
+        "authorName": "胖虎22爷",
+        "authorGuid": "854004409518",
+        "intro": "",
+        "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+        "fans": 76044,
+        "total": 3,
+        "items": [
+            {
+                "bookId": "13613178303956704",
+                "bookName": "爱有微光"
+            },
+            {
+                "bookId": "8214346204220103",
+                "bookName": "寒月夜"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "46629100374699215",
+                "roleName": "酆一量",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "740"
+                },
+                "roleType": 4,
+                "popularCnt": 7401307,
+                "createTime": 1593748536000
+            },
+            {
+                "roleId": "46629204527645395",
+                "roleName": "夜之醒",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "万",
+                    "count": "89"
+                },
+                "roleType": 4,
+                "popularCnt": 889451,
+                "createTime": 1593748925000
+            },
+            {
+                "roleId": "46629258231522320",
+                "roleName": "明思令",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "万",
+                    "count": "12"
+                },
+                "roleType": 5,
+                "popularCnt": 124921,
+                "createTime": 1593749124000
+            },
+            {
+                "roleId": "46629283464448959",
+                "roleName": "明昭",
+                "bookRank": 4,
+                "bookRankStr": "04",
+                "popular": {
+                    "unit": "万",
+                    "count": "1.7"
+                },
+                "roleType": 5,
+                "popularCnt": 17290,
+                "createTime": 1593749219000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 4047,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "515284430236090368",
+                "type": 0,
+                "title": "老龙王和阿醒，你爱哪个？",
+                "content": "「老龙王和阿醒，你爱哪个？」夜之醒，翩翩美少年，天生会讲好听的情话，爱起来有初生牛犊不怕虎的认真与执着。与你青梅竹马，仗剑天涯。\n酆一量，腹黑老龙王，臭脾气死不悔改，一言不合就毒舌就霸道就要狂风暴雨。但有生之年只独宠一人，同生共死。\n一如初恋，一如绝恋，你想要什么？\n",
+                "createTime": 1598279558000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 47,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 49,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "522926210028929024",
+                "type": 0,
+                "title": "上架感言",
+                "content": "「上架感言」上架了，感谢虎牙呦们一如既往的喜欢与支持，希望看到小可爱们的留言与评论哦，若能再给22少撒些红豆子，更加感激不尽。哈哈，爱与被爱都很幸福，愿我的宝贝们看最好看的故事，过最快乐的日子。爱你们，一如既往！",
+                "createTime": 1600101500000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 9,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 14,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "515290517630746624",
+                "type": 0,
+                "title": "爱你们，虎牙呦",
+                "content": "「爱你们，虎牙呦」感谢小可爱们，一如既往的喜欢与支持。22少很期待你们在评论里，留下自己对爱情的期待，我尽力给你们写更好看的故事。摸摸头，你最美♥",
+                "createTime": 1598281009000,
+                "userId": "854004409518",
+                "nickName": "胖虎22爷",
+                "avatar": "http://ccstatic-1252317822.file.myqcloud.com/portraitimg/2017-07-25/5976c64d1decd.jpeg",
+                "replyCount": 7,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 13,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 5,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "8091453404429201",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 26,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}

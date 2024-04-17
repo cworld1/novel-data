@@ -1,0 +1,299 @@
+{
+    "bookInfo": {
+        "bookId": "20008164501343104",
+        "bookName": "暴君的美人",
+        "authorId": "18649645701966701",
+        "authorName": "季下如瑶",
+        "categoryId": 30013,
+        "categoryName": "古代言情",
+        "subCategoryId": 30016,
+        "subCategoryName": "古代情缘",
+        "description": "都说美貌动人心，这句话不假，遇见叶景逸，是苏绾绾那一年最幸福的事情。\n他在战乱中救下了她，娶她为妻，娇宠在手心呵护。\n后来大军班师回朝，苏绾绾彻底陷入了噩梦之中。\n那个高高在上的君王，俊美无情，犹如高高在上的神邸，可也是他，将她带入了无尽的深渊。\n她的少年将军身死，她被强行夺入宫中，后宫像是一个长着深渊巨口的野兽。\n为了让她屈服，他对她肆意轻辱，仇恨让她忍下了所有的苦楚，可后来她发现，原来当一个人强大了一种地步，她根本毫无办法。\n她唯一能做的，就是保全自己的身子，和一颗心，还有逃走的机会。\n有的人，哪怕失去了记忆，依旧对你一见钟情。\n叶景逸：我忘记了一切，可我见到你，依旧会心动，我忘记了名字，可在那一刻，我依旧记得，叶和苏。\n江湖路远，从此有我护你周全。\n走过路过看过来，新人报道，狗血文，脑洞文，入坑需谨慎，看一看瞧一瞧，喷我的时候轻一点儿，给你们比心～了",
+        "lastVipChapterId": "56471377704096075",
+        "lastVipChapterName": "三百七十四章结局",
+        "lastVipChapterTime": 1630413876000,
+        "lastChapterId": "54569664969675400",
+        "lastChapterName": "七十九章 逃 逃 逃",
+        "lastChapterTime": 1626677647000,
+        "isVip": 1,
+        "isOffline": 0,
+        "bookStatus": "完结",
+        "wordsCount": 358453,
+        "totalChapterCount": 354,
+        "collectCount": 5463,
+        "tag": [
+            {
+                "tagId": 20077,
+                "tagName": "1V1"
+            },
+            {
+                "tagId": 20037,
+                "tagName": "架空"
+            },
+            {
+                "tagId": 70224,
+                "tagName": "轻松"
+            },
+            {
+                "tagId": 70429,
+                "tagName": "温馨"
+            },
+            {
+                "tagId": 70226,
+                "tagName": "虐文"
+            },
+            {
+                "tagId": 10002,
+                "tagName": "古言"
+            }
+        ],
+        "isYphw": 0,
+        "isLimitBook": 0,
+        "limitExpiredTime": 0,
+        "enableBookList": 1,
+        "enableMonthTicket": 1,
+        "enableGift": 1,
+        "copyright": "2021-05-04上架\n版权：红袖添香网\n本书由红袖添香网电子版制作与发行\n版权所有•侵权必究",
+        "bookType": 1,
+        "form": -1,
+        "wholeSale": 0,
+        "freeType": 2,
+        "disableReadForBookDetail": 0,
+        "enableMembershipFreeRead": 0,
+        "wordsCountStr": {
+            "unit": "万",
+            "count": "36"
+        },
+        "collectCountStr": {
+            "unit": "",
+            "count": "5463"
+        },
+        "limitExpiredCountdown": 0,
+        "coverUpdateTime": 1631392828163,
+        "isFineLayout": 0,
+        "isPubFineLayout": 0,
+        "enableRedBean": 1,
+        "channelType": 2,
+        "disableReadForYouth": 0,
+        "isMemberSerialBook": 0,
+        "memberSerialExpiredTime": 0,
+        "memberSerialExpiredTimeStr": null,
+        "showFreeTag": 1,
+        "qqbid": 37945249
+    },
+    "ticketInfo": {
+        "monthTicket": 0,
+        "gift": 4,
+        "fans": 4547,
+        "redBean": 56606
+    },
+    "rankInfoItem": [],
+    "memberSign": {
+        "actionType": 2,
+        "icon": {
+            "isShow": 1,
+            "showContent": "https://material-amis-1252317822.image.myqcloud.com/yuewen-amis/material/images/11/2bf04e1e6621eb4922e665a7aeeab680.png"
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "会员免费",
+            "extend": ""
+        }
+    },
+    "readButton": {
+        "actionType": 3,
+        "icon": {
+            "isShow": 0,
+            "showContent": ""
+        },
+        "text": {
+            "isShow": 1,
+            "showContent": "立即阅读",
+            "extend": ""
+        }
+    },
+    "adInfo": null,
+    "authorInfo": {
+        "authorId": "18649645701966701",
+        "authorName": "季下如瑶",
+        "authorGuid": "2160916430",
+        "intro": "",
+        "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+        "fans": 5514,
+        "total": 2,
+        "items": [
+            {
+                "bookId": "20144613201324004",
+                "bookName": "美人荣华"
+            }
+        ]
+    },
+    "roleInfo": {
+        "roleList": [
+            {
+                "roleId": "54374327172701084",
+                "roleName": "苏绾绾",
+                "bookRank": 1,
+                "bookRankStr": "01",
+                "popular": {
+                    "unit": "万",
+                    "count": "5.6"
+                },
+                "roleType": 5,
+                "popularCnt": 56126,
+                "createTime": 1622601753000
+            },
+            {
+                "roleId": "54374353210948442",
+                "roleName": "叶景逸",
+                "bookRank": 2,
+                "bookRankStr": "02",
+                "popular": {
+                    "unit": "",
+                    "count": "532"
+                },
+                "roleType": 6,
+                "popularCnt": 532,
+                "createTime": 1622601850000
+            },
+            {
+                "roleId": "54374313096620176",
+                "roleName": "燕修桀",
+                "bookRank": 3,
+                "bookRankStr": "03",
+                "popular": {
+                    "unit": "",
+                    "count": "61"
+                },
+                "roleType": 4,
+                "popularCnt": 61,
+                "createTime": 1622601701000
+            }
+        ],
+        "fans": {
+            "unit": "",
+            "count": "0"
+        }
+    },
+    "commentInfo": {
+        "giftSquare": [],
+        "totalCount": 71,
+        "bookCommentCount": 3,
+        "chapterCommentCount": 0,
+        "items": [
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "622864718666924032",
+                "type": 0,
+                "title": "关于男主问题",
+                "content": "「关于男主问题」其实，我一开始订的暴君男主，是be，但是写着写着，剧情有些不受控制，我觉得这样对叶景逸不公平，而且，我只是在顺应发展，就像，我一直觉得，他们是鲜活的，所以，我遵循内心的想法，或许以后得结局我也不知道，我只是按照他们性格，写一本故事，主要，你们看的开心就好，生活中太多不如意了，我不想写个故事，还让看的人不开心。",
+                "createTime": 1623928698000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 4,
+                "top": 1,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 21,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "619649637451759616",
+                "type": 0,
+                "title": "",
+                "content": "哎，有人帮忙推推书咩我可太难了，拜托拜托了，新人求照顾，刚刚抱了个大腿，明天帮我章推，希望有点起色",
+                "createTime": 1623162162000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 1,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 8,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            },
+            {
+                "memberType": 0,
+                "isYearMember": 0,
+                "commentId": "621592820632911872",
+                "type": 0,
+                "title": "关于男主",
+                "content": "「关于男主」我这几天看了下评论，发现你们对暴君非常讨厌，于是我调整了一下剧情，希望你们喜欢",
+                "createTime": 1623625453000,
+                "userId": "2160916430",
+                "nickName": "季下如瑶",
+                "avatar": "https://ccstatic-1252317822.file.myqcloud.com/portraitimg/2021-05-24/60ab983d433f5.jpeg",
+                "replyCount": 2,
+                "top": 0,
+                "better": 0,
+                "chapterId": "0",
+                "chapterName": "未知",
+                "likeCount": 6,
+                "isLike": 0,
+                "isAuthor": 1,
+                "fansLevel": 0,
+                "membershipImg": "",
+                "membershipImgRatio": 0.0,
+                "badgeInfo": null,
+                "pendantUrl": "",
+                "authorId": "18649645701966701",
+                "isOwn": 0,
+                "replyUserId": "",
+                "replyUserName": "",
+                "paragraphId": "",
+                "paragraphContent": "",
+                "disableRead": 0,
+                "expLevel": 4,
+                "memberNameColor": "",
+                "changeNameColor": 0,
+                "userIPLocation": ""
+            }
+        ]
+    },
+    "bookList2Info": {
+        "total": 0,
+        "items": []
+    },
+    "similarRecommendInfo": []
+}
